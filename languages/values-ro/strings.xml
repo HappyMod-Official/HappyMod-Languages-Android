@@ -1,0 +1,468 @@
+<resources>
+    <!--罗马尼亚-->
+
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+   <!-- ↑  以上不用多语言翻译-->
+
+    <!--首页-->
+    <string name="Paid">Plătit</string>
+    <string name="GAME">Joc</string>
+    <string name="APP">App</string>
+    <string name="NEW">Nou</string>
+    <string name="Categories">Categorii</string>
+    <string name="games">Jocuri</string>
+    <string name="REFRESH">Reîmprospăta</string>
+    <string name="Unable_to_connect_to_the_network">Nu se poate accesa internetul.</string>
+    <string name="Recommended_Game_Mods">Moduri de joc recomandate</string>
+    <string name="Hot_Game_Mods">Moduri de joc hot</string>
+    <string name="Recommended_App_Mods">Moduri recomandate pentru aplicații</string>
+    <string name="Hot_App_Mods">Aplicații Hot App</string>
+    <string name="Recommended_New_Mods">Moduri noi recomandate</string>
+    <string name="Last_Update_Mods">Ultimele actualizări</string>
+    <string name="SearchHint">Căutare..</string>
+
+    <!-- 侧滑-->
+    <string name="Homeweb">Site oficial</string>
+    <string name="Management">administrare</string>
+    <string name="Settings">Setări</string>
+    <string name="Feedback">Parere</string>
+    <string name="Translation">Traducere</string>
+    <string name="Share">Acțiune</string>
+    <string name="Checkforupdate">Verifica pentru actualizare</string>
+    <string name="FollowusonTwitter">Urmați-ne pe Twitter</string>
+    <string name="FollowusonFacebook">Urmariți-ne pe Facebook</string>
+
+    <!--设置页-->
+    <string name="settings_network_remind">Rețeaua de alertă mobilă</string>
+    <string name="settings_auto_install">Instalare automată</string>
+    <string name="Download_Directory">Descărcați directorul</string>
+    <string name="settings_other">Alte</string>
+    <string name="settings_clear_cache">Ștergeți memoria cache</string>
+    <string name="Clean_up_the_complete">Cache-ul este șters.</string>
+
+    <!--空数据页-->
+    <string name="des_no_serach_result"> Hopa! Niciun rezultat găsit.</string>
+
+    <!--下载管理页-->
+    <string name="Downloads">Descărcări</string>
+    <string name="Downloading">Descărcarea</string>
+    <string name="Finished">Terminat</string>
+    <string name="No_Download">Nu a fost găsit niciun fișier.</string>
+    <string name="Pause">Pauză</string>
+    <string name="Waiting_in_queue">Așteptare în coadă</string>
+    <string name="Completed">terminat</string>
+    <string name="UnZiping">Extracting</string>
+    <string name="UnZip_succeed">Finalizarea extragerii</string>
+    <string name="Rate">Rată</string>
+    <string name="Rated">Evaluat</string>
+    <string name="Version">Versiune</string>
+    <string name="Ratingsreviews">Evaluări &amp; opinii</string>
+    <string name="Tryitlater">Încercați mai târziu</string>
+    <string name="Serviceisbusy">conectarea...</string>
+
+
+
+    <!-- 下载删除的文字 -->
+    <string name="Notice">Înștiințare</string>
+    <string name="deletethistask">Ștergeți acest fișier</string>
+    <string name="Cancel">Anulare</string>
+    <string name="Delete">Șterge</string>
+    <string name="Whydeletethisdownload">De ce să ștergeți această descărcare?</string>
+    <string name="NotwhatIwant">Nu ceea ce vreau</string>
+    <string name="Downloadfailed">Descarcare esuata</string>
+    <string name="Downloadistooslow">Descărcarea este prea lentă</string>
+
+
+    <!--APP详情页-->
+    <string name="Mods">mods</string>
+    <string name="Original">Original</string>
+    <string name="Previousversion">Versiunea anterioara</string>
+    <string name="Download">Descarca</string>
+    <string name="Downloadobb">Descarca (APK+OBB)</string>
+    <string name="Downloaddata">Descarca(APK+DATA)</string>
+    <string name="Downloadboundle">Descarca BUNDLE</string>
+
+
+    <string name="Downloaded">Descarcat</string>
+    <string name="Install">Instalare</string>
+    <string name="Connecting">conectarea...</string>
+    <string name="readmore">Citeste mai mult</string>
+    <string name="modfeature">Mod info:</string>
+    <string name="Moreversion">Mai multe versiuni</string>
+    <string name="Recommend">Recomanda</string>
+    <string name="Recommendmod">Mod recomandat</string>
+    <string name="Moremods">Mai multe moduri</string>
+
+
+
+    <!--评分-->
+    <string name="Submit">A depune</string>
+    <string name="Hated_it">Urăsc asta!</string>
+    <string name="Disliked_it">Nu-i place.</string>
+    <string name="Its_ok">E bine.</string>
+    <string name="Liked_it">Imi place.</string>
+    <string name="Loved_it">Iubesc!</string>
+
+
+    <!--分享-->
+    <string name="share_happymod">Distribuiți "HappyMod" prin</string>
+    <string name="share_subject">Obțineți HappyMod</string>
+    <string name="share_text">Descărcați 100% moduri de lucru cu @HappyMod \ nhttps: //www.happymod.com/</string>
+
+    <!--修改路径-->
+    <string name="pref_location">Locația depozitului</string>
+
+    <!--update -->
+    <string name="force_des">Moduri de lucru 100%</string>
+    <string name="nvisrti">noua versiune este gata pentru instalare.</string>
+    <string name="OPEN">DESCHIS</string>
+    <string name="OK">O.K</string>
+    <string name="Loading">se incarca......</string>
+    <string name="updata_tip">Utilizați ultima versiune stabilă a HappyMod</string>
+    <string name="xzzb">Descărcați oficialul HappyMod.</string>
+    <string name="Continue">Continua</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">Nu a mai rămas niciun spațiu pe dispozitiv</string>
+    <string name="Is_this_app_you_need">Cauți această aplicație?</string>
+    <string name="No">Nu</string>
+    <string name="Yes">da</string>
+    <string name="bcdes">. Eliberați stocarea și încercați din nou.</string>
+    <string name="need">; Disponibil:</string>
+    <string name="No_enough_space_left_on_device">Spatiu insuficient. Nevoie:</string>
+    <string name="updatenow">Actualizează acum</string>
+    <string name="updateFail">Descarcare esuata. Vă rugăm să închideți și să redeschideți</string>
+    <string name="initializing">inițializează</string>
+    <string name="Retrying">reîncearcă</string>
+    <string name="language">Limba</string>
+
+    <!--类别界面 -->
+
+    <string name="Popular">Popular</string>
+    <string name="s_New">Nou</string>
+    <string name="apps">Aplicații</string>
+
+
+    <!-- 大文件 -->
+    <string name="mergering">Procesarea finală</string>
+    <string name="mergerwait">Finalizarea procesării (necesită 1-2 minute)</string>
+
+    <!-- 验证 -->
+    <string name="Startverification">Porniți verificarea</string>
+    <string name="verificationShangXian">Hopa! Ați atins limita de descărcare zilnică, încercați din nou după ora X.</string>
+    <string name="verificationFail">Verificare eșuată. Vă rugăm încercați din nou!</string>
+    <string name="Morehelp">(Mai mult ajutor)</string>
+    <string name="uid">Numele de utilizator</string>
+    <string name="copysuccess">Userid a fost copiat în clipboard.</string>
+
+    <string name="watchnow">Afișați acum</string>
+    <string name="ggdownloading">Anunțurile se încarcă, așteptați și păstrați happymod deschis.</string>
+    <string name="verificaing">Așteptați verificarea.</string>
+
+
+    <!-- 评价 -->
+    <string name="Removeads">Eliminați anunțul</string>
+    <string name="Paidforfree">gratuit</string>
+    <string name="Unlimitedmoney">Banii nelimitate</string>
+    <string name="Freepurchase">Achiziție gratuită</string>
+    <string name="Freeshopping">Cumpărături gratuite</string>
+    <string name="Unlocked">descuia</string>
+    <string name="Patched">reparație</string>
+    <string name="Premium">Gratuit</string>
+    <string name="Pro">Versiune profesională</string>
+    <string name="ModLite">Versiune compactă</string>
+    <string name="Subscribed">abonament</string>
+    <string name="Prime">primar</string>
+    <string name="Plus">Plus versiune</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Strat inferior</string>
+    <string name="Debloated">Șterge inutil</string>
+    <string name="Donate">dona</string>
+    <string name="AOSPcompatible">AOSP compatibil</string>
+    <string name="Cracked">crăpătură</string>
+    <string name="NoAds">Nu există anunțuri</string>
+    <string name="Infinite">fără sfârșit</string>
+    <string name="Endless">fără sfârșit</string>
+    <string name="Invincible">Nebiruit</string>
+    <string name="Unlimitedhints">Propunere infinită</string>
+    <string name="Megamod">Crăpături multiple</string>
+    <string name="Full">Versiune completă</string>
+
+
+
+    <!--注册登录-->
+    <string name="Username">Nume de utilizator</string>
+    <string name="Usernameinit">4-50 caractere</string>
+    <string name="Usernametip">Doar literele a-z, numere, @. - vă rugăm (fără spații sau alte caractere speciale). 4-50 caractere.</string>
+    <string name="Password">Parola</string>
+    <string name="Enteryourpassword">6-8 caractere</string>
+    <string name="passwordtip">Doar literele A-Z, a-z, numere (fără spații sau caractere speciale). 6-8 caractere.</string>
+    <string name="nicknametip">Aceasta porecla este deja luata.</string>
+    <string name="Nickname">Poreclă</string>
+    <string name="Emailaddress">Adresa de email</string>
+    <string name="Enteryouremail">Introduceți adresa dvs. de email</string>
+    <string name="Telephonenumber">Număr de telefon</string>
+    <string name="Enteryourtelephonenumber">Introduceți numărul dvs. de telefon</string>
+    <string name="phonetip">Introduceți un telefon valid.</string>
+    <string name="emailtip">Introduceți o adresă de email validă.</string>
+    <string name="Signup">Inscrie-te</string>
+    <string name="tuiat">Acest nume de utilizator este deja luat.</string>
+    <string name="Login">Logare</string>
+    <string name="Account">Cont</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">SAU autentificare cu numele de utilizator</string>
+    <string name="newur">Înregistrare utilizator nou</string>
+    <string name="Usernameinitnew">Nume utilizator (4-50 caractere)</string>
+    <string name="Passwordnew">Parolă (6-8 caractere)</string>
+    <string name="Emailnew">E-mail</string>
+    <string name="PhoneNumber">Numar de telefon</string>
+    <string name="Unknown">Necunoscut</string>
+    <string name="enteryEmail">Introduceți adresa dvs. de email</string>
+    <string name="enteryPhone">Introdu numarul tau de telefon</string>
+    <string name="signuptips">Când uitați parola, veți avea nevoie de „Număr de telefon” sau „E-mail” pentru a le prelua. Vă recomandăm să le completați.</string>
+
+    <string name="confirmusername">Confirmați numele de utilizator</string>
+    <string name="next">Următor →</string>
+    <string name="fblogdes">Va rugam sa introduceti un nume de utilizator. Numele de utilizator este un identificator foarte important pentru extragerea parolei, vă rugăm să rețineți.</string>
+    <string name="selectusername">Selectați numele de utilizator</string>
+    <string name="reselpass_desone">Introduceți numele de utilizator al contului pentru a reseta parola. Aveți probleme cu resetarea parolei<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Introduceți adresa de e-mail sau numărul de telefon. Aveți probleme cu resetarea parolei<u>contact us</u>.</string>
+    <string name="forgetgosingup">Nu-mi amintesc niciuna dintre ele? Vă rog<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Reseteaza parola</string>
+    <string name="NewPassword">Parolă Nouă</string>
+    <string name="Enterthepasswordagain">Confirmați parola</string>
+    <string name="signuplimitdes">Dispozitivul dvs. a atins numărul maxim de nume de utilizator înregistrate. Selectați numele de utilizator de mai jos pentru a vă conecta.</string>
+    <string name="Register">Inregistreaza-te</string>
+    <string name="eyun">Introduceți numele de utilizator</string>
+    <string name="eypsw">Introduceți parola</string>
+    <string name="loginerrortips">Introduceți un nume de utilizator și o parolă corecte. Rețineți că câmpul parolei este sensibil la minuscule.</string>
+    <string name="Resetpasswordfailed">Resetați parola nu a reușit.</string>
+    <string name="Theusernamewasnotregistered">Numele de utilizator nu a fost înregistrat.</string>
+    <string name="petceotn">Introduceți adresa de e-mail sau numărul de telefon corect.</string>
+    <string name="fbrfail">Registrul Facebook a eșuat.</string>
+    <string name="Registerfailed">Înregistrarea a eșuat, confirmați că conexiunea la rețea este normală, faceți clic pe butonul de înregistrare pentru a încerca din nou.</string>
+    <string name="Loginfailed">Autentificare esuata.</string>
+    <string name="me">Pe mine</string>
+    <string name="Avatar">avatar</string>
+    <string name="Myposts">postările mele</string>
+    <string name="passowrduploadok">parola a fost schimbată cu succes</string>
+    <string name="logout">Ieșiți</string>
+    <string name="passwordsame">Cele două parole pe care le-ați introdus sunt incoerente</string>
+    <string name="PopularComments">Comentarii populare</string>
+
+    <string name="Request">Cerere</string>
+    <string name="Youarerequesting">Solicitați:</string>
+    <string name="Addrequest">Adăugați o solicitare</string>
+    <string name="Myrequests">Cererile mele</string>
+    <string name="Myuploads">Încărcările mele</string>
+    <string name="Updated">La curent</string>
+    <string name="Comingsoon">In curand</string>
+    <string name="searchappyouwanttorequest">Căutați aplicația pe care doriți să o solicitați:</string>
+    <string name="Addupload">Adăugați încărcarea</string>
+    <string name="requestdetailhint">Afișați mai multe despre solicitarea dvs. (Cel puțin 50 de caractere)</string>
+    <string name="requesterror">Trimiterea a eșuat, încercați din nou mai târziu.</string>
+    <string name="detailserror">(100-4000 de caractere)</string>
+    <string name="view">Vedere</string>
+    <string name="isthiswork">Funcționează?</string>
+    <string name="edit">Editați | ×</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="OBBDataurl">OBB / Date Zippyshare/Mediafire url: (opțional)</string>
+    <string name="Youarereupload">Încărcați:</string>
+    <string name="Upload">Încărcați</string>
+    <string name="Uploadfail">Încărcare eșuată.</string>
+    <string name="apkfail">Introduceți URL-ul Zippyshare/Mediafire al fișierului apk.</string>
+    <string name="obbfail">Introduceți URL-ul Zippyshare/Mediafire al fișierului obb.</string>
+    <string name="worked">A lucrat</string>
+    <string name="Uploadsuccess">Încărcați succesul</string>
+    <string name="Requestsuccess">Cereți succesul</string>
+    <string name="clickyes">Puteți să editați și să retrimiteți această solicitare din coada de lucru.</string>
+    <string name="clickno">Această solicitare va fi adăugată la coada din curând din nou.</string>
+    <string name="downloadpush_remind">Afișați notificarea după instalare</string>
+    <string name="messages">Mesaje</string>
+    <string name="RecommendMods">Recomanda moduri</string>
+    <string name="requestdetailserror">(50-4000 de caractere)</string>
+
+    <string name="Changetheimage">Modificați imaginea >></string>
+    <string name="Typethecodeinthebox">Introduceți codul în casetă</string>
+    <string name="Verificationerror">Verificare eșuată. Vă rugăm încercați din nou.</string>
+    <string name="Verifing">Se verifică …</string>
+
+
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">Încercați alte servere înainte de a șterge</string>
+    <string name="fix_tips_content">Doriți să vă conectați la un alt server pentru a încerca să îl descărcați înainte de a-l șterge?</string>
+    <string name="fix_progress_title">Scanare servere</string>
+    <string name="fix_progress_content">Poate dura câteva minute pentru a căuta cel mai rapid server pentru dvs., vă rugăm să așteptați.</string>
+    <string name="fix_failed_content">În prezent, nu există servere disponibile, vă rugăm să încercați mai târziu.</string>
+    <string name="fix_tips_failtitle">Nu mai sunt servere</string>
+    <string name="fix_ok">Incearca-l</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Vă rugăm să descărcați mai întâi acest mod.</string>
+    <string name="myvoted">Votul meu</string>
+    <string name="working">Lucru</string>
+    <string name="inanhour">Vă rugăm să votați din nou într-o oră.</string>
+
+    <string name="Review">Revizuire</string>
+    <string name="myreply">Răspunsurile mele</string>
+    <string name="Post">Post</string>
+    <string name="addavideo">Adăugați un videoclip</string>
+    <string name="enterthevideourlhere">Vă rugăm să introduceți URL-ul video YouTube aici.</string>
+    <string name="onlysupportyoutube">Acceptați numai videoclipuri YouTube</string>
+    <string name="searchorcreate">Căutați sau creați</string>
+    <string name="hashtags">Hashtag-uri de istorie</string>
+    <string name="featuredhash">Hashtag-uri prezentate</string>
+    <string name="newhshstag">Hashtag nou</string>
+    <string name="hot">Fierbinte</string>
+    <string name="Comments">Comentarii</string>
+    <string name="replies">Răspunsuri</string>
+    <string name="community">Comunitate</string>
+    <string name="report">Raport</string>
+    <string name="reply">Răspuns</string>
+    <string name="reportsuccess">Raportul dvs. a fost trimis cu succes.</string>
+    <string name="reportfail">Raportul dvs. nu a fost transmis.</string>
+    <string name="replytowho">Răspundeți la X:</string>
+    <string name="replyfail">Răspunsul a eșuat</string>
+    <string name="Reviews">opinii</string>
+    <string name="success">Succes</string>
+    <string name="sendfailed">A eșuat</string>
+    <string name="deletesuccess">Șters cu succes</string>
+    <string name="deletefailed">Nu a putut fi șters</string>
+    <string name="Group">grup</string>
+    <string name="repliedtouser">i-a răspuns</string>
+    <string name="speaksomething">Vă rugăm să introduceți cel puțin 20 de caractere</string>
+    <string name="speaktoolong">Numărul de caractere depășește limita, pot fi introduse până la 4000 de caractere.</string>
+    <string name="tapandholdptodelete">Atingeți și țineți apăsată imaginea pentru ao șterge.</string>
+    <string name="addvideofaild">Adăugarea videoclipului a eșuat！ Vă rugăm să vă asigurați că rețeaua dvs. poate răsfoi videoclipul YouTube și re-adăugați-l.</string>
+    <string name="Video">Video</string>
+
+    <string name="Hotsearches">Căutări la cald</string>
+    <string name="Hothashtags">Hashtag-uri calde</string>
+    <string name="history">Istorie</string>
+    <string name="aboutthisgame">Despre acest joc</string>
+    <string name="details">Detalii</string>
+    <string name="sellallreviews">Vezi toate recenziile</string>
+
+    <string name="hfivetitle">Jocuri rapide</string>
+    <string name="Recommended">Recomandat</string>
+    <string name="exit_tips">Apăsați din nou pentru a ieși din joc</string>
+    <string name="h5_menu_reload">Reîncarcă</string>
+    <string name="h5_menu_share">Acțiune</string>
+    <string name="h5_menu_shortcut">Adăugați pe ecranul de pornire</string>
+    <string name="installplaywitouthti">Redare instantaneu fără a fi nevoie să instalați</string>
+
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Hopa ...</string>
+    <string name="crash_toast_message">Ne pare rău, excepția APP va ieși ， Vă rugăm să trimiteți raportul dvs. de e-mail prin e-mail.</string>
+    <string name="crash_dialog_message">Ne pare rău, excepția aplicației, vă rugăm să trimiteți raportul dvs. de e-mail prin e-mail.</string>
+    <string name="crash_dialog_feedback">Raportați erori</string>
+    <string name="crash_dialog_restart">Repornire</string>
+
+    <string name="init_fail">Inițializarea a eșuat, utilizați VPN sau schimbați-vă în alte rețele.</string>
+    <string name="error_file_des">Acest fișier a fost șters și este re-descărcat acum.</string>
+
+    <string name="sdpermission">Trebuie să accesăm stocarea dvs. externă. Vă rugăm să vă asigurați că permisiunea este acordată.</string>
+    <string name="Night_Mode">Mod de noapte</string>
+
+    <string name="thisty">Acest nume de utilizator este luat. Încearcă altul. Disponibil:</string>
+
+    <!--home_feature-->
+    <string name="Feature">Recomandate</string>
+    <string name="editorpick">Alegerea editorului</string>
+    <string name="PopularInlast">Popular în ultimele 24 de ore</string>
+    <string name="Latestupdated">Ultima actualizare</string>
+    <string name="paidforfree">Plătit gratuit</string>
+
+    <string name="ToadyRecommend">Toady \'s Recomandă</string>
+    <string name="hotmods">Moduri la cald</string>
+    <string name="hotrecommended">Recomandat la cald</string>
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Căutați în aplicația pe care doriți să o încărcați:</string>
+    <string name="addapost">Adăugați o postare</string>
+    <string name="launch_des">Găsiți 100% moduri de lucru \n încărcate de utilizatori; Verificat de utilizatori!</string>
+    <string name="requestamod">Solicitați o modificare</string>
+    <string name="uploadamod">Încărcați o modificare</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">instalarea</string>
+    <string name="bundleneedsfive">Ne pare rău, Bundle are nevoie de Android 5.0 sau o versiune ulterioară.</string>
+    <string name="parsingerror">Eroare la analizarea apk sau a fost anulată.</string>
+    <string name="tipsinstallok">Instalarea a avut succes.</string>
+    <string name="tipsinstallfail">Instalarea nu a reușit. Încercați din nou.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">10 MB max per imagine.</string>
+    <string name="Imagesmustbelessthan">Imaginile trebuie să fie mai mici de 10 MB, vă rugăm să reduceți dimensiunile imaginii, să re-salvați sau să reexportați fișierul și încercați să îl încărcați din nou.</string>
+
+    <string name="installfailed">Instalarea a eșuat.</string>
+    <string name="miuides">Vă rugăm să activați Opțiuni pentru dezvoltatori, dezactivați optimizarea MIUI și încercați din nou.</string>
+
+    <string name="playdes">Joaca</string>
+    <string name="todayhotgame">Astăzi e fierbinte</string>
+    <string name="newcoming">Nou intrat</string>
+    <string name="recentlyplayed">Jucat recent</string>
+    <string name="toopenitquickntime">Pentru ao deschide rapid data viitoare, vă rugăm:</string>
+    <string name="finditin">Găsiți-l în X</string>
+    <string name="needhelp">Nevoie de ajutor?</string>
+    <string name="peoplealsoplaygames">Oamenii au jucat acest joc, de asemenea, jucat:</string>
+
+
+    <string name="opencommunitydes">Dacă găsiți un adult sau orice post rău, vă rugăm să faceți clic pe butonul de raportare din colțul din dreapta sus al postării, iar noi vom șterge postarea și vom bloca afișul pentru prima dată! Te rog, vorbește civilizat!</string>
+    <string name="myreviews">Recenziile mele</string>
+
+    <string name="tagthisapp">Semnalizați această aplicație</string>
+    <string name="appuploader">Aplicație încărcată de</string>
+    <string name="votedresult">Ați votat deja pentru această aplicație.</string>
+    <string name="votedokok">Votul dvs. a fost trimis cu succes.</string>
+    <string name="please_downlaodthisapp">Vă rugăm să descărcați mai întâi această aplicație.</string>
+    <string name="safetitle">Aplikacija aplikacije zajamčena</string>
+    <string name="safedes">Ovaj je apk prošao sigurnosni test za virus, zlonamjerni softver. Koristio je pouzdani i provjereni digitalni potpis.</string>
+    <string name="bereported">Ați raportat-o.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Vă rugăm să terminați mai întâi coada de descărcare.</string>
+    <string name="adduploadvideo">Adăugați videoclip: (opțional)</string>
+    <string name="uploadscreenshots">Încărcați capturi de ecran (160 * 90)</string>
+    <string name="scerrnshoteserror">Sunt necesare capturi de ecran.</string>
+    <string name="bannererror">Bannerul este obligatoriu.</string>
+    <string name="pleaseentergoogleaddress">Introduceți ID-ul aplicației sau adresa URL pe Google Play.</string>
+    <string name="thisposthasbeendeleted">Această postare a fost ștearsă.</string>
+    <string name="add">Adăuga</string>
+    <string name="oagputc">Sau adăugați adresa URL Google Play pentru a continua</string>
+    <string name="description">Descriere:</string>
+    <string name="uploadbanner">Încărcare banner (702 * 460)</string>
+    <string name="noedituploadtips">Nu îl puteți trimite fără a face modificări.</string>
+    <string name="addexcusiveaddressixit">Acest APK există deja.</string>
+
+    <string name="itisworkingonyourdevice">Funcționează pe dispozitivul dvs.?</string>
+    <string name="no_working">Nu funcționează</string>
+    <string name="vote_it">Votează-l</string>
+    <string name="novirus">Fără virus</string>
+    <string name="nomalware">Fără malware</string>
+    <string name="nospyware">Fără spyware</string>
+    <string name="less">Mai puțin</string>
+    <string name="votedandfail">Ați examinat deja, vă rugăm să verificați lista „Recenziile mele”.</string>
+
+</resources>

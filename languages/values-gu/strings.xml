@@ -1,0 +1,461 @@
+<resources>
+    <!--古吉拉特语-->
+
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <string name="Paid">ચુકવેલ</string>
+    <string name="GAME">રમત</string>
+    <string name="APP">એપ્લિકેશન</string>
+    <string name="NEW">નવું</string>
+    <string name="Categories">શ્રેણીઓ</string>
+    <string name="games">રમતો</string>
+    <string name="REFRESH">તાજું કરો</string>
+    <string name="Unable_to_connect_to_the_network">ઇન્ટરનેટ ઍક્સેસ કરવામાં અસમર્થ.</string>
+    <string name="Recommended_Game_Mods">ભલામણ રમત મોડ્સ</string>
+    <string name="Hot_Game_Mods">હોટ ગેમ મોડ્સ</string>
+    <string name="Recommended_App_Mods">ભલામણ કરેલ એપ્લિકેશન મોડ્સ</string>
+    <string name="Hot_App_Mods">હોટ એપ્લિકેશન મોડ્સ</string>
+    <string name="Recommended_New_Mods">નવી મોડ્સની ભલામણ કરી</string>
+    <string name="Last_Update_Mods">નવીનતમ અપડેટ્સ</string>
+    <string name="SearchHint">શોધો ..</string>
+
+
+    <string name="Homeweb">સત્તાવાર વેબસાઇટ</string>
+    <string name="Management">મેનેજમેન્ટ</string>
+    <string name="Settings">સેટિંગ્સ</string>
+    <string name="Feedback">પ્રતિક્રિયા</string>
+    <string name="Translation">અનુવાદ</string>
+    <string name="Share">શેર કરો</string>
+    <string name="Checkforupdate">અપડેટ માટે તપાસો</string>
+    <string name="FollowusonTwitter">Twitter પર અમને અનુસરો</string>
+    <string name="FollowusonFacebook">ફેસબુક પર અમને અનુસરો</string>
+
+
+    <string name="settings_network_remind">મોબાઇલ નેટવર્ક ચેતવણી</string>
+    <string name="settings_auto_install">આપમેળે ઇન્સ્ટોલ કરો</string>
+    <string name="Download_Directory">ડિરેક્ટરી ડાઉનલોડ કરો</string>
+    <string name="settings_other">અન્ય</string>
+    <string name="settings_clear_cache">સ્પષ્ટ કેશ</string>
+    <string name="Clean_up_the_complete">કેશ સાફ થયેલ છે.</string>
+
+
+    <string name="des_no_serach_result"> અરે! કોઈ પરિણામ મળ્યું નથી.</string>
+
+
+    <string name="Downloads">ડાઉનલોડ્સ</string>
+    <string name="Downloading">ડાઉનલોડ કરી રહ્યું છે</string>
+    <string name="Finished">સમાપ્ત</string>
+    <string name="No_Download">કોઈ ફાઇલ મળી નથી.</string>
+    <string name="Pause">થોભો</string>
+    <string name="Waiting_in_queue">કતારમાં રાહ જુએ છે</string>
+    <string name="Completed">પૂર્ણ</string>
+    <string name="UnZiping">કાઢવું</string>
+    <string name="UnZip_succeed">એક્સ્ટ્રેક્ટિંગ સમાપ્ત</string>
+    <string name="Rate">દર</string>
+    <string name="Rated">રેટેડ</string>
+    <string name="Version">સંસ્કરણ</string>
+    <string name="Ratingsreviews">રેટિંગ્સ</string>
+    <string name="Tryitlater">પછીથી પ્રયત્ન કરો</string>
+    <string name="Serviceisbusy">કનેક્ટ કરી રહ્યું છે ...</string>
+
+
+
+    <string name="Notice">નોટિસ</string>
+    <string name="deletethistask">આ ફાઇલ કાઢી નાખો</string>
+    <string name="Cancel">રદ કરો</string>
+    <string name="Delete">કાઢી નાખો</string>
+    <string name="Whydeletethisdownload">શા માટે આ ડાઉનલોડ કાઢી નાખો?</string>
+    <string name="NotwhatIwant">હું જે જોઈએ તે નથી</string>
+    <string name="Downloadfailed">ડાઉનલોડ નિષ્ફળ થયું</string>
+    <string name="Downloadistooslow">ડાઉનલોડ ખૂબ ધીમું છે</string>
+
+
+    <string name="Mods">મોડ્સ</string>
+    <string name="Original">મૂળ</string>
+    <string name="Previousversion">અગાઉના સંસ્કરણ</string>
+    <string name="Download">ડાઉનલોડ કરો</string>
+    <string name="Downloadobb">(APK+OBB) ડાઉનલોડ કરો</string>
+    <string name="Downloaddata">ડાઉનલોડ કરો (APK+DATA)</string>
+    <string name="Downloadboundle">ડાઉનલોડ કરો (BUNDLE)</string>
+
+
+    <string name="Downloaded">ડાઉનલોડ કર્યું</string>
+    <string name="Install">ઇન્સ્ટોલ કરો</string>
+    <string name="Connecting">કનેક્ટ કરી રહ્યું છે ...</string>
+    <string name="readmore">વધુ વાંચો</string>
+    <string name="modfeature">મોડ માહિતી:</string>
+    <string name="Moreversion">વધુ સંસ્કરણ</string>
+    <string name="Recommend">ભલામણ</string>
+    <string name="Recommendmod">ભલામણ મોડ</string>
+    <string name="Moremods">નવીનતમ સંસ્કરણ (ઓ)</string>
+
+
+    <string name="Submit">સબમિટ કરો</string>
+    <string name="Hated_it">તેને નફરત કરો!</string>
+    <string name="Disliked_it">તેને નાપસંદ કરો.</string>
+    <string name="Its_ok">ઠીક છે.</string>
+    <string name="Liked_it">ગમ્યું.</string>
+    <string name="Loved_it">તેને પ્રેમ!</string>
+
+
+    <string name="share_happymod">\'HappyMod\' દ્વારા શેર કરો</string>
+    <string name="share_subject">હેપીમોડ મેળવો</string>
+    <string name="share_text">સાથે 100% કાર્યરત મોડ્સ ડાઉનલોડ કરો @HappyMod\ nhttps: //www.happymod.com/</string>
+
+
+    <string name="pref_location">સંગ્રહ સ્થાન</string>
+
+
+    <string name="force_des">100% વર્કિંગ મોડ્સ</string>
+    <string name="nvisrti">નવી આવૃત્તિ સ્થાપિત કરવા માટે તૈયાર છે.</string>
+    <string name="OPEN">ખોલો</string>
+    <string name="OK">ઠીક છે</string>
+    <string name="Loading">લોડ કરી રહ્યું છે ......</string>
+    <string name="updata_tip">તમે હેપીમોડના નવીનતમ સ્થિર સંસ્કરણનો ઉપયોગ કરી રહ્યાં છો</string>
+    <string name="xzzb">કૃપા કરીને સત્તાવાર હેપ્પીમોડ ડાઉનલોડ કરો.</string>
+    <string name="Continue">ચાલુ રાખો</string>
+    <string name="appobb">એપીકે ઓબીબી</string>
+    <string name="No_space_left_on_device">ઉપકરણ પર કોઈ જગ્યા બાકી નથી</string>
+    <string name="Is_this_app_you_need">શું તમે આ એપ્લિકેશન શોધી રહ્યાં છો?</string>
+    <string name="No">ના</string>
+    <string name="Yes">હા</string>
+    <string name="bcdes">. સંગ્રહ મુક્ત કરો અને ફરીથી પ્રયાસ કરો.</string>
+    <string name="need">; ઉપલબ્ધ:</string>
+    <string name="No_enough_space_left_on_device">પૂરતી સંગ્રહણ ક્ષમતા નથી. જરૂર:</string>
+    <string name="updatenow">હમણાં અપડેટ કરો</string>
+    <string name="updateFail">ડાઉનલોડ નિષ્ફળ થયું. કૃપા કરીને બંધ કરો અને ફરીથી ખોલો</string>
+    <string name="initializing">પ્રારંભ કરી રહ્યું છે</string>
+    <string name="Retrying">ફરી પ્રયાસ કરી રહ્યાં છે</string>
+    <string name="language">ભાષા</string>
+
+
+
+    <string name="Popular">પ્રખ્યાત</string>
+    <string name="s_New">નવું</string>
+    <string name="apps">એપ્લિકેશન્સ</string>
+
+
+    <string name="mergering">અંતિમ પ્રક્રિયા</string>
+    <string name="mergerwait">અંતિમ પ્રક્રિયા (1-2 મિનિટની જરૂર છે)</string>
+
+
+
+    <string name="Startverification">ચકાસણી શરૂ કરો</string>
+    <string name="verificationShangXian">અરે! તમે દૈનિક ડાઉનલોડ સીમા પર પહોંચી ગયા છો, X કલાક પછી ફરીથી પ્રયાસ કરો.</string>
+    <string name="verificationFail">ચકાસણી નિષ્ફળ થઈ, કૃપા કરીને ફરી પ્રયત્ન કરો!</string>
+    <string name="Morehelp">(વધુ સહાય)</string>
+    <string name="uid">યુઝર આઈડી</string>
+    <string name="copysuccess">યુઝરિડને ક્લિપબોર્ડ પર કૉપિ કરવામાં આવી છે.</string>
+
+    <string name="watchnow">હવે જુઓ</string>
+    <string name="ggdownloading">જાહેરાતો લોડ થઈ રહી છે, કૃપા કરીને રાહ જુઓ અને ખુશી ખુલ્લી રાખો.</string>
+    <string name="verificaing">ચકાસણીમાં, કૃપા કરીને એક ક્ષણ રાહ જુઓ.</string>
+
+
+
+    <string name="Removeads">જાહેરાતો દૂર કરો</string>
+    <string name="Paidforfree">નિઃશુલ્ક ચૂકવણી</string>
+    <string name="Unlimitedmoney">અનલિમિટેડ પૈસા</string>
+    <string name="Freepurchase">મફત ખરીદી</string>
+    <string name="Freeshopping">મફત ખરીદી</string>
+    <string name="Unlocked">અનલોક</string>
+    <string name="Patched">પેચ્ડ</string>
+    <string name="Premium">પ્રીમિયમ</string>
+    <string name="Pro">પ્રો</string>
+    <string name="ModLite">મોડ લાઇટ</string>
+    <string name="Subscribed">સબ્સ્ક્રાઇબ કર્યું</string>
+    <string name="Prime">વડાપ્રધાન</string>
+    <string name="Plus">પ્લસ</string>
+    <string name="VIP">વીઆઇપી</string>
+    <string name="Substratum">સબસ્ટ્રેટમ</string>
+    <string name="Debloated">ડબ્લોટેડ</string>
+    <string name="Donate">દાન કરો</string>
+    <string name="AOSPcompatible">એઓએસપી સુસંગત</string>
+    <string name="Cracked">ક્રેક</string>
+    <string name="NoAds">કોઈ જાહેરાતો નથી</string>
+    <string name="Infinite">અનંત</string>
+    <string name="Endless">અનંત</string>
+    <string name="Invincible">ઇનવિન્સીબલ</string>
+    <string name="Unlimitedhints">અનલિમિટેડ સંકેતો</string>
+    <string name="Megamod">મેગા મોડ</string>
+    <string name="Full">પૂર્ણ</string>
+
+
+    <string name="Username">વપરાશકર્તા નામ</string>
+    <string name="Usernameinit">4-50 અક્ષરો</string>
+    <string name="Usernametip">ફક્ત એ-ઝેડ, નંબર્સ, @ અક્ષરો. _ કૃપા કરી (કોઈ જગ્યાઓ અથવા અન્ય વિશિષ્ટ અક્ષરો). 4-50 અક્ષરો.</string>
+    <string name="Password">પાસવર્ડ</string>
+    <string name="Enteryourpassword">6-8 અક્ષરો</string>
+    <string name="passwordtip">માત્ર અક્ષરો એ-ઝેડ, એ-ઝેડ, નંબર્સ (કોઈ જગ્યા અથવા વિશિષ્ટ અક્ષરો). 6-8 અક્ષરો.</string>
+    <string name="nicknametip">આ ઉપનામ પહેલેથી લેવામાં આવ્યું છે.</string>
+    <string name="Nickname">ઉપનામ</string>
+    <string name="Emailaddress">ઈ - મેઈલ સરનામું</string>
+    <string name="Enteryouremail">તમારું ઈમેલ એડ્રેસ લખો</string>
+    <string name="Telephonenumber">ટેલીફોન નંબર</string>
+    <string name="Enteryourtelephonenumber">તમારો ટેલિફોન નંબર દાખલ કરો</string>
+    <string name="phonetip">માન્ય ફોન ન્યુબર દાખલ કરો.</string>
+    <string name="emailtip">યોગ્ય ઇ - મેલ એડ્રેસ આપો.</string>
+    <string name="Signup">સાઇન અપ કરો</string>
+    <string name="tuiat">આ વપરાશકર્તા નામ પહેલેથી જ લેવામાં આવ્યું છે.</string>
+    <string name="Login">પ્રવેશ કરો</string>
+    <string name="Account">ખાતું</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">અથવા તમારા વપરાશકર્તા નામ સાથે લ loginગિન કરો</string>
+    <string name="newur">નવું વપરાશકર્તા નોંધણી</string>
+    <string name="Usernameinitnew">વપરાશકર્તા નામ (4-50 અક્ષરો)</string>
+    <string name="Passwordnew">પાસવર્ડ (6-8 અક્ષરો)</string>
+    <string name="Emailnew">ઇમેઇલ</string>
+    <string name="PhoneNumber">ફોન નંબર</string>
+    <string name="Unknown">અજાણ્યું</string>
+    <string name="enteryEmail">તમારું ઈમેલ એડ્રેસ લખો</string>
+    <string name="enteryPhone">તમારો ફોન નંબર દાખલ કરો</string>
+    <string name="signuptips">જ્યારે તમે તમારો પાસવર્ડ ભૂલી જાઓ છો, ત્યારે તમને પુન Phoneપ્રાપ્ત કરવા માટે "ફોન નંબર" અથવા "ઇમેઇલ" ની જરૂર પડશે. અમે ભલામણ કરીએ છીએ કે તમે તેમને પૂર્ણ કરો.</string>
+
+
+    <string name="confirmusername">વપરાશકર્તાનામની પુષ્ટિ કરો</string>
+    <string name="next">આગળ</string>
+    <string name="fblogdes">કૃપા કરી વપરાશકર્તા નામ દાખલ કરો. પાસવર્ડને પુનર્પ્રાપ્ત કરવા માટે વપરાશકર્તા નામ એ ખૂબ મહત્વપૂર્ણ ઓળખકર્તા છે, કૃપા કરીને ધ્યાનમાં રાખો.</string>
+    <string name="selectusername">વપરાશકર્તા નામ પસંદ કરો</string>
+    <string name="reselpass_desone">પાસવર્ડ ફરીથી સેટ કરવા માટે તમારા ખાતાના વપરાશકર્તા નામ દાખલ કરો. તમને ફરીથી સેટ પાસવર્ડ વિશે કોઈ સમસ્યા છે<u>contact us</u>.</string>
+    <string name="reselpass_destwo">કૃપા કરીને ઇમેઇલ અથવા ફોન નંબર દાખલ કરો. તમને ફરીથી સેટ પાસવર્ડ વિશે કોઈ સમસ્યા છે<u>contact us</u>.</string>
+    <string name="forgetgosingup">શું તેમાં કોઈ યાદ નથી? મહેરબાની કરીને<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">પાસવર્ડ ફરીથી સેટ કરો</string>
+    <string name="NewPassword">નવો પાસવર્ડ</string>
+    <string name="Enterthepasswordagain">પાસવર્ડની પુષ્ટિ કરો</string>
+    <string name="signuplimitdes">તમારું ઉપકરણ નોંધાયેલ વપરાશકર્તાનામોની મહત્તમ સંખ્યા પર પહોંચી ગયું છે. કૃપા કરીને લૉગ ઇન કરવા માટે નીચે આપેલ વપરાશકર્તા નામ પસંદ કરો.</string>
+    <string name="Register">નોંધણી કરો</string>
+    <string name="eyun">તમારું વપરાશકર્તા નામ દાખલ કરો</string>
+    <string name="eypsw">તમારો પાસવર્ડ નાખો</string>
+    <string name="loginerrortips">કૃપા કરીને સાચા વપરાશકર્તા નામ અને પાસવર્ડ દાખલ કરો. નોંધો કે પાસવર્ડ ફીલ્ડ કેસ પ્રત્યે સંવેદનશીલ છે.</string>
+    <string name="Resetpasswordfailed">પાસવર્ડ ફરીથી સેટ નિષ્ફળ.</string>
+    <string name="Theusernamewasnotregistered">વપરાશકર્તા નામ નોંધાયેલું ન હતું.</string>
+    <string name="petceotn">કૃપા કરીને સાચા ઇમેઇલ અથવા ટેલિફોન નંબર દાખલ કરો.</string>
+    <string name="fbrfail">ફેસબુક રજિસ્ટર નિષ્ફળ થયું.</string>
+    <string name="Registerfailed">નોંધણી નિષ્ફળ થઈ, કૃપા કરીને ખાતરી કરો કે તમારું નેટવર્ક કનેક્શન સામાન્ય છે, ફરી પ્રયાસ કરવા માટે નોંધણી બટનને ક્લિક કરો.</string>
+    <string name="Loginfailed">પ્રવેશ નિષ્ફળ.</string>
+    <string name="me">હું</string>
+    <string name="Avatar">અવતાર</string>
+    <string name="Myposts">મારી પોસ્ટ્સ</string>
+    <string name="passowrduploadok">પાસવર્ડ સફળતાપૂર્વક બદલ્યો</string>
+    <string name="logout">લૉગ આઉટ</string>
+    <string name="passwordsame">તમે દાખલ કરેલા બે પાસવર્ડ અસંગત છે</string>
+    <string name="PopularComments">લોકપ્રિય ટિપ્પણીઓ</string>
+
+
+    <string name="Request">વિનંતી</string>
+    <string name="Youarerequesting">તમે વિનંતી કરી રહ્યા છો:</string>
+    <string name="Addrequest">વિનંતી ઉમેરો</string>
+    <string name="Myrequests">મારી અરજીઓ</string>
+    <string name="Myuploads">મારા અપલોડ્સ</string>
+    <string name="Updated">સુધારાશે</string>
+    <string name="Comingsoon">ટૂક સમયમાં આવી રહ્યું છે</string>
+    <string name="searchappyouwanttorequest">તમે જે એપ્લિકેશનને વિનંતી કરવા માંગો છો તેને શોધો:</string>
+    <string name="Addupload">અપલોડ ઉમેરો</string>
+    <string name="requestdetailhint">તમારી વિનંતી વિશે વધુ બતાવો. (ઓછામાં ઓછા 50 અક્ષરો)</string>
+    <string name="requesterror">સબમિટ નિષ્ફળ થયું, કૃપા કરીને પછી ફરીથી પ્રયાસ કરો.</string>
+    <string name="detailserror">(100-4000 અક્ષરો)</string>
+    <string name="view">જુઓ</string>
+    <string name="isthiswork">શું તે કામ કરે છે?</string>
+    <string name="edit">ફેરફાર કરો</string>
+    <string name="APKZippyshareurl">APK ઝિપિશેર / મીડિયાફાયર યુઆરએલ:</string>
+    <string name="OBBDataurl">OBB / ડેટા Zippyshare / Mediafire url: (વૈકલ્પિક)</string>
+    <string name="Youarereupload">તમે અપલોડ કરી રહ્યા છો:</string>
+    <string name="Upload">અપલોડ કરો</string>
+    <string name="Uploadfail">અપલોડ નિષ્ફળ થયું.</string>
+    <string name="apkfail">મહેરબાની કરીને એપીકે ફાઇલનું ઝિપિશેર / મીડિયાફાયર URL દાખલ કરો.</string>
+    <string name="obbfail">કૃપા કરી bબ્બ ફાઇલનું ઝિપિશેર / મીડિયાફાયર URL દાખલ કરો.</string>
+    <string name="worked">કામ કર્યું</string>
+    <string name="Uploadsuccess">સફળતા અપલોડ કરો</string>
+    <string name="Requestsuccess">વિનંતી સફળતા</string>
+    <string name="clickyes">તમે આ વિનંતીને કતારમાંથી સંપાદિત કરી અને ફરીથી સબમિટ કરી શકો છો.</string>
+    <string name="clickno">આ વિનંતી ટૂંક સમયમાં ફરી કતારમાં ઉમેરવામાં આવશે.</string>
+    <string name="downloadpush_remind">સ્થાપન પછી સૂચના બતાવો</string>
+    <string name="messages">સંદેશાઓ</string>
+    <string name="RecommendMods">મોડ્સની ભલામણ કરો</string>
+    <string name="requestdetailserror">(50-4000 અક્ષરો)</string>
+
+    <string name="Changetheimage">છબી બદલો >></string>
+    <string name="Typethecodeinthebox">બૉક્સમાં કોડ લખો</string>
+    <string name="Verificationerror">ચકાસણી નિષ્ફળ થઈ, કૃપા કરી ફરીથી પ્રયત્ન કરો.</string>
+    <string name="Verifing">ચકાસી રહ્યું છે…</string>
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">કા serી નાખતા પહેલા અન્ય સર્વરો અજમાવો</string>
+    <string name="fix_tips_content">તમે તેને કાtingી નાખતા પહેલા તેને ડાઉનલોડ કરવાનો પ્રયાસ કરવા માટે બીજા સર્વરથી કનેક્ટ થવાનું પસંદ કરો છો?</string>
+    <string name="fix_progress_title">સર્વરો સ્કેન કરી રહ્યું છે</string>
+    <string name="fix_progress_content">તમારા માટે સૌથી ઝડપી સર્વર શોધવામાં થોડી વાર લાગી શકે છે, કૃપા કરીને રાહ જુઓ.</string>
+    <string name="fix_failed_content">હાલમાં તમારા માટે કોઈ સર્વર્સ ઉપલબ્ધ નથી, કૃપા કરીને પછીથી ફરી પ્રયાસ કરો.</string>
+    <string name="fix_tips_failtitle">વધુ સર્વરો નથી</string>
+    <string name="fix_ok">અજમાવી જુઓ</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">કૃપા કરીને પહેલા આ મોડને ડાઉનલોડ કરો.</string>
+    <string name="myvoted">મારો મત</string>
+    <string name="working">કામ કરે છે</string>
+    <string name="inanhour">કૃપા કરીને એક કલાકમાં ફરીથી મત આપો.</string>
+
+    <string name="Review">સમીક્ષા</string>
+    <string name="myreply">મારા જવાબો</string>
+    <string name="Post">પોસ્ટ</string>
+    <string name="addavideo">વિડિઓ ઉમેરો</string>
+    <string name="enterthevideourlhere">કૃપા કરીને અહીં યુટ્યુબ વિડિઓ યુઆરએલ દાખલ કરો.</string>
+    <string name="onlysupportyoutube">ફક્ત યુટ્યુબ વિડિઓઝને સમર્થન આપે છે</string>
+    <string name="searchorcreate">શોધો અથવા બનાવો</string>
+    <string name="hashtags">ઇતિહાસ હેશટેગ્સ</string>
+    <string name="featuredhash">વૈશિષ્ટિકૃત હેશટેગ્સ</string>
+    <string name="newhshstag">નવી હેશટેગ</string>
+    <string name="hot">ગરમ</string>
+    <string name="Comments">ટિપ્પણીઓ</string>
+    <string name="replies">જવાબો</string>
+    <string name="community">સમુદાય</string>
+    <string name="report">અહેવાલ</string>
+    <string name="reply">જવાબ</string>
+    <string name="reportsuccess">તમારો અહેવાલ સફળતાપૂર્વક સબમિટ થયો.</string>
+    <string name="reportfail">તમારી રિપોર્ટ સબમિટ કરવામાં નિષ્ફળ.</string>
+    <string name="replytowho">X ને જવાબ આપો:</string>
+    <string name="replyfail">જવાબ નિષ્ફળ</string>
+    <string name="Reviews">સમીક્ષાઓ</string>
+    <string name="success">સફળતા</string>
+    <string name="sendfailed">નિષ્ફળ</string>
+    <string name="deletesuccess">સફળતાપૂર્વક કા deletedી નાખ્યું</string>
+    <string name="deletefailed">કા deleteી નાખવામાં નિષ્ફળ</string>
+    <string name="Group">જૂથ</string>
+    <string name="repliedtouser">જવાબ આપ્યો</string>
+    <string name="speaksomething">કૃપા કરીને ઓછામાં ઓછા 20 અધ્યાયકો દાખલ કરો</string>
+    <string name="speaktoolong">અક્ષરોની સંખ્યા મર્યાદાથી વધી ગઈ છે, 4000 અક્ષરો સુધી દાખલ કરી શકાય છે.</string>
+    <string name="tapandholdptodelete">તેને કા deleteી નાખવા માટે ચિત્રને ટેપ કરો અને હોલ્ડ કરો.</string>
+    <string name="addvideofaild">વિડિઓ ઉમેરવાનું નિષ્ફળ！ કૃપા કરીને ખાતરી કરો કે તમારું નેટવર્ક યુટ્યુબ વિડિઓ બ્રાઉઝ કરી શકે છે અને તેને ફરીથી ઉમેરી શકે છે.</string>
+    <string name="Video">વિડિઓ</string>
+
+    <string name="Hotsearches">ગરમ શોધ</string>
+    <string name="Hothashtags">ગરમ હેશટેગ્સ</string>
+    <string name="history">ઇતિહાસ</string>
+    <string name="aboutthisgame">આ રમત વિશે</string>
+    <string name="details">વિગતો</string>
+    <string name="sellallreviews">બધી સમીક્ષાઓ જુઓ</string>
+
+
+    <string name="hfivetitle">ઝડપી રમતો</string>
+    <string name="Recommended">ભલામણ કરેલ</string>
+    <string name="exit_tips">રમતમાંથી બહાર નીકળવા માટે ફરીથી દબાવો</string>
+    <string name="h5_menu_reload">ફરીથી લોડ</string>
+    <string name="h5_menu_share">શેર કરો</string>
+    <string name="h5_menu_shortcut">હોમસ્ક્રીન પર ઉમેરો</string>
+    <string name="installplaywitouthti">ઇન્સ્ટોલ કર્યા વિના ઇન્સ્ટન્ટ પ્લે</string>
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">અરેરે ...</string>
+    <string name="crash_toast_message">માફ કરશો, એપીપી અપવાદ, બહાર નીકળશે ， કૃપા કરીને ઇમેઇલ દ્વારા તમારી બગ રિપોર્ટ સબમિટ કરો.</string>
+    <string name="crash_dialog_message">માફ કરશો, APP અપવાદ, કૃપા કરીને ઇમેઇલ દ્વારા તમારો બગ રિપોર્ટ સબમિટ કરો.</string>
+    <string name="crash_dialog_feedback">ભૂલો અહેવાલ</string>
+    <string name="crash_dialog_restart">પુનઃપ્રારંભ</string>
+
+    <string name="init_fail">પ્રારંભ નિષ્ફળ, કૃપા કરીને VPN નો ઉપયોગ કરો અથવા અન્ય નેટવર્ક્સમાં બદલો.</string>
+    <string name="error_file_des">આ ફાઇલ કા deletedી નાખવામાં આવી છે અને હવે ફરીથી ડાઉનલોડ કરવામાં આવી રહી છે.</string>
+
+    <string name="sdpermission">અમને તમારા બાહ્ય સ્ટોરેજને toક્સેસ કરવાની જરૂર છે. કૃપા કરીને ખાતરી કરો કે પરવાનગી આપવામાં આવી છે.</string>
+
+    <string name="Night_Mode">નાઇટ મોડ</string>
+
+    <string name="thisty">તે વપરાશકર્તા નામ લેવામાં આવ્યું છે. બીજો પ્રયાસ કરો. ઉપલબ્ધ:</string>
+
+    <!--home_feature-->
+    <string name="Feature">ફીચર્ડ</string>
+    <string name="editorpick">સંપાદકની પસંદ</string>
+    <string name="PopularInlast">છેલ્લા 24 કલાકમાં લોકપ્રિય</string>
+    <string name="Latestupdated">નવીનતમ અપડેટ</string>
+    <string name="paidforfree">મફત ચૂકવેલ</string>
+
+    <string name="ToadyRecommend">ટોડીની ભલામણ</string>
+    <string name="hotmods">હોટ મોડ્સ</string>
+    <string name="hotrecommended">ગરમ ભલામણ</string>
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">તમે અપલોડ કરવા માંગો છો તે એપ્લિકેશન શોધો:</string>
+    <string name="addapost">એક પોસ્ટ ઉમેરો</string>
+    <string name="launch_des">100% વર્કિંગ મોડ્સ શોધો \ n વપરાશકર્તાઓ દ્વારા અપલોડ; વપરાશકર્તાઓ દ્વારા ચકાસાયેલ!</string>
+    <string name="requestamod">મોડની વિનંતી કરો</string>
+    <string name="uploadamod">એક મોડ અપલોડ કરો</string>
+    <!--boundle 新增-->
+    <string name="Installing">સ્થાપિત કરી રહ્યું છે</string>
+    <string name="bundleneedsfive">માફ કરશો, બંડલને Android 5.0 અને તેથી વધુની જરૂર છે.</string>
+    <string name="parsingerror">APK ને વિશ્લેષિત કરવામાં ભૂલ અથવા રદ.</string>
+    <string name="tipsinstallok">ઇન્સ્ટોલેશન સફળ થયું.</string>
+    <string name="tipsinstallfail">ઇન્સ્ટોલેશન નિષ્ફળ થયું, કૃપા કરીને ફરીથી પ્રયાસ કરો.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">ઇમેજ દીઠ 10MB</string>
+    <string name="Imagesmustbelessthan">છબીઓ 10MB કરતા ઓછી હોવી આવશ્યક છે, કૃપા કરીને છબીના પરિમાણોને ઓછા કરો, તમારી ફાઇલને ફરીથી સાચવો અથવા ફરીથી નિકાસ કરો અને તેને ફરીથી અપલોડ કરવાનો પ્રયાસ કરો.</string>
+
+    <string name="installfailed">ઇન્સ્ટોલેશન નિષ્ફળ થયું.</string>
+    <string name="miuides">કૃપા કરીને વિકાસકર્તા વિકલ્પો ચાલુ કરો, MIUI optimપ્ટિમાઇઝેશન બંધ કરો અને ફરીથી પ્રયાસ કરો.</string>
+
+    <string name="playdes">રમ</string>
+    <string name="todayhotgame">આજે ગરમ છે</string>
+    <string name="newcoming">નવી આવક</string>
+    <string name="recentlyplayed">તાજેતરમાં રમ્યા</string>
+    <string name="toopenitquickntime">તેને આગલી વખતે ઝડપથી ખોલવા માટે, કૃપા કરીને:</string>
+    <string name="finditin">તેને X માં શોધો</string>
+    <string name="needhelp">મદદ જોઈતી?</string>
+    <string name="peoplealsoplaygames">લોકો આ રમત રમાય છે:</string>
+
+    <string name="opencommunitydes">જો તમને કોઈ પુખ્ત વયે અથવા કોઈ ખરાબ પોસ્ટ મળી હોય, તો કૃપા કરીને પોસ્ટના ઉપરના જમણા ખૂણામાં રિપોર્ટ બટનને ક્લિક કરો, અને અમે પ્રથમ વખત પોસ્ટને કા deleteી નાખીશું અને પોસ્ટર અવરોધિત કરીશું! કૃપા કરી સંસ્કારી બોલો!</string>
+    <string name="myreviews">મારી સમીક્ષાઓ</string>
+
+    <string name="tagthisapp">આ એપ્લિકેશનને ફ્લેગ કરો</string>
+    <string name="appuploader">દ્વારા એપ્લિકેશન અપલોડ કરી</string>
+    <string name="votedresult">તમે આ એપ્લિકેશન માટે પહેલાથી જ મત આપ્યો છે.</string>
+    <string name="votedokok">તમારો મત સફળતાપૂર્વક સબમિટ થયો.</string>
+    <string name="please_downlaodthisapp">કૃપા કરીને પહેલા આ એપ્લિકેશનને ડાઉનલોડ કરો.</string>
+    <string name="safetitle">એપ એપીકે ગેરેંટીડ</string>
+    <string name="safedes">આ એપીકે વાયરસ, મwareલવેર માટેની સુરક્ષા પરીક્ષણ પસાર કરી છે. તે વિશ્વસનીય અને ચકાસાયેલ ડિજિટલ હસ્તાક્ષરનો ઉપયોગ કરે છે.</string>
+    <string name="bereported">તમે તેની જાણ કરી છે.</string>
+
+
+    <string name="pleasefinishyourdownloadingqueu">કૃપા કરીને પહેલા તમારી ડાઉનલોડિંગ કતાર સમાપ્ત કરો.</string>
+    <string name="adduploadvideo">વિડિઓ ઉમેરો: (વૈકલ્પિક)</string>
+    <string name="uploadscreenshots">સ્ક્રીનશોટ અપલોડ કરો (160 * 90)</string>
+    <string name="scerrnshoteserror">સ્ક્રીનશોટ આવશ્યક છે.</string>
+    <string name="bannererror">બેનર જરૂરી છે.</string>
+    <string name="pleaseentergoogleaddress">કૃપા કરીને Google Play પર એપ્લિકેશન આઈડી અથવા URL ને ઇનપુટ કરો.</string>
+    <string name="thisposthasbeendeleted">આ પોસ્ટ કા hasી નાખવામાં આવી છે.</string>
+    <string name="add">ઉમેરો</string>
+    <string name="oagputc">અથવા ચાલુ રાખવા માટે ગૂગલ પ્લે યુઆરએલ ઉમેરો</string>
+    <string name="description">વર્ણન:</string>
+    <string name="uploadbanner">અપલોડ બેનર (702 * 460)</string>
+    <string name="noedituploadtips">તમે તેને કોઈપણ ફેરફારો કર્યા વિના સબમિટ કરી શકતા નથી.</string>
+    <string name="addexcusiveaddressixit">આ apk પહેલાથી જ અસ્તિત્વમાં છે.</string>
+
+    <string name="itisworkingonyourdevice">શું તે તમારા ડિવાઇસ પર કામ કરી રહ્યું છે?</string>
+    <string name="no_working">ચલ્તુ નથિ</string>
+    <string name="vote_it">તેને મત આપો</string>
+    <string name="novirus">કોઈ વાયરસ નથી</string>
+    <string name="nomalware">માલવેર નથી</string>
+    <string name="nospyware">કોઈ સ્પાયવેર નથી</string>
+    <string name="less">ઓછી</string>
+
+    <string name="votedandfail">તમે પહેલાથી સમીક્ષા કરી લીધી છે, કૃપા કરીને "મારી સમીક્ષાઓ" સૂચિ તપાસો.</string>
+
+</resources>

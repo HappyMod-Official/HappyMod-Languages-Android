@@ -1,0 +1,462 @@
+<resources>
+    <!--荷兰语-->
+
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+
+    <string name="Paid">Betaald</string>
+    <string name="GAME">Spel</string>
+    <string name="APP">App</string>
+    <string name="NEW">nieuwe</string>
+    <string name="Categories">Categorieën</string>
+    <string name="games">Spellen</string>
+    <string name="REFRESH">verversen</string>
+    <string name="Unable_to_connect_to_the_network">Geen toegang tot internet.</string>
+    <string name="Recommended_Game_Mods">Aanbevolen spelmodi</string>
+    <string name="Hot_Game_Mods">Hot Game Mods</string>
+    <string name="Recommended_App_Mods">Aanbevolen app-modi</string>
+    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Recommended_New_Mods">Aanbevolen nieuwe mods</string>
+    <string name="Last_Update_Mods">Laatste updates</string>
+    <string name="SearchHint">Zoeken..</string>
+
+
+    <string name="Homeweb">Officiële website</string>
+    <string name="Management">Beheer</string>
+    <string name="Settings">instellingen</string>
+    <string name="Feedback">terugkoppeling</string>
+    <string name="Translation">Vertaling</string>
+    <string name="Share">Delen</string>
+    <string name="Checkforupdate">Controleer op updates</string>
+    <string name="FollowusonTwitter">Volg ons op Twitter</string>
+    <string name="FollowusonFacebook">Volg ons op facebook</string>
+
+
+    <string name="settings_network_remind">Mobile Network Alert</string>
+    <string name="settings_auto_install">Automatisch installeren</string>
+    <string name="Download_Directory">Directory downloaden</string>
+    <string name="settings_other">anders</string>
+    <string name="settings_clear_cache">Cache wissen</string>
+    <string name="Clean_up_the_complete">De cache is gewist.</string>
+
+
+    <string name="des_no_serach_result"> Oops! Geen resultaat gevonden.</string>
+
+
+    <string name="Downloads">downloads</string>
+    <string name="Downloading">downloaden</string>
+    <string name="Finished">Afgewerkt</string>
+    <string name="No_Download">Geen bestand gevonden.</string>
+    <string name="Pause">Pauze</string>
+    <string name="Waiting_in_queue">Wachten in wachtrij</string>
+    <string name="Completed">Voltooid</string>
+    <string name="UnZiping">Het extraheren</string>
+    <string name="UnZip_succeed">Klaar met extraheren</string>
+    <string name="Rate">tarief</string>
+    <string name="Rated">Beoordeeld</string>
+    <string name="Version">Versie</string>
+    <string name="Ratingsreviews">ratings</string>
+    <string name="Tryitlater">Probeer het later nog eens</string>
+    <string name="Serviceisbusy">Verbinding maken ...</string>
+
+
+
+    <string name="Notice">Merk op</string>
+    <string name="deletethistask">Verwijder dit bestand</string>
+    <string name="Cancel">annuleren</string>
+    <string name="Delete">Verwijder</string>
+    <string name="Whydeletethisdownload">Waarom zou je deze download verwijderen?</string>
+    <string name="NotwhatIwant">Niet wat ik wil</string>
+    <string name="Downloadfailed">Download mislukt</string>
+    <string name="Downloadistooslow">Download is te traag</string>
+
+
+    <string name="Mods">mods</string>
+    <string name="Original">origineel</string>
+    <string name="Previousversion">Vorige versie</string>
+    <string name="Download">Download</string>
+    <string name="Downloadobb">(APK+OBB) downloaden</string>
+    <string name="Downloaddata">Download (APK+DATA)</string>
+    <string name="Downloadboundle">Download BUNDLE</string>
+
+
+    <string name="Downloaded">gedownloade</string>
+    <string name="Install">Installeren</string>
+    <string name="Connecting">Verbinding maken ...</string>
+    <string name="readmore">Lees verder</string>
+    <string name="modfeature">Mod info:</string>
+    <string name="Moreversion">Meer versie</string>
+    <string name="Recommend">Adviseren</string>
+    <string name="Recommendmod">Aanbevolen Mod</string>
+    <string name="Moremods">Laatste versie (n)</string>
+
+
+    <string name="Submit">voorleggen</string>
+    <string name="Hated_it">Haat het!</string>
+    <string name="Disliked_it">Vind het niet leuk.</string>
+    <string name="Its_ok">Het is ok.</string>
+    <string name="Liked_it">Het leuk vinden.</string>
+    <string name="Loved_it">Hou ervan!</string>
+
+
+    <string name="share_happymod">Deel \'HappyMod\' via</string>
+    <string name="share_subject">Krijg HappyMod</string>
+    <string name="share_text">Download 100% werkende mods met @HappyMod \ nhttps: //www.happymod.com/</string>
+
+
+    <string name="pref_location">Opslaglocatie</string>
+
+
+    <string name="force_des">100% werkmodi</string>
+    <string name="nvisrti">nieuwe versie is klaar om te installeren.</string>
+    <string name="OPEN">OPEN</string>
+    <string name="OK">OK</string>
+    <string name="Loading">Bezig met laden......</string>
+    <string name="updata_tip">U gebruikt de nieuwste stabiele versie van HappyMod</string>
+    <string name="xzzb">Download de officiële HappyMod.</string>
+    <string name="Continue">Doorgaan met</string>
+    <string name="appobb">APK OBB</string>
+    <string name="No_space_left_on_device">Geen ruimte meer op het apparaat</string>
+    <string name="Is_this_app_you_need">Ben je op zoek naar deze app?</string>
+    <string name="No">Nee</string>
+    <string name="Yes">Ja</string>
+    <string name="bcdes">. Maak opslagruimte vrij en probeer het opnieuw.</string>
+    <string name="need">; Beschikbaar:</string>
+    <string name="No_enough_space_left_on_device">Niet genoeg ruimte. Nodig hebben:</string>
+    <string name="updatenow">Update nu</string>
+    <string name="updateFail">Download mislukt. Sluit alstublieft en heropen</string>
+    <string name="initializing">initialiseren</string>
+    <string name="Retrying">Nieuwe poging</string>
+    <string name="language">Taal</string>
+
+
+
+    <string name="Popular">Populair</string>
+    <string name="s_New">nieuwe</string>
+    <string name="apps">Apps</string>
+
+
+    <string name="mergering">Eindverwerking</string>
+    <string name="mergerwait">Eindverwerking (heeft 1-2 minuten nodig)</string>
+
+
+
+    <string name="Startverification">Begin met verificatie</string>
+    <string name="verificationShangXian">Oops! Je hebt de dagelijkse downloadlimiet bereikt, probeer het na X uur opnieuw.</string>
+    <string name="verificationFail">Verificatie mislukt. Probeer opnieuw!</string>
+    <string name="Morehelp">(Meer hulp)</string>
+    <string name="uid">Gebruikersnaam</string>
+    <string name="copysuccess">Userid is gekopieerd naar het klembord.</string>
+
+    <string name="watchnow">Kijk nu</string>
+    <string name="ggdownloading">Advertenties worden geladen, een ogenblik geduld en blijven gelukkig geopend.</string>
+    <string name="verificaing">Wacht even voor verificatie.</string>
+
+
+
+    <string name="Removeads">Verwijder advertenties</string>
+    <string name="Paidforfree">Gratis betaald</string>
+    <string name="Unlimitedmoney">Onbeperkt geld</string>
+    <string name="Freepurchase">Gratis aankoop</string>
+    <string name="Freeshopping">Gratis winkelen</string>
+    <string name="Unlocked">Unlocked</string>
+    <string name="Patched">versteld</string>
+    <string name="Premium">Premie</string>
+    <string name="Pro">Pro</string>
+    <string name="ModLite">Mod Lite</string>
+    <string name="Subscribed">geabonneerd</string>
+    <string name="Prime">eerste</string>
+    <string name="Plus">Plus</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">onderlaag</string>
+    <string name="Debloated">Debloated</string>
+    <string name="Donate">schenken</string>
+    <string name="AOSPcompatible">AOSP-compatibel</string>
+    <string name="Cracked">Gebarsten</string>
+    <string name="NoAds">Geen advertenties</string>
+    <string name="Infinite">Oneindig</string>
+    <string name="Endless">eindeloos</string>
+    <string name="Invincible">Onoverwinnelijk</string>
+    <string name="Unlimitedhints">Onbeperkte hints</string>
+    <string name="Megamod">Mega mod</string>
+    <string name="Full">vol</string>
+
+
+    <string name="Username">Gebruikersnaam</string>
+    <string name="Usernameinit">4-50 tekens</string>
+    <string name="Usernametip">Alleen letters a-z, getallen, @. - _ (geen spaties of andere speciale tekens). 4-50 tekens.</string>
+    <string name="Password">Wachtwoord</string>
+    <string name="Enteryourpassword">6-8 tekens</string>
+    <string name="passwordtip">Alleen letters A-Z, a-z, cijfers (geen spaties of speciale tekens). 6-8 tekens.</string>
+    <string name="nicknametip">Deze naam is al in gebruik.</string>
+    <string name="Nickname">Bijnaam</string>
+    <string name="Emailaddress">E-mailadres</string>
+    <string name="Enteryouremail">Voer uw e-mailadres in</string>
+    <string name="Telephonenumber">Telefoon nummer</string>
+    <string name="Enteryourtelephonenumber">Voer uw telefoonnummer in</string>
+    <string name="phonetip">Voer een geldige telefoonnubmer in.</string>
+    <string name="emailtip">Voer een geldig e-mailadres in.</string>
+    <string name="Signup">Inschrijven</string>
+    <string name="tuiat">Deze gebruikersnaam is al in gebruik.</string>
+    <string name="Login">Log in</string>
+    <string name="Account">Account</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">OF log in met uw gebruikersnaam</string>
+    <string name="newur">Nieuwe gebruiker registratie</string>
+    <string name="Usernameinitnew">Gebruikersnaam (4-50 tekens)</string>
+    <string name="Passwordnew">Wachtwoord (6-8 tekens)</string>
+    <string name="Emailnew">E-mail</string>
+    <string name="PhoneNumber">Telefoonnummer</string>
+    <string name="Unknown">Onbekend</string>
+    <string name="enteryEmail">Voer uw e-mailadres in</string>
+    <string name="enteryPhone">Vul je telefoonnummer in</string>
+    <string name="signuptips">Als u uw wachtwoord bent vergeten, heeft u "Telefoonnummer" of "E-mail" nodig om op te halen. We raden u aan ze in te vullen.</string>
+
+    <string name="confirmusername">Bevestig gebruikersnaam</string>
+    <string name="next">volgende</string>
+    <string name="fblogdes">Vul alstublieft een gebruikersnaam in. De gebruikersnaam is een zeer belangrijke identificatie voor het ophalen van het wachtwoord, houd er rekening mee.</string>
+    <string name="selectusername">Selecteer gebruikersnaam</string>
+    <string name="reselpass_desone">Voer de gebruikersnaam van uw account in om het wachtwoord opnieuw in te stellen. U hebt een probleem met het opnieuw instellen van het wachtwoord<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Voer alstublieft de e-mail of het telefoonnummer in. U hebt een probleem met het opnieuw instellen van het wachtwoord<u>contact us</u>.</string>
+    <string name="forgetgosingup">Kan je ze niet herinneren? alsjeblieft<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Wachtwoord opnieuw instellen</string>
+    <string name="NewPassword">Nieuw paswoord</string>
+    <string name="Enterthepasswordagain">Bevestig het wachtwoord</string>
+    <string name="signuplimitdes">Uw apparaat heeft het maximale aantal geregistreerde gebruikersnamen bereikt. Selecteer hieronder de gebruikersnaam om in te loggen.</string>
+    <string name="Register">Registreren</string>
+    <string name="eyun">Typ je gebruikersnaam</string>
+    <string name="eypsw">Voer uw wachtwoord in</string>
+    <string name="loginerrortips">Voer alstublieft een correcte gebruikersnaam en wachtwoord in. Merk op dat het wachtwoordveld hoofdlettergevoelig is.</string>
+    <string name="Resetpasswordfailed">Reset wachtwoord mislukt.</string>
+    <string name="Theusernamewasnotregistered">De gebruikersnaam was niet geregistreerd.</string>
+    <string name="petceotn">Voer het juiste e-mailadres of telefoonnummer in.</string>
+    <string name="fbrfail">Facebook-register mislukt.</string>
+    <string name="Registerfailed">Registratie mislukt, bevestig dat uw netwerkverbinding normaal is, klik op de registratieknop om het opnieuw te proberen.</string>
+    <string name="Loginfailed">Aanmelden mislukt.</string>
+    <string name="me">Me</string>
+    <string name="Avatar">avatar</string>
+    <string name="Myposts">mijn posts</string>
+    <string name="passowrduploadok">wachtwoord succesvol veranderd</string>
+    <string name="logout">Uitloggen</string>
+    <string name="passwordsame">De twee wachtwoorden die u hebt ingevoerd, zijn inconsistent</string>
+    <string name="PopularComments">Populaire reacties</string>
+
+
+    <string name="Request">Verzoek</string>
+    <string name="Youarerequesting">U vraagt:</string>
+    <string name="Addrequest">Verzoek toevoegen</string>
+    <string name="Myrequests">Mijn aanvragen</string>
+    <string name="Myuploads">Mijn uploads</string>
+    <string name="Updated">bijgewerkt</string>
+    <string name="Comingsoon">Komt binnenkort</string>
+    <string name="searchappyouwanttorequest">Zoek in de app die u wilt aanvragen:</string>
+    <string name="Addupload">Upload toevoegen</string>
+    <string name="requestdetailhint">Meer weergeven over uw verzoek. (Minimaal 50 tekens)</string>
+    <string name="requesterror">Indienen mislukt, probeer het later opnieuw.</string>
+    <string name="detailserror">(100-4000 tekens)</string>
+    <string name="view">Uitzicht</string>
+    <string name="isthiswork">Werkt het?</string>
+    <string name="edit">Bewerk</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire-URL:</string>
+    <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire-URL: (optioneel)</string>
+    <string name="Youarereupload">Je uploadt:</string>
+    <string name="Upload">Uploaden</string>
+    <string name="Uploadfail">Upload mislukt.</string>
+    <string name="apkfail">Voer de Zippyshare/Mediafire-URL van het apk-bestand in.</string>
+    <string name="obbfail">Voer de obd-bestand \'s Zippyshare/Mediafire URL in.</string>
+    <string name="worked">werkte</string>
+    <string name="Uploadsuccess">Upload succes</string>
+    <string name="Requestsuccess">Vraag succes</string>
+    <string name="clickyes">U kunt dit verzoek bewerken en opnieuw indienen vanuit de bewerkte wachtrij.</string>
+    <string name="clickno">Dit verzoek wordt weer toegevoegd aan de wachtrij die binnenkort verschijnt.</string>
+    <string name="downloadpush_remind">Toon melding na installatie</string>
+    <string name="messages">berichten</string>
+    <string name="RecommendMods">Aanbevolen Mods</string>
+    <string name="requestdetailserror">(50-4000 tekens)</string>
+
+
+    <string name="Changetheimage">Verander de afbeelding >></string>
+    <string name="Typethecodeinthebox">Typ de code in het vak</string>
+    <string name="Verificationerror">Verificatie mislukt. Probeer opnieuw.</string>
+    <string name="Verifing">Het verifiëren van …</string>
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">Probeer andere servers voordat u verwijdert</string>
+    <string name="fix_tips_content">Wilt u verbinding maken met een andere server om te proberen deze te downloaden voordat u deze verwijdert?</string>
+    <string name="fix_progress_title">Scanservers</string>
+    <string name="fix_progress_content">Het kan enkele minuten duren om de snelste server voor u te zoeken. Een ogenblik geduld.</string>
+    <string name="fix_failed_content">Er zijn momenteel geen servers voor u beschikbaar. Probeer het later opnieuw.</string>
+    <string name="fix_tips_failtitle">Geen servers meer</string>
+    <string name="fix_ok">Probeer het</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Download deze mod eerst.</string>
+    <string name="myvoted">Mijn stem</string>
+    <string name="working">Werken</string>
+    <string name="inanhour">Stem over een uur alstublieft opnieuw.</string>
+
+    <string name="Review">Beoordeling</string>
+    <string name="myreply">Mijn antwoorden</string>
+    <string name="Post">Post</string>
+    <string name="addavideo">Voeg een video toe</string>
+    <string name="enterthevideourlhere">Voer hier de YouTube-video-URL in.</string>
+    <string name="onlysupportyoutube">Ondersteunt alleen YouTube-video\'s</string>
+    <string name="searchorcreate">Zoeken of maken</string>
+    <string name="hashtags">Geschiedenis hashtags</string>
+    <string name="featuredhash">Aanbevolen hashtags</string>
+    <string name="newhshstag">Nieuwe hashtag</string>
+    <string name="hot">heet</string>
+    <string name="Comments">Comments</string>
+    <string name="replies">Antwoorden</string>
+    <string name="community">Gemeenschap</string>
+    <string name="report">Verslag doen van</string>
+    <string name="reply">Antwoord</string>
+    <string name="reportsuccess">Uw melding is succesvol ingediend.</string>
+    <string name="reportfail">Uw rapport kan niet worden verzonden.</string>
+    <string name="replytowho">Antwoord op X:</string>
+    <string name="replyfail">Antwoord mislukt</string>
+    <string name="Reviews">beoordelingen</string>
+    <string name="success">Succes</string>
+    <string name="sendfailed">mislukt</string>
+    <string name="deletesuccess">Succesvol verwijderd</string>
+    <string name="deletefailed">Verwijderen mislukt</string>
+    <string name="Group">Groep</string>
+    <string name="repliedtouser">geantwoord op</string>
+    <string name="speaksomething">Voer ten minste 20 tekens in</string>
+    <string name="speaktoolong">Het aantal tekens overschrijdt de limiet, er kunnen maximaal 4000 tekens worden ingevoerd.</string>
+    <string name="tapandholdptodelete">Tik op de foto en houd deze vast om deze te verwijderen.</string>
+    <string name="addvideofaild">Toevoegen van video is mislukt！ Zorg ervoor dat uw netwerk door YouTube-video kan bladeren en deze opnieuw kan toevoegen.</string>
+    <string name="Video">Video</string>
+
+    <string name="Hotsearches">Populaire zoekopdrachten</string>
+    <string name="Hothashtags">Hete hashtags</string>
+    <string name="history">Geschiedenis</string>
+    <string name="aboutthisgame">Over deze game</string>
+    <string name="details">Details</string>
+    <string name="sellallreviews">Bekijk alle beoordelingen</string>
+
+    <string name="hfivetitle">Snelle spellen</string>
+    <string name="Recommended">Aanbevolen</string>
+    <string name="exit_tips">Druk nogmaals op terug om het spel te verlaten</string>
+    <string name="h5_menu_reload">Reload</string>
+    <string name="h5_menu_share">Delen</string>
+    <string name="h5_menu_shortcut">Toevoegen aan startscherm</string>
+    <string name="installplaywitouthti">Direct spelen zonder te hoeven installeren</string>
+
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Oeps ...</string>
+    <string name="crash_toast_message">Sorry, APP-uitzondering, wordt afgesloten. Stuur uw bugrapport via e-mail.</string>
+    <string name="crash_dialog_message">Sorry, APP-uitzondering, verzend uw bugrapport via e-mail.</string>
+    <string name="crash_dialog_feedback">Meld bugs</string>
+    <string name="crash_dialog_restart">Herstarten</string>
+
+    <string name="init_fail">Initialisatie mislukt, gebruik VPN of wissel naar andere netwerken.</string>
+    <string name="error_file_des">Dit bestand is verwijderd en wordt nu opnieuw gedownload.</string>
+
+
+    <string name="sdpermission">We moeten toegang hebben tot uw externe opslag. Zorg ervoor dat de toestemming wordt verleend.</string>
+    <string name="Night_Mode">Nachtstand</string>
+
+    <string name="thisty">Die gebruikersnaam is in gebruik. Probeer een ander. Beschikbaar:</string>
+
+    <!--home_feature-->
+    <string name="Feature">Aanbevolen</string>
+    <string name="editorpick">Keuze van de redacteur</string>
+    <string name="PopularInlast">Populair in de afgelopen 24 uur</string>
+    <string name="Latestupdated">Laatst bijgewerkt</string>
+    <string name="paidforfree">Gratis betaald</string>
+
+    <string name="ToadyRecommend">Toady\'s aanbeveling</string>
+    <string name="hotmods">Hot Mods</string>
+    <string name="hotrecommended">Heet aanbevolen</string>
+
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Zoek de app die je wilt uploaden:</string>
+    <string name="addapost">Voeg een bericht toe</string>
+    <string name="launch_des">Vind 100% werkende modi \n Toegevoegd door gebruikers; Geverifieerd door gebruikers!</string>
+    <string name="requestamod">Vraag een mod</string>
+    <string name="uploadamod">Upload een mod</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">Installeren</string>
+    <string name="bundleneedsfive">Sorry, Bundle heeft Android 5.0 en hoger nodig.</string>
+    <string name="parsingerror">Fout bij het parseren van apk of geannuleerd.</string>
+    <string name="tipsinstallok">De installatie is geslaagd.</string>
+    <string name="tipsinstallfail">Installatie is mislukt. Probeer het opnieuw.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Max 10 MB per afbeelding.</string>
+    <string name="Imagesmustbelessthan">Afbeeldingen moeten kleiner zijn dan 10 MB, verklein de afbeeldingsafmetingen, sla uw bestand opnieuw op of exporteer het opnieuw en probeer het opnieuw te uploaden.</string>
+
+    <string name="installfailed">Installatie mislukt.</string>
+    <string name="miuides">Schakel ontwikkelaarsmogelijkheden in, schakel MIUI-optimalisatie uit en probeer het opnieuw.</string>
+
+    <string name="playdes">Speel</string>
+    <string name="todayhotgame">Vandaag is het heet</string>
+    <string name="newcoming">Nieuwe inkomend</string>
+    <string name="recentlyplayed">Recent gespeeld</string>
+    <string name="toopenitquickntime">Om het de volgende keer snel te openen:</string>
+    <string name="finditin">Zoek het in X</string>
+    <string name="needhelp">Hulp nodig?</string>
+    <string name="peoplealsoplaygames">Mensen die dit spel speelden, speelden ook:</string>
+
+    <string name="opencommunitydes">Als je een volwassene of een slecht bericht vindt, klik dan op de meldknop in de rechterbovenhoek van het bericht, en we zullen het bericht verwijderen en de poster de eerste keer blokkeren! Spreek alsjeblieft beschaafd!</string>
+    <string name="myreviews">Mijn recensies</string>
+
+    <string name="tagthisapp">Markeer deze app</string>
+    <string name="appuploader">App geüpload door</string>
+    <string name="votedresult">Je hebt al op deze app gestemd.</string>
+    <string name="votedokok">Uw stem is succesvol verzonden.</string>
+    <string name="please_downlaodthisapp">Download deze app eerst.</string>
+    <string name="safetitle">App apk gegarandeerd</string>
+    <string name="safedes">Deze apk heeft de beveiligingstest voor virussen en malware doorstaan. Het gebruikte een vertrouwde en geverifieerde digitale handtekening.</string>
+    <string name="bereported">U heeft het gemeld.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Voltooi eerst uw downloadwachtrij.</string>
+    <string name="adduploadvideo">Video toevoegen: (optioneel)</string>
+    <string name="uploadscreenshots">Upload screenshots (160 * 90)</string>
+    <string name="scerrnshoteserror">Screenshots zijn vereist.</string>
+    <string name="bannererror">Banner is vereist.</string>
+    <string name="pleaseentergoogleaddress">Voer een app-ID of URL in op Google Play.</string>
+    <string name="thisposthasbeendeleted">Dit bericht is verwijderd.</string>
+    <string name="add">Toevoegen</string>
+    <string name="oagputc">Of voeg de Google play-URL toe om door te gaan</string>
+    <string name="description">Omschrijving:</string>
+    <string name="uploadbanner">Banner uploaden (702 * 460)</string>
+    <string name="noedituploadtips">U kunt het niet verzenden zonder wijzigingen aan te brengen.</string>
+    <string name="addexcusiveaddressixit">Deze apk bestaat al.</string>
+
+    <string name="itisworkingonyourdevice">Werkt het op uw apparaat?</string>
+    <string name="no_working">Werkt niet</string>
+    <string name="vote_it">Stem erover</string>
+    <string name="novirus">Geen virus</string>
+    <string name="nomalware">Geen malware</string>
+    <string name="nospyware">Geen spyware</string>
+    <string name="less">Minder</string>
+    <string name="votedandfail">Je hebt al een recensie, kijk dan in de lijst "Mijn recensies".</string>
+
+</resources>

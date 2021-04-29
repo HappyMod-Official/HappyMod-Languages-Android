@@ -1,0 +1,459 @@
+<resources>
+    <!--斯洛伐克语-->
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+
+    <string name="Paid">zaplatil</string>
+    <string name="GAME">Hra</string>
+    <string name="APP">app</string>
+    <string name="NEW">Nový</string>
+    <string name="Categories">Kategórie</string>
+    <string name="games">hry</string>
+    <string name="REFRESH">Obnoviť</string>
+    <string name="Unable_to_connect_to_the_network">Prístup na internet nie je možný.</string>
+    <string name="Recommended_Game_Mods">Odporúčané herné módy</string>
+    <string name="Hot_Game_Mods">Hot Game Mods</string>
+    <string name="Recommended_App_Mods">Odporúčané aplikácie Mods</string>
+    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Recommended_New_Mods">Odporúčané nové režimy</string>
+    <string name="Last_Update_Mods">Najnovšie aktualizácie</string>
+    <string name="SearchHint">Vyhľadávanie..</string>
+
+
+    <string name="Homeweb">Oficiálna web stránka</string>
+    <string name="Management">management</string>
+    <string name="Settings">nastavenie</string>
+    <string name="Feedback">spätná väzba</string>
+    <string name="Translation">preklad</string>
+    <string name="Share">zdieľam</string>
+    <string name="Checkforupdate">Skontrolovať aktualizácie</string>
+    <string name="FollowusonTwitter">sledujte nás na Twitteri</string>
+    <string name="FollowusonFacebook">Sledujte nás na Facebooku</string>
+
+
+    <string name="settings_network_remind">Upozornenie na mobilnú sieť</string>
+    <string name="settings_auto_install">Automaticky nainštalovať</string>
+    <string name="Download_Directory">Stiahnuť adresár</string>
+    <string name="settings_other">ostatné</string>
+    <string name="settings_clear_cache">Vymazať vyrovnávaciu pamäť</string>
+    <string name="Clean_up_the_complete">Vyrovnávacia pamäť sa vymaže.</string>
+
+
+    <string name="des_no_serach_result"> Och! Nenašli sa žiadne výsledky.</string>
+
+
+    <string name="Downloads">K stiahnutiu</string>
+    <string name="Downloading">sťahovanie</string>
+    <string name="Finished">dokončené</string>
+    <string name="No_Download">Nebol nájdený žiadny súbor.</string>
+    <string name="Pause">Pauza</string>
+    <string name="Waiting_in_queue">Čakanie vo fronte</string>
+    <string name="Completed">dokončený</string>
+    <string name="UnZiping">vyťahovanie</string>
+    <string name="UnZip_succeed">Hotové ťažba</string>
+    <string name="Rate">rýchlosť</string>
+    <string name="Rated">hodnotené</string>
+    <string name="Version">verzia</string>
+    <string name="Ratingsreviews">hodnotenie</string>
+    <string name="Tryitlater">Skúste to neskôr</string>
+    <string name="Serviceisbusy">Pripájanie ...</string>
+
+
+
+    <string name="Notice">oznámenia</string>
+    <string name="deletethistask">Odstrániť tento súbor</string>
+    <string name="Cancel">Zrušiť</string>
+    <string name="Delete">vymazať</string>
+    <string name="Whydeletethisdownload">Prečo odstrániť toto prevzatie?</string>
+    <string name="NotwhatIwant">Nie, čo chcem</string>
+    <string name="Downloadfailed">Sťahovanie zlyhalo</string>
+    <string name="Downloadistooslow">Sťahovanie je príliš pomalé</string>
+
+
+    <string name="Mods">mods</string>
+    <string name="Original">originál</string>
+    <string name="Previousversion">Predošlá verzia</string>
+    <string name="Download">Stiahnuť ▼</string>
+    <string name="Downloadobb">Stiahnite si (APK+OBB)</string>
+    <string name="Downloaddata">Download (APK+DATA)</string>
+    <string name="Downloadboundle">Download BUNDLE</string>
+
+
+    <string name="Downloaded">stiahnuť</string>
+    <string name="Install">inštalovať</string>
+    <string name="Connecting">Pripájanie ...</string>
+    <string name="readmore">Čítaj viac</string>
+    <string name="modfeature">Informácie o Mod:</string>
+    <string name="Moreversion">Viac Verzia</string>
+    <string name="Recommend">odporučiť</string>
+    <string name="Recommendmod">Odporúčané Mod</string>
+    <string name="Moremods">Najnovšie verzie</string>
+
+
+    <string name="Submit">Predložiť</string>
+    <string name="Hated_it">Neznášam to!</string>
+    <string name="Disliked_it">Nepáči sa to.</string>
+    <string name="Its_ok">Je to v poriadku.</string>
+    <string name="Liked_it">Páči sa mi to.</string>
+    <string name="Loved_it">Milujem to!</string>
+
+
+    <string name="share_happymod">Zdieľajte „HappyMod“ cez</string>
+    <string name="share_subject">Získajte HappyMod</string>
+    <string name="share_text">Stiahnuť 100% pracovné mody pomocou @HappyMod \ t</string>
+
+
+    <string name="pref_location">Skladová lokácia</string>
+
+
+    <string name="force_des">100% pracovné režimy</string>
+    <string name="nvisrti">nová verzia je pripravená na inštaláciu.</string>
+    <string name="OPEN">OTVORENÉ</string>
+    <string name="OK">OK</string>
+    <string name="Loading">Načítava......</string>
+    <string name="updata_tip">Používate najnovšiu stabilnú verziu programu HappyMod</string>
+    <string name="xzzb">Stiahnite si oficiálny HappyMod.</string>
+    <string name="Continue">ďalej</string>
+    <string name="appobb">APK OBB</string>
+    <string name="No_space_left_on_device">Žiadne voľné miesto na zariadení</string>
+    <string name="Is_this_app_you_need">Hľadáte túto aplikáciu?</string>
+    <string name="No">žiadny</string>
+    <string name="Yes">Áno</string>
+    <string name="bcdes">, Uvoľnite úložisko a skúste to znova.</string>
+    <string name="need">; K dispozícii:</string>
+    <string name="No_enough_space_left_on_device">Málo miesta. potreba:</string>
+    <string name="updatenow">Teraz aktualizovať</string>
+    <string name="updateFail">Sťahovanie zlyhalo. Zatvorte a znova otvorte</string>
+    <string name="initializing">Inicializácia</string>
+    <string name="Retrying">Retrying</string>
+    <string name="language">Jazyk</string>
+
+
+
+    <string name="Popular">populárne</string>
+    <string name="s_New">Nový</string>
+    <string name="apps">aplikácie</string>
+
+
+    <string name="mergering">Konečné spracovanie</string>
+    <string name="mergerwait">Konečné spracovanie (Vyžaduje 1-2 minúty)</string>
+
+
+
+    <string name="Startverification">Spustite overovanie</string>
+    <string name="verificationShangXian">Och! Dosiahli ste denný limit preberania, skúste to znova po X hodinách.</string>
+    <string name="verificationFail">Overenie zlyhalo, skúste to znova!</string>
+    <string name="Morehelp">(Viac pomoci)</string>
+    <string name="uid">ID používateľa</string>
+    <string name="copysuccess">Userid bol skopírovaný do schránky.</string>
+
+    <string name="watchnow">Zobraziť teraz</string>
+    <string name="ggdownloading">Reklamy sa načítavajú, počkajte a nechajte Happymod otvorený.</string>
+    <string name="verificaing">Pri overovaní počkajte chvíľu.</string>
+
+
+
+    <string name="Removeads">Odstrániť reklamy</string>
+    <string name="Paidforfree">Platené zadarmo</string>
+    <string name="Unlimitedmoney">Neobmedzené peniaze</string>
+    <string name="Freepurchase">Nákup zadarmo</string>
+    <string name="Freeshopping">Nakupovanie zadarmo</string>
+    <string name="Unlocked">odomknutý</string>
+    <string name="Patched">oprava</string>
+    <string name="Premium">poistné</string>
+    <string name="Pro">pre</string>
+    <string name="ModLite">Mod Lite</string>
+    <string name="Subscribed">upísaný</string>
+    <string name="Prime">hlavný</string>
+    <string name="Plus">Plus</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">substrát</string>
+    <string name="Debloated">Debloated</string>
+    <string name="Donate">darovať</string>
+    <string name="AOSPcompatible">Kompatibilný s AOSP</string>
+    <string name="Cracked">Křaplavý</string>
+    <string name="NoAds">Žiadne reklamy</string>
+    <string name="Infinite">nekonečný</string>
+    <string name="Endless">nekonečný</string>
+    <string name="Invincible">neporaziteľný</string>
+    <string name="Unlimitedhints">Neobmedzené rady</string>
+    <string name="Megamod">Mega mod</string>
+    <string name="Full">plne</string>
+
+
+    <string name="Username">užívateľské meno</string>
+    <string name="Usernameinit">4-50 znakov</string>
+    <string name="Usernametip">Iba písmená a-z, čísla, @. - _ Prosím (žiadne medzery alebo iné špeciálne znaky). 4-50 znakov.</string>
+    <string name="Password">heslo</string>
+    <string name="Enteryourpassword">6-8 znakov</string>
+    <string name="passwordtip">Iba písmená A-Z, a-z, čísla （bez medzier alebo špeciálnych znakov). 6-8 znakov.</string>
+    <string name="nicknametip">Táto prezývka je už prijatá.</string>
+    <string name="Nickname">prezývka</string>
+    <string name="Emailaddress">Emailová adresa</string>
+    <string name="Enteryouremail">Zadajte svoj e-mail</string>
+    <string name="Telephonenumber">Telefónne číslo</string>
+    <string name="Enteryourtelephonenumber">Zadajte svoje telefónne číslo</string>
+    <string name="phonetip">Zadajte platný telefónny telefón.</string>
+    <string name="emailtip">Zadajte platnú e-mailovú adresu.</string>
+    <string name="Signup">Prihlásiť Se</string>
+    <string name="tuiat">Toto uživateľské meno je už obsadené.</string>
+    <string name="Login">Prihlásiť sa</string>
+    <string name="Account">účet</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">ALEBO sa prihláste pomocou svojho používateľského mena</string>
+    <string name="newur">Registrácia nového používateľa</string>
+    <string name="Usernameinitnew">Používateľské meno (4 - 50 znakov)</string>
+    <string name="Passwordnew">Heslo (6 - 8 znakov)</string>
+    <string name="Emailnew">e-mail</string>
+    <string name="PhoneNumber">Telefónne číslo</string>
+    <string name="Unknown">nevedno</string>
+    <string name="enteryEmail">Zadajte svoj e-mail</string>
+    <string name="enteryPhone">Zadajte svoje telefónne číslo</string>
+    <string name="signuptips">Ak zabudnete svoje heslo, budete ho potrebovať na získanie čísla „Telefónne číslo“ alebo „E-mail“. Odporúčame ich vyplniť.</string>
+
+    <string name="confirmusername">Potvrďte používateľské meno</string>
+    <string name="next">Ďalšie</string>
+    <string name="fblogdes">Zadajte používateľské meno. Užívateľské meno je veľmi dôležitým identifikátorom na získanie hesla, majte na pamäti.</string>
+    <string name="selectusername">Vyberte používateľské meno</string>
+    <string name="reselpass_desone">Ak chcete obnoviť heslo, zadajte používateľské meno účtu. Máte problém s resetovaním hesla<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Zadajte e-mail alebo telefónne číslo. Máte problém s resetovaním hesla<u>contact us</u>.</string>
+    <string name="forgetgosingup">Nemôže si spomenúť na žiadnu z nich? prosím<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Obnoviť heslo</string>
+    <string name="NewPassword">Nové heslo</string>
+    <string name="Enterthepasswordagain">Potvrďte heslo</string>
+    <string name="signuplimitdes">Vaše zariadenie dosiahlo maximálny počet registrovaných používateľských mien. Prihláste sa, prosím, nižšie uvedené používateľské meno.</string>
+    <string name="Register">Registrovať</string>
+    <string name="eyun">Zadajte vaše používateľské meno</string>
+    <string name="eypsw">Zadajte svoje heslo</string>
+    <string name="loginerrortips">Zadajte správne používateľské meno a heslo. Všimnite si, že pole hesiel rozlišuje veľké a malé písmená.</string>
+    <string name="Resetpasswordfailed">Obnovenie hesla zlyhalo.</string>
+    <string name="Theusernamewasnotregistered">Meno používateľa nebolo zaregistrované.</string>
+    <string name="petceotn">Zadajte správny e-mail alebo telefónne číslo.</string>
+    <string name="fbrfail">Register Facebook zlyhal.</string>
+    <string name="Registerfailed">Registrácia zlyhala, skontrolujte, či je sieťové pripojenie normálne, kliknite na tlačidlo registrácie a skúste to znova.</string>
+    <string name="Loginfailed">Prihlásenie zlyhalo.</string>
+    <string name="me">ma</string>
+    <string name="Avatar">avatar</string>
+    <string name="Myposts">moje príspevky</string>
+    <string name="passowrduploadok">Heslo bolo úspešne zmenené</string>
+    <string name="logout">Odhlásiť sa</string>
+    <string name="passwordsame">Dve zadané heslá sú nekonzistentné</string>
+    <string name="PopularComments">Populárne komentáre</string>
+
+
+    <string name="Request">žiadosť</string>
+    <string name="Youarerequesting">Žiadate:</string>
+    <string name="Addrequest">Pridať požiadavku</string>
+    <string name="Myrequests">Moje požiadavky</string>
+    <string name="Myuploads">Moje odovzdané videá</string>
+    <string name="Updated">aktualizované</string>
+    <string name="Comingsoon">Už čoskoro</string>
+    <string name="searchappyouwanttorequest">Hľadať v aplikácii, ktorú chcete požiadať:</string>
+    <string name="Addupload">Pridať odovzdanie</string>
+    <string name="requestdetailhint">Viac informácií o vašej žiadosti. (Najmenej 50 znakov)</string>
+    <string name="requesterror">Odoslanie zlyhalo, skúste to znova neskôr.</string>
+    <string name="detailserror">(100 - 4000 znakov)</string>
+    <string name="view">vyhliadka</string>
+    <string name="isthiswork">Funguje to?</string>
+    <string name="edit">editovať</string>
+    <string name="APKZippyshareurl">Adresa URL APK Zippyshare/Mediafire:</string>
+    <string name="OBBDataurl">Adresa URL OBB / Data Zippyshare/Mediafire: (nepovinné)</string>
+    <string name="Youarereupload">Nahrávate:</string>
+    <string name="Upload">Nahrať</string>
+    <string name="Uploadfail">Nahrávanie zlyhalo.</string>
+    <string name="apkfail">Zadajte adresu URL súboru APK Zippyshare/Mediafire.</string>
+    <string name="obbfail">Zadajte adresu Zippyshare/Mediafire súboru obb.</string>
+    <string name="worked">pracoval</string>
+    <string name="Uploadsuccess">Úspech odovzdania</string>
+    <string name="Requestsuccess">Požiadajte o úspech</string>
+    <string name="clickyes">Túto požiadavku môžete upraviť a znova odoslať z funkčného frontu.</string>
+    <string name="clickno">Táto požiadavka bude znova pridaná do zoznamu.</string>
+    <string name="downloadpush_remind">Zobraziť oznámenie po inštalácii</string>
+    <string name="messages">správy</string>
+    <string name="RecommendMods">Odporučiť Mods</string>
+    <string name="requestdetailserror">(50 - 4000 znakov)</string>
+
+    <string name="Changetheimage">Zmena obrázka >></string>
+    <string name="Typethecodeinthebox">Zadajte kód do poľa</string>
+    <string name="Verificationerror">Overenie zlyhalo, skúste to znova.</string>
+    <string name="Verifing">Overovanie …</string>
+
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">Pred odstránením vyskúšajte iné servery</string>
+    <string name="fix_tips_content">Chcete sa pripojiť k inému serveru a pokúsiť sa ho stiahnuť pred jeho odstránením?</string>
+    <string name="fix_progress_title">Skenovacie servery</string>
+    <string name="fix_progress_content">Nájdenie najrýchlejšieho servera pre vás môže chvíľu trvať, počkajte.</string>
+    <string name="fix_failed_content">Momentálne nemáte k dispozícii žiadne servery. Skúste to znova neskôr.</string>
+    <string name="fix_tips_failtitle">Žiadne ďalšie servery</string>
+    <string name="fix_ok">Skús to</string>
+
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Najskôr si stiahnite tento režim.</string>
+    <string name="myvoted">Môj hlas</string>
+    <string name="working">pracovné</string>
+    <string name="inanhour">Hlasujte znova o hodinu.</string>
+
+    <string name="Review">Preskúmanie</string>
+    <string name="myreply">Moje odpovede</string>
+    <string name="Post">pošta</string>
+    <string name="addavideo">Pridajte video</string>
+    <string name="enterthevideourlhere">Sem zadajte webovú adresu videa YouTube.</string>
+    <string name="onlysupportyoutube">Podporujú iba videá YouTube</string>
+    <string name="searchorcreate">Vyhľadajte alebo vytvorte</string>
+    <string name="hashtags">História - značky hash</string>
+    <string name="featuredhash">Odporúčané značky hash</string>
+    <string name="newhshstag">Nový hashtag</string>
+    <string name="hot">horúco</string>
+    <string name="Comments">Komentáre</string>
+    <string name="replies">odpovede</string>
+    <string name="community">spoločenstvo</string>
+    <string name="report">správa</string>
+    <string name="reply">odpoveď</string>
+    <string name="reportsuccess">Vaša správa bola úspešne odoslaná.</string>
+    <string name="reportfail">Vaše hlásenie sa nepodarilo odoslať.</string>
+    <string name="replytowho">Odpoveď na X:</string>
+    <string name="replyfail">Odpoveď zlyhala</string>
+    <string name="Reviews">recenzia</string>
+    <string name="success">Úspech</string>
+    <string name="sendfailed">neúspešný</string>
+    <string name="deletesuccess">Úspešne odstránené</string>
+    <string name="deletefailed">Odstránenie zlyhalo</string>
+    <string name="Group">skupina</string>
+    <string name="repliedtouser">odpovedal</string>
+    <string name="speaksomething">Zadajte aspoň 20 znakov</string>
+    <string name="speaktoolong">Počet znakov prekračuje limit, je možné zadať až 4 000 znakov.</string>
+    <string name="tapandholdptodelete">Ak chcete obrázok odstrániť, klepnite a podržte.</string>
+    <string name="addvideofaild">Pridanie videa zlyhalo！ Uistite sa, že vaša sieť môže prehľadávať video YouTube a znova ho pridať.</string>
+    <string name="Video">video</string>
+
+    <string name="Hotsearches">Horúce vyhľadávania</string>
+    <string name="Hothashtags">Horúce značky hashtag</string>
+    <string name="history">histórie</string>
+    <string name="aboutthisgame">O tejto hre</string>
+    <string name="details">podrobnosti</string>
+    <string name="sellallreviews">Zobraziť všetky recenzie</string>
+
+    <string name="hfivetitle">Rýchle hry</string>
+    <string name="Recommended">odporúča</string>
+    <string name="exit_tips">Opäť stlačte pre ukončenie hry</string>
+    <string name="h5_menu_reload">reload</string>
+    <string name="h5_menu_share">zdieľam</string>
+    <string name="h5_menu_shortcut">Pridať na domovskú obrazovku</string>
+    <string name="installplaywitouthti">Okamžitá hra bez nutnosti inštalácie</string>
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Och ...</string>
+    <string name="crash_toast_message">Ľutujeme, výnimka aplikácie bude ukončená ， odošlite hlásenie o chybe e-mailom.</string>
+    <string name="crash_dialog_message">Ľutujeme, výnimka z aplikácie, odošlite hlásenie o chybe e-mailom.</string>
+    <string name="crash_dialog_feedback">Nahlásiť chyby</string>
+    <string name="crash_dialog_restart">Reštart</string>
+
+    <string name="init_fail">Inicializácia zlyhala, použite VPN alebo prejdite na iné siete.</string>
+    <string name="error_file_des">Tento súbor bol odstránený a teraz sa znova sťahuje.</string>
+
+    <string name="sdpermission">Potrebujeme prístup k vášmu externému úložisku. Uistite sa, že bolo povolenie udelené.</string>
+    <string name="Night_Mode">Nočný mód</string>
+
+    <string name="thisty">Používateľské meno je obsadené. Skúste iný. K dispozícii:</string>
+
+    <!--home_feature-->
+    <string name="Feature">predstavoval</string>
+    <string name="editorpick">Vyber editora</string>
+    <string name="PopularInlast">Populárne za posledných 24 hodín</string>
+    <string name="Latestupdated">Posledná aktualizácia</string>
+    <string name="paidforfree">Platené zadarmo</string>
+
+    <string name="ToadyRecommend">Odporúčanie Toady</string>
+    <string name="hotmods">Hot Mods</string>
+    <string name="hotrecommended">Odporúča sa</string>
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Odovzdajte mod</string>
+    <string name="addapost">Pridajte príspevok</string>
+    <string name="launch_des">Nájdite 100% pracovných režimov \n Nahrávané používateľmi; Overené používateľmi!</string>
+    <string name="requestamod">Vyžiadajte si mod</string>
+    <string name="uploadamod">Odovzdajte mod</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">inštalácia</string>
+    <string name="bundleneedsfive">Ľutujeme, balík Bundle potrebuje systém Android 5.0 a novší.</string>
+    <string name="parsingerror">Chyba pri analýze súboru APK alebo zrušená.</string>
+    <string name="tipsinstallok">Inštalácia bola úspešná.</string>
+    <string name="tipsinstallfail">Inštalácia zlyhala, skúste znova.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Maximálne 10 MB na obrázok.</string>
+    <string name="Imagesmustbelessthan">Obrázky musia byť menšie ako 10 MB, zmenšite rozmery obrázka, znova uložte alebo znova exportujte súbor a skúste ho znova nahrať.</string>
+    <string name="installfailed">Inštalácia zlyhala.</string>
+    <string name="miuides">Zapnite možnosti vývojára, vypnite optimalizáciu MIUI a skúste to znova.</string>
+
+    <string name="playdes">hrať</string>
+    <string name="todayhotgame">Dnes je horúco</string>
+    <string name="newcoming">Nové prichádzajúce</string>
+    <string name="recentlyplayed">Naposledy prehraté</string>
+    <string name="toopenitquickntime">Ak ho chcete nabudúce rýchlo otvoriť, postupujte takto:</string>
+    <string name="finditin">Nájdite to v X</string>
+    <string name="needhelp">Potrebujete pomoc?</string>
+    <string name="peoplealsoplaygames">Ľudia hrali túto hru tiež hrali:</string>
+
+    <string name="opencommunitydes">Ak nájdete príspevok pre dospelých alebo akýkoľvek zlý príspevok, kliknite na tlačidlo nahlásiť v pravom hornom rohu príspevku. Príspevok odstránime a plagát zablokujeme prvýkrát! Prosím, hovorte civilizovane!</string>
+    <string name="myreviews">Moje recenzie</string>
+
+    <string name="tagthisapp">Nahlásiť túto aplikáciu</string>
+    <string name="appuploader">Aplikáciu nahral používateľ</string>
+    <string name="votedresult">Už ste hlasovali pre túto aplikáciu.</string>
+    <string name="votedokok">Váš hlas bol úspešne odoslaný.</string>
+    <string name="please_downlaodthisapp">Najskôr si stiahnite túto aplikáciu.</string>
+    <string name="safetitle">Aplikácia APK zaručená</string>
+    <string name="safedes">Tento apk prešiel bezpečnostným testom na vírus, malware. Využíval dôveryhodný a overený digitálny podpis.</string>
+    <string name="bereported">Nahlásili ste to.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Najskôr dokončite poradie sťahovania.</string>
+    <string name="adduploadvideo">Pridať video: (voliteľné)</string>
+    <string name="uploadscreenshots">Nahrajte snímky obrazovky (160 * 90)</string>
+    <string name="scerrnshoteserror">Vyžadujú sa snímky obrazovky.</string>
+    <string name="bannererror">Banner je povinný údaj.</string>
+    <string name="pleaseentergoogleaddress">Vložte ID aplikácie alebo URL do Google Play.</string>
+    <string name="thisposthasbeendeleted">Tento príspevok bol odstránený.</string>
+    <string name="add">Pridať</string>
+    <string name="oagputc">Alebo pokračujte pridaním adresy URL pre Google Play</string>
+    <string name="description">Popis:</string>
+    <string name="uploadbanner">Nahrať banner (702 * 460)</string>
+    <string name="noedituploadtips">Nemôžete ju odoslať bez vykonania akýchkoľvek zmien.</string>
+    <string name="addexcusiveaddressixit">Tento apk už existuje.</string>
+
+    <string name="itisworkingonyourdevice">Funguje to na vašom zariadení?</string>
+    <string name="no_working">Nefunguje</string>
+    <string name="vote_it">Hlasujte za to</string>
+    <string name="novirus">Žiadny vírus</string>
+    <string name="nomalware">Žiadny malware</string>
+    <string name="nospyware">Žiadny spyvér</string>
+    <string name="less">Menej</string>
+
+    <string name="votedandfail">Už ste skontrolovali, pozrite si zoznam „Moje recenzie“.</string>
+
+</resources>

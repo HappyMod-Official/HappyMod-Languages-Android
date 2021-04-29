@@ -1,0 +1,463 @@
+<resources>
+
+    <!--土耳其-->
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <!--首页-->
+    <string name="Paid">Ücretli</string>
+    <string name="GAME">OYUN</string>
+    <string name="APP">APP</string>
+    <string name="NEW">YENİ</string>
+    <string name="Categories">Kategoriler</string>
+    <string name="games">Oyunlar</string>
+    <string name="REFRESH">Yenile</string>
+    <string name="Unable_to_connect_to_the_network">İnternete erişilemiyor.</string>
+    <string name="Recommended_Game_Mods">Tavsiye Edilen Oyun Modları</string>
+    <string name="Hot_Game_Mods">Popüler Oyun Modları</string>
+    <string name="Recommended_App_Mods">Önerilen Uygulama Modları</string>
+    <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
+    <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
+    <string name="Last_Update_Mods">En son güncellemeler</string>
+    <string name="SearchHint">Arama..</string>
+
+
+    <string name="Homeweb">Resmi internet sitesi</string>
+    <string name="Management">Yönetim</string>
+    <string name="Settings">Ayarlar</string>
+    <string name="Feedback">Geri Bildirim</string>
+    <string name="Translation">Çeviri</string>
+    <string name="Share">Paylaş</string>
+    <string name="Checkforupdate">Güncellemeleri kontrol ediniz</string>
+    <string name="FollowusonTwitter">Bizi Twitter\'da takip edin</string>
+    <string name="FollowusonFacebook">Facebook üzerinden bizi takip et</string>
+
+
+    <string name="settings_network_remind">Mobil Şebeke Uyarısı</string>
+    <string name="settings_auto_install">Otomatik olarak yükle</string>
+    <string name="Download_Directory">İndirme Dizini</string>
+    <string name="settings_other">Diğer</string>
+    <string name="settings_clear_cache">Önbelleği Temizle</string>
+    <string name="Clean_up_the_complete">Önbellek temizlendi.</string>
+
+
+    <string name="des_no_serach_result"> Hata! Sonuç bulunamadı.</string>
+
+
+    <string name="Downloads">İndirilenler</string>
+    <string name="Downloading">İndiriliyor</string>
+    <string name="Finished">İndirilmesi Bitenler</string>
+    <string name="No_Download">Dosya bulunamadı.</string>
+    <string name="Pause">Duraklat</string>
+    <string name="Waiting_in_queue">Kuyrukta bekliyor</string>
+    <string name="Completed">Tamamlandı</string>
+    <string name="UnZiping">Ayıklanıyor</string>
+    <string name="UnZip_succeed">Bitmiş Ayıklanıyor</string>
+    <string name="Rate">Oy Ver</string>
+    <string name="Rated">Oy Verildi</string>
+    <string name="Version">versiyon</string>
+    <string name="Ratingsreviews">Derecelendirmeler Ve Yorumlar</string>
+    <string name="Tryitlater">Sonra Tekrar Dene</string>
+    <string name="Serviceisbusy">Bağlanıyor...</string>
+
+
+
+    <string name="Notice">İhbar</string>
+    <string name="deletethistask">Bu Dosyayı Sil</string>
+    <string name="Cancel">İptal Et</string>
+    <string name="Delete">Sil</string>
+    <string name="Whydeletethisdownload">İndirdiğiniz Şeyi Neden Siliyorsunuz?</string>
+    <string name="NotwhatIwant">İstediğim Değil</string>
+    <string name="Downloadfailed">Yükleme Başarısız</string>
+    <string name="Downloadistooslow">İndirme Çok Yavaş</string>
+
+    <string name="Mods">Değişiklikler</string>
+    <string name="Original">Orijinal</string>
+    <string name="Previousversion">Önceki Versiyon</string>
+    <string name="Download">İndir</string>
+    <string name="Downloadobb">İndir (APK+OBB)</string>
+    <string name="Downloaddata">İndir (APK+DATA)</string>
+    <string
+        name="Downloadboundle">Paketi İndir</string>
+
+    <string name="Downloaded">İndirildi</string>
+    <string name="Install">Kur</string>
+    <string name="Connecting">Bağlanıyor...</string>
+    <string name="readmore">Daha fazlasını oku</string>
+    <string name="modfeature">Mod Özelliği:</string>
+    <string name="Moreversion">Daha Fazla Sürüm</string>
+    <string name="Recommend">Tavsiye Edilen</string>
+    <string name="Recommendmod">Önerilen Mod</string>
+    <string name="Moremods">Daha fazla Mod</string>
+
+
+
+    <string name="Submit">Gönder</string>
+    <string name="Hated_it">Nefret ediyorum</string>
+    <string name="Disliked_it">Beğenmedim</string>
+    <string name="Its_ok">İyi</string>
+    <string name="Liked_it">Sevdim!</string>
+    <string name="Loved_it">Çok Sevdim!</string>
+
+
+
+    <string name="share_happymod">‘HappyMod’ üzerinden paylaş</string>
+    <string name="share_subject">Konuyu Paylaş</string>
+    <string name="share_text">% 100 çalışan modu indir @HappyMod\nhttps://www.happymod.com/</string>
+
+
+    <string name="pref_location">Depolama yeri</string>
+
+
+    <string name="force_des">% 100 Çalışan Modlar</string>
+    <string name="nvisrti">Yeni sürüm kuruluma hazır.</string>
+    <string name="OPEN">AÇIK</string>
+    <string name="OK">tamam</string>
+    <string name="Loading">Yükleniyor......</string>
+    <string name="updata_tip">HappyMod\'un en son kararlı sürümünü kullanıyorsunuz</string>
+    <string name="xzzb">Lütfen resmi HappyMod\'u indirin.</string>
+    <string name="Continue">Devam et</string>
+    <string name="appobb">APK + OBB</string>
+    <string name="No_space_left_on_device">Cihazda boş alan kalmadı</string>
+    <string name="Is_this_app_you_need">Bu uygulamayı mı arıyorsunuz?</string>
+    <string name="No">Hayır</string>
+    <string name="Yes">Evet</string>
+    <string name="bcdes">. Cihazınızda boş alan bırakın ve tekrar deneyin.</string>
+    <string name="need">; Gerekli:</string>
+    <string name="No_enough_space_left_on_device">Yeteri kadar yer yok. Gereken:</string>
+    <string name="updatenow">Şimdi Güncelle</string>
+    <string name="updateFail">Yükleme başarısız.</string>
+
+    <string name="initializing">Başlatılıyor</string>
+    <string name="Retrying">Tekrar Deneniyor</string>
+    <string name="language">Dil</string>
+
+
+
+    <string name="Popular">Popüler</string>
+    <string name="s_New">Yeni</string>
+    <string name="apps">Uygulamalar</string>
+
+
+
+    <string name="mergering">Son İşlem</string>
+    <string name="mergerwait">Son işlem (1-2 dakika gerekir)</string>
+
+
+
+    <string name="Startverification">Doğrulamayı Başlat</string>
+    <string name="verificationShangXian">Hata! Günlük indirme sınırına ulaştınız, X saat sonra tekrar deneyin.</string>
+    <string name="verificationFail">Doğrulama başarısız. Lütfen tekrar deneyiniz!</string>
+    <string name="Morehelp">(Daha fazla yardım)</string>
+    <string name="uid">Kullanıcı kimliği</string>
+    <string name="copysuccess">Kullanıcı kimliği panoya kopyalandı.</string>
+
+    <string name="watchnow">Şimdi Görüntüle</string>
+    <string name="ggdownloading">Reklamlar yükleniyor, lütfen bekleyin ve happymod\'u açık tutun.</string>
+    <string name="verificaing">Lütfen doğrulama sırasında bekleyin.</string>
+
+    <string name="Removeads">Reklamları kaldır</string>
+    <string name="Paidforfree">Reklamları ücretsiz kaldır</string>
+    <string name="Unlimitedmoney">Sınırsız para</string>
+    <string name="Freepurchase">Ücretsiz satın alma</string>
+    <string name="Freeshopping">Ücretsiz alışveriş</string>
+    <string name="Unlocked">Kilit kaldırıldı</string>
+    <string name="Patched">Yamalı</string>
+    <string name="Premium">Premium</string>
+    <string name="Pro">Pro Sürüm</string>
+    <string name="ModLite">Lite Versiyon</string>
+    <string name="Subscribed">Abone Olundu</string>
+    <string name="Prime">Prime Sürüm</string>
+    <string name="Plus">Plus Versiyon</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Substratum</string>
+    <string name="Debloated">Yararsızı Silin</string>
+    <string name="Donate">Bağış Yap</string>
+    <string name="AOSPcompatible">AOSP Uyumlu</string>
+    <string name="Cracked">Cracklendi</string>
+    <string name="NoAds">Reklamsız</string>
+    <string name="Infinite">Sonsuz</string>
+    <string name="Endless">Sonsuz</string>
+    <string name="Invincible">Yenilmez</string>
+    <string name="Unlimitedhints">Sonsuz istemi</string>
+    <string name="Megamod">Çoklu mod</string>
+    <string name="Full">Tam Sürüm</string>
+
+
+
+    <string name="Username">Kullanıcı adı</string>
+    <string name="Usernameinit">4-50 karakter</string>
+    <string name="Usernametip">Sadece a-z harfleri, sayılar, @. - _  (boşluk veya başka özel karakter). 4-50 karakter.</string>
+    <string name="Password">Parola</string>
+    <string name="Enteryourpassword">Parolanı Gir</string>
+    <string name="passwordtip">Sadece harfler A-Z, a-z, sayılar （boşluksuz veya özel karakterler). 6-8 karakter.</string>
+    <string name="nicknametip">Bu takma ad çoktan alındı.</string>
+    <string name="Nickname">Takma ad</string>
+    <string name="Emailaddress">E-posta adresi</string>
+    <string name="Enteryouremail">E-postanızı giriniz</string>
+    <string name="Telephonenumber">Telefon numarası</string>
+    <string name="Enteryourtelephonenumber">Telefon numaranızı giriniz</string>
+    <string name="phonetip">Geçerli bir telefon numarası girin.</string>
+    <string name="emailtip">Geçerli bir e-posta adresi girin.</string>
+    <string name="Signup">kaydol</string>
+    <string name="tuiat">Bu kullanıcı adı zaten alınmış.</string>
+    <string name="Login">Oturum aç</string>
+    <string name="Account">Hesap</string>
+    <string name="forgotpassword">Şifreni mi unuttun?</string>
+
+    <string name="loginwithaccount">Veya kullanıcı adınızla giriş yapın</string>
+    <string name="newur">Yeni kullanıcı kaydı</string>
+    <string name="Usernameinitnew">Kullanıcı adı (4-50 karakter)</string>
+    <string name="Passwordnew">Şifre (6-8 karakter)</string>
+    <string name="Emailnew">E-posta</string>
+    <string name="PhoneNumber">Telefon numarası</string>
+    <string name="Unknown">Bilinmeyen</string>
+    <string name="enteryEmail">E-postanızı giriniz</string>
+    <string name="enteryPhone">Telefon numaranızı girin</string>
+    <string name="signuptips">Şifrenizi unuttuğunuzda, bildirim almak için "Telefon numarası" veya "E-posta" gerekir. Bunları tamamlamanızı öneririz.</string>
+
+    <string name="confirmusername">Kullanıcı Adını Onayla</string>
+    <string name="next">Sonraki</string>
+    <string name="fblogdes">Lütfen bir kullanıcı adı giriniz. Kullanıcı adı, şifreyi almak için çok önemli bir tanımlayıcıdır, lütfen aklınızda bulundurun.</string>
+    <string name="selectusername">Kullanıcı adı seç</string>
+    <string name="reselpass_desone">Şifreyi sıfırlamak için hesabınızın kullanıcı adını girin. Parolayı sıfırlamakla ilgili herhangi bir sorununuz varsa<u>bizimle iletişime geç</u>.</string>
+    <string name="reselpass_destwo">Lütfen e-postayı veya telefon numarasını girin. Parolayı sıfırlamakla ilgili herhangi bir sorununuz varsa<u>bizimle iletişime geç</u>.</string>
+    <string name="forgetgosingup">Hiçbirini hatırlayamıyorum? Lütfen<u>yenj hesaba giriş yap</u>.</string>
+    <string name="Resetpassword">Şifreyi sıfırla</string>
+    <string name="NewPassword">Yeni Şifre</string>
+    <string name="Enterthepasswordagain">Şifreyi onayla</string>
+    <string name="signuplimitdes">Cihazınız maksimum kayıtlı kullanıcı adı sayısına ulaştı. Lütfen giriş yapmak için aşağıdan kullanıcı adını seçin.</string>
+    <string name="Register">Kayıt ol</string>
+    <string name="eyun">Kullanıcı adınızı giriniz</string>
+    <string name="eypsw">Şifrenizi girin</string>
+    <string name="loginerrortips">Lütfen doğru bir kullanıcı adı ve şifre girin. Şifre alanının büyük / küçük harf duyarlı olduğunu unutmayın.</string>
+    <string name="Resetpasswordfailed">Parolayı sıfırlama başarısız oldu.</string>
+    <string name="Theusernamewasnotregistered">Kullanıcı adı kayıtlı değildi.</string>
+    <string name="petceotn">Lütfen doğru e-postayı veya telefon numarasını girin.</string>
+    <string name="fbrfail">Facebook kaydı başarısız oldu.</string>
+    <string name="Registerfailed">Kayıt işlemi başarısız oldu, lütfen ağ bağlantınızın normal olduğunu onaylayın, tekrar denemek için kayıt düğmesini tıklayın.</string>
+    <string name="Loginfailed">Giriş başarısız.</string>
+    <string name="me">Ben</string>
+    <string name="Avatar">Avatar</string>
+    <string name="Myposts">gönderilerim</string>
+    <string name="passowrduploadok">parola başarıyla değiştirildi</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="passwordsame">Girdiğiniz iki şifre tutarsız</string>
+    <string name="PopularComments">Popüler Yorumlar</string>
+
+    <string name="Request">İstek</string>
+    <string name="Youarerequesting">Senin isteklerin:</string>
+    <string name="Addrequest">İstekte Bulun</string>
+    <string name="Myrequests">Benim isteklerim</string>
+    <string name="Myuploads">Yüklemelerim</string>
+    <string name="Updated">Güncellenmiş</string>
+    <string name="Comingsoon">Çok yakında</string>
+    <string name="searchappyouwanttorequest">İstediğiniz uygulamayı arayın:</string>
+    <string name="Addupload">Yükleme ekle</string>
+    <string name="requestdetailhint">İsteğiniz hakkında daha fazla bilgi göster. (En az 50 karakter)</string>
+    <string name="requesterror">Gönderme başarısız oldu, lütfen daha sonra tekrar deneyin.</string>
+    <string name="detailserror">(100-4000 karakter)</string>
+    <string name="view">Görünüm</string>
+    <string name="isthiswork">Çalışıyor mu?</string>
+    <string name="edit">Düzenle</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL\'si:</string>
+    <string name="OBBDataurl">OBB / Veri Zippyshare/Mediafire url\'si: (isteğe bağlı)</string>
+    <string name="Youarereupload">Yüklüyorsunuz:</string>
+    <string name="Upload">Yükle</string>
+    <string name="Uploadfail">Yükleme başarısız.</string>
+    <string name="apkfail">Lütfen apk dosyasının Zippyshare/Mediafire URL\'sini girin.</string>
+    <string name="obbfail">Lütfen obb dosyasının Zippyshare/Mediafire URL\'sini girin.</string>
+    <string name="worked">işlenmiş</string>
+    <string name="Uploadsuccess">Yükleme başarılı</string>
+    <string name="Requestsuccess">Başarı isteyin</string>
+    <string name="clickyes">Bu isteği çalışılan kuyruğundan düzenleyebilir ve yeniden gönderebilirsiniz.</string>
+    <string name="clickno">Bu istek yakında tekrar sıraya eklenecek.</string>
+    <string name="downloadpush_remind">Yüklemeden sonra bildirimi göster</string>
+    <string name="messages">Mesajlar</string>
+    <string name="RecommendMods">Tavsiye Modlar</string>
+    <string name="requestdetailserror">(50-4000 karakter)</string>
+
+    <string name="Changetheimage">Resmi değiştir >></string>
+    <string name="Typethecodeinthebox">Kodu kutuya yazın</string>
+    <string name="Verificationerror">Doğrulama başarısız. Lütfen tekrar deneyiniz.</string>
+    <string name="Verifing">Doğrulanıyor …</string>
+
+
+
+
+    <string name="fix_tips_title">Silmeden önce diğer sunucuları deneyin.</string>
+    <string name="fix_tips_content">Silmeden önce indirmeyi denemek için başka bir sunucuya bağlanmak ister misiniz?</string>
+    <string name="fix_progress_title">Tarama sunucuları</string>
+    <string name="fix_progress_content">Sizin için en hızlı sunucuyu bulmak birkaç dakika sürebilir, lütfen bekleyiniz.</string>
+    <string name="fix_failed_content">Şu anda size uygun sunucu yok, lütfen daha sonra tekrar deneyin.</string>
+    <string name="fix_tips_failtitle">Başka sunucu yok</string>
+    <string name="fix_ok">Dene</string>
+
+
+    <string name="please_loginanddownload">Lütfen önce bu modu indirin.</string>
+    <string name="myvoted">Oyum</string>
+    <string name="working">Çalışma</string>
+    <string name="inanhour">Lütfen bir saat içinde tekrar oy verin.</string>
+
+    <string name="Review">gözden geçirmek</string>
+    <string name="myreply">Cevaplarım</string>
+    <string name="Post">İleti</string>
+    <string name="addavideo">Video ekle</string>
+    <string name="enterthevideourlhere">Lütfen buraya Youtube video URL\'sini girin.</string>
+    <string name="onlysupportyoutube">Sadece Youtube videolarını destekleyin</string>
+    <string name="searchorcreate">Ara ya da oluştur</string>
+    <string name="hashtags">Tarihçe hashtagleri</string>
+    <string name="featuredhash">Öne çıkan hashtag\'ler</string>
+    <string name="newhshstag">Yeni etiket</string>
+    <string name="hot">Sıcak</string>
+    <string name="Comments">Yorumlar</string>
+    <string name="replies">Cevaplar</string>
+    <string name="community">Topluluk</string>
+    <string name="report">Bildiri</string>
+    <string name="reply">cevap</string>
+    <string name="reportsuccess">Raporunuz başarıyla gönderildi.</string>
+    <string name="reportfail">Raporunuz gönderilemedi.</string>
+    <string name="replytowho">X\'e Cevapla:</string>
+    <string name="replyfail">Yanıt başarısız</string>
+    <string name="Reviews">yorumlar</string>
+    <string name="success">başarı</string>
+    <string name="sendfailed">Başarısız oldu</string>
+    <string name="deletesuccess">Başarıyla silindi</string>
+    <string name="deletefailed">Silinemedi</string>
+    <string name="Group">grup</string>
+    <string name="repliedtouser">cevap verdi</string>
+    <string name="speaksomething">Lütfen en az 20 karakter girin</string>
+    <string name="speaktoolong">Karakter sayısı limiti aşıyor, 4000 karaktere kadar girilebilir.</string>
+    <string name="tapandholdptodelete">Silmek için resme dokunun ve basılı tutun.</string>
+    <string name="addvideofaild">Video ekleme başarısız oldu！ Lütfen ağınızın Youtube videolarına göz atabildiğinden ve yeniden ekleyebildiğinden emin olun.</string>
+    <string name="Video">Video</string>
+
+
+    <string name="Hotsearches">Popüler aramalar</string>
+    <string name="Hothashtags">Popüler hashtag</string>
+    <string name="history">Tarihçe</string>
+    <string name="aboutthisgame">Bu oyun hakkında</string>
+    <string name="details">ayrıntılar</string>
+    <string name="sellallreviews">Tüm incelemelere bak</string>
+
+
+    <string name="hfivetitle">Hızlı oyunlar</string>
+    <string name="Recommended">Tavsiye edilen</string>
+    <string name="exit_tips">Oyundan çıkmak için tekrar basın</string>
+    <string name="h5_menu_reload">Tekrar yükle</string>
+    <string name="h5_menu_share">Paylaş</string>
+    <string name="h5_menu_shortcut">Ana ekrana ekle</string>
+    <string name="installplaywitouthti">Yüklemek zorunda olmadan oynayabilirsiniz.</string>
+
+    <string name="crash_dialog_title">Hata ...</string>
+    <string name="crash_toast_message">Üzgünüz, uygulama istisnası, çıkış olacak ， lütfen hata raporunuzu e-postayla gönderin.</string>
+    <string name="crash_dialog_message">Üzgünüz, uygulama istisnası, lütfen hata raporunuzu e-postayla gönderin.</string>
+    <string name="crash_dialog_feedback">Hata bildir</string>
+    <string name="crash_dialog_restart">Tekrar başlat</string>
+
+    <string name="init_fail">Başlatma başarısız oldu, lütfen VPN kullanın veya diğer ağlara geçin.</string>
+    <string name="error_file_des">Bu dosya silinmiş ve artık yeniden indiriliyor.</string>
+
+    <string name="sdpermission">Harici depolama alanınıza erişmemiz gerekiyor. Lütfen iznin verildiğinden emin olun.</string>
+    <string name="Night_Mode">Gece modu</string>
+
+    <string name="thisty">Bu kullanıcı adı alındı. Başka bir tane deneyin. Mevcut:</string>
+
+
+    <string name="Feature">Öne çıkan</string>
+    <string name="editorpick">Editörün Seçimi</string>
+    <string name="PopularInlast">Son 24 Saat İçinde Popüler</string>
+    <string name="Latestupdated">En Son Güncelleme</string>
+    <string name="paidforfree">Bedava Olanlar</string>
+
+    <string name="ToadyRecommend">Toady \'nin Tavsiyesi</string>
+    <string name="hotmods">Popüler Modlar</string>
+    <string name="hotrecommended">Popüler Tavsiye</string>
+
+
+    <string name="searchappyouwanttoupload">Yüklemek istediğiniz uygulamada arama yapın:</string>
+    <string name="addapost">Bir yayın ekle</string>
+    <string name="launch_des">% 100 Çalışan Modları Bul Kullanıcılar tarafından yüklendi; Kullanıcılar tarafından Onaylandı!</string>
+    <string name="requestamod">Mod İsteyin</string>
+    <string name="uploadamod">Bir mod yükle</string>
+
+
+    <string name="Installing">yükleme</string>
+    <string name="bundleneedsfive">Maalesef, Bundle\'ın Android 5.0 ve üstü sürümlere ihtiyacı var.</string>
+    <string name="parsingerror">APK ayrıştırılırken hata oluştu veya iptal edildi.</string>
+    <string name="tipsinstallok">Kurulum başarılı oldu.</string>
+    <string name="tipsinstallfail">Yükleme başarısız, lütfen tekrar deneyin.</string>
+
+
+    <string name="maxmbperimage">Görüntü başına maksimum 10 MB.</string>
+    <string name="Imagesmustbelessthan">Resimler 10 MB\'tan küçük olmalıdır, lütfen resim boyutlarını azaltın, dosyanızı yeniden kaydedin veya yeniden dışa aktarın ve tekrar yüklemeyi deneyin.</string>
+
+    <string name="installfailed">Yükleme başarısız.</string>
+    <string name="miuides">Lütfen Geliştirici Seçeneklerini açın, MIUI optimizasyonunu kapatın ve tekrar deneyin.</string>
+
+    <string name="playdes">Oyna</string>
+    <string name="todayhotgame">Bugün çok popüler</string>
+    <string name="newcoming">Yeni gelen</string>
+    <string name="recentlyplayed">Son oynatılan</string>
+    <string name="toopenitquickntime">Bir dahaki sefere hızlı bir şekilde açmak için lütfen:</string>
+    <string name="finditin">X\'de bul</string>
+    <string name="needhelp">Yardıma mı ihtiyacınız var?</string>
+    <string name="peoplealsoplaygames">Kullanıcılar bu oyunu da oynadılar:</string>
+
+    <string name="opencommunitydes">Bir yetişkin veya herhangi bir kötü gönderi bulursanız, lütfen gönderinin sağ üst köşesindeki bildir düğmesine tıklayın, gönderiyi silip ilk kez gönderiyi engelleyeceğiz! Lütfen medeni konuşun!</string>
+    <string name="myreviews">İncelemelerim</string>
+
+
+    <string name="tagthisapp">Bu uygulamayı işaretleyin</string>
+    <string name="appuploader">Uygulamayı yükleyen:</string>
+    <string name="votedresult">Bu uygulamaya zaten oy verdiniz.</string>
+    <string name="votedokok">Oyunuz başarıyla gönderildi.</string>
+    <string name="please_downlaodthisapp">Lütfen önce bu uygulamayı indirin.</string>
+    <string name="safetitle">Uygulama apk Garantili</string>
+    <string name="safedes">Bu apk, virüs ve kötü amaçlı yazılım için güvenlik testini geçti. Güvenilir ve doğrulanmış bir dijital imza kullandı.</string>
+    <string name="bereported">Rapor ettin.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Lütfen önce indirme sıranızı tamamlayın.</string>
+    <string name="adduploadvideo">Video ekle: (isteğe bağlı)</string>
+    <string name="uploadscreenshots">Ekran görüntüleri yükleyin (160 * 90)</string>
+    <string name="scerrnshoteserror">Ekran görüntüleri gereklidir.</string>
+    <string name="bannererror">Afiş gerekli.</string>
+    <string name="pleaseentergoogleaddress">Lütfen Google Play\'de uygulama kimliğini veya URL\'sini girin.</string>
+    <string name="thisposthasbeendeleted">Bu gönderi silindi.</string>
+    <string name="add">Ekle</string>
+    <string name="oagputc"> Veya devam etmek için Google play URL\'sini ekleyin</string>
+    <string name="description">Açıklama:</string>
+    <string name="uploadbanner">Afiş yükle (702 * 460)</string>
+    <string name="noedituploadtips">Herhangi bir değişiklik yapmadan gönderemezsiniz.</string>
+    <string name="addexcusiveaddressixit">Bu apk zaten var.</string>
+
+    <string name="itisworkingonyourdevice">Cihazınızda çalışıyor mu?</string>
+    <string name="no_working">Çalışmıyor</string>
+    <string name="vote_it">Oy ver</string>
+    <string name="novirus">Virüs yok</string>
+    <string name="nomalware">Kötü Amaçlı Yazılım Yok</string>
+    <string name="nospyware">Casus Yazılım Yok</string>
+    <string name="less">Az</string>
+
+    <string name="votedandfail">Zaten incelediniz, lütfen "İncelemelerim" listesini kontrol edin.</string>
+
+</resources>

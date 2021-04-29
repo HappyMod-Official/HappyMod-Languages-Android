@@ -1,0 +1,459 @@
+<resources>
+    <!--马来语-->
+
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <string name="Paid">Dibayar</string>
+    <string name="GAME">Permainan</string>
+    <string name="APP">Aplikasi</string>
+    <string name="NEW">Baru</string>
+    <string name="Categories">Kategori</string>
+    <string name="games">Permainan</string>
+    <string name="REFRESH">Refresh</string>
+    <string name="Unable_to_connect_to_the_network">Tidak dapat mengakses internet.</string>
+    <string name="Recommended_Game_Mods">Mod Game yang disyorkan</string>
+    <string name="Hot_Game_Mods">Mod permainan panas</string>
+    <string name="Recommended_App_Mods">Mod App yang Disyorkan</string>
+    <string name="Hot_App_Mods">Mod aplikasi panas</string>
+    <string name="Recommended_New_Mods">Mod baru yang disyorkan</string>
+    <string name="Last_Update_Mods">Kemas Kini Terkini</string>
+    <string name="SearchHint">Cari ..</string>
+
+
+    <string name="Homeweb">Laman web rasmi</string>
+    <string name="Management">Pengurusan</string>
+    <string name="Settings">Tetapan</string>
+    <string name="Feedback">Maklumbalas</string>
+    <string name="Translation">Terjemahan</string>
+    <string name="Share">Kongsi</string>
+    <string name="Checkforupdate">Semak Kemas Kini</string>
+    <string name="FollowusonTwitter">Ikuti kami di Twitter</string>
+    <string name="FollowusonFacebook">Ikuti kami di Facebook</string>
+
+
+    <string name="settings_network_remind">Alert Rangkaian Mudah Alih</string>
+    <string name="settings_auto_install">Pasang secara automatik</string>
+    <string name="Download_Directory">Muat turun Direktori</string>
+    <string name="settings_other">Lain-lain</string>
+    <string name="settings_clear_cache">Kosongkan cache</string>
+    <string name="Clean_up_the_complete">Cache dibersihkan.</string>
+
+
+    <string name="des_no_serach_result"> Oops! Tiada hasil dijumpai.</string>
+
+
+    <string name="Downloads">Muat turun</string>
+    <string name="Downloading">Memuat turun</string>
+    <string name="Finished">Selesai</string>
+    <string name="No_Download">Tiada Fail Dijumpai.</string>
+    <string name="Pause">Jeda</string>
+    <string name="Waiting_in_queue">Menunggu dalam barisan</string>
+    <string name="Completed">Selesai</string>
+    <string name="UnZiping">Mengekstrak</string>
+    <string name="UnZip_succeed">Selesai</string>
+    <string name="Rate">Kadar</string>
+    <string name="Rated">Dinilai</string>
+    <string name="Version">Versi</string>
+    <string name="Ratingsreviews">Penilaian</string>
+    <string name="Tryitlater">Cuba kemudian</string>
+    <string name="Serviceisbusy">Menyambung ...</string>
+
+
+
+    <string name="Notice">Notis</string>
+    <string name="deletethistask">Padam fail ini</string>
+    <string name="Cancel">Batalkan</string>
+    <string name="Delete">Padam</string>
+    <string name="Whydeletethisdownload">Mengapa memadamkan muat turun ini?</string>
+    <string name="NotwhatIwant">Bukan apa yang saya mahukan</string>
+    <string name="Downloadfailed">Muat turun gagal</string>
+    <string name="Downloadistooslow">Muat turun terlalu perlahan</string>
+
+
+    <string name="Mods">Mod</string>
+    <string name="Original">Asal</string>
+    <string name="Previousversion">Versi terdahulu</string>
+    <string name="Download">Muat turun</string>
+    <string name="Downloadobb">Muat turun (APK+OBB)</string>
+    <string name="Downloaddata">Muat Turun (APK+DATA)</string>
+    <string name="Downloadboundle">Muat Turun BUNDLE</string>
+
+
+    <string name="Downloaded">Dikemaskini</string>
+    <string name="Install">Pasang</string>
+    <string name="Connecting">Menyambung ...</string>
+    <string name="readmore">Baca Lebih Lanjut</string>
+    <string name="modfeature">Maklumat mod:</string>
+    <string name="Moreversion">Lebih Banyak Versi</string>
+    <string name="Recommend">Mengesyorkan</string>
+    <string name="Recommendmod">Mod Disyorkan</string>
+    <string name="Moremods">Versi Terkini</string>
+
+
+    <string name="Submit">Hantar</string>
+    <string name="Hated_it">Benci!</string>
+    <string name="Disliked_it">Tidak suka.</string>
+    <string name="Its_ok">Ia ok.</string>
+    <string name="Liked_it">Suka.</string>
+    <string name="Loved_it">Suka!</string>
+
+
+    <string name="share_happymod">Kongsi \'HappyMod\' melalui</string>
+    <string name="share_subject">Dapatkan HappyMod</string>
+    <string name="share_text">Muat turun 100% mod kerja dengan @HappyMod \ nhttps: //www.happymod.com/</string>
+
+
+    <string name="pref_location">Lokasi penyimpanan</string>
+
+
+    <string name="force_des">Mod Kerja 100%</string>
+    <string name="nvisrti">versi baru siap dipasang.</string>
+    <string name="OPEN">BUKA</string>
+    <string name="OK">okey</string>
+    <string name="Loading">Memuatkan ......</string>
+    <string name="updata_tip">Anda menggunakan versi terbaru HappyMod yang stabil</string>
+    <string name="xzzb">Sila muat turun HappyMod rasmi.</string>
+    <string name="Continue">Teruskan</string>
+    <string name="appobb">APK OBB</string>
+    <string name="No_space_left_on_device">Tiada lagi ruang di dalam peranti</string>
+    <string name="Is_this_app_you_need">Adakah anda sedang mencari aplikasi ini?</string>
+    <string name="No">Tidak</string>
+    <string name="Yes">Ya</string>
+    <string name="bcdes">. Simpankan storan dan cuba lagi.</string>
+    <string name="need">; Tersedia:</string>
+    <string name="No_enough_space_left_on_device">Tidak cukup ruang. Perlu:</string>
+    <string name="updatenow">Mengemas kini sekarang</string>
+    <string name="updateFail">Muat turun gagal. Sila tutup dan buka semula</string>
+    <string name="initializing">Inisialisasi</string>
+    <string name="Retrying">Cuba lagi</string>
+    <string name="language">Bahasa</string>
+
+
+
+    <string name="Popular">Popular</string>
+    <string name="s_New">Baru</string>
+    <string name="apps">Apps</string>
+
+
+    <string name="mergering">Pemprosesan akhir</string>
+    <string name="mergerwait">Pemprosesan akhir (Perlu 1-2 minit)</string>
+
+
+
+    <string name="Startverification">Mulakan Pengesahan</string>
+    <string name="verificationShangXian">Oops! Anda telah mencapai had muat turun harian, cuba lagi selepas jam X.</string>
+    <string name="verificationFail">Pengesahan gagal, sila cuba lagi!</string>
+    <string name="Morehelp">(Bantuan lanjut)</string>
+    <string name="uid">ID Pengguna</string>
+    <string name="copysuccess">Userid telah disalin ke papan klip.</string>
+
+    <string name="watchnow">Lihat sekarang</string>
+    <string name="ggdownloading">Iklan memuatkan, sila tunggu dan simpan gembira.</string>
+    <string name="verificaing">Dalam pengesahan, sila tunggu seketika.</string>
+
+
+
+    <string name="Removeads">Alih iklan</string>
+    <string name="Paidforfree">Dibayar secara percuma</string>
+    <string name="Unlimitedmoney">Wang tanpa had</string>
+    <string name="Freepurchase">Pembelian percuma</string>
+    <string name="Freeshopping">Belanja percuma</string>
+    <string name="Unlocked">Dikunci</string>
+    <string name="Patched">Patched</string>
+    <string name="Premium">Premium</string>
+    <string name="Pro">Pro</string>
+    <string name="ModLite">Mod Lite</string>
+    <string name="Subscribed">Dilanggan</string>
+    <string name="Prime">Perdana</string>
+    <string name="Plus">Plus</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Substratum</string>
+    <string name="Debloated">Dibongkar</string>
+    <string name="Donate">Dermakan</string>
+    <string name="AOSPcompatible">AOSP serasi</string>
+    <string name="Cracked">Retak</string>
+    <string name="NoAds">Tiada iklan</string>
+    <string name="Infinite">Infinite</string>
+    <string name="Endless">Tidak berkesudahan</string>
+    <string name="Invincible">Tak terkalahkan</string>
+    <string name="Unlimitedhints">Petua yang tidak terhad</string>
+    <string name="Megamod">Mod Mega</string>
+    <string name="Full">Penuh</string>
+
+
+    <string name="Username">Nama pengguna</string>
+    <string name="Usernameinit">4-50 aksara</string>
+    <string name="Usernametip">Hanya huruf a-z, nombor, @. - _ sila (tiada ruang atau aksara khas lain). 4-50 aksara.</string>
+    <string name="Password">Kata laluan</string>
+    <string name="Enteryourpassword">6-8 aksara</string>
+    <string name="passwordtip">Hanya huruf A-Z, a-z, nombor (tiada ruang atau aksara khas). 6-8 aksara.</string>
+    <string name="nicknametip">Nama samaran ini telah diambil.</string>
+    <string name="Nickname">Nama samaran</string>
+    <string name="Emailaddress">Alamat emel</string>
+    <string name="Enteryouremail">Masukkan emel anda</string>
+    <string name="Telephonenumber">Nombor telefon</string>
+    <string name="Enteryourtelephonenumber">Masukkan nombor telefon anda</string>
+    <string name="phonetip">Masukkan nubmer telefon yang sah.</string>
+    <string name="emailtip">Masukkan alamat e-mel yang sah.</string>
+    <string name="Signup">Daftar</string>
+    <string name="tuiat">Nama pengguna ini sudah diambil.</string>
+    <string name="Login">Log masuk</string>
+    <string name="Account">Akaun</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">ATAU log masuk dengan nama pengguna anda</string>
+    <string name="newur">Pendaftaran pengguna baru</string>
+    <string name="Usernameinitnew">Nama pengguna (4-50 aksara)</string>
+    <string name="Passwordnew">Kata laluan (6-8 aksara)</string>
+    <string name="Emailnew">E-mel</string>
+    <string name="PhoneNumber">Nombor telefon</string>
+    <string name="Unknown">Tidak diketahui</string>
+    <string name="enteryEmail">Masukkan emel anda</string>
+    <string name="enteryPhone">Masukkan nombor telefon anda</string>
+    <string name="signuptips">Apabila anda lupa kata laluan anda, anda perlu "Nombor telefon" atau "E-mel" untuk mendapatkan semula. Kami mengesyorkan agar anda melengkapkannya.</string>
+
+    <string name="confirmusername">Sahkan nama pengguna</string>
+    <string name="next">Seterusnya</string>
+    <string name="fblogdes">Sila masukkan nama pengguna. Nama pengguna adalah pengenal yang sangat penting untuk mendapatkan semula kata laluan, sila ingat.</string>
+    <string name="selectusername">Pilih nama pengguna</string>
+    <string name="reselpass_desone">Masukkan nama pengguna akaun anda untuk menetapkan semula kata laluan. Anda mempunyai sebarang isu mengenai kata laluan semula<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Sila masukkan e-mel atau nombor telefon. Anda mempunyai sebarang isu mengenai kata laluan semula<u>contact us</u>.</string>
+    <string name="forgetgosingup">Tidak boleh ingat mana-mana daripada mereka? Tolong<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Menetapkan semula kata laluan</string>
+    <string name="NewPassword">Kata laluan baharu</string>
+    <string name="Enterthepasswordagain">Sahkan kata laluan</string>
+    <string name="signuplimitdes">Peranti anda telah mencapai bilangan maksimum nama pengguna berdaftar. Sila pilih nama pengguna di bawah untuk log masuk.</string>
+    <string name="Register">Daftar</string>
+    <string name="eyun">Masukkan nama pengguna anda</string>
+    <string name="eypsw">Masukkan kata laluan anda</string>
+    <string name="loginerrortips">Sila masukkan nama pengguna dan kata laluan yang betul. Perhatikan bahawa medan kata laluan adalah sensitif huruf.</string>
+    <string name="Resetpasswordfailed">Reset kata laluan gagal.</string>
+    <string name="Theusernamewasnotregistered">Nama pengguna tidak didaftarkan.</string>
+    <string name="petceotn">Sila masukkan nombor e-mel atau telefon yang betul.</string>
+    <string name="fbrfail">Daftar Facebook gagal.</string>
+    <string name="Registerfailed">Pendaftaran gagal, sila sahkan bahawa sambungan rangkaian anda adalah normal, klik butang pendaftaran untuk mencuba sekali lagi.</string>
+    <string name="Loginfailed">Daftar masuk gagal.</string>
+    <string name="me">Saya</string>
+    <string name="Avatar">Avatar</string>
+    <string name="Myposts">jawatan saya</string>
+    <string name="passowrduploadok">Kata Laluan berjaya ditukar</string>
+    <string name="logout">Log keluar</string>
+    <string name="passwordsame">Kedua kata laluan yang anda masukkan tidak konsisten</string>
+    <string name="PopularComments">Komen Popular</string>
+
+
+    <string name="Request">Permintaan</string>
+    <string name="Youarerequesting">Anda meminta:</string>
+    <string name="Addrequest">Tambah permintaan</string>
+    <string name="Myrequests">Permintaan saya</string>
+    <string name="Myuploads">Muat naik saya</string>
+    <string name="Updated">Dikemaskini</string>
+    <string name="Comingsoon">Akan datang</string>
+    <string name="searchappyouwanttorequest">Cari aplikasi yang ingin anda minta:</string>
+    <string name="Addupload">Tambah muat naik</string>
+    <string name="requestdetailhint">Tunjukkan lebih lanjut mengenai permintaan anda. (50 aksara sekurang-kurangnya)</string>
+    <string name="requesterror">Hantar gagal, sila cuba lagi kemudian.</string>
+    <string name="detailserror">(100-4000 aksara)</string>
+    <string name="view">Lihat</string>
+    <string name="isthiswork">Adakah ia berfungsi?</string>
+    <string name="edit">Edit</string>
+    <string name="APKZippyshareurl">Url Zippyshare/Mediafire APK:</string>
+    <string name="OBBDataurl">URL Zippyshare/Mediafire OBB / Data: (pilihan)</string>
+    <string name="Youarereupload">Anda memuat naik:</string>
+    <string name="Upload">Muat naik</string>
+    <string name="Uploadfail">Muatnaik gagal.</string>
+    <string name="apkfail">Sila masukkan URL Zippyshare/Mediafire fail apk ini.</string>
+    <string name="obbfail">Sila masukkan URL Zippyshare/Mediafire fail obb itu.</string>
+    <string name="worked">Bekerja</string>
+    <string name="Uploadsuccess">Muat naik kejayaan</string>
+    <string name="Requestsuccess">Minta kejayaan</string>
+    <string name="clickyes">Anda boleh mengedit dan menyerahkan semula permintaan ini daripada giliran yang telah bekerja.</string>
+    <string name="clickno">Permintaan ini akan ditambah untuk giliran akan datang lagi.</string>
+    <string name="downloadpush_remind">Tunjukkan pemberitahuan selepas pemasangan</string>
+    <string name="messages">Mesej</string>
+    <string name="RecommendMods">Merekomendasikan Mod</string>
+    <string name="requestdetailserror">(50-4000 aksara)</string>
+
+
+
+    <string name="Changetheimage">Tukar imej >></string>
+    <string name="Typethecodeinthebox">Taipkan kod dalam kotak</string>
+    <string name="Verificationerror">Pengesahan gagal, sila cuba lagi.</string>
+    <string name="Verifing">Mengesahkan …</string>
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">Cuba pelayan lain sebelum memadam</string>
+    <string name="fix_tips_content">Adakah anda ingin menyambung ke pelayan lain untuk cuba memuat turunnya sebelum memadamnya?</string>
+    <string name="fix_progress_title">Mengimbas pelayan</string>
+    <string name="fix_progress_content">Ia mungkin mengambil masa beberapa minit untuk mencari pelayan terpantas untuk anda, sila tunggu.</string>
+    <string name="fix_failed_content">Pada masa ini tiada pelayan yang tersedia untuk anda, sila cuba lagi kemudian.</string>
+    <string name="fix_tips_failtitle">Tiada lagi pelayan</string>
+    <string name="fix_ok">Cuba ia</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Sila muat turun mod ini dahulu.</string>
+    <string name="myvoted">Undi saya</string>
+    <string name="working">Bekerja</string>
+    <string name="inanhour">Sila undi semula dalam masa sejam.</string>
+
+    <string name="Review">Tinjauan</string>
+    <string name="myreply">Jawapan saya</string>
+    <string name="Post">Hantar</string>
+    <string name="addavideo">Tambah video</string>
+    <string name="enterthevideourlhere">Sila masukkan url video Youtube di sini.</string>
+    <string name="onlysupportyoutube">Hanya menyokong video Youtube</string>
+    <string name="searchorcreate">Cari atau buat</string>
+    <string name="hashtags">Hashtags sejarah</string>
+    <string name="featuredhash">Hashtags yang disenaraikan</string>
+    <string name="newhshstag">Hashtag baru</string>
+    <string name="hot">Panas</string>
+    <string name="Comments">Komen</string>
+    <string name="replies">Balasan</string>
+    <string name="community">Komuniti</string>
+    <string name="report">Laporan</string>
+    <string name="reply">Balas</string>
+    <string name="reportsuccess">Laporan anda diserahkan dengan jayanya.</string>
+    <string name="reportfail">Laporan anda gagal dihantar.</string>
+    <string name="replytowho">Balas ke X:</string>
+    <string name="replyfail">Balas gagal</string>
+    <string name="Reviews">Ulasan</string>
+    <string name="success">Kejayaan</string>
+    <string name="sendfailed">Gagal</string>
+    <string name="deletesuccess">Berjaya dihapuskan</string>
+    <string name="deletefailed">Gagal padam</string>
+    <string name="Group">Kumpulan</string>
+    <string name="repliedtouser">jawab kepada</string>
+    <string name="speaksomething">Sila masukkan sekurang-kurangnya 20 charactors</string>
+    <string name="speaktoolong">Bilangan aksara melebihi had, sehingga 4000 aksara boleh dimasukkan.</string>
+    <string name="tapandholdptodelete">Ketik dan tahan gambar untuk memadamkannya.</string>
+    <string name="addvideofaild">Menambah video gagal! Sila pastikan rangkaian anda boleh menyemak imbas video Youtube dan tambahnya semula.</string>
+    <string name="Video">Video</string>
+
+    <string name="Hotsearches">Carian panas</string>
+    <string name="Hothashtags">Hashtags panas</string>
+    <string name="history">Sejarah</string>
+    <string name="aboutthisgame">Mengenai permainan ini</string>
+    <string name="details">Butiran</string>
+    <string name="sellallreviews">Lihat semua ulasan</string>
+
+    <string name="hfivetitle">Permainan cepat</string>
+    <string name="Recommended">Disyorkan</string>
+    <string name="exit_tips">Tekan kembali untuk keluar dari permainan</string>
+    <string name="h5_menu_reload">Tambah nilai</string>
+    <string name="h5_menu_share">Kongsi</string>
+    <string name="h5_menu_shortcut">Tambah ke skrin utama</string>
+    <string name="installplaywitouthti">Main segera tanpa perlu memasang</string>
+
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Oops ...</string>
+    <string name="crash_toast_message">Maaf, pengecualian APP, akan keluar, sila serahkan laporan pepijat anda melalui e-mel.</string>
+    <string name="crash_dialog_message">Maaf, pengecualian APP, sila serahkan laporan pepijat anda melalui e-mel.</string>
+    <string name="crash_dialog_feedback">Laporkan pepijat</string>
+    <string name="crash_dialog_restart">Mula semula</string>
+
+    <string name="init_fail">Inisialisasi gagal, sila gunakan VPN atau tukar ke rangkaian lain.</string>
+    <string name="error_file_des">Fail ini telah dipadam dan sedang dimuat turun semula sekarang.</string>
+
+    <string name="sdpermission">Kami perlu mengakses storan luaran anda. Sila pastikan kebenaran diberikan.</string>
+    <string name="Night_Mode">Mod malam</string>
+
+    <string name="thisty">Nama pengguna itu diambil. Cuba yang lain. Tersedia:</string>
+
+    <!--home_feature-->
+    <string name="Feature">Disediakan</string>
+    <string name="editorpick">Pilih Editor</string>
+    <string name="PopularInlast">Popular dalam 24 jam terakhir</string>
+    <string name="Latestupdated">Terkini Dikemaskini</string>
+    <string name="paidforfree">Dibayar Percuma</string>
+
+    <string name="ToadyRecommend">Cadangan Toady \'s</string>
+    <string name="hotmods">Mod Panas</string>
+    <string name="hotrecommended">Disyorkan Hot</string>
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Cari aplikasi yang ingin anda muat naik:</string>
+    <string name="addapost">Tambahkan siaran</string>
+    <string name="launch_des">Cari Mod Kerja 100% \n Diunggah oleh pengguna; Disahkan oleh pengguna!</string>
+    <string name="requestamod">Minta mod</string>
+    <string name="uploadamod">Muat naik mod</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">Memasang</string>
+    <string name="bundleneedsfive">Maaf, Bundle memerlukan Android 5.0 dan lebih tinggi.</string>
+    <string name="parsingerror">Ralat menguraikan apk atau dibatalkan.</string>
+    <string name="tipsinstallok">Pemasangan berjaya.</string>
+    <string name="tipsinstallfail">Pemasangan gagal, sila cuba lagi.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Maksimum 10MB setiap gambar.</string>
+    <string name="Imagesmustbelessthan">Gambar mestilah kurang dari 10MB, harap kurangkan dimensi gambar, simpan semula atau eksport semula fail anda, dan cuba muat naik semula.</string>
+
+    <string name="installfailed">Pemasangan gagal.</string>
+    <string name="miuides">Sila hidupkan Pilihan Pembangun, matikan pengoptimuman MIUI dan cuba lagi.</string>
+
+    <string name="playdes">Main</string>
+    <string name="todayhotgame">Hari ini panas</string>
+    <string name="newcoming">Baru masuk</string>
+    <string name="recentlyplayed">Baru dimainkan</string>
+    <string name="toopenitquickntime">Untuk membukanya dengan cepat lain kali, sila:</string>
+    <string name="finditin">Cari di X</string>
+    <string name="needhelp">Perlukan bantuan?</string>
+    <string name="peoplealsoplaygames">Orang yang bermain permainan ini juga bermain:</string>
+    <string name="opencommunitydes">Sekiranya anda menjumpai orang dewasa atau entri yang tidak baik, sila klik butang laporan di sudut kanan atas siaran, dan kami akan memadam siaran dan menyekat poster pada kali pertama! Tolong bercakap beradab!</string>
+    <string name="myreviews">Ulasan saya</string>
+
+    <string name="tagthisapp">Tandakan aplikasi ini</string>
+    <string name="appuploader">Aplikasi yang dimuat naik oleh</string>
+    <string name="votedresult">Anda telah memilih aplikasi ini.</string>
+    <string name="votedokok">Undian anda berjaya dihantar.</string>
+    <string name="please_downlaodthisapp">Sila muat turun aplikasi ini terlebih dahulu.</string>
+    <string name="safetitle">Aplikasi apk Dijamin</string>
+    <string name="safedes">Apk ini lulus ujian keselamatan untuk virus, malware. Ia menggunakan tandatangan digital yang dipercayai dan disahkan.</string>
+    <string name="bereported">Anda telah melaporkannya.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Sila selesaikan barisan muat turun anda terlebih dahulu.</string>
+    <string name="adduploadvideo">Tambahkan video: (pilihan)</string>
+    <string name="uploadscreenshots">Muat naik tangkapan skrin (160 * 90)</string>
+    <string name="scerrnshoteserror">Tangkapan skrin diperlukan.</string>
+    <string name="bannererror">Sepanduk diperlukan.</string>
+    <string name="pleaseentergoogleaddress">Sila masukkan id atau URL aplikasi di Google Play.</string>
+    <string name="thisposthasbeendeleted">Catatan ini telah dipadamkan.</string>
+    <string name="add">Tambah</string>
+    <string name="oagputc">Atau tambahkan URL main Google untuk meneruskan</string>
+    <string name="description">Penerangan:</string>
+    <string name="uploadbanner">Muat naik sepanduk (702 * 460)</string>
+    <string name="noedituploadtips">Anda tidak dapat menyerahkannya tanpa membuat perubahan.</string>
+    <string name="addexcusiveaddressixit">Apk ini sudah ada.</string>
+
+    <string name="itisworkingonyourdevice">Adakah ia berfungsi pada peranti anda?</string>
+    <string name="no_working">Tidak bekerja</string>
+    <string name="vote_it">Undi</string>
+    <string name="novirus">Tiada Virus</string>
+    <string name="nomalware">Tiada perisian hasad</string>
+    <string name="nospyware">Tiada perisian pengintip</string>
+    <string name="less">Kurang</string>
+    <string name="votedandfail">Anda sudah menyemak, sila semak senarai "Ulasan saya".</string>
+
+</resources>

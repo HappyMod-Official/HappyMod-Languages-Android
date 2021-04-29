@@ -1,0 +1,466 @@
+<resources>
+
+    <!--匈牙利-->
+
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <!--首页-->
+    <string name="Paid">fizet</string>
+    <string name="GAME">játék</string>
+    <string name="APP">kérelem</string>
+    <string name="NEW">legutolsó</string>
+    <string name="Categories">besorolás</string>
+    <string name="games">játék</string>
+    <string name="REFRESH">felfrissít</string>
+    <string name="Unable_to_connect_to_the_network">Nem lehet hozzáférni az internethez</string>
+    <string name="Recommended_Game_Mods">Ajánlott játékok Mods</string>
+    <string name="Hot_Game_Mods">Népszerű játékok Mods</string>
+    <string name="Recommended_App_Mods">Ajánlott alkalmazási módok</string>
+    <string name="Hot_App_Mods">Top App Mods</string>
+    <string name="Recommended_New_Mods">Ajánlott új módok</string>
+    <string name="Last_Update_Mods">Legutóbbi frissítés</string>
+    <string name="SearchHint">Keresés ..</string>
+
+    <!-- 侧滑-->
+    <string name="Homeweb">Hivatalos honlap</string>
+    <string name="Management">vezetés</string>
+    <string name="Settings">beállítása</string>
+    <string name="Feedback">visszacsatolás</string>
+    <string name="Translation">fordítás</string>
+    <string name="Share">részvény</string>
+    <string name="Checkforupdate">Ellenőrizze a frissítéseket</string>
+    <string name="FollowusonTwitter">Kövess minket a Twitteren</string>
+    <string name="FollowusonFacebook">Kövess minket a Facebookon</string>
+
+    <!--设置页-->
+    <string name="settings_network_remind">Mobil hálózati riasztás</string>
+    <string name="settings_auto_install">Automatikus telepítés</string>
+    <string name="Download_Directory">Könyvtár letöltése</string>
+    <string name="settings_other">más</string>
+    <string name="settings_clear_cache">Gyorsítótár törlése</string>
+    <string name="Clean_up_the_complete">A gyorsítótár törölve</string>
+
+    <!--空数据页-->
+    <string name="des_no_serach_result">Hoppá! Nincs találat.</string>
+
+    <!--下载管理页-->
+    <string name="Downloads">Letöltés</string>
+    <string name="Downloading">A letöltés</string>
+    <string name="Finished">letöltve</string>
+    <string name="No_Download">A fájl nem található.</string>
+    <string name="Pause">szünet</string>
+    <string name="Waiting_in_queue">Várakozás a sorban</string>
+    <string name="Completed">befejezték</string>
+    <string name="UnZiping">kivonat</string>
+    <string name="UnZip_succeed">Teljes kitermelés</string>
+    <string name="Rate">Értékelések</string>
+    <string name="Rated">osztályozott</string>
+    <string name="Version">kiadás</string>
+    <string name="Ratingsreviews">Értékelés és értékelés</string>
+    <string name="Tryitlater">Próbálkozzon később</string>
+    <string name="Serviceisbusy">Connected ...</string>
+
+
+    <!-- 下载删除的文字 -->
+    <string name="Notice">figyel</string>
+    <string name="deletethistask">Törölje ezt a fájlt</string>
+    <string name="Cancel">törölve</string>
+    <string name="Delete">töröl</string>
+    <string name="Whydeletethisdownload">Miért törölje ezt a letöltést?</string>
+    <string name="NotwhatIwant">Nem az, amit akarok</string>
+    <string name="Downloadfailed">Sikertelen letöltés</string>
+    <string name="Downloadistooslow">A letöltés túl lassú</string>
+
+
+    <!--APP详情页-->
+    <string name="Mods">MODS</string>
+    <string name="Original">az eredeti</string>
+    <string name="Previousversion">Történelmi változat</string>
+    <string name="Download">Letöltés</string>
+    <string name="Downloadobb">Letöltés (APK+OBB)</string>
+    <string name="Downloaddata">Letöltés (APK+DATA)</string>
+    <string name="Downloadboundle">Letöltés BUNDLE</string>
+
+
+    <string name="Downloaded">letöltve</string>
+    <string name="Install">felszerel</string>
+    <string name="Connecting">Connected ...</string>
+    <string name="readmore">További információ</string>
+    <string name="modfeature">Mod információk:</string>
+    <string name="Moreversion">További verziók</string>
+    <string name="Recommend">ajánlás</string>
+    <string name="Recommendmod">Ajánlott mod</string>
+    <string name="Moremods">További módok</string>
+
+
+    <!--评分-->
+    <string name="Submit">Küldje</string>
+    <string name="Hated_it">Utálom!</string>
+    <string name="Disliked_it">Nem tetszik.</string>
+    <string name="Its_ok">Nem számít.</string>
+    <string name="Liked_it">Tetszik.</string>
+    <string name="Loved_it">Szeretem!</string>
+
+
+    <!--分享-->
+    <string name="share_happymod">Ossza meg a HappyMod-ot</string>
+    <string name="share_subject">GetMod</string>
+    <string name="share_text">Töltse le a 100% -ban könnyen használható mod-ot a @HappyMod segítségével \ t</string>
+
+    <!--修改路径-->
+    <string name="pref_location">Tárolási hely</string>
+
+    <!--update -->
+    <string name="force_des">100% könnyen használható mod</string>
+    <string name="nvisrti">Az új verzió telepítésre kész.</string>
+    <string name="OPEN">nyílt</string>
+    <string name="OK">jó</string>
+    <string name="Loading">Adatok betöltése ...</string>
+    <string name="updata_tip">A HappyMod legújabb verzióját használja</string>
+    <string name="xzzb">Töltse le a hivatalos HappyMod-ot.</string>
+    <string name="Continue">folytatódik</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">Nincs hely a készüléken</string>
+    <string name="Is_this_app_you_need">Ezt az alkalmazást keresed?</string>
+    <string name="No">nincs</string>
+    <string name="Yes">van</string>
+    <string name="bcdes">. Szabadítson fel tárhelyet, és próbálja újra.</string>
+    <string name="need">; Elérhető:</string>
+    <string name="No_enough_space_left_on_device">Nincs elég tárhely. Szükség:</string>
+    <string name="updatenow">Frissítés most</string>
+    <string name="updateFail">A letöltés sikertelen. Kérjük, zárja be és nyissa meg újra</string>
+    <string name="initializing">inicializálás</string>
+    <string name="Retrying">Próbálja újra</string>
+    <string name="language">nyelv</string>
+
+    <!--类别界面 -->
+
+    <string name="Popular">népszerű</string>
+    <string name="s_New">legutolsó</string>
+    <string name="apps">kérelem</string>
+
+
+    <!-- 大文件 -->
+    <string name="mergering">Utolsó lépés</string>
+    <string name="mergerwait">Végső kezelés (1-2 perc)</string>
+
+    <!-- 验证 -->
+    <string name="Startverification">Kezdje el az ellenőrzést</string>
+    <string name="verificationShangXian">Hoppá! Elérte a napi letöltési korlátot. Kérjük, próbálja újra X óra után.</string>
+    <string name="verificationFail">Az ellenőrzés sikertelen, próbálkozz újra!</string>
+    <string name="Morehelp">(további segítség)</string>
+    <string name="uid">Felhasználói azonosító</string>
+    <string name="copysuccess">A felhasználói azonosítót a vágólapra másolták.</string>
+
+    <string name="watchnow">Nézd most!</string>
+    <string name="ggdownloading">A hirdetés betöltődik, kérjük, várjon és tartsa nyitva a happymodot.</string>
+    <string name="verificaing">Kérjük, várjon, amíg az ellenőrzés megtörténik.</string>
+
+    <!-- 评价 -->
+    <string name="Removeads">Hirdetés eltávolítása</string>
+    <string name="Paidforfree">ingyenes</string>
+    <string name="Unlimitedmoney">Korlátlan aranyat</string>
+    <string name="Freepurchase">Ingyenes vásárlás</string>
+    <string name="Freeshopping">Ingyenes vásárlás</string>
+    <string name="Unlocked">kinyit</string>
+    <string name="Patched">javítás</string>
+    <string name="Premium">Ingyenes</string>
+    <string name="Pro">Professzionális változat</string>
+    <string name="ModLite">Kompakt változat</string>
+    <string name="Subscribed">előfizetés</string>
+    <string name="Prime">elsődleges</string>
+    <string name="Plus">Plusz verzió</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Alsó réteg</string>
+    <string name="Debloated">Törölje a haszontalan</string>
+    <string name="Donate">adományoz</string>
+    <string name="AOSPcompatible">Az AOSP kompatibilis</string>
+    <string name="Cracked">repedés</string>
+    <string name="NoAds">Nincsenek hirdetések</string>
+    <string name="Infinite">végtelen</string>
+    <string name="Endless">végtelen</string>
+    <string name="Invincible">Győzhetetlen</string>
+    <string name="Unlimitedhints">Végtelen üzenet</string>
+    <string name="Megamod">Több repedés</string>
+    <string name="Full">Teljes verzió</string>
+
+
+    <!-- 注册登录 -->
+    <string name="Username">Felhasználónév</string>
+    <string name="Usernameinit">4-50 karakter</string>
+    <string name="Usernametip">Csak a-z betűk, számok, @. - _ kérem (nincs szóköz vagy más különleges karakter). 4-50 karakter.</string>
+    <string name="Password">Jelszó</string>
+    <string name="Enteryourpassword">6-8 karakter</string>
+    <string name="passwordtip">Csak A-Z, a-z, számok （nincsenek szóközök vagy speciális karakterek. 6-8 karakter.</string>
+    <string name="nicknametip">Ez a becenév már foglalt.</string>
+    <string name="Nickname">Becenév</string>
+    <string name="Emailaddress">Email cím</string>
+    <string name="Enteryouremail">Írd be az email címed</string>
+    <string name="Telephonenumber">Telefonszám</string>
+    <string name="Enteryourtelephonenumber">Adja meg telefonszámát</string>
+    <string name="phonetip">Adjon meg egy érvényes telefonszámot.</string>
+    <string name="emailtip">Adjon meg egy érvényes email címet.</string>
+    <string name="Signup">Regisztrálj</string>
+    <string name="tuiat">Ez a felhasználónév már foglalt.</string>
+    <string name="Login">Belépés</string>
+    <string name="Account">számla</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">VAGY jelentkezzen be felhasználónevével</string>
+    <string name="newur">Új felhasználó regisztráció</string>
+    <string name="Usernameinitnew">Felhasználónév (4-50 karakter)</string>
+    <string name="Passwordnew">Jelszó (6-8 karakter)</string>
+    <string name="Emailnew">Email</string>
+    <string name="PhoneNumber">Telefonszám</string>
+    <string name="Unknown">Ismeretlen</string>
+    <string name="enteryEmail">Írd be az email címed</string>
+    <string name="enteryPhone">Írja be a telefonszámát</string>
+    <string name="signuptips">Amikor elfelejti a jelszavát, a letöltéshez "Telefonszámra" vagy "E-mailre" lesz szüksége. Javasoljuk, hogy töltse ki őket.</string>
+
+    <string name="confirmusername">Felhasználónév megerősítése</string>
+    <string name="next">Következő</string>
+    <string name="fblogdes">Kérjük, adjon meg egy felhasználónevet. A felhasználónév nagyon fontos azonosító a jelszó lekéréséhez, kérjük, vegye figyelembe.</string>
+    <string name="selectusername">Jelszó kiválasztása</string>
+    <string name="reselpass_desone">A jelszó visszaállításához írja be fiókjának felhasználónevét. Van valami probléma a jelszó visszaállításával kapcsolatban<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Kérjük, adja meg az e-mailt vagy a telefonszámot. Van valami probléma a jelszó visszaállításával kapcsolatban<u>contact us</u>.</string>
+    <string name="forgetgosingup">Nem emlékezhetsz rájuk? Kérem<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Jelszó visszaállítása</string>
+    <string name="NewPassword">Új jelszó</string>
+    <string name="Enterthepasswordagain">Erősítse meg a jelszót</string>
+    <string name="signuplimitdes">A készülék elérte a regisztrált felhasználónevek maximális számát. A bejelentkezéshez válassza ki az alábbi felhasználónevet.</string>
+    <string name="Register">Regisztráció</string>
+    <string name="eyun">Írd be a felhasználóneved</string>
+    <string name="eypsw">Írd be a jelszavad</string>
+    <string name="loginerrortips">Kérjük, adjon meg helyes felhasználónévet és jelszót. Ne feledje, hogy a jelszó mező kis- és nagybetűk.</string>
+    <string name="Resetpasswordfailed">A jelszó visszaállítása sikertelen.</string>
+    <string name="Theusernamewasnotregistered">A felhasználónevet nem regisztrálták.</string>
+    <string name="petceotn">Kérjük, adja meg a helyes e-mailt vagy telefonszámot.</string>
+    <string name="fbrfail">A Facebook regiszter sikertelen.</string>
+    <string name="Registerfailed">A regisztráció sikertelen, ellenőrizze, hogy a hálózati kapcsolat normális, kattintson a regisztrációs gombra, hogy megpróbálja újra.</string>
+    <string name="Loginfailed">Bejelentkezés sikertelen.</string>
+    <string name="me">Nekem</string>
+    <string name="Avatar">Avatar</string>
+    <string name="Myposts">a hozzászólásaim</string>
+    <string name="passowrduploadok">A jelszó sikeresen megváltozott</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="passwordsame">A megadott két jelszó következetlen</string>
+    <string name="PopularComments">Népszerű megjegyzések</string>
+
+    <!--my request -->
+    <string name="Request">Kérés</string>
+    <string name="Youarerequesting">Ön kér:</string>
+    <string name="Addrequest">Kérelem hozzáadása</string>
+    <string name="Myrequests">Kéréseim</string>
+    <string name="Myuploads">Saját feltöltések</string>
+    <string name="Updated">korszerűsített</string>
+    <string name="Comingsoon">Hamarosan</string>
+    <string name="searchappyouwanttorequest">Keresse meg a kérni kívánt alkalmazást:</string>
+    <string name="Addupload">Feltöltés feltöltése</string>
+    <string name="requestdetailhint">További információ a kérésről. (Legalább 50 karakter)</string>
+    <string name="requesterror">A benyújtás sikertelen, próbálkozzon újra később.</string>
+    <string name="detailserror">(100-4000 karakter)</string>
+    <string name="view">Kilátás</string>
+    <string name="isthiswork">Működik?</string>
+    <string name="edit">szerkesztése</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="OBBDataurl">OBB / adat Zippyshare/Mediafire URL: (nem kötelező)</string>
+    <string name="Youarereupload">Feltölti:</string>
+    <string name="Upload">Feltöltés</string>
+    <string name="Uploadfail">Feltöltés sikertelen.</string>
+    <string name="apkfail">Adja meg a apk fájl Zippyshare/Mediafire URL-jét.</string>
+    <string name="obbfail">Kérjük, adja meg az obb fájl Zippyshare/Mediafire URL-jét.</string>
+    <string name="worked">dolgozott</string>
+    <string name="Uploadsuccess">Feltöltés sikere</string>
+    <string name="Requestsuccess">Kérjen sikert</string>
+    <string name="clickyes">Ezt a kérést szerkeszteni és újraküldeni lehet a megmunkált sorból.</string>
+    <string name="clickno">Ez a kérés ismét hozzáadásra kerül a hamarosan ismétlődő sorhoz.</string>
+    <string name="downloadpush_remind">Az értesítés megjelenítése a telepítés után</string>
+    <string name="messages">üzenetek</string>
+    <string name="RecommendMods">Modulok ajánlása</string>
+    <string name="requestdetailserror">(50-4000 karakter)</string>
+
+    <string name="Changetheimage">A kép módosítása >></string>
+    <string name="Typethecodeinthebox">Írja be a kódot a mezőbe</string>
+    <string name="Verificationerror">Azonosítás sikertelen! Kérem, próbálja újra.</string>
+    <string name="Verifing">Ellenőrzés …</string>
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">Próbálja ki más kiszolgálókat a törlés előtt</string>
+    <string name="fix_tips_content">Szeretne csatlakozni egy másik szerverhez, hogy törlése előtt megpróbálja letölteni?</string>
+    <string name="fix_progress_title">Beolvasó szerverek</string>
+    <string name="fix_progress_content">Néhány percbe telhet, amíg a leggyorsabb kiszolgálót megkeresi, kérjük, várjon.</string>
+    <string name="fix_failed_content">Jelenleg nincs elérhető szerver. Kérjük, próbálkozzon később újra.</string>
+    <string name="fix_tips_failtitle">Nincs több szerver</string>
+    <string name="fix_ok">Próbáld ki</string>
+
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Először töltse le ezt a modot.</string>
+    <string name="myvoted">A szavazatom</string>
+    <string name="working">Dolgozó</string>
+    <string name="inanhour">Kérjük, szavazzon újra egy óra múlva.</string>
+
+    <string name="Review">Felülvizsgálat</string>
+    <string name="myreply">Válaszom</string>
+    <string name="Post">posta</string>
+    <string name="addavideo">Adj hozzá egy videót</string>
+    <string name="enterthevideourlhere">Ide írja be a Youtube video URL-jét.</string>
+    <string name="onlysupportyoutube">Csak a Youtube videókat támogathatod</string>
+    <string name="searchorcreate">Keressen vagy hozzon létre</string>
+    <string name="hashtags">A történelem hashtagjai</string>
+    <string name="featuredhash">Kiemelt hashtagek</string>
+    <string name="newhshstag">Új hashtag</string>
+    <string name="hot">Forró</string>
+    <string name="Comments">Hozzászólások</string>
+    <string name="replies">Válaszok</string>
+    <string name="community">Közösség</string>
+    <string name="report">Jelentés</string>
+    <string name="reply">Válasz</string>
+    <string name="reportsuccess">Jelentését sikeresen elküldtük.</string>
+    <string name="reportfail">A jelentést nem sikerült elküldeni.</string>
+    <string name="replytowho">Válasz X-re:</string>
+    <string name="replyfail">A válasz sikertelen</string>
+    <string name="Reviews">Vélemények</string>
+    <string name="success">Siker</string>
+    <string name="sendfailed">nem sikerült</string>
+    <string name="deletesuccess">Sikeresen törölve</string>
+    <string name="deletefailed">A törlés nem sikerült</string>
+    <string name="Group">Csoport</string>
+    <string name="repliedtouser">válaszolt</string>
+    <string name="speaksomething">Kérjük, legalább 20 karaktert írjon be</string>
+    <string name="speaktoolong">A karakterek száma meghaladja a korlátot, legfeljebb 4000 karakter adható meg.</string>
+    <string name="tapandholdptodelete">Érintse meg hosszan a képet a törléshez.</string>
+    <string name="addvideofaild">A videó hozzáadása sikertelen！ Ellenőrizze, hogy hálózata képes-e böngészni a Youtube videót, és újból hozzáadni.</string>
+    <string name="Video">Videó</string>
+
+    <string name="Hotsearches">Forró keresések</string>
+    <string name="Hothashtags">Forró hashtagek</string>
+    <string name="history">Történelem</string>
+    <string name="aboutthisgame">A játékról</string>
+    <string name="details">Részletek</string>
+    <string name="sellallreviews">Az összes vélemény megtekintése</string>
+
+
+    <string name="hfivetitle">Gyors játékok</string>
+    <string name="Recommended">Ajánlott</string>
+    <string name="exit_tips">Nyomja meg ismét a gombot, hogy kilépjen a játékból</string>
+    <string name="h5_menu_reload">Reload</string>
+    <string name="h5_menu_share">Ossza meg</string>
+    <string name="h5_menu_shortcut">Hozzáadás a kezdőképernyőhöz</string>
+    <string name="installplaywitouthti">Azonnali játék telepítés nélkül</string>
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Hoppá ...</string>
+    <string name="crash_toast_message">Sajnos az APP kivételével kilépünk ， kérjük, küldje el hibajelentését e-mailben.</string>
+    <string name="crash_dialog_message">Sajnáljuk, az APP kivételével, kérjük, küldje el hibajelentését e-mailben.</string>
+    <string name="crash_dialog_feedback">Hibabejelentés</string>
+    <string name="crash_dialog_restart">Újrakezd</string>
+
+    <string name="init_fail">Az inicializálás sikertelen, kérjük, használja a VPN-t, vagy váltson más hálózatokra.</string>
+    <string name="error_file_des">Ezt a fájlt törölték, és most újra letöltik.</string>
+
+    <string name="sdpermission">Hozzá kell férnünk a külső tárhelyhez. Kérjük, ellenőrizze, hogy megadták-e az engedélyt.</string>
+
+    <string name="Night_Mode">Éjszakai mód</string>
+    <string name="thisty">Ezt a felhasználónevet elvették. Próbálj egy másikat. Elérhető:</string>
+    <!--home_feature-->
+    <string name="Feature">Kiemelt</string>
+    <string name="editorpick">A szerkesztő kiválasztása</string>
+    <string name="PopularInlast">Népszerű az elmúlt 24 órában</string>
+    <string name="Latestupdated">Utolsó frissítés</string>
+    <string name="paidforfree">Ingyenes</string>
+
+    <string name="ToadyRecommend">Toady ajánlata</string>
+    <string name="hotmods">Forró modok</string>
+    <string name="hotrecommended">Forró ajánlott</string>
+
+
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Keressen a feltölteni kívánt alkalmazásban:</string>
+    <string name="addapost">Adj hozzá egy bejegyzést</string>
+    <string name="launch_des">Keresse meg a 100% -ban működő modult \ nTöltött felhasználók által; A felhasználók ellenőrizték!</string>
+    <string name="requestamod">Kérjen mod</string>
+    <string name="uploadamod">Tölts fel mod</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">telepítése</string>
+    <string name="bundleneedsfive">Sajnáljuk, de a Bundle Android 5.0-s és újabb verziót igényel.</string>
+    <string name="parsingerror">Hiba történt az apk elemzésében, vagy törölve.</string>
+    <string name="tipsinstallok">A telepítés sikeres volt.</string>
+    <string name="tipsinstallfail">A telepítés sikertelen, próbáld újra.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Képenként legfeljebb 10 MB.</string>
+    <string name="Imagesmustbelessthan">A képeknek 10 MB-nál kevesebbnek kell lenniük. Kérjük, csökkentse a kép méretét, mentse újra vagy exportálja újra a fájlt, és próbálja újra feltölteni.</string>
+
+    <string name="installfailed">Sikertelen telepítés.</string>
+    <string name="miuides">Kérjük, kapcsolja be a Fejlesztői beállításokat, kapcsolja ki a MIUI optimalizálást, és próbálja újra.</string>
+
+    <string name="playdes">Játék</string>
+    <string name="todayhotgame">Ma meleg van</string>
+    <string name="newcoming">Új bejövő</string>
+    <string name="recentlyplayed">Nemrég játszott</string>
+    <string name="toopenitquickntime">A következő alkalommal történő gyors megnyitáshoz kérjük, hogy:</string>
+    <string name="finditin">Keresse meg az X-ben</string>
+    <string name="needhelp">Kell segítség?</string>
+    <string name="peoplealsoplaygames">Az emberek ezt a játékot is játszották:</string>
+
+    <string name="opencommunitydes">Ha felnőttnek vagy rossz posztot talál, kérjük, kattintson a bejegyzés jobb felső sarkában található Jelentés gombra, és mi első alkalommal töröljük a posztot és blokkoljuk a posztert! Kérem, beszéljen civilizáltan!</string>
+    <string name="myreviews">Saját vélemények</string>
+
+    <string name="tagthisapp">Jelölje meg ezt az alkalmazást</string>
+    <string name="appuploader">Az alkalmazást feltöltötte</string>
+    <string name="votedresult">Már szavazott erre az alkalmazásra.</string>
+    <string name="votedokok">Szavazatát sikeresen elküldtük.</string>
+    <string name="please_downlaodthisapp">Kérjük, először töltse le ezt az alkalmazást.</string>
+    <string name="safetitle">App apk garantált</string>
+    <string name="safedes">Ez az apk sikeresen teljesítette a vírusok és a rosszindulatú programok biztonsági tesztjét. Megbízható és ellenőrzött digitális aláírást használt.</string>
+    <string name="bereported">Ön jelentette.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Kérjük, először fejezze be a letöltési sort.</string>
+    <string name="adduploadvideo">Videó hozzáadása: (nem kötelező)</string>
+    <string name="uploadscreenshots">Képernyőképek feltöltése (160 * 90)</string>
+    <string name="scerrnshoteserror">Képernyőképek szükségesek.</string>
+    <string name="bannererror">Szalaghirdetés szükséges.</string>
+    <string name="pleaseentergoogleaddress">Kérjük, adja meg az alkalmazás azonosítóját vagy URL-jét a Google Playen.</string>
+    <string name="thisposthasbeendeleted">Ezt a bejegyzést törölték.</string>
+    <string name="add">Hozzáadás</string>
+    <string name="oagputc">Vagy a folytatáshoz adja hozzá a Google Play URL-t</string>
+    <string name="description">Leírás:</string>
+    <string name="uploadbanner">Szalaghirdetés feltöltése (702 * 460)</string>
+    <string name="noedituploadtips">Nem adhatja be változtatások nélkül.</string>
+    <string name="addexcusiveaddressixit">Ez az apk már létezik.</string>
+
+    <string name="itisworkingonyourdevice">Működik a készülékén?</string>
+    <string name="no_working">Nem működik</string>
+    <string name="vote_it">Szavazz rá</string>
+    <string name="novirus">Nincs vírus</string>
+    <string name="nomalware">Nincs rosszindulatú program</string>
+    <string name="nospyware">Nincs kémprogram</string>
+    <string name="less">Kevésbé</string>
+
+    <string name="votedandfail">Már áttekintette, ellenőrizze a „Saját vélemények” listát.</string>
+
+</resources>

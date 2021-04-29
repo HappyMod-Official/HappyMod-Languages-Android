@@ -1,0 +1,465 @@
+<resources>
+
+
+    <!--意大利-->
+
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <!--首页-->
+    <string name="Paid">Pagata</string>
+    <string name="GAME">Gioco</string>
+    <string name="APP">App</string>
+    <string name="NEW">Nuovo</string>
+    <string name="Categories">categorie</string>
+    <string name="games">Giochi</string>
+    <string name="REFRESH">ricaricare</string>
+    <string name="Unable_to_connect_to_the_network">Impossibile accedere a Internet.</string>
+    <string name="Recommended_Game_Mods">Modifiche di gioco consigliate</string>
+    <string name="Hot_Game_Mods">Modi di gioco caldo</string>
+    <string name="Recommended_App_Mods">Mod consigliate per le app</string>
+    <string name="Hot_App_Mods">Mod di app Hot</string>
+    <string name="Recommended_New_Mods">Nuovi Modi raccomandati</string>
+    <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
+    <string name="SearchHint">Ricerca..</string>
+
+    <!-- 侧滑-->
+    <string name="Homeweb">Sito ufficiale</string>
+    <string name="Management">Gestione</string>
+    <string name="Settings">impostazioni</string>
+    <string name="Feedback">Risposta</string>
+    <string name="Translation">Traduzione</string>
+    <string name="Share">Condividere</string>
+    <string name="Checkforupdate">Ricerca aggiornamenti</string>
+    <string name="FollowusonTwitter">Seguici su Twitter</string>
+    <string name="FollowusonFacebook">Seguici su Facebook</string>
+
+    <!--设置页-->
+    <string name="settings_network_remind">Avviso di rete mobile</string>
+    <string name="settings_auto_install">Installa automaticamente</string>
+    <string name="Download_Directory">Scarica la directory</string>
+    <string name="settings_other">Altro</string>
+    <string name="settings_clear_cache">Cancella cache</string>
+    <string name="Clean_up_the_complete">La cache è cancellata.</string>
+
+    <!--空数据页-->
+    <string name="des_no_serach_result"> Oops! Nessun risultato trovato.</string>
+
+    <!--下载管理页-->
+    <string name="Downloads">download</string>
+    <string name="Downloading">Download</string>
+    <string name="Finished">Finito</string>
+    <string name="No_Download">Nessun file trovato.</string>
+    <string name="Pause">Pausa</string>
+    <string name="Waiting_in_queue">In attesa in coda</string>
+    <string name="Completed">Completato</string>
+    <string name="UnZiping">Estrazione</string>
+    <string name="UnZip_succeed">Estratto finito</string>
+    <string name="Rate">Vota</string>
+    <string name="Rated">nominale</string>
+    <string name="Version">Versione</string>
+    <string name="Ratingsreviews">Giudizi &amp; Recensioni</string>
+    <string name="Tryitlater">Provalo più tardi</string>
+    <string name="Serviceisbusy">Collegamento...</string>
+
+
+    <!-- 下载删除的文字 -->
+    <string name="Notice">Avviso</string>
+    <string name="deletethistask">Elimina questo file</string>
+    <string name="Cancel">Annulla</string>
+    <string name="Delete">Elimina</string>
+    <string name="Whydeletethisdownload">Perché cancellare questo download?</string>
+    <string name="NotwhatIwant">Non quello che voglio</string>
+    <string name="Downloadfailed">Scaricamento fallito</string>
+    <string name="Downloadistooslow">Il download è troppo lento</string>
+
+
+    <!--APP详情页-->
+    <string name="Mods">mods</string>
+    <string name="Original">Originale</string>
+    <string name="Previousversion">Versione precedente</string>
+    <string name="Download">Scaricare</string>
+    <string name="Downloadobb">Scaricare(APK+OBB)</string>
+    <string name="Downloaddata">Scaricare(APK+DATA)</string>
+    <string name="Downloadboundle">Scaricare BUNDLE</string>
+
+
+    <string name="Downloaded">scaricati</string>
+    <string name="Install">Installare</string>
+    <string name="Connecting">Collegamento...</string>
+    <string name="readmore">Leggi di più</string>
+    <string name="modfeature">Informazioni mod:</string>
+    <string name="Moreversion">Più versione</string>
+    <string name="Recommend">raccomandare</string>
+    <string name="Recommendmod">Mod consigliato</string>
+    <string name="Moremods">Più mod</string>
+
+
+    <!--评分-->
+    <string name="Submit">Sottoscrivi</string>
+    <string name="Hated_it">Odio!</string>
+    <string name="Disliked_it">Non mi piace.</string>
+    <string name="Its_ok">Va bene.</string>
+    <string name="Liked_it">Mi piace.</string>
+    <string name="Loved_it">Lo adoro!</string>
+
+
+    <!--分享-->
+    <string name="share_happymod">Condividi \'HappyMod\' via</string>
+    <string name="share_subject">Ottieni HappyMod</string>
+    <string name="share_text">Scarica mods funzionanti al 100% con @HappyMod \ nhttps: //www.happymod.com/</string>
+
+    <!--修改路径-->
+    <string name="pref_location">Luogo di stoccaggio</string>
+
+    <!--update -->
+    <string name="force_des">Modi di lavoro al 100%</string>
+    <string name="nvisrti">la nuova versione è pronta per l\'installazione.</string>
+    <string name="OPEN">APERTO</string>
+    <string name="OK">ok</string>
+    <string name="Loading">Caricamento in corso......</string>
+    <string name="updata_tip">Stai utilizzando l\'ultima versione stabile di HappyMod</string>
+    <string name="xzzb">Si prega di scaricare ufficiale HappyMod.</string>
+    <string name="Continue">Continua</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">Spazio vuoto sul dispositivo</string>
+    <string name="Is_this_app_you_need">Stai cercando questa app?</string>
+    <string name="No">No</string>
+    <string name="Yes">sì</string>
+    <string name="bcdes">. Libera spazio di archiviazione e riprova.</string>
+    <string name="need">; A disposizione:</string>
+    <string name="No_enough_space_left_on_device">NNon c\'è abbastanza spazio. Bisogno:</string>
+    <string name="updatenow">Aggiorna ora</string>
+    <string name="updateFail">Scaricamento fallito. Si prega di chiudere e riaprire</string>
+    <string name="initializing">L\'inizializzazione</string>
+    <string name="Retrying">Nuovo tentativo</string>
+    <string name="language">linguaggio</string>
+
+    <!--类别界面 -->
+
+    <string name="Popular">Popolare</string>
+    <string name="s_New">Nuovo</string>
+    <string name="apps">Apps</string>
+
+
+    <!-- 大文件 -->
+    <string name="mergering">Elaborazione finale</string>
+    <string name="mergerwait">Elaborazione finale (richiede 1-2 minuti)</string>
+
+    <!-- 验证 -->
+    <string name="Startverification">Avvia verifica</string>
+    <string name="verificationShangXian">Oops! Hai raggiunto il limite di download giornaliero, riprova dopo X ore.</string>
+    <string name="verificationFail">Verifica fallita. Per favore provate di nuovo!</string>
+    <string name="Morehelp">(Altro aiuto)</string>
+    <string name="uid">ID utente</string>
+    <string name="copysuccess">Userid è stato copiato negli appunti.</string>
+
+    <string name="watchnow">Visualizza ora</string>
+    <string name="ggdownloading">Caricamento degli annunci, attendere e tenere aperto happymod.</string>
+    <string name="verificaing">Si prega di attendere durante la verifica.</string>
+
+    <!-- 评价 -->
+    <string name="Removeads">Rimuovi annuncio</string>
+    <string name="Paidforfree">gratis</string>
+    <string name="Unlimitedmoney">Denaro illimitato</string>
+    <string name="Freepurchase">Acquisto gratuito</string>
+    <string name="Freeshopping">Acquisto gratuito</string>
+    <string name="Unlocked">sbloccare</string>
+    <string name="Patched">riparazione</string>
+    <string name="Premium">Gratuito</string>
+    <string name="Pro">Versione professionale</string>
+    <string name="ModLite">Versione compatta</string>
+    <string name="Subscribed">abbonamento</string>
+    <string name="Prime">primario</string>
+    <string name="Plus">Versione Plus</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Strato inferiore</string>
+    <string name="Debloated">Elimina inutile</string>
+    <string name="Donate">donare</string>
+    <string name="AOSPcompatible">Compatibile con AOSP</string>
+    <string name="Cracked">crepa</string>
+    <string name="NoAds">Nessun annuncio</string>
+    <string name="Infinite">infinito</string>
+    <string name="Endless">infinito</string>
+    <string name="Invincible">Invincibile</string>
+    <string name="Unlimitedhints">Prompt infinito</string>
+    <string name="Megamod">Più crepe</string>
+    <string name="Full">Versione completa</string>
+
+
+    <!-- 注册登录 -->
+    <string name="Username">Nome utente</string>
+    <string name="Usernameinit">4-50 caratteri</string>
+    <string name="Usernametip">Solo lettere a-z, numeri, @. - _ per favore (senza spazi o altri caratteri speciali). 4-50 caratteri.</string>
+    <string name="Password">Parola d\'ordine</string>
+    <string name="Enteryourpassword">6-8 caratteri</string>
+    <string name="passwordtip">Solo lettere A-Z, a-z, numeri (senza spazi o caratteri speciali). 6-8 caratteri.</string>
+    <string name="nicknametip">Questo nickname è stato già preso.</string>
+    <string name="Nickname">Nickname</string>
+    <string name="Emailaddress">Indirizzo email</string>
+    <string name="Enteryouremail">Inserisci il tuo indirizzo email</string>
+    <string name="Telephonenumber">Numero di telefono</string>
+    <string name="Enteryourtelephonenumber">Inserisci il tuo numero di telefono</string>
+    <string name="phonetip">Inserisci un numero di telefono valido.</string>
+    <string name="emailtip">Inserire un indirizzo email valido.</string>
+    <string name="Signup">Iscriviti</string>
+    <string name="tuiat">Questo nome utente è già in uso.</string>
+    <string name="Login">Accesso</string>
+    <string name="Account">account</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">O accedi con il tuo nome utente</string>
+    <string name="newur">Nuova registrazione utente</string>
+    <string name="Usernameinitnew">Nome utente (4-50 caratteri)</string>
+    <string name="Passwordnew">Password (6-8 caratteri)</string>
+    <string name="Emailnew">E-mail</string>
+    <string name="PhoneNumber">Numero di telefono</string>
+    <string name="Unknown">Sconosciuto</string>
+    <string name="enteryEmail">Inserisci la tua email</string>
+    <string name="enteryPhone">Inserisci il tuo numero di telefono</string>
+    <string name="signuptips">Quando dimentichi la password, avrai bisogno di "Numero di telefono" o "Email" per recuperare. Ti consigliamo di completarli.</string>
+
+    <string name="confirmusername">Conferma il nome utente</string>
+    <string name="next">Il prossimo</string>
+    <string name="fblogdes">Si prega di inserire un nome utente. Il nome utente è un identificatore molto importante per il recupero della password, tieni presente.</string>
+    <string name="selectusername">Seleziona nome utente</string>
+    <string name="reselpass_desone">Inserisci il nome utente del tuo account per reimpostare la password. Hai qualche problema riguardante la reimpostazione della password<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Inserisci l\'email o il numero di telefono. Hai qualche problema riguardante la reimpostazione della password<u>contact us</u>.</string>
+    <string name="forgetgosingup">Non ricordo nessuno di loro? per favore<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Resetta la password</string>
+    <string name="NewPassword">Nuova password</string>
+    <string name="Enterthepasswordagain">Conferma la password</string>
+    <string name="signuplimitdes">Il tuo dispositivo ha raggiunto il numero massimo di nomi utente registrati. Si prega di selezionare il nome utente qui sotto per accedere.</string>
+    <string name="Register">Registrare</string>
+    <string name="eyun">Inserisci il tuo nome utente</string>
+    <string name="eypsw">Inserisci la tua password</string>
+    <string name="loginerrortips">Si prega di inserire un nome utente e una password corretti. Si noti che il campo della password è sensibile al maiuscolo / minuscolo.</string>
+    <string name="Resetpasswordfailed">Reimposta password fallita.</string>
+    <string name="Theusernamewasnotregistered">Il nome utente non è stato registrato.</string>
+    <string name="petceotn">Si prega di inserire l\'e-mail o il numero di telefono corretto.</string>
+    <string name="fbrfail">Registro di Facebook fallito.</string>
+    <string name="Registerfailed">Registrazione fallita, si prega di confermare che la connessione di rete è normale, fare clic sul pulsante di registrazione per riprovare.</string>
+    <string name="Loginfailed">Accesso fallito.</string>
+    <string name="me">Me</string>
+    <string name="Avatar">Avatar</string>
+    <string name="Myposts">i miei post</string>
+    <string name="passowrduploadok">password cambiata con successo</string>
+    <string name="logout">Disconnettersi</string>
+    <string name="passwordsame">Le due password che hai inserito sono incoerenti</string>
+    <string name="PopularComments">Commenti popolari</string>
+
+    <!--意大利 -->
+    <string name="Request">Richiesta</string>
+    <string name="Youarerequesting">Stai richiedendo:</string>
+    <string name="Addrequest">Aggiungi richiesta</string>
+    <string name="Myrequests">Le mie richieste</string>
+    <string name="Myuploads">I miei caricamenti</string>
+    <string name="Updated">aggiornato</string>
+    <string name="Comingsoon">Prossimamente</string>
+    <string name="searchappyouwanttorequest">Cerca l\'app che desideri richiedere:</string>
+    <string name="Addupload">Aggiungi caricamento</string>
+    <string name="requestdetailhint">Mostra di più sulla tua richiesta. (Almeno 50 caratteri)</string>
+    <string name="requesterror">Invio non riuscito, riprova più tardi.</string>
+    <string name="detailserror">(100-4000 caratteri)</string>
+    <string name="view">vista</string>
+    <string name="isthiswork">Funziona?</string>
+    <string name="edit">modificare</string>
+    <string name="APKZippyshareurl">URL APK Zippyshare/Mediafire:</string>
+    <string name="OBBDataurl">URL OBB / Data Zippyshare/Mediafire: (facoltativo)</string>
+    <string name="Youarereupload">Stai caricando:</string>
+    <string name="Upload">Caricare</string>
+    <string name="Uploadfail">Caricamento fallito.</string>
+    <string name="apkfail">Inserisci l\'URL Zippyshare/Mediafire del file apk.</string>
+    <string name="obbfail">Si prega di inserire l\'URL Zippyshare/Mediafire del file obb.</string>
+    <string name="worked">Lavorato</string>
+    <string name="Uploadsuccess">Carica successo</string>
+    <string name="Requestsuccess">Richiedi successo</string>
+    <string name="clickyes">È possibile modificare e inviare di nuovo questa richiesta dalla coda lavorata.</string>
+    <string name="clickno">Questa richiesta verrà aggiunta al prossimo rientro in coda.</string>
+    <string name="downloadpush_remind">Mostra notifica dopo l\'installazione</string>
+    <string name="messages">messaggi</string>
+    <string name="RecommendMods">Consiglia Mod</string>
+    <string name="requestdetailserror">(50-4000 caratteri)</string>
+
+    <string name="Changetheimage">Cambia l\'immagine >></string>
+    <string name="Typethecodeinthebox">Digita il codice nella casella</string>
+    <string name="Verificationerror">Verifica fallita. Per favore provate di nuovo.</string>
+    <string name="Verifing">Verifica …</string>
+
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">Prova altri server prima di eliminare</string>
+    <string name="fix_tips_content">Desideri connetterti a un altro server per provare a scaricarlo prima di eliminarlo?</string>
+    <string name="fix_progress_title">Server di scansione</string>
+    <string name="fix_progress_content">Potrebbero essere necessari alcuni minuti per cercare il server più veloce per te, attendere.</string>
+    <string name="fix_failed_content">Al momento non ci sono server disponibili, riprova più tardi.</string>
+    <string name="fix_tips_failtitle">Niente più server</string>
+    <string name="fix_ok">Provalo</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Si prega di scaricare prima questa mod.</string>
+    <string name="myvoted">Il mio voto</string>
+    <string name="working">Lavorando</string>
+    <string name="inanhour">Per favore, vota di nuovo tra un\'ora.</string>
+
+    <string name="Review">Revisione</string>
+    <string name="myreply">Le mie risposte</string>
+    <string name="Post">Inviare</string>
+    <string name="addavideo">Add a video</string>
+    <string name="enterthevideourlhere">Inserisci qui l\'URL del video di Youtube.</string>
+    <string name="onlysupportyoutube">Supporta solo video di Youtube</string>
+    <string name="searchorcreate">Cerca o crea</string>
+    <string name="hashtags">Hashtag di storia</string>
+    <string name="featuredhash">Hashtag in primo piano</string>
+    <string name="newhshstag">Nuovo hashtag</string>
+    <string name="hot">Caldo</string>
+    <string name="Comments">Commenti</string>
+    <string name="replies">risposte</string>
+    <string name="community">Comunità</string>
+    <string name="report">rapporto</string>
+    <string name="reply">rispondere</string>
+    <string name="reportsuccess">La tua segnalazione è stata inviata con successo.</string>
+    <string name="reportfail">Impossibile inviare il rapporto.</string>
+    <string name="replytowho">Rispondi a X:</string>
+    <string name="replyfail">Risposta non riuscita</string>
+    <string name="Reviews">Recensioni</string>
+    <string name="success">Successo</string>
+    <string name="sendfailed">mancato</string>
+    <string name="deletesuccess">Eliminato con successo</string>
+    <string name="deletefailed">Impossibile eliminare</string>
+    <string name="Group">Gruppo</string>
+    <string name="repliedtouser">risposto a</string>
+    <string name="speaksomething">Inserisci almeno 20 caratteri</string>
+    <string name="speaktoolong">Il numero di caratteri supera il limite, è possibile inserire fino a 4000 caratteri.</string>
+    <string name="tapandholdptodelete">Tocca e tieni premuta l\'immagine per eliminarla.</string>
+    <string name="addvideofaild">Aggiunta di video non riuscita！ Assicurati che la tua rete possa sfogliare i video di Youtube e aggiungerli di nuovo.</string>
+    <string name="Video">Video</string>
+
+    <string name="Hotsearches">Ricerche a caldo</string>
+    <string name="Hothashtags">Hashtag caldi</string>
+    <string name="history">Storia</string>
+    <string name="aboutthisgame">A proposito di questo gioco</string>
+    <string name="details">Dettagli</string>
+    <string name="sellallreviews">Vedi tutte le recensioni</string>
+
+    <string name="hfivetitle">Giochi veloci</string>
+    <string name="Recommended">Consigliato</string>
+    <string name="exit_tips">Premi di nuovo indietro per uscire dal gioco</string>
+    <string name="h5_menu_reload">Ricaricare</string>
+    <string name="h5_menu_share">Condividere</string>
+    <string name="h5_menu_shortcut">Aggiungere alla schermata Home</string>
+    <string name="installplaywitouthti">Gioco istantaneo senza installazione</string>
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Spiacenti ...</string>
+    <string name="crash_toast_message">Siamo spiacenti, eccezione APP, uscirà ， si prega di inviare la segnalazione di bug via e-mail.</string>
+    <string name="crash_dialog_message">Siamo spiacenti, eccezione APP, si prega di inviare la segnalazione di bug via e-mail.</string>
+    <string name="crash_dialog_feedback">Segnala bug</string>
+    <string name="crash_dialog_restart">Ricomincia</string>
+
+    <string name="init_fail">Inizializzazione non riuscita, utilizzare VPN o passare ad altre reti.</string>
+    <string name="error_file_des">Questo file è stato eliminato e viene scaricato nuovamente.</string>
+    <string name="sdpermission">Dobbiamo accedere al tuo archivio esterno. Assicurati che l\'autorizzazione sia concessa.</string>
+
+    <string name="Night_Mode">Modalità notturna</string>
+    <string name="thisty">Quel nome utente è già utilizzato. Prova un altro. A disposizione:</string>
+
+    <!--home_feature-->
+    <string name="Feature">In primo piano</string>
+    <string name="editorpick">Editor\'s Pick</string>
+    <string name="PopularInlast">Popolare nelle ultime 24 ore</string>
+    <string name="Latestupdated">Ultimo aggiornamento</string>
+    <string name="paidforfree">Pagato gratuitamente</string>
+
+    <string name="ToadyRecommend">Toady \'s consiglia</string>
+    <string name="hotmods">Mod Hot</string>
+    <string name="hotrecommended">Consigliato a caldo</string>
+
+
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Cerca l\'app che desideri caricare:</string>
+    <string name="addapost">Aggiungi un post</string>
+    <string name="launch_des">Trova mod funzionanti al 100% \ nCaricato dagli utenti; Verificato dagli utenti!</string>
+    <string name="requestamod">Richiedi un mod</string>
+    <string name="uploadamod">Carica una mod</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">Installazione</string>
+    <string name="bundleneedsfive">Siamo spiacenti, il pacchetto richiede Android 5.0 e versioni successive.</string>
+    <string name="parsingerror">Errore durante l\'analisi dell\'apk o annullato.</string>
+    <string name="tipsinstallok">L\'installazione è andata a buon fine.</string>
+    <string name="tipsinstallfail">Installazione non riuscita, riprova.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Max 10 MB per immagine.</string>
+    <string name="Imagesmustbelessthan">Le immagini devono essere inferiori a 10 MB, riduci le dimensioni dell\'immagine, ri-salva o riesporta il tuo file e prova a caricarlo di nuovo.</string>
+
+    <string name="installfailed">Installazione fallita.</string>
+    <string name="miuides">Attiva le Opzioni sviluppatore, disattiva l\'ottimizzazione MIUI e riprova.</string>
+
+    <string name="playdes">Giocare</string>
+    <string name="todayhotgame">Oggi fa caldo</string>
+    <string name="newcoming">Nuovo arrivo</string>
+    <string name="recentlyplayed">Giocato recentemente</string>
+    <string name="toopenitquickntime">Per aprirlo rapidamente la prossima volta, per favore:</string>
+    <string name="finditin">Trovalo in X</string>
+    <string name="needhelp">Ho bisogno di aiuto?</string>
+    <string name="peoplealsoplaygames">Le persone hanno giocato a questo gioco anche:</string>
+    <string name="opencommunitydes">Se trovi un post per adulti o un cattivo post, fai clic sul pulsante di segnalazione nell\'angolo in alto a destra del post, elimineremo il post e bloccheremo il poster per la prima volta! Per favore, parla in modo civile!</string>
+    <string name="myreviews">Le mie recensioni</string>
+
+    <string name="tagthisapp">Segnala questa app</string>
+    <string name="appuploader">App caricata da</string>
+    <string name="votedresult">Hai già votato per questa app.</string>
+    <string name="votedokok">Il tuo voto è stato inviato con successo.</string>
+    <string name="please_downlaodthisapp">Scarica prima questa app.</string>
+    <string name="safetitle">App apk garantito</string>
+    <string name="safedes">Questo apk ha superato il test di sicurezza per virus, malware. Utilizzava una firma digitale affidabile e verificata.</string>
+    <string name="bereported">L\'hai segnalato.</string>
+
+
+    <string name="pleasefinishyourdownloadingqueu">Completa prima la coda di download.</string>
+    <string name="adduploadvideo">Aggiungi video: (facoltativo)</string>
+    <string name="uploadscreenshots">Carica screenshot (160 * 90)</string>
+    <string name="scerrnshoteserror">Gli screenshot sono obbligatori.</string>
+    <string name="bannererror">Il banner è obbligatorio.</string>
+    <string name="pleaseentergoogleaddress">Inserisci l\'ID o l\'URL dell\'app su Google Play.</string>
+    <string name="thisposthasbeendeleted">Questo post è stato cancellato.</string>
+    <string name="add">Inserisci</string>
+    <string name="oagputc">Oppure aggiungi l\'URL di Google Play per continuare</string>
+    <string name="description">Descrizione:</string>
+    <string name="uploadbanner">Carica banner (702 * 460)</string>
+    <string name="noedituploadtips">Non puoi inviarlo senza apportare modifiche.</string>
+    <string name="addexcusiveaddressixit">Questo apk esiste già.</string>
+
+    <string name="itisworkingonyourdevice">Funziona sul tuo dispositivo?</string>
+    <string name="no_working">Non funziona</string>
+    <string name="vote_it">Votalo</string>
+    <string name="novirus">Nessun virus</string>
+    <string name="nomalware">Nessun malware</string>
+    <string name="nospyware">Nessuno spyware</string>
+    <string name="less">Di meno</string>
+    <string name="votedandfail">Hai già esaminato, controlla l\'elenco "Le mie recensioni".</string>
+
+</resources>

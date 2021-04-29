@@ -1,0 +1,472 @@
+<resources>
+
+
+    <!--希腊语-->
+
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <!--首页-->
+    <string name="Paid">Πληρώστε</string>
+    <string name="GAME">Παιχνίδι</string>
+    <string name="APP">Εφαρμογή</string>
+    <string name="NEW">Τελευταία</string>
+    <string name="Categories">Ταξινόμηση</string>
+    <string name="games">Παιχνίδι</string>
+    <string name="REFRESH">Ανανέωση</string>
+    <string name="Unable_to_connect_to_the_network">Δεν είναι δυνατή η πρόσβαση στο διαδίκτυο</string>
+    <string name="Recommended_Game_Mods">Συνιστώμενα παιχνίδια Mods</string>
+    <string name="Hot_Game_Mods">Δημοφιλή παιχνίδια Mods</string>
+    <string name="Recommended_App_Mods">Συνιστώμενες τροποποιήσεις εφαρμογών</string>
+    <string name="Hot_App_Mods">Κορυφαίες τροποποιήσεις εφαρμογών</string>
+    <string name="Recommended_New_Mods">Προτεινόμενες νέες Mods</string>
+    <string name="Last_Update_Mods">Τελευταία ενημέρωση</string>
+    <string name="SearchHint">Αναζήτηση:</string>
+
+    <!-- 侧滑-->
+    <string name="Homeweb">Επίσημη ιστοσελίδα</string>
+    <string name="Management">Διαχείριση</string>
+    <string name="Settings">Ρύθμιση</string>
+    <string name="Feedback">Ανατροφοδότηση</string>
+    <string name="Translation">Μετάφραση</string>
+    <string name="Share">Μοιραστείτε</string>
+    <string name="Checkforupdate">Ελέγξτε για ενημερώσεις</string>
+    <string name="FollowusonTwitter">Ακολουθήστε μας στο Twitter</string>
+    <string name="FollowusonFacebook">Ακολουθήστε μας στο Facebook</string>
+
+    <!--设置页-->
+    <string name="settings_network_remind">Ειδοποίηση κινητού δικτύου</string>
+    <string name="settings_auto_install">Αυτόματη εγκατάσταση</string>
+    <string name="Download_Directory">Λήψη καταλόγου</string>
+    <string name="settings_other">Άλλο</string>
+    <string name="settings_clear_cache">Διαγραφή της προσωρινής μνήμης</string>
+    <string name="Clean_up_the_complete">Η κρυφή μνήμη διαγράφηκε</string>
+
+    <!--空数据页-->
+    <string name="des_no_serach_result">Ωχ! Δεν βρέθηκαν αποτελέσματα.</string>
+
+    <!--下载管理页-->
+    <string name="Downloads">Λήψη</string>
+    <string name="Downloading">Λήψη</string>
+    <string name="Finished">Λήψη</string>
+    <string name="No_Download">Το αρχείο δεν βρέθηκε.</string>
+    <string name="Pause">Αναστολή</string>
+    <string name="Waiting_in_queue">Αναμονή σε σειρά</string>
+    <string name="Completed">Ολοκληρώθηκε</string>
+    <string name="UnZiping">Εξόρυξη</string>
+    <string name="UnZip_succeed">Πλήρης εξαγωγή</string>
+    <string name="Rate">Βαθμολογία</string>
+    <string name="Rated">Βαθμολογήθηκε</string>
+    <string name="Version">Έκδοση</string>
+    <string name="Ratingsreviews">Βαθμολογία &amp; Βαθμολογία</string>
+    <string name="Tryitlater">Δοκιμάστε ξανά αργότερα</string>
+    <string name="Serviceisbusy">Σύνδεση ...</string>
+
+
+    <!-- 下载删除的文字 -->
+    <string name="Notice">Προσοχή</string>
+    <string name="deletethistask">Διαγράψτε αυτό το αρχείο</string>
+    <string name="Cancel">Ακύρωση</string>
+    <string name="Delete">Διαγραφή</string>
+    <string name="Whydeletethisdownload">Γιατί να διαγράψετε αυτήν τη λήψη;</string>
+    <string name="NotwhatIwant">Όχι αυτό που θέλω</string>
+    <string name="Downloadfailed">Η λήψη απέτυχε</string>
+    <string name="Downloadistooslow">Η λήψη είναι πολύ αργή</string>
+
+
+    <!--APP详情页-->
+    <string name="Mods">MODS</string>
+    <string name="Original">Αρχικό</string>
+    <string name="Previousversion">Ιστορική έκδοση</string>
+    <string name="Download">Λήψη</string>
+    <string name="Downloadobb">Κάντε λήψη του (APK+OBB)</string>
+    <string name="Downloaddata">Λήψη (APK+DATA)</string>
+    <string name="Downloadboundle">Κάντε λήψη του BUNDLE</string>
+
+
+    <string name="Downloaded">Λήψη</string>
+    <string name="Install">Εγκατάσταση</string>
+    <string name="Connecting">Σύνδεση ...</string>
+    <string name="readmore">Διαβάστε περισσότερα</string>
+    <string name="modfeature">Πληροφορίες Mod:</string>
+    <string name="Moreversion">Περισσότερες εκδόσεις</string>
+    <string name="Recommend">Συνιστάται</string>
+    <string name="Recommendmod">Συνιστώμενη mod</string>
+    <string name="Moremods">Περισσότερα Mods</string>
+
+
+    <!--评分-->
+    <string name="Submit">Υποβολή</string>
+    <string name="Hated_it">Μισώ το!</string>
+    <string name="Disliked_it">Δεν μου αρέσει.</string>
+    <string name="Its_ok">Δεν έχει σημασία.</string>
+    <string name="Liked_it">Ακριβώς όπως.</string>
+    <string name="Loved_it">Αγαπάτε το!</string>
+
+
+    <!--分享-->
+    <string name="share_happymod">Μοιραστείτε το "HappyMod" από το</string>
+    <string name="share_subject">Πάρτε το HappyMod</string>
+    <string name="share_text">Λήψη 100% εύχρηστη mod με το @HappyMod \ nhttps: //www.happymod.com/</string>
+
+    <!--修改路径-->
+    <string name="pref_location">Θέση αποθήκευσης</string>
+
+    <!--update -->
+    <string name="force_des">100% εύκολο στη χρήση mod</string>
+    <string name="nvisrti">Η νέα έκδοση είναι έτοιμη για εγκατάσταση.</string>
+    <string name="OPEN">Ανοίξτε</string>
+    <string name="OK">Καλό</string>
+    <string name="Loading">Φόρτωση δεδομένων ...</string>
+    <string name="updata_tip">Χρησιμοποιείτε την τελευταία έκδοση του HappyMod</string>
+    <string name="xzzb">Παρακαλώ κατεβάστε το επίσημο HappyMod.</string>
+    <string name="Continue">Συνεχίστε</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">Δεν υπάρχει χώρος στη συσκευή</string>
+    <string name="Is_this_app_you_need">Ψάχνετε για αυτήν την εφαρμογή;</string>
+    <string name="No">Όχι</string>
+    <string name="Yes">Ναι</string>
+    <string name="bcdes">. Απελευθερώστε την αποθήκευση και δοκιμάστε ξανά.</string>
+    <string name="need">. Διαθέσιμος:</string>
+    <string name="No_enough_space_left_on_device">Δεν υπάρχει αρκετός χώρος αποθήκευσης. Χρειάζομαι:</string>
+    <string name="updatenow">Ενημερώστε τώρα</string>
+    <string name="updateFail">Η λήψη απέτυχε. Κλείστε και ανοίξτε ξανά</string>
+    <string name="initializing">Αρχικοποιήστε</string>
+    <string name="Retrying">Δοκιμάστε ξανά</string>
+    <string name="language">Γλώσσα</string>
+
+    <!--类别界面 -->
+
+    <string name="Popular">Δημοφιλή</string>
+    <string name="s_New">Τελευταία</string>
+    <string name="apps">Εφαρμογή</string>
+
+
+    <!-- 大文件 -->
+    <string name="mergering">Το τελευταίο βήμα</string>
+    <string name="mergerwait">Τελική επεξεργασία (απαιτεί 1-2 λεπτά)</string>
+
+    <!-- 验证 -->
+    <string name="Startverification">Αρχίστε την επαλήθευση</string>
+    <string name="verificationShangXian">Ωχ! Έχετε φτάσει στο ημερήσιο όριο λήψης. Δοκιμάστε ξανά μετά από X ώρες.</string>
+    <string name="verificationFail">Η επαλήθευση απέτυχε, δοκιμάστε ξανά!</string>
+    <string name="Morehelp">(περισσότερη βοήθεια)</string>
+    <string name="uid">Αναγνωριστικό χρήστη</string>
+    <string name="copysuccess">Το αναγνωριστικό χρήστη έχει αντιγραφεί στο πρόχειρο.</string>
+
+    <string name="watchnow">Κοίτα τώρα</string>
+    <string name="ggdownloading">Η διαφήμιση είναι φόρτωση, παρακαλώ περιμένετε και κρατήστε happymod ανοιχτό.</string>
+    <string name="verificaing">Περιμένετε μέχρι την επαλήθευση.</string>
+
+    <!-- 评价 -->
+    <string name="Removeads">Κατάργηση διαφήμισης</string>
+    <string name="Paidforfree">Δωρεάν</string>
+    <string name="Unlimitedmoney">Απεριόριστα χρυσά νομίσματα</string>
+    <string name="Freepurchase">Δωρεάν αγορά</string>
+    <string name="Freeshopping">Δωρεάν αγορές</string>
+    <string name="Unlocked">Ξεκλειδώστε</string>
+    <string name="Patched">Εμπλοκή</string>
+    <string name="Premium">Δωρεάν</string>
+    <string name="Pro">Επαγγελματική έκδοση</string>
+    <string name="ModLite">Συμπαγής έκδοση</string>
+    <string name="Subscribed">Εγγραφείτε</string>
+    <string name="Prime">Κύρια</string>
+    <string name="Plus">Plus έκδοση</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Κάτω στρώμα</string>
+    <string name="Debloated">Διαγράψτε άχρηστα</string>
+    <string name="Donate">Δωρεά</string>
+    <string name="AOSPcompatible">AOSP συμβατό</string>
+    <string name="Cracked">Ράκ</string>
+    <string name="NoAds">Δεν υπάρχουν διαφημίσεις</string>
+    <string name="Infinite">Ατελείωτες</string>
+    <string name="Endless">Άπειρο</string>
+    <string name="Invincible">Απίθανο</string>
+    <string name="Unlimitedhints">Άπειρη προτροπή</string>
+    <string name="Megamod">Πολλαπλές ρωγμές</string>
+    <string name="Full">Πλήρης έκδοση</string>
+
+
+    <!-- 注册登录 -->
+    <string name="Username">Όνομα χρήστη</string>
+    <string name="Usernameinit">4-50 χαρακτήρες</string>
+    <string name="Usernametip">Μόνο τα γράμματα α-ζ, αριθμοί, @. - Παρακαλώ (χωρίς κενά ή άλλους ειδικούς χαρακτήρες). 4-50 χαρακτήρες.</string>
+    <string name="Password">Κωδικός πρόσβασης</string>
+    <string name="Enteryourpassword">6-8 χαρακτήρες</string>
+    <string name="passwordtip">Μόνο τα γράμματα Α-Ζ, α-ζ, αριθμοί (χωρίς κενά ή ειδικούς χαρακτήρες). 6-8 χαρακτήρες.</string>
+    <string name="nicknametip">Αυτό το ψευδώνυμο έχει ήδη ληφθεί.</string>
+    <string name="Nickname">Παρατσούκλι</string>
+    <string name="Emailaddress">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <string name="Enteryouremail">Συμπληρώστε το email σας</string>
+    <string name="Telephonenumber">Αριθμός τηλεφώνου</string>
+    <string name="Enteryourtelephonenumber">Πληκτρολογήστε τον αριθμό τηλεφώνου σας</string>
+    <string name="phonetip">Εισαγάγετε ένα έγκυρο τηλέφωνο.</string>
+    <string name="emailtip">Εισάγετε μια έγκυρη διεύθυνση email.</string>
+    <string name="Signup">Εγγραφείτε</string>
+    <string name="tuiat">Αυτό το όνομα χρήστη έχει ήδη ληφθεί.</string>
+    <string name="Login">Σύνδεση</string>
+    <string name="Account">λογαριασμός</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">Ή συνδεθείτε με το όνομα χρήστη σας</string>
+    <string name="newur">Νέα εγγραφή χρήστη</string>
+    <string name="Usernameinitnew">Όνομα χρήστη (4-50 χαρακτήρες)</string>
+    <string name="Passwordnew">Κωδικός πρόσβασης (6-8 χαρακτήρες)</string>
+    <string name="Emailnew">ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ</string>
+    <string name="PhoneNumber">Τηλεφωνικό νούμερο</string>
+    <string name="Unknown">Αγνωστος</string>
+    <string name="enteryEmail">Συμπληρώστε το email σας</string>
+    <string name="enteryPhone">Πληκτρολόγησε τον αριθμό του τηλεφώνου σου</string>
+    <string name="signuptips">Όταν ξεχάσετε τον κωδικό πρόσβασής σας, θα χρειαστείτε "Αριθμός τηλεφώνου" ή "Email" για να το ανακτήσετε. Σας συνιστούμε να τις ολοκληρώσετε.</string>
+
+    <string name="confirmusername">Επιβεβαιώστε το όνομα χρήστη</string>
+    <string name="next">Επόμενο</string>
+    <string name="fblogdes">Παρακαλώ εισάγετε όνομα χρήστη. Το όνομα χρήστη είναι ένα πολύ σημαντικό αναγνωριστικό για την ανάκτηση του κωδικού πρόσβασης, παρακαλούμε να έχετε υπόψη σας.</string>
+    <string name="selectusername">Επιλέξτε όνομα χρήστη</string>
+    <string name="reselpass_desone">Εισαγάγετε το όνομα χρήστη του λογαριασμού σας για να επαναφέρετε τον κωδικό πρόσβασης. Έχετε κάποιο πρόβλημα σχετικά με την επαναφορά κωδικού πρόσβασης<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Εισαγάγετε το email ή τον αριθμό τηλεφώνου. Έχετε κάποιο πρόβλημα σχετικά με την επαναφορά κωδικού πρόσβασης<u>contact us</u>.</string>
+    <string name="forgetgosingup">Δεν μπορώ να θυμηθώ κανένα από αυτά; Σας παρακαλούμε<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Επαναφέρετε τον κωδικό πρόσβασης</string>
+    <string name="NewPassword">Νέος κωδικός πρόσβασης</string>
+    <string name="Enterthepasswordagain">Επιβεβαιώστε τον κωδικό πρόσβασης</string>
+    <string name="signuplimitdes">Η συσκευή σας έχει φτάσει στο μέγιστο αριθμό εγγεγραμμένων ονομάτων χρήστη. Επιλέξτε το όνομα χρήστη παρακάτω για να συνδεθείτε.</string>
+    <string name="Register">Κανω ΕΓΓΡΑΦΗ</string>
+    <string name="eyun">Εισαγάγετε το όνομα χρήστη σας</string>
+    <string name="eypsw">Εισάγετε τον κωδικό σας</string>
+    <string name="loginerrortips">Εισαγάγετε ένα σωστό όνομα χρήστη και κωδικό πρόσβασης. Σημειώστε ότι στο πεδίο κωδικού πρόσβασης γίνεται διάκριση πεζών χαρακτήρων.</string>
+    <string name="Resetpasswordfailed">Η επαναφορά του κωδικού πρόσβασης απέτυχε.</string>
+    <string name="Theusernamewasnotregistered">Το όνομα χρήστη δεν καταχωρίστηκε.</string>
+    <string name="petceotn">Εισαγάγετε τον σωστό αριθμό ηλεκτρονικού ταχυδρομείου ή τηλεφώνου.</string>
+    <string name="fbrfail">Το μητρώο Facebook απέτυχε.</string>
+    <string name="Registerfailed">Η καταχώριση απέτυχε, επιβεβαιώστε ότι η σύνδεσή σας στο δίκτυο είναι φυσιολογική, κάντε κλικ στο κουμπί καταχώρισης για να δοκιμάσετε ξανά.</string>
+    <string name="Loginfailed">Η σύνδεση απέτυχε.</string>
+    <string name="me">Me</string>
+    <string name="Avatar">Avatar</string>
+    <string name="Myposts">τις θέσεις μου</string>
+    <string name="passowrduploadok">Ο κωδικός άλλαξε επιτυχώς</string>
+    <string name="logout">Αποσυνδέση</string>
+    <string name="passwordsame">Οι δύο κωδικοί πρόσβασης που καταχωρίσατε είναι ασυμβίβαστοι</string>
+    <string name="PopularComments">Δημοφιλή σχόλια</string>
+
+    <!--MyRequests-->
+    <string name="Request">Αίτηση</string>
+    <string name="Youarerequesting">Ζητάτε:</string>
+    <string name="Addrequest">Προσθήκη αιτήματος</string>
+    <string name="Myrequests">Τα αιτήματά μου</string>
+    <string name="Myuploads">Οι μεταφορτώσεις μου</string>
+    <string name="Updated">ΕΠΙΚΑΙΡΟΠΟΙΗΜΕΝΟ</string>
+    <string name="Comingsoon">Ερχομαι συντομα</string>
+    <string name="searchappyouwanttorequest">Αναζήτηση στην εφαρμογή που θέλετε να ζητήσετε:</string>
+    <string name="Addupload">Προσθήκη μεταφόρτωσης</string>
+    <string name="requestdetailhint">Δείξτε περισσότερα για το αίτημά σας. (Τουλάχιστον 50 χαρακτήρες)</string>
+    <string name="requesterror">Η υποβολή απέτυχε, δοκιμάστε ξανά αργότερα.</string>
+    <string name="detailserror">(100-4000 χαρακτήρες)</string>
+    <string name="view">Θέα</string>
+    <string name="isthiswork">Λειτουργεί?</string>
+    <string name="edit">Επεξεργασία</string>
+    <string name="APKZippyshareurl">APK διεύθυνση URL Zippyshare/Mediafire:</string>
+    <string name="OBBDataurl">Διεύθυνση URL OBB / δεδομένων Zippyshare/Mediafire: (προαιρετικό)</string>
+    <string name="Youarereupload">Μεταφορτώνετε:</string>
+    <string name="Upload">Ανεβάστε</string>
+    <string name="Uploadfail">Η μεταφόρτωση απέτυχε.</string>
+    <string name="apkfail">Zippyshare/Mediafire URL του αρχείου apk του αρχείου apk.</string>
+    <string name="obbfail">Zippyshare/Mediafire URL του αρχείου obb του.</string>
+    <string name="worked">Εργάστηκε</string>
+    <string name="Uploadsuccess">Ανεβάστε επιτυχία</string>
+    <string name="Requestsuccess">Αίτηση επιτυχίας</string>
+    <string name="clickyes">Μπορείτε να επεξεργαστείτε και να υποβάλετε ξανά αυτό το αίτημα από την ουρά που εργάστηκε.</string>
+    <string name="clickno">Το αίτημα αυτό θα προστεθεί ξανά στην ουρά.</string>
+    <string name="downloadpush_remind">Εμφάνιση ειδοποίησης μετά την εγκατάσταση</string>
+    <string name="messages">Μηνύματα</string>
+    <string name="RecommendMods">Προτείνετε Mods</string>
+    <string name="requestdetailserror">(50-4000 χαρακτήρες)</string>
+
+    <string name="Changetheimage">Αλλάξτε την εικόνα >></string>
+    <string name="Typethecodeinthebox">Πληκτρολογήστε τον κωδικό στο πλαίσιο</string>
+    <string name="Verificationerror">Η επαλήθευση απέτυχε. Παρακαλώ προσπαθήστε ξανά.</string>
+    <string name="Verifing">Επαλήθευση ...</string>
+
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">Δοκιμάστε άλλους διακομιστές πριν διαγράψετε</string>
+    <string name="fix_tips_content">Θέλετε να συνδεθείτε σε άλλο διακομιστή για να προσπαθήσετε να το κατεβάσετε πριν το διαγράψετε;</string>
+    <string name="fix_progress_title">Σάρωση διακομιστών</string>
+    <string name="fix_progress_content">Μπορεί να χρειαστούν μερικά λεπτά για να αναζητήσετε τον ταχύτερο διακομιστή για σας, παρακαλώ περιμένετε.</string>
+    <string name="fix_failed_content">Προς το παρόν δεν υπάρχουν διαθέσιμοι διακομιστές, δοκιμάστε ξανά αργότερα.</string>
+    <string name="fix_tips_failtitle">Δεν υπάρχουν πλέον διακομιστές</string>
+    <string name="fix_ok">Δοκίμασέ το</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Κάντε λήψη αυτού του mod πρώτα.</string>
+    <string name="myvoted">Η ψήφος μου</string>
+    <string name="working">Εργαζόμενος</string>
+    <string name="inanhour">Ψηφίστε ξανά σε μια ώρα.</string>
+
+    <string name="Review">Ανασκόπηση</string>
+    <string name="myreply">Οι απαντήσεις μου</string>
+    <string name="Post">Θέση</string>
+    <string name="addavideo">Προσθέστε ένα βίντεο</string>
+    <string name="enterthevideourlhere">Εισαγάγετε εδώ τη διεύθυνση βίντεο βίντεο Youtube.</string>
+    <string name="onlysupportyoutube">Υποστηρίξτε μόνο τα βίντεο στο Youtube</string>
+    <string name="searchorcreate">Αναζήτηση ή δημιουργία</string>
+    <string name="hashtags">Ιστορία hashtags</string>
+    <string name="featuredhash">Προτεινόμενα hashtags</string>
+    <string name="newhshstag">Νέο hashtag</string>
+    <string name="hot">Ζεστό</string>
+    <string name="Comments">Σχόλια</string>
+    <string name="replies">Απαντήσεις</string>
+    <string name="community">Κοινότητα</string>
+    <string name="report">Κανω ΑΝΑΦΟΡΑ</string>
+    <string name="reply">Απάντηση</string>
+    <string name="reportsuccess">Η αναφορά σας υποβλήθηκε με επιτυχία.</string>
+    <string name="reportfail">Η αναφορά σας απέτυχε να υποβληθεί.</string>
+    <string name="replytowho">Απάντηση στο X:</string>
+    <string name="replyfail">Η απάντηση απέτυχε</string>
+    <string name="Reviews">Κριτικές</string>
+    <string name="success">Επιτυχία</string>
+    <string name="sendfailed">Απέτυχε</string>
+    <string name="deletesuccess">Διαγράφηκε με επιτυχία</string>
+    <string name="deletefailed">Αποτυχία διαγραφής</string>
+    <string name="Group">Ομάδα</string>
+    <string name="repliedtouser">απάντησε</string>
+    <string name="speaksomething">Εισαγάγετε τουλάχιστον 20 χαρακτήρες</string>
+    <string name="speaktoolong">Ο αριθμός των χαρακτήρων υπερβαίνει το όριο, μπορούν να εισαχθούν μέχρι και 4000 χαρακτήρες.</string>
+    <string name="tapandholdptodelete">Αγγίξτε παρατεταμένα την εικόνα για να τη διαγράψετε.</string>
+    <string name="addvideofaild">Η προσθήκη βίντεο απέτυχε! Βεβαιωθείτε ότι το δίκτυό σας μπορεί να περιηγηθεί στο βίντεο Youtube και να το προσθέσει ξανά.</string>
+    <string name="Video">βίντεο</string>
+
+
+    <string name="Hotsearches">Hot αναζητήσεις</string>
+    <string name="Hothashtags">Hot hashtags</string>
+    <string name="history">Ιστορία</string>
+    <string name="aboutthisgame">Σχετικά με αυτό το παιχνίδι</string>
+    <string name="details">Λεπτομέριες</string>
+    <string name="sellallreviews">Δείτε όλες τις κριτικές</string>
+
+    <string name="hfivetitle">Γρήγορα παιχνίδια</string>
+    <string name="Recommended">Συνιστάται</string>
+    <string name="exit_tips">Πιέστε ξανά για να βγείτε από το παιχνίδι</string>
+    <string name="h5_menu_reload">Φορτώνω πάλι</string>
+    <string name="h5_menu_share">Μερίδιο</string>
+    <string name="h5_menu_shortcut">Προσθέστε στην αρχική οθόνη</string>
+    <string name="installplaywitouthti">Άμεση αναπαραγωγή χωρίς να χρειάζεται να εγκαταστήσετε</string>
+
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Ωχ ...</string>
+    <string name="crash_toast_message">Λυπούμαστε, η εξαίρεση APP θα τερματίσει, παρακαλούμε στείλτε την αναφορά σφάλματος μέσω ηλεκτρονικού ταχυδρομείου.</string>
+    <string name="crash_dialog_message">Λυπούμαστε, η εξαίρεση APP, υποβάλετε την αναφορά σφάλματος μέσω ηλεκτρονικού ταχυδρομείου.</string>
+    <string name="crash_dialog_feedback">Αναφέρετε σφάλματα</string>
+    <string name="crash_dialog_restart">Επανεκκίνηση</string>
+
+    <string name="init_fail">Η εκκίνηση απέτυχε, χρησιμοποιήστε το VPN ή αλλάξτε τα σε άλλα δίκτυα.</string>
+    <string name="error_file_des">Αυτό το αρχείο έχει διαγραφεί και ξαναφορτώνεται τώρα.</string>
+
+    <string name="sdpermission">Πρέπει να έχετε πρόσβαση στο εξωτερικό χώρο αποθήκευσης. Βεβαιωθείτε ότι έχετε δώσει την άδεια.</string>
+
+    <string name="Night_Mode">Νυχτερινή λειτουργία</string>
+    <string name="thisty">Το όνομα χρήστη λαμβάνεται. Δοκίμασε άλλο. Διαθέσιμος:</string>
+
+    <!--home_feature-->
+    <string name="Feature">Προτεινόμενα</string>
+    <string name="editorpick">Έκδοση του εκδότη</string>
+    <string name="PopularInlast">Δημοφιλές στις τελευταίες 24 ώρες</string>
+    <string name="Latestupdated">Τελευταία ενημέρωση</string>
+    <string name="paidforfree">Αμειβόμενος δωρεάν</string>
+
+    <string name="ToadyRecommend">Προσθέστε αυτό το σύστημά σας</string>
+    <string name="hotmods">Hot Mods</string>
+    <string name="hotrecommended">Hot Συνιστάται</string>
+
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Αναζήτηση στην εφαρμογή που θέλετε να ανεβάσετε:</string>
+    <string name="addapost">Προσθέστε μια ανάρτηση</string>
+    <string name="launch_des">Βρείτε 100% λειτουργίες λειτουργίας \ nΜεταφορτωμένες από χρήστες. Επαληθεύτηκε από χρήστες!</string>
+    <string name="requestamod">Ζητήστε ένα mod</string>
+    <string name="uploadamod">Ανεβάστε ένα mod</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">Εγκατάσταση</string>
+    <string name="bundleneedsfive">Δυστυχώς, το Bundle χρειάζεται Android 5.0 και νεότερη έκδοση.</string>
+    <string name="parsingerror">Σφάλμα ανάλυσης apk ή ακυρώθηκε.</string>
+    <string name="tipsinstallok">Η εγκατάσταση ήταν επιτυχής.</string>
+    <string name="tipsinstallfail">Η εγκατάσταση απέτυχε. Δοκιμάστε ξανά.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Μέγιστο 10MB ανά εικόνα.</string>
+    <string name="Imagesmustbelessthan">Οι εικόνες πρέπει να είναι μικρότερες από 10 MB, μειώστε τις διαστάσεις της εικόνας, αποθηκεύστε ξανά ή επανεξαγάγετε το αρχείο σας και δοκιμάστε να το ανεβάσετε ξανά.</string>
+
+
+    <string name="installfailed">Η εγκατάσταση απέτυχε.</string>
+    <string name="miuides">Ενεργοποιήστε τις Επιλογές προγραμματιστή, απενεργοποιήστε τη βελτιστοποίηση MIUI και δοκιμάστε ξανά.</string>
+
+
+    <string name="playdes">Παίζω</string>
+    <string name="todayhotgame">Σήμερα είναι ζεστό</string>
+    <string name="newcoming">Νέα εισερχόμενα</string>
+    <string name="recentlyplayed">Παίχτηκε πρόσφατα</string>
+    <string name="toopenitquickntime">Για να το ανοίξετε γρήγορα την επόμενη φορά, παρακαλώ:</string>
+    <string name="finditin">Βρείτε το στο X</string>
+    <string name="needhelp">Χρειάζεστε βοήθεια?</string>
+    <string name="peoplealsoplaygames">Οι άνθρωποι έπαιξαν αυτό το παιχνίδι έπαιξαν επίσης:</string>
+
+    <string name="opencommunitydes">Εάν βρείτε έναν ενήλικα ή κάποια κακή ανάρτηση, κάντε κλικ στο κουμπί αναφοράς στην επάνω δεξιά γωνία της ανάρτησης και θα διαγράψουμε την ανάρτηση και θα αποκλείσουμε την αφίσα για πρώτη φορά! Παρακαλώ μιλήστε πολιτισμένη!</string>
+    <string name="myreviews">Οι κριτικές μου</string>
+
+    <string name="tagthisapp">Επισήμανση αυτής της εφαρμογής</string>
+    <string name="appuploader">Η εφαρμογή μεταφορτώθηκε από</string>
+    <string name="votedresult">Έχετε ήδη ψηφίσει για αυτήν την εφαρμογή.</string>
+    <string name="votedokok">Η ψήφος σας υποβλήθηκε με επιτυχία.</string>
+    <string name="please_downlaodthisapp">Πραγματοποιήστε λήψη αυτής της εφαρμογής πρώτα.</string>
+
+    <string name="safetitle">Εφαρμογή apk Εγγυημένη</string>
+    <string name="safedes">Αυτό το apk πέρασε το τεστ ασφαλείας για ιούς, κακόβουλο λογισμικό. Χρησιμοποίησε μια αξιόπιστη και επαληθευμένη ψηφιακή υπογραφή.</string>
+
+    <string name="bereported">You have reported it.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Ολοκληρώστε πρώτα την ουρά λήψης.</string>
+    <string name="adduploadvideo">Προσθήκη βίντεο: (προαιρετικό)</string>
+    <string name="uploadscreenshots">Μεταφόρτωση στιγμιότυπων οθόνης (160 * 90)</string>
+    <string name="scerrnshoteserror">Απαιτούνται στιγμιότυπα οθόνης.</string>
+    <string name="bannererror">Απαιτείται banner.</string>
+    <string name="pleaseentergoogleaddress">Εισαγάγετε αναγνωριστικό εφαρμογής ή διεύθυνση URL στο Google Play.</string>
+    <string name="thisposthasbeendeleted">Αυτή η ανάρτηση διαγράφηκε.</string>
+    <string name="add">Προσθήκη</string>
+    <string name="oagputc">Ή προσθέστε το Google Play URL για να συνεχίσετε</string>
+    <string name="description">Περιγραφή:</string>
+    <string name="uploadbanner">Μεταφόρτωση banner (702 * 460)</string>
+    <string name="noedituploadtips">Δεν μπορείτε να το υποβάλετε χωρίς να κάνετε αλλαγές.</string>
+    <string name="addexcusiveaddressixit">Αυτό το apk υπάρχει ήδη.</string>
+
+    <string name="itisworkingonyourdevice">Λειτουργεί στη συσκευή σας;</string>
+    <string name="no_working">Δεν δουλεύει</string>
+    <string name="vote_it">Ψηφίστε το</string>
+    <string name="novirus">Χωρίς ιό</string>
+    <string name="nomalware">Χωρίς κακόβουλο λογισμικό</string>
+    <string name="nospyware">Χωρίς λογισμικό υποκλοπής</string>
+    <string name="less">Πιο λιγο</string>
+
+    <string name="votedandfail">Έχετε ήδη ελέγξει, ελέγξτε τη λίστα "Οι κριτικές μου".</string>
+
+</resources>

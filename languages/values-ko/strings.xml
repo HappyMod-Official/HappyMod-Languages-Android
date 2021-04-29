@@ -1,0 +1,467 @@
+<resources>
+
+
+    <!--韩语-->
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <!--首页-->
+    <string name="Paid">지불</string>
+    <string name="GAME">게임</string>
+    <string name="APP">신청서</string>
+    <string name="NEW">최신</string>
+    <string name="Categories">분류</string>
+    <string name="games">게임</string>
+    <string name="REFRESH">새로 고침</string>
+    <string name="Unable_to_connect_to_the_network">인터넷에 액세스 할 수 없습니다.</string>
+    <string name="Recommended_Game_Mods">추천 게임 개조</string>
+    <string name="Hot_Game_Mods">인기 게임 개조</string>
+    <string name="Recommended_App_Mods">권장 응용 프로그램 개조</string>
+    <string name="Hot_App_Mods">인기있는 앱 개조</string>
+    <string name="Recommended_New_Mods">추천 된 새로운 개조</string>
+    <string name="Last_Update_Mods">최신 업데이트</string>
+    <string name="SearchHint">검색 :</string>
+
+    <!-- 侧滑-->
+    <string name="Homeweb">공식 웹 사이트</string>
+    <string name="Management">관리</string>
+    <string name="Settings">설정</string>
+    <string name="Feedback">피드백</string>
+    <string name="Translation">번역</string>
+    <string name="Share">공유</string>
+    <string name="Checkforupdate">업데이트 확인</string>
+    <string name="FollowusonTwitter">Twitter에서 팔로우하기</string>
+    <string name="FollowusonFacebook">페이스 북에서 우리를 따라 가라.</string>
+
+    <!--设置页-->
+    <string name="settings_network_remind">모바일 네트워크 경고</string>
+    <string name="settings_auto_install">자동 설치</string>
+    <string name="Download_Directory">디렉토리 다운로드</string>
+    <string name="settings_other">기타</string>
+    <string name="settings_clear_cache">캐시 지우기</string>
+    <string name="Clean_up_the_complete">캐시가 지워짐</string>
+
+    <!--空数据页-->
+    <string name="des_no_serach_result">죄송합니다. 결과가 없습니다.</string>
+
+    <!--下载管理页-->
+    <string name="Downloads">다운로드</string>
+    <string name="Downloading">다운로드 중</string>
+    <string name="Finished">다운로드 됨</string>
+    <string name="No_Download">파일을 찾을 수 없습니다.</string>
+    <string name="Pause">중단하다</string>
+    <string name="Waiting_in_queue">줄을 서서 기다리고있다.</string>
+    <string name="Completed">완료 됨</string>
+    <string name="UnZiping">추출</string>
+    <string name="UnZip_succeed">추출 완료</string>
+    <string name="Rate">등급</string>
+    <string name="Rated">정격</string>
+    <string name="Version">에디션</string>
+    <string name="Ratingsreviews">등급 및 등급</string>
+    <string name="Tryitlater">나중에 다시 시도하십시오.</string>
+    <string name="Serviceisbusy">연결 ...</string>
+
+
+    <!-- 下载删除的文字 -->
+    <string name="Notice">주의</string>
+    <string name="deletethistask">이 파일 삭제</string>
+    <string name="Cancel">취소</string>
+    <string name="Delete">삭제</string>
+    <string name="Whydeletethisdownload">다운로드 속도가 너무 느림</string>
+    <string name="NotwhatIwant">내가 원하는 것이 아니다.</string>
+    <string name="Downloadfailed">다운로드 실패</string>
+    <string name="Downloadistooslow">다운로드 속도가 너무 느림</string>
+
+
+    <!--APP详情页-->
+    <string name="Mods">MODS</string>
+    <string name="Original">원본</string>
+    <string name="Previousversion">역사 버전</string>
+    <string name="Download">다운로드</string>
+    <string name="Downloadobb">(APK+OBB) 다운로드</string>
+    <string name="Downloaddata">다운로드 (APK+DATA)</string>
+    <string name="Downloadboundle">다운로드 BUNDLE</string>
+
+
+    <string name="Downloaded">다운로드 됨</string>
+    <string name="Install">설치</string>
+    <string name="Connecting">연결 ...</string>
+    <string name="readmore">더 많은 것을 읽으십시오</string>
+    <string name="modfeature">수정 정보 :</string>
+    <string name="Moreversion">더 많은 버전</string>
+    <string name="Recommend">추천</string>
+    <string name="Recommendmod">추천 모드</string>
+    <string name="Moremods">더 많은 개조</string>
+
+
+    <!--评分-->
+    <string name="Submit">제출</string>
+    <string name="Hated_it">싫어!</string>
+    <string name="Disliked_it">좋아하지 마.</string>
+    <string name="Its_ok">그건 중요하지 않아.</string>
+    <string name="Liked_it">그것처럼.</string>
+    <string name="Loved_it">그것을 사랑해!</string>
+
+
+    <!--分享-->
+    <string name="share_happymod">에서 \ HappyMod 공유</string>
+    <string name="share_subject">HappyMod 가져 오기</string>
+    <string name="share_text">\@HappyMod \ nhttps를 사용하여 100 % 사용하기 쉬운 mod을 다운로드하십시오 : //www.happymod.com/</string>
+
+    <!--修改路径-->
+    <string name="pref_location">저장 위치</string>
+
+    <!--update -->
+    <string name="force_des">100 % 사용하기 쉬운 모드</string>
+    <string name="nvisrti">새 버전을 설치할 준비가되었습니다.</string>
+    <string name="OPEN">열기</string>
+    <string name="OK">좋은</string>
+    <string name="Loading">데이터로드 중 ...</string>
+    <string name="updata_tip">최신 버전의 HappyMod를 사용 중입니다.</string>
+    <string name="xzzb">공식 HappyMod를 다운로드하십시오.</string>
+    <string name="Continue">계속하기</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">장치에 남아있는 공간이 없습니다.</string>
+    <string name="Is_this_app_you_need">이 앱을 찾고 계십니까?</string>
+    <string name="No">아니요</string>
+    <string name="Yes">예</string>
+    <string name="bcdes">. 저장 용량을 확보 한 후 다시 시도하십시오.</string>
+    <string name="need">; 유효한:</string>
+    <string name="No_enough_space_left_on_device">충분한 저장. 필요한 것:</string>
+    <string name="updatenow">지금 업데이트</string>
+    <string name="updateFail">다운로드가 실패했습니다. 닫고 다시여십시오.</string>
+    <string name="initializing">초기화</string>
+    <string name="Retrying">다시 시도하십시오.</string>
+    <string name="language">언어</string>
+
+    <!--类别界面 -->
+
+    <string name="Popular">인기</string>
+    <string name="s_New">최신</string>
+    <string name="apps">신청서</string>
+
+
+    <!-- 大文件 -->
+    <string name="mergering">마지막 단계</string>
+    <string name="mergerwait">최종 치료 (1 ~ 2 분 소요)</string>
+
+    <!-- 验证 -->
+    <string name="Startverification">확인 시작</string>
+    <string name="verificationShangXian">죄송합니다. 일일 다운로드 한도에 도달했습니다. X 시간 후에 다시 시도하십시오.</string>
+    <string name="verificationFail">인증에 실패했습니다. 다시 시도하십시오!</string>
+    <string name="Morehelp">(더 많은 도움)</string>
+    <string name="uid">사용자 ID</string>
+    <string name="copysuccess">사용자 ID가 클립 보드에 복사되었습니다.</string>
+
+    <string name="watchnow">지금 보아라.</string>
+    <string name="ggdownloading">광고가로드 중입니다. 기다려서 happymod를 열어 두십시오.</string>
+    <string name="verificaing">확인하는 동안 기다려주세요.</string>
+
+    <!-- 评价 -->
+    <string name="Removeads">광고 삭제</string>
+    <string name="Paidforfree">무료</string>
+    <string name="Unlimitedmoney">무제한 금화</string>
+    <string name="Freepurchase">무료 구매</string>
+    <string name="Freeshopping">무료 쇼핑</string>
+    <string name="Unlocked">잠금 해제</string>
+    <string name="Patched">패치</string>
+    <string name="Premium">무료</string>
+    <string name="Pro">프로페셔널 버전</string>
+    <string name="ModLite">컴팩트 버전</string>
+    <string name="Subscribed">구독하기</string>
+    <string name="Prime">메인</string>
+    <string name="Plus">플러스 버전</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">아래층</string>
+    <string name="Debloated">쓸모없는 삭제</string>
+    <string name="Donate">기부</string>
+    <string name="AOSPcompatible">AOSP 호환</string>
+    <string name="Cracked">균열</string>
+    <string name="NoAds">광고 없음</string>
+    <string name="Infinite">끝이없는</string>
+    <string name="Endless">무한</string>
+    <string name="Invincible">무적의</string>
+    <string name="Unlimitedhints">무한한 프롬프트</string>
+    <string name="Megamod">여러 균열</string>
+    <string name="Full">정식 버전</string>
+
+
+
+    <!--登录注册-->
+    <string name="Username">사용자 이름</string>
+    <string name="Usernameinit">4 ~ 50 자</string>
+    <string name="Usernametip">문자 a-z, 숫자, @ 만. - _ 제발 (공백이나 다른 특수 문자 없음). 4 ~ 50 자.</string>
+    <string name="Password">암호</string>
+    <string name="Enteryourpassword">6-8 자</string>
+    <string name="passwordtip">문자 A-Z, a-z, 숫자 (공백이나 특수 문자 없음). 6-8 자.</string>
+    <string name="nicknametip">이 별명은 이미 사용되었습니다.</string>
+    <string name="Nickname">별명</string>
+    <string name="Emailaddress">이메일 주소</string>
+    <string name="Enteryouremail">이메일을 입력하십시오.</string>
+    <string name="Telephonenumber">전화 번호</string>
+    <string name="Enteryourtelephonenumber">전화 번호를 입력하십시오.</string>
+    <string name="phonetip">유효한 전화 번호를 입력하십시오.</string>
+    <string name="emailtip">올바른 이메일 주소를 입력하십시오.</string>
+    <string name="Signup">가입</string>
+    <string name="tuiat">이 사용자 이름은 이미 사용 중입니다.</string>
+    <string name="Login">로그인</string>
+    <string name="Account">계정</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">또는 사용자 이름으로 로그인</string>
+    <string name="newur">신규 사용자 등록</string>
+    <string name="Usernameinitnew">사용자 이름 (4-50 자)</string>
+    <string name="Passwordnew">비밀번호 (6-8 자)</string>
+    <string name="Emailnew">이메일</string>
+    <string name="PhoneNumber">전화 번호</string>
+    <string name="Unknown">알 수 없는</string>
+    <string name="enteryEmail">이메일을 입력하십시오</string>
+    <string name="enteryPhone">전화 번호를 입력하십시오</string>
+    <string name="signuptips">비밀번호를 잊어 버린 경우 검색하려면 "전화 번호"또는 "이메일"이 필요합니다. 작성하는 것이 좋습니다.</string>
+
+    <string name="confirmusername">사용자 이름 확인</string>
+    <string name="next">다음 것</string>
+    <string name="fblogdes">사용자 이름을 입력하여주십시오. 사용자 이름은 암호를 알아 내는데 매우 중요한 식별자입니다. 명심하십시오.</string>
+    <string name="selectusername">사용자 이름 선택</string>
+    <string name="reselpass_desone">비밀번호를 재설정하려면 계정의 사용자 이름을 입력하십시오. 비밀번호 재설정 관련 문제가 있습니다.<u>contact us</u>.</string>
+    <string name="reselpass_destwo">이메일 또는 전화 번호를 입력하십시오. 비밀번호 재설정 관련 문제가 있습니다.<u>contact us</u>.</string>
+    <string name="forgetgosingup">그 중 어떤 것도 기억할 수 없습니까? 부디<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">암호를 재설정</string>
+    <string name="NewPassword">새 비밀번호</string>
+    <string name="Enterthepasswordagain">암호 확인</string>
+    <string name="signuplimitdes">기기가 등록 된 최대 사용자 이름 수에 도달했습니다. 로그인하려면 아래에서 사용자 이름을 선택하십시오.</string>
+    <string name="Register">레지스터</string>
+    <string name="eyun">사용자 이름을 입력하십시오.</string>
+    <string name="eypsw">비밀번호를 입력하십시오.</string>
+    <string name="loginerrortips">올바른 사용자 이름과 암호를 입력하십시오. 암호 필드는 대소 문자를 구분합니다.</string>
+    <string name="Resetpasswordfailed">암호 재설정에 실패했습니다.</string>
+    <string name="Theusernamewasnotregistered">사용자 이름이 등록되지 않았습니다.</string>
+    <string name="petceotn">올바른 이메일 또는 전화 번호를 입력하십시오.</string>
+    <string name="fbrfail">Facebook 등록이 실패했습니다.</string>
+    <string name="Registerfailed">등록에 실패했습니다. 네트워크 연결이 정상인지 확인하고 등록 버튼을 클릭하여 다시 시도하십시오.</string>
+    <string name="Loginfailed">로그인 실패.</string>
+    <string name="me">나를</string>
+    <string name="Avatar">아바타</string>
+    <string name="Myposts">내 게시물</string>
+    <string name="passowrduploadok">암호가 성공적으로 변경되었습니다.</string>
+    <string name="logout">로그 아웃</string>
+    <string name="passwordsame">입력 한 두 개의 암호가 일치하지 않습니다.</string>
+    <string name="PopularComments">인기있는 댓글</string>
+
+    <string name="Request">의뢰</string>
+    <string name="Youarerequesting">당신은 다음을 요구하고 있습니다 :</string>
+    <string name="Addrequest">요청 추가</string>
+    <string name="Myrequests">내 요청</string>
+    <string name="Myuploads">내 업로드</string>
+    <string name="Updated">업데이트 됨</string>
+    <string name="Comingsoon">곧 출시 예정</string>
+    <string name="searchappyouwanttorequest">요청하려는 앱 검색 :</string>
+    <string name="Addupload">업로드 추가</string>
+    <string name="requestdetailhint">요청에 대해 자세히 보여주십시오. (최소 50 자)</string>
+    <string name="requesterror">전송에 실패했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="detailserror">(100-4000 자)</string>
+    <string name="view">전망</string>
+    <string name="isthiswork">작동합니까?</string>
+    <string name="edit">편집하다</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url :</string>
+    <string name="OBBDataurl">OBB / 데이터 Zippyshare/Mediafire url : (선택 사항)</string>
+    <string name="Youarereupload">업로드하는 중 :</string>
+    <string name="Upload">업로드</string>
+    <string name="Uploadfail">업로드하지 못했습니다.</string>
+    <string name="apkfail">apk 파일의 Zippyshare/Mediafire URL을 입력하십시오.</string>
+    <string name="obbfail">obb 파일의 Zippyshare/Mediafire URL을 입력하십시오.</string>
+    <string name="worked">근무한</string>
+    <string name="Uploadsuccess">업로드 성공</string>
+    <string name="Requestsuccess">요청 성공</string>
+    <string name="clickyes">작업 큐에서이 요청을 편집하고 다시 제출할 수 있습니다.</string>
+    <string name="clickno">이 요청은 곧 대기열에 다시 추가됩니다.</string>
+    <string name="downloadpush_remind">설치 후 알림 표시</string>
+    <string name="messages">메시지</string>
+    <string name="RecommendMods">개조 추천</string>
+    <string name="requestdetailserror">(50-4000 자)</string>
+
+
+    <string name="Changetheimage">이미지 변경 >></string>
+    <string name="Typethecodeinthebox">상자에 코드를 입력하십시오.</string>
+    <string name="Verificationerror">인증 실패. 다시 시도 해주세요.</string>
+    <string name="Verifing">확인 중 ...</string>
+
+
+    <!--补偿下载-->
+
+    <string name="fix_tips_title">삭제하기 전에 다른 서버를 사용해보십시오</string>
+    <string name="fix_tips_content">삭제하기 전에 다른 서버에 연결하여 다운로드를 시도 하시겠습니까?</string>
+    <string name="fix_progress_title">스캔 서버</string>
+    <string name="fix_progress_content">가장 빠른 서버를 찾는 데 몇 분이 걸릴 수 있습니다. 잠시 기다려주세요.</string>
+    <string name="fix_failed_content">현재 사용할 수있는 서버가 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="fix_tips_failtitle">더 이상 서버가 없습니다</string>
+    <string name="fix_ok">시도 해봐</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">이 모드를 먼저 다운로드하십시오.</string>
+    <string name="myvoted">내 투표</string>
+    <string name="working">일</string>
+    <string name="inanhour">한 시간 후에 다시 투표하십시오.</string>
+
+    <string name="Review">리뷰</string>
+    <string name="myreply">내 답글</string>
+    <string name="Post">우편</string>
+    <string name="addavideo">비디오 추가</string>
+    <string name="enterthevideourlhere">여기에 Youtube 비디오 URL을 입력하십시오.</string>
+    <string name="onlysupportyoutube">유튜브 비디오 만 지원</string>
+    <string name="searchorcreate">검색 또는 생성</string>
+    <string name="hashtags">히스토리 해시 태그</string>
+    <string name="featuredhash">주요 해시 태그</string>
+    <string name="newhshstag">새로운 해시 태그</string>
+    <string name="hot">뜨거운</string>
+    <string name="Comments">코멘트</string>
+    <string name="replies">답글</string>
+    <string name="community">커뮤니티</string>
+    <string name="report">보고서</string>
+    <string name="reply">댓글</string>
+    <string name="reportsuccess">보고서가 성공적으로 제출되었습니다.</string>
+    <string name="reportfail">보고서를 제출하지 못했습니다.</string>
+    <string name="replytowho">X에 답장 :</string>
+    <string name="replyfail">회신 실패</string>
+    <string name="Reviews">리뷰</string>
+    <string name="success">성공</string>
+    <string name="sendfailed">실패한</string>
+    <string name="deletesuccess">성공적으로 삭제되었습니다</string>
+    <string name="deletefailed">삭제하지 못했습니다</string>
+    <string name="Group">그룹</string>
+    <string name="repliedtouser">에 대답</string>
+    <string name="speaksomething">20 자 이상을 입력하십시오</string>
+    <string name="speaktoolong">문자 수가 한도를 초과하여 최대 4000자를 입력 할 수 있습니다.</string>
+    <string name="tapandholdptodelete">사진을 길게 눌러 삭제합니다.</string>
+    <string name="addvideofaild">비디오 추가 실패! 네트워크에서 Youtube 비디오를 찾아 다시 추가 할 수 있는지 확인하십시오.</string>
+    <string name="Video">비디오</string>
+
+
+    <string name="Hotsearches">인기 검색어</string>
+    <string name="Hothashtags">핫해시 태그</string>
+    <string name="history">역사</string>
+    <string name="aboutthisgame">이 게임에 대하여</string>
+    <string name="details">세부</string>
+    <string name="sellallreviews">모든 리뷰보기</string>
+
+    <string name="hfivetitle">빠른 게임</string>
+    <string name="Recommended">추천</string>
+    <string name="exit_tips">다시 누르면 게임이 종료됩니다</string>
+    <string name="h5_menu_reload">새로 고침</string>
+    <string name="h5_menu_share">몫</string>
+    <string name="h5_menu_shortcut">홈 화면에 추가</string>
+    <string name="installplaywitouthti">설치하지 않고 즉시 재생</string>
+
+    <!--全局rty-->
+
+    <string name="crash_dialog_title">죄송합니다 ...</string>
+    <string name="crash_toast_message">죄송합니다, APP 예외가 종료됩니다. 이메일을 통해 버그 보고서를 제출하십시오.</string>
+    <string name="crash_dialog_message">죄송합니다. APP 예외입니다. 이메일을 통해 버그 보고서를 제출하십시오.</string>
+    <string name="crash_dialog_feedback">버그 신고</string>
+    <string name="crash_dialog_restart">재시작</string>
+
+    <string name="init_fail">초기화에 실패했습니다. VPN을 사용하거나 다른 네트워크로 변경하십시오.</string>
+    <string name="error_file_des">이 파일은 삭제되었으며 지금 다시 다운로드 중입니다.</string>
+
+    <string name="sdpermission">외부 저장소에 액세스해야합니다. 권한이 부여되었는지 확인하십시오.</string>
+
+    <string name="Night_Mode">야간 모드</string>
+
+    <string name="thisty">이미 사용중인 사용자 이름입니다. 다른 것을 시도하십시오. 유효한:</string>
+
+    <!--home_feature-->
+    <string name="Feature">특집</string>
+    <string name="editorpick">편집자 추천</string>
+    <string name="PopularInlast">지난 24 시간 동안 인기있는</string>
+    <string name="Latestupdated">최신 업데이트</string>
+    <string name="paidforfree">무료로 지불</string>
+
+    <string name="ToadyRecommend">Toady의 추천</string>
+    <string name="hotmods">핫 모드</string>
+    <string name="hotrecommended">핫 추천</string>
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">업로드하려는 앱을 검색하십시오.</string>
+    <string name="addapost">게시물 추가</string>
+    <string name="launch_des">사용자가 100 % 작동하는 모드 찾기 \ n 업로드; 사용자가 확인했습니다!</string>
+    <string name="requestamod">모드 요청</string>
+    <string name="uploadamod">모드 업로드</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">설치</string>
+    <string name="bundleneedsfive">죄송합니다. 번들에는 Android 5.0 이상이 필요합니다.</string>
+    <string name="parsingerror">APK 구문 분석 오류 또는 취소되었습니다.</string>
+    <string name="tipsinstallok">성공적으로 설치되었습니다.</string>
+    <string name="tipsinstallfail">설치에 실패했습니다. 다시 시도하십시오.</string>
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">이미지 당 최대 10MB</string>
+    <string name="Imagesmustbelessthan">이미지는 10MB보다 작아야합니다. 이미지 크기를 줄이고 파일을 다시 저장하거나 다시 내보내고 다시 업로드하십시오.</string>
+
+    <string name="installfailed">설치 실패</string>
+    <string name="miuides">개발자 옵션을 켜고 MIUI 최적화를 끄고 다시 시도하십시오.</string>
+
+    <string name="playdes">플레이</string>
+    <string name="todayhotgame">오늘은 더워</string>
+    <string name="newcoming">새로운 수신</string>
+    <string name="recentlyplayed">최근에 재생 된</string>
+    <string name="toopenitquickntime">다음에 빨리 열려면 다음을 수행하십시오.</string>
+    <string name="finditin">X에서 찾기</string>
+    <string name="needhelp">도움이 필요하다?</string>
+    <string name="peoplealsoplaygames">이 게임을 한 사람들은 또한 다음을 수행했습니다.</string>
+
+    <string name="opencommunitydes">성인 또는 불량 게시물을 발견 한 경우 게시물 오른쪽 상단의 신고 버튼을 클릭하면 게시물을 삭제하고 처음으로 포스터를 차단합니다! 문명화 해주세요!</string>
+    <string name="myreviews">내 리뷰</string>
+
+    <string name="tagthisapp">이 앱 신고</string>
+    <string name="appuploader">업로드 한 앱</string>
+    <string name="votedresult">이 앱에 이미 투표하셨습니다.</string>
+    <string name="votedokok">투표가 성공적으로 제출되었습니다.</string>
+    <string name="please_downlaodthisapp">먼저이 앱을 다운로드하십시오.</string>
+    <string name="safetitle">앱 APK 보장</string>
+    <string name="safedes">이 APK는 바이러스, 악성 코드에 대한 보안 테스트를 통과했습니다. 신뢰할 수 있고 확인 된 디지털 서명을 사용했습니다.</string>
+    <string name="bereported">신고하셨습니다.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">먼저 다운로드 대기열을 완료하십시오.</string>
+    <string name="adduploadvideo">비디오 추가 : (선택 사항)</string>
+    <string name="uploadscreenshots">스크린 샷 업로드 (160 * 90)</string>
+    <string name="scerrnshoteserror">스크린 샷이 필요합니다.</string>
+    <string name="bannererror">배너가 필요합니다.</string>
+    <string name="pleaseentergoogleaddress">Google Play에서 앱 ID 또는 URL을 입력하세요.</string>
+    <string name="thisposthasbeendeleted">이 게시물은 삭제되었습니다.</string>
+    <string name="add">더하다</string>
+    <string name="oagputc">또는 계속하려면 Google Play URL을 추가하세요 .</string>
+    <string name="description">기술:</string>
+    <string name="uploadbanner">배너 업로드 (702 * 460)</string>
+    <string name="noedituploadtips">변경하지 않고 제출할 수 없습니다.</string>
+    <string name="addexcusiveaddressixit">이 APK는 이미 존재합니다.</string>
+
+    <string name="itisworkingonyourdevice">장치에서 작동합니까?</string>
+    <string name="no_working">작동 안함</string>
+    <string name="vote_it">투표</string>
+    <string name="novirus">바이러스 없음</string>
+    <string name="nomalware">맬웨어 없음</string>
+    <string name="nospyware">스파이웨어 없음</string>
+    <string name="less">적게</string>
+    <string name="votedandfail">이미 검토하셨습니다. "내 검토"목록을 확인하세요.</string>
+
+</resources>

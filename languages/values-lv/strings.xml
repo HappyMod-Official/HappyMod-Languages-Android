@@ -1,0 +1,459 @@
+<resources>
+    <!--拉脱维亚语-->
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图 -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <string name="Paid">Apmaksātais</string>
+    <string name="GAME">Spēle</string>
+    <string name="APP">App</string>
+    <string name="NEW">Jauns</string>
+    <string name="Categories">Kategorijas</string>
+    <string name="games">Spēles</string>
+    <string name="REFRESH">atjaunot</string>
+    <string name="Unable_to_connect_to_the_network">Nevar piekļūt internetam.</string>
+    <string name="Recommended_Game_Mods">Ieteicamie spēļu moduļi</string>
+    <string name="Hot_Game_Mods">Karstā spēles modi</string>
+    <string name="Recommended_App_Mods">Ieteicamie lietotņu moduļi</string>
+    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Recommended_New_Mods">Ieteicamie jaunie moduļi</string>
+    <string name="Last_Update_Mods">Jaunākie atjauninājumi</string>
+    <string name="SearchHint">Meklēt..</string>
+
+
+    <string name="Homeweb">Oficiālā mājas lapa</string>
+    <string name="Management">Vadība</string>
+    <string name="Settings">Iestatījumi</string>
+    <string name="Feedback">Atsauksmes</string>
+    <string name="Translation">Tulkošana</string>
+    <string name="Share">Kopīgot</string>
+    <string name="Checkforupdate">Pārbaudiet, vai nav atjauninājumu</string>
+    <string name="FollowusonTwitter">Sekojiet mums Twitter</string>
+    <string name="FollowusonFacebook">Sekojiet mums Facebook</string>
+
+
+    <string name="settings_network_remind">Mobilā tīkla brīdinājums</string>
+    <string name="settings_auto_install">Automātiski instalēt</string>
+    <string name="Download_Directory">Lejupielādēt direktoriju</string>
+    <string name="settings_other">Citi</string>
+    <string name="settings_clear_cache">Iztīrīt kešatmiņu</string>
+    <string name="Clean_up_the_complete">Kešatmiņa ir notīrīta.</string>
+
+
+    <string name="des_no_serach_result"> Hmm! Rezultāts netika atrasts.</string>
+
+
+    <string name="Downloads">Lejupielādes</string>
+    <string name="Downloading">Lejupielāde</string>
+    <string name="Finished">Pabeigts</string>
+    <string name="No_Download">Nav atrasts neviens fails.</string>
+    <string name="Pause">Pauze</string>
+    <string name="Waiting_in_queue">Gaida rindā</string>
+    <string name="Completed">Pabeigts</string>
+    <string name="UnZiping">Ekstrahēšana</string>
+    <string name="UnZip_succeed">Pabeigta ieguve</string>
+    <string name="Rate">Likme</string>
+    <string name="Rated">Novērtēts</string>
+    <string name="Version">Versija</string>
+    <string name="Ratingsreviews">Reitingi</string>
+    <string name="Tryitlater">Izmēģiniet vēlāk</string>
+    <string name="Serviceisbusy">Savieno ...</string>
+
+
+
+    <string name="Notice">Paziņojums</string>
+    <string name="deletethistask">Dzēst šo failu</string>
+    <string name="Cancel">Atcelt</string>
+    <string name="Delete">Dzēst</string>
+    <string name="Whydeletethisdownload">Kāpēc dzēst šo lejupielādi?</string>
+    <string name="NotwhatIwant">Ne tas, ko es gribu</string>
+    <string name="Downloadfailed">Lejupielāde neizdevās</string>
+    <string name="Downloadistooslow">Lejupielāde ir pārāk lēna</string>
+
+
+    <string name="Mods">Moduļi</string>
+    <string name="Original">Oriģināls</string>
+    <string name="Previousversion">Iepriekšējā versija</string>
+    <string name="Download">Lejupielādēt</string>
+    <string name="Downloadobb">Lejupielādēt (APK+OBB)</string>
+    <string name="Downloaddata">Lejupielādēt (APK+DATA)</string>
+    <string name="Downloadboundle">Lejupielādēt BUNDLE</string>
+
+    <string name="Downloaded">Lejupielādēts</string>
+    <string name="Install">Uzstādīt</string>
+    <string name="Connecting">Savieno ...</string>
+    <string name="readmore">Lasīt vairāk</string>
+    <string name="modfeature">Mod info:</string>
+    <string name="Moreversion">Vairāk versiju</string>
+    <string name="Recommend">Ieteikt</string>
+    <string name="Recommendmod">Ieteicamais Mod</string>
+    <string name="Moremods">Jaunākā versija</string>
+
+
+    <string name="Submit">Iesniegt</string>
+    <string name="Hated_it">Ienīstu to!</string>
+    <string name="Disliked_it">Nepatīk.</string>
+    <string name="Its_ok">Ir labi.</string>
+    <string name="Liked_it">Patīk.</string>
+    <string name="Loved_it">Mīlu to!</string>
+
+
+    <string name="share_happymod">Kopīgojiet “HappyMod”, izmantojot</string>
+    <string name="share_subject">Get HappyMod</string>
+    <string name="share_text">Lejupielādējiet 100% darba modus ar @HappyMod \ t</string>
+
+
+    <string name="pref_location">Uzglabāšanas vieta</string>
+
+
+    <string name="force_des">100% darba moduļi</string>
+    <string name="nvisrti">jauna versija ir gatava instalēšanai.</string>
+    <string name="OPEN">OPEN</string>
+    <string name="OK">labi</string>
+    <string name="Loading">Notiek ielāde ......</string>
+    <string name="updata_tip">Jūs izmantojat jaunāko stabilo HappyMod versiju</string>
+    <string name="xzzb">Lūdzu, lejupielādējiet oficiālo HappyMod.</string>
+    <string name="Continue">Turpināt</string>
+    <string name="appobb">APK OBB</string>
+    <string name="No_space_left_on_device">Ierīcē nav atstāta vieta</string>
+    <string name="Is_this_app_you_need">Vai jūs meklējat šo lietotni?</string>
+    <string name="No">Nē</string>
+    <string name="Yes">Jā</string>
+    <string name="bcdes">. Atbrīvojiet krātuvi un mēģiniet vēlreiz.</string>
+    <string name="need">; Pieejams:</string>
+    <string name="No_enough_space_left_on_device">Nepietiek vietas. Nepieciešams:</string>
+    <string name="updatenow">Atjaunināt tagad</string>
+    <string name="updateFail">Lejupielāde neizdevās. Lūdzu, aizveriet un atveriet vēlreiz</string>
+    <string name="initializing">Inicializēšana</string>
+    <string name="Retrying">Atkārtota mēģināšana</string>
+    <string name="language">Valoda</string>
+
+
+
+    <string name="Popular">Populārs</string>
+    <string name="s_New">Jauns</string>
+    <string name="apps">Lietojumprogrammas</string>
+
+
+    <string name="mergering">Galīgā apstrāde</string>
+    <string name="mergerwait">Galīgā apstrāde (nepieciešams 1-2 minūtes)</string>
+
+
+
+    <string name="Startverification">Sākt verifikāciju</string>
+    <string name="verificationShangXian">Hmm! Jūs esat sasniedzis dienas lejupielādes ierobežojumu, mēģiniet vēlreiz pēc X stundām.</string>
+    <string name="verificationFail">Verifikācija neizdevās, lūdzu, mēģiniet vēlreiz!</string>
+    <string name="Morehelp">(Vairāk palīdzības)</string>
+    <string name="uid">Lietotāja ID</string>
+    <string name="copysuccess">Lietotājvārds ir kopēts starpliktuvē.</string>
+
+    <string name="watchnow">Skatīt tagad</string>
+    <string name="ggdownloading">Reklāmas tiek ielādētas, lūdzu, uzgaidiet un saglabājiet laimi.</string>
+    <string name="verificaing">Pārbaudot, lūdzu, pagaidiet brīdi.</string>
+
+
+
+    <string name="Removeads">Noņemt reklāmas</string>
+    <string name="Paidforfree">Maksas par brīvu</string>
+    <string name="Unlimitedmoney">Neierobežota nauda</string>
+    <string name="Freepurchase">Bezmaksas pirkums</string>
+    <string name="Freeshopping">Bezmaksas iepirkšanās</string>
+    <string name="Unlocked">Atslēgts</string>
+    <string name="Patched">Patch</string>
+    <string name="Premium">Premium</string>
+    <string name="Pro">Pro</string>
+    <string name="ModLite">Mod Lite</string>
+    <string name="Subscribed">Abonēts</string>
+    <string name="Prime">Galvenais</string>
+    <string name="Plus">Plus</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Substrāts</string>
+    <string name="Debloated">Norādīts</string>
+    <string name="Donate">Ziedot</string>
+    <string name="AOSPcompatible">AOSP saderīgs</string>
+    <string name="Cracked">Ieplaisājis</string>
+    <string name="NoAds">Nav reklāmu</string>
+    <string name="Infinite">Bezgalīgs</string>
+    <string name="Endless">Bezgalīgs</string>
+    <string name="Invincible">Neuzvarams</string>
+    <string name="Unlimitedhints">Neierobežots padoms</string>
+    <string name="Megamod">Mega mod</string>
+    <string name="Full">Pilna</string>
+
+
+    <string name="Username">Lietotājvārds</string>
+    <string name="Usernameinit">4-50 rakstzīmes</string>
+    <string name="Usernametip">Tikai burti a-z, skaitļi, @. - _ lūdzu (nav atstarpju vai citu speciālu rakstzīmju). 4-50 rakstzīmes.</string>
+    <string name="Password">Parole</string>
+    <string name="Enteryourpassword">6-8 rakstzīmes</string>
+    <string name="passwordtip">Tikai burti A-Z, a-z, skaitļi spaces nav atstarpes vai speciālas rakstzīmes). 6-8 rakstzīmes.</string>
+    <string name="nicknametip">Šis segvārds jau ir uzņemts.</string>
+    <string name="Nickname">Segvārds</string>
+    <string name="Emailaddress">Epasta adrese</string>
+    <string name="Enteryouremail">Ievadi savu epastu</string>
+    <string name="Telephonenumber">Telefona numurs</string>
+    <string name="Enteryourtelephonenumber">Ievadiet savu tālruņa numuru</string>
+    <string name="phonetip">Ievadiet derīgu tālruņa numuru.</string>
+    <string name="emailtip">Ievadiet derīgu epasta adresi.</string>
+    <string name="Signup">Pierakstīties</string>
+    <string name="tuiat">Šis lietotājvārds jau ir aizņemts.</string>
+    <string name="Login">Pieslēgties</string>
+    <string name="Account">Konts</string>
+    <string name="forgotpassword">Forget password?</string>
+
+    <string name="loginwithaccount">VAI piesakieties ar savu lietotājvārdu</string>
+    <string name="newur">Jauna lietotāja reģistrācija</string>
+    <string name="Usernameinitnew">Lietotājvārds (4–50 rakstzīmes)</string>
+    <string name="Passwordnew">Parole (6-8 rakstzīmes)</string>
+    <string name="Emailnew">E-pasts</string>
+    <string name="PhoneNumber">Telefona numurs</string>
+    <string name="Unknown">Nezināms</string>
+    <string name="enteryEmail">Ievadi savu epastu</string>
+    <string name="enteryPhone">Ievadiet savu tālruņa numuru</string>
+    <string name="signuptips">Aizmirstot paroli, jums būs jāiegūst tālruņa numurs vai e-pasts. Mēs iesakām tos aizpildīt.</string>
+
+    <string name="confirmusername">Apstipriniet lietotājvārdu</string>
+    <string name="next">Nākamais</string>
+    <string name="fblogdes">Lūdzu, ievadiet lietotājvārdu. Lietotājvārds ir ļoti svarīgs identifikators paroles ielādēšanai, lūdzu, paturiet prātā.</string>
+    <string name="selectusername">Izvēlieties lietotājvārdu</string>
+    <string name="reselpass_desone">Lai atiestatītu paroli, ievadiet sava konta lietotājvārdu. Jums ir kādi jautājumi par paroles atiestatīšanu<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Lūdzu, ievadiet e-pastu vai tālruņa numuru. Jums ir kādi jautājumi par paroles atiestatīšanu<u>contact us</u>.</string>
+    <string name="forgetgosingup">Vai to nevar atcerēties? Lūdzu, lūdzu<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Atiestatīt paroli</string>
+    <string name="NewPassword">Jauna parole</string>
+    <string name="Enterthepasswordagain">Apstipriniet paroli</string>
+    <string name="signuplimitdes">Ierīce ir sasniegusi maksimālo reģistrēto lietotājvārdu skaitu. Lai pieteiktos, lūdzu, atlasiet tālāk norādīto lietotājvārdu.</string>
+    <string name="Register">Reģistrs</string>
+    <string name="eyun">Ievadiet savu lietotājvārdu</string>
+    <string name="eypsw">Ievadiet savu paroli</string>
+    <string name="loginerrortips">Lūdzu, ievadiet pareizu lietotājvārdu un paroli. Ņemiet vērā, ka paroles lauks ir reģistrjutīgs.</string>
+    <string name="Resetpasswordfailed">Atjaunot paroli neizdevās.</string>
+    <string name="Theusernamewasnotregistered">Lietotājvārds nav reģistrēts.</string>
+    <string name="petceotn">Lūdzu, ievadiet pareizo e-pastu vai tālruņa numuru.</string>
+    <string name="fbrfail">Facebook reģistrs neizdevās.</string>
+    <string name="Registerfailed">Reģistrācija neizdevās, lūdzu, apstipriniet, ka tīkla savienojums ir normāls, noklikšķiniet uz reģistrācijas pogas, lai mēģinātu vēlreiz.</string>
+    <string name="Loginfailed">Pieslēgšanās neizdevās.</string>
+    <string name="me">Es</string>
+    <string name="Avatar">Avatar</string>
+    <string name="Myposts">manas ziņas</string>
+    <string name="passowrduploadok">Parole ir veiksmīgi mainīta</string>
+    <string name="logout">Izlogoties</string>
+    <string name="passwordsame">Divas ievadītās paroles ir pretrunīgas</string>
+    <string name="PopularComments">Populāri komentāri</string>
+
+
+    <string name="Request">Pieprasījums</string>
+    <string name="Youarerequesting">Jūs pieprasāt:</string>
+    <string name="Addrequest">Pievienot pieprasījumu</string>
+    <string name="Myrequests">Mani pieprasījumi</string>
+    <string name="Myuploads">Mani attēli</string>
+    <string name="Updated">Atjaunināts</string>
+    <string name="Comingsoon">Drīzumā</string>
+    <string name="searchappyouwanttorequest">Meklēt lietotnē, kuru vēlaties pieprasīt:</string>
+    <string name="Addupload">Pievienot augšupielādi</string>
+    <string name="requestdetailhint">Rādīt vairāk par jūsu pieprasījumu. (Vismaz 50 rakstzīmes)</string>
+    <string name="requesterror">Iesniegšana neizdevās, lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="detailserror">(100-4000 rakstzīmes)</string>
+    <string name="view">Skatīt</string>
+    <string name="isthiswork">Vai tas strādā?</string>
+    <string name="edit">Rediģēt</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL:</string>
+    <string name="OBBDataurl">OBB / Datu Zippyshare/Mediafire URL: (pēc izvēles)</string>
+    <string name="Youarereupload">Jūs augšupielādējat:</string>
+    <string name="Upload">Augšupielādēt</string>
+    <string name="Uploadfail">Augšupielāde neizdevās.</string>
+    <string name="apkfail">Lūdzu, ievadiet apk faila Zippyshare/Mediafire URL.</string>
+    <string name="obbfail">Lūdzu, ievadiet obb faila Zippyshare/Mediafire URL.</string>
+    <string name="worked">Strādāja</string>
+    <string name="Uploadsuccess">Augšupielādes panākumi</string>
+    <string name="Requestsuccess">Pieprasīt panākumus</string>
+    <string name="clickyes">Šo pieprasījumu varat rediģēt un atkārtoti iesniegt no apstrādātas rindas.</string>
+    <string name="clickno">Šis pieprasījums tiks pievienots drīzumā vēlreiz.</string>
+    <string name="downloadpush_remind">Rādīt paziņojumu pēc instalēšanas</string>
+    <string name="messages">Ziņas</string>
+    <string name="RecommendMods">Ieteikt modus</string>
+    <string name="requestdetailserror">(50-4000 rakstzīmes)</string>
+
+
+    <string name="Changetheimage">Mainiet attēlu >></string>
+    <string name="Typethecodeinthebox">Ierakstiet lodziņā kodu</string>
+    <string name="Verificationerror">Verifikācija neizdevās. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="Verifing">Notiek verifikācija …</string>
+
+
+    <!--补偿下载 -->
+
+    <string name="fix_tips_title">Pirms dzēšanas izmēģiniet citus serverus</string>
+    <string name="fix_tips_content">Vai vēlaties izveidot savienojumu ar citu serveri, lai pirms dzēšanas mēģinātu to lejupielādēt?</string>
+    <string name="fix_progress_title">Skenēšanas serveri</string>
+    <string name="fix_progress_content">Var paiet dažas minūtes, lai meklētu jums ātrāko serveri. Lūdzu, uzgaidiet.</string>
+    <string name="fix_failed_content">Pašlaik jums nav pieejami serveri. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
+    <string name="fix_tips_failtitle">Vairs nav serveru</string>
+    <string name="fix_ok">Pamēģini</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">Lūdzu, vispirms lejupielādējiet šo mod.</string>
+    <string name="myvoted">Mans balsojums</string>
+    <string name="working">Strādā</string>
+    <string name="inanhour">Lūdzu, balsojiet vēlreiz pēc stundas.</string>
+
+    <string name="Review">Pārskats</string>
+    <string name="myreply">Manas atbildes</string>
+    <string name="Post">Izlikt</string>
+    <string name="addavideo">Pievienojiet videoklipu</string>
+    <string name="enterthevideourlhere">Lūdzu, ievadiet Youtube video URL šeit.</string>
+    <string name="onlysupportyoutube">Atbalstiet tikai Youtube videoklipus</string>
+    <string name="searchorcreate">Meklējiet vai izveidojiet</string>
+    <string name="hashtags">Vēstures hashtags</string>
+    <string name="featuredhash">Piedāvātās atsauces</string>
+    <string name="newhshstag">Jauna hashtag</string>
+    <string name="hot">Karsts</string>
+    <string name="Comments">Komentāri</string>
+    <string name="replies">Atbildes</string>
+    <string name="community">Kopiena</string>
+    <string name="report">Ziņojums</string>
+    <string name="reply">Atbildi</string>
+    <string name="reportsuccess">Jūsu ziņojums tika veiksmīgi iesniegts.</string>
+    <string name="reportfail">Jūsu ziņojumu neizdevās iesniegt.</string>
+    <string name="replytowho">Atbildēt uz X:</string>
+    <string name="replyfail">Atbildēt neizdevās</string>
+    <string name="Reviews">Atsauksmes</string>
+    <string name="success">Panākumi</string>
+    <string name="sendfailed">Neizdevās</string>
+    <string name="deletesuccess">Veiksmīgi izdzēsts</string>
+    <string name="deletefailed">Neizdevās izdzēst</string>
+    <string name="Group">Grupa</string>
+    <string name="repliedtouser">atbildēja uz</string>
+    <string name="speaksomething">Lūdzu, ievadiet vismaz 20 rakstzīmes</string>
+    <string name="speaktoolong">Rakstzīmju skaits pārsniedz ierobežojumu, var ievadīt līdz 4000 rakstzīmēm.</string>
+    <string name="tapandholdptodelete">Pieskarieties attēlam un turiet to, lai to izdzēstu.</string>
+    <string name="addvideofaild">Videoklipu pievienošana neizdevās！ Lūdzu, pārliecinieties, vai jūsu tīkls var pārlūkot Youtube video un vēlreiz to pievienot.</string>
+    <string name="Video">Video</string>
+
+    <string name="Hotsearches">Karsti meklējumi</string>
+    <string name="Hothashtags">Karstas atsauces</string>
+    <string name="history">Vēsture</string>
+    <string name="aboutthisgame">Par šo spēli</string>
+    <string name="details">Sīkāka informācija</string>
+    <string name="sellallreviews">Skatīt visas atsauksmes</string>
+
+    <string name="hfivetitle">Ātrās spēles</string>
+    <string name="Recommended">Ieteicams</string>
+    <string name="exit_tips">Vēlreiz nospiediet atpakaļ, lai izietu no spēles</string>
+    <string name="h5_menu_reload">Pārlādēt</string>
+    <string name="h5_menu_share">Dalies</string>
+    <string name="h5_menu_shortcut">Pievienojiet sākuma ekrānam</string>
+    <string name="installplaywitouthti">Tūlītēja atskaņošana bez instalēšanas</string>
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">Hmm ...</string>
+    <string name="crash_toast_message">Diemžēl no APP izņēmuma tiks izbeigts. Lūdzu, iesniedziet ziņojumu par kļūdu pa e-pastu.</string>
+    <string name="crash_dialog_message">Atvainojiet, APP izņēmums. Lūdzu, iesniedziet ziņojumu par kļūdu pa e-pastu.</string>
+    <string name="crash_dialog_feedback">Ziņot par kļūdām</string>
+    <string name="crash_dialog_restart">Restartēt</string>
+
+    <string name="init_fail">Inicializēšana neizdevās, lūdzu, izmantojiet VPN vai mainiet uz citiem tīkliem.</string>
+    <string name="error_file_des">Šis fails ir izdzēsts un tagad tiek atkārtoti lejupielādēts.</string>
+
+    <string name="sdpermission">Mums jāpiekļūst jūsu ārējai krātuvei. Lūdzu, pārliecinieties, ka atļauja ir piešķirta.</string>
+
+    <string name="Night_Mode">Nakts režīms</string>
+
+    <string name="thisty">Šis lietotājvārds ir ņemts. Izmēģiniet citu. Pieejams:</string>
+
+    <!--home_feature-->
+    <string name="Feature">Piedāvātie</string>
+    <string name="editorpick">Redaktora izvēle</string>
+    <string name="PopularInlast">Populārs pēdējās 24 stundās</string>
+    <string name="Latestupdated">Jaunākie atjauninājumi</string>
+    <string name="paidforfree">Maksā par velti</string>
+
+    <string name="ToadyRecommend">Toadija ieteikums</string>
+    <string name="hotmods">Karstie modi</string>
+    <string name="hotrecommended">Karsti ieteicams</string>
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Meklējiet lietotnē, kuru vēlaties augšupielādēt:</string>
+    <string name="addapost">Pievienojiet ziņu</string>
+    <string name="launch_des">Atrodiet 100% darba modus \n neielādē lietotāji; Lietotāju pārbaudīts!</string>
+    <string name="requestamod">Pieprasīt mod</string>
+    <string name="uploadamod">Augšupielādēt mod</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">Instalēšana</string>
+    <string name="bundleneedsfive">Atvainojiet, paketei nepieciešama operētājsistēmas Android 5.0 un jaunāka versija.</string>
+    <string name="parsingerror">Kļūda, parsējot apk, vai atcelta.</string>
+    <string name="tipsinstallok">Instalācija bija veiksmīga.</string>
+    <string name="tipsinstallfail">Instalēšana neizdevās, lūdzu, mēģiniet vēlreiz.</string>
+
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Maksimāli 10 MB vienā attēlā.</string>
+    <string name="Imagesmustbelessthan">Attēliem jābūt mazākiem par 10 MB, lūdzu, samaziniet attēla izmērus, atkārtoti saglabājiet vai atkārtoti eksportējiet failu un mēģiniet to augšupielādēt vēlreiz.</string>
+
+    <string name="installfailed">Instalēšana neizdevās.</string>
+    <string name="miuides">Lūdzu, ieslēdziet izstrādātāja opcijas, izslēdziet MIUI optimizēšanu un mēģiniet vēlreiz.</string>
+
+    <string name="playdes">Spēlē</string>
+    <string name="todayhotgame">Šodien ir karsts</string>
+    <string name="newcoming">Jauns ienākošais</string>
+    <string name="recentlyplayed">Nesen spēlēju</string>
+    <string name="toopenitquickntime">Lai ātri atvērtu nākamreiz, lūdzu, veiciet tālāk norādītās darbības.</string>
+    <string name="finditin">Atrodiet to X</string>
+    <string name="needhelp">Vajadzīga palīdzība?</string>
+    <string name="peoplealsoplaygames">Cilvēki spēlēja šo spēli arī spēlēja:</string>
+
+    <string name="opencommunitydes">Ja atrodat pieaugušo vai kādu sliktu ziņu, lūdzu, noklikšķiniet uz ziņojuma pogas ziņas augšējā labajā stūrī, un mēs pirmo reizi izdzēsīsim ziņu un bloķēsim plakātu! Lūdzu, runājiet civilizēti!</string>
+    <string name="myreviews">Manas atsauksmes</string>
+
+    <string name="tagthisapp">Atzīmēt šo lietotni</string>
+    <string name="appuploader">Lietotni augšupielādēja</string>
+    <string name="votedresult">Jūs jau esat balsojis par šo lietotni.</string>
+    <string name="votedokok">Jūsu balss tika veiksmīgi iesniegta.</string>
+    <string name="please_downlaodthisapp">Lūdzu, vispirms lejupielādējiet šo lietotni.</string>
+    <string name="safetitle">Lietotnes apk garantēta</string>
+    <string name="safedes">Šis apk nokārtoja vīrusu, ļaunprātīgas programmatūras drošības pārbaudi. Tas izmantoja uzticamu un pārbaudītu digitālo parakstu.</string>
+    <string name="bereported">Jūs par to ziņojāt.</string>
+
+    <string name="pleasefinishyourdownloadingqueu">Lūdzu, vispirms pabeidziet lejupielādes rindu.</string>
+    <string name="adduploadvideo">Pievienot video: (pēc izvēles)</string>
+    <string name="uploadscreenshots">Augšupielādēt ekrānuzņēmumus (160 * 90)</string>
+    <string name="scerrnshoteserror">Nepieciešami ekrānuzņēmumi.</string>
+    <string name="bannererror">Obligāts reklāmkarogs.</string>
+    <string name="pleaseentergoogleaddress">Lūdzu, pakalpojumā Google Play ievadiet lietotnes ID vai URL.</string>
+    <string name="thisposthasbeendeleted">Šis ieraksts ir izdzēsts.</string>
+    <string name="add">Pievienot</string>
+    <string name="oagputc">Vai arī pievienojiet Google Play URL, lai turpinātu</string>
+    <string name="description">Apraksts:</string>
+    <string name="uploadbanner">Augšupielādēt reklāmkarogu (702 * 460)</string>
+    <string name="noedituploadtips">To nevar iesniegt, neveicot nekādas izmaiņas.</string>
+    <string name="addexcusiveaddressixit">Šis apk jau pastāv.</string>
+
+    <string name="itisworkingonyourdevice">Vai tas darbojas jūsu ierīcē?</string>
+    <string name="no_working">Nestrādā</string>
+    <string name="vote_it">Balsojiet par to</string>
+    <string name="novirus">Nav vīrusa</string>
+    <string name="nomalware">Nav ļaunprātīgas programmatūras</string>
+    <string name="nospyware">Nav spiegprogrammatūras</string>
+    <string name="less">Mazāk</string>
+    <string name="votedandfail">Jūs jau esat pārskatījis, lūdzu, pārbaudiet sarakstu “Manas atsauksmes”.</string>
+
+</resources>

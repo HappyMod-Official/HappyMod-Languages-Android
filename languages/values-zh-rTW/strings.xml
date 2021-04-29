@@ -1,0 +1,462 @@
+<resources>
+
+    <!--繁体  -->
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+
+    <string name="facebook_app_id">658182831284939</string>
+
+    <!--原APP大图  -->
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+
+    <!--首页-->
+    <string name="Paid">免費</string>
+    <string name="GAME">遊戲</string>
+    <string name="APP">應用</string>
+    <string name="NEW">最新</string>
+    <string name="Categories">分類</string>
+    <string name="games">遊戲</string>
+    <string name="REFRESH">刷新</string>
+    <string name="Unable_to_connect_to_the_network">無法訪問互聯網</string>
+    <string name="Recommended_Game_Mods">推薦的遊戲 Mods</string>
+    <string name="Hot_Game_Mods">熱門遊戲 Mods</string>
+    <string name="Recommended_App_Mods">推薦的App Mods</string>
+    <string name="Hot_App_Mods">熱門App Mods</string>
+    <string name="Recommended_New_Mods">推薦的新 Mods</string>
+    <string name="Last_Update_Mods">最新更新</string>
+    <string name="SearchHint">搜索..</string>
+
+
+    <!-- 侧滑-->
+    <string name="Homeweb">官方網站</string>
+    <string name="Management">管理</string>
+    <string name="Settings">設置</string>
+    <string name="Feedback">反饋</string>
+    <string name="Translation">翻譯</string>
+    <string name="Share">分享</string>
+    <string name="Checkforupdate">檢查更新</string>
+    <string name="FollowusonTwitter">在推特上關注我們</string>
+    <string name="FollowusonFacebook">在Facebook的上關注我們</string>
+
+    <!--设置页-->
+    <string name="settings_network_remind">移動網絡警報</string>
+    <string name="settings_auto_install">自動安裝</string>
+    <string name="Download_Directory">下載目錄</string>
+    <string name="settings_other">其他</string>
+    <string name="settings_clear_cache">清除緩存</string>
+    <string name="Clean_up_the_complete">緩存已清除</string>
+
+
+    <!--空数据页-->
+    <string name="des_no_serach_result">哎呀！沒有找到結果。</string>
+
+    <!--下载管理页-->
+    <string name="Downloads">下載</string>
+    <string name="Downloading">正在下載</string>
+    <string name="Finished">已下載</string>
+    <string name="No_Download">找不到文件。</string>
+    <string name="Pause">暫停</string>
+    <string name="Waiting_in_queue">排隊等候</string>
+    <string name="Completed">已完成</string>
+    <string name="UnZiping">提取</string>
+    <string name="UnZip_succeed">完成提取</string>
+    <string name="Rate">評級</string>
+    <string name="Rated">已評級</string>
+    <string name="Version">版</string>
+    <string name="Ratingsreviews">評級 &amp; 評測</string>
+    <string name="Tryitlater">稍後再試</string>
+    <string name="Serviceisbusy">連接...</string>
+
+
+    <!-- 下载删除的文字 -->
+    <string name="Notice">注意</string>
+    <string name="deletethistask">刪除此文件</string>
+    <string name="Cancel">取消</string>
+    <string name="Delete">刪除</string>
+    <string name="Whydeletethisdownload">為何刪除此下載？</string>
+    <string name="NotwhatIwant">不是我想要的</string>
+    <string name="Downloadfailed">下載失敗</string>
+    <string name="Downloadistooslow">下載太慢了</string>
+
+    <!--APP详情页-->
+    <string name="Mods">MODS</string>
+    <string name="Original">原版的</string>
+    <string name="Previousversion">歷史版本</string>
+    <string name="Download">下載</string>
+    <string name="Downloadobb">下載(APK+OBB)</string>
+    <string name="Downloaddata">下載(APK+DATA)</string>
+    <string name="Downloadboundle">下載 BUNDLE</string>
+
+
+    <string name="Downloaded">已下載</string>
+    <string name="Install">安裝</string>
+    <string name="Connecting">連接...</string>
+    <string name="readmore">閱讀更多</string>
+    <string name="modfeature">Mod信息：</string>
+    <string name="Moreversion">更多版本</string>
+    <string name="Recommend">推薦</string>
+    <string name="Recommendmod">推薦的Mod</string>
+    <string name="Moremods">最新版本</string>
+
+
+    <!--评分-->
+    <string name="Submit">提交</string>
+    <string name="Hated_it">討厭它！</string>
+    <string name="Disliked_it">不喜歡它。</string>
+    <string name="Its_ok">沒關係。</string>
+    <string name="Liked_it">喜歡它。</string>
+    <string name="Loved_it">愛它！</string>
+
+
+    <!--分享-->
+    <string name="share_happymod">分享\'HappyMod\'來自</string>
+    <string name="share_subject">得到HappyMod</string>
+    <string name="share_text">使用 @HappyMod\nhttps://www.happymod.com/下載100％好用的Mod</string>
+
+    <!--修改路径-->
+    <string name="pref_location">存儲位置</string>
+
+    <!--update -->
+    <string name="force_des">100％好用的Mod</string>
+    <string name="nvisrti">新版本已準備好安裝。</string>
+    <string name="OPEN">打開</string>
+    <string name="OK">好</string>
+    <string name="Loading">數據加載中......</string>
+    <string name="updata_tip"><您正在使用最新版本的HappyMod></您正在使用最新版本的HappyMod></string>
+    <string name="xzzb">請下載官方的HappyMod。</string>
+    <string name="Continue">繼續</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">設備上沒有剩餘空間</string>
+    <string name="Is_this_app_you_need">你在找這個應用程序嗎？</string>
+    <string name="No">沒有</string>
+    <string name="Yes">是</string>
+    <string name="bcdes">。 釋放存儲空間，然後重試。</string>
+    <string name="need">; 可用的：</string>
+    <string name="No_enough_space_left_on_device">存儲空間不足。需要：</string>
+    <string name="updatenow">現在更新</string>
+    <string name="updateFail">下載失敗。請關閉並重新打開</string>
+    <string name="initializing">初始化</string>
+    <string name="Retrying">重試</string>
+    <string name="language">語言</string>
+
+    <!--类别界面 -->
+
+    <string name="Popular">流行</string>
+    <string name="s_New">最新</string>
+    <string name="apps">應用</string>
+
+    <!-- 大文件 -->
+    <string name="mergering">最後一步</string>
+    <string name="mergerwait">最終處理（需要1-2分鐘）</string>
+
+    <!-- 验证 -->
+    <string name="Startverification">開始驗證</string>
+    <string name="verificationShangXian">哎呀！您已達到每日下載限制，請在X小時後重試。</string>
+    <string name="verificationFail">驗證失敗，請重試！</string>
+    <string name="Morehelp">（更多幫助）</string>
+    <string name="uid">用户id</string>
+    <string name="copysuccess">用户id已複製到剪貼板。</string>
+
+    <string name="watchnow">現在看</string>
+    <string name="ggdownloading">廣告正在加載，請等待並保持happymod打開。</string>
+    <string name="verificaing">驗證中，請稍候。</string>
+
+    <!-- 评价 -->
+    <string name="Removeads">移除廣告</string>
+    <string name="Paidforfree">免費</string>
+    <string name="Unlimitedmoney">無限金幣</string>
+    <string name="Freepurchase">免購買</string>
+    <string name="Freeshopping">免購物</string>
+    <string name="Unlocked">解鎖</string>
+    <string name="Patched">修補</string>
+    <string name="Premium">免額外費用</string>
+    <string name="Pro">專業版</string>
+    <string name="ModLite">小巧版</string>
+    <string name="Subscribed">訂閱</string>
+    <string name="Prime">主要</string>
+    <string name="Plus">加量版</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">底層</string>
+    <string name="Debloated">刪除無用</string>
+    <string name="Donate">捐贈</string>
+    <string name="AOSPcompatible">AOSP兼容</string>
+    <string name="Cracked">破解</string>
+    <string name="NoAds">無廣告</string>
+    <string name="Infinite">無盡</string>
+    <string name="Endless">無窮</string>
+    <string name="Invincible">不可戰勝的</string>
+    <string name="Unlimitedhints">無限提示</string>
+    <string name="Megamod">多種破解</string>
+    <string name="Full">完整版</string>
+
+
+
+    <!-- 注册登录 -->
+    <string name="Username">用戶名</string>
+    <string name="Usernameinit">4-50個字符</string>
+    <string name="Usernametip">只能使用字母a-z，數字，@ - _及英文句號（不能使用空格或其他特殊字符）。 4-50個字符。</string>
+    <string name="Password">密碼</string>
+    <string name="Enteryourpassword">6-8個字符</string>
+    <string name="passwordtip">只有字母A-Z，a-z，數字（無空格或特殊字符）。 6-8個字符。</string>
+    <string name="nicknametip">這個暱稱已經被採用。</string>
+    <string name="Nickname">暱稱</string>
+    <string name="Emailaddress">電子郵件地址</string>
+    <string name="Enteryouremail">輸入你的電子郵箱</string>
+    <string name="Telephonenumber">電話號碼</string>
+    <string name="Enteryourtelephonenumber">輸入您的電話號碼</string>
+    <string name="phonetip">請輸入有效的電話號碼。</string>
+    <string name="emailtip">請輸入一個有效的電子郵件地址。</string>
+    <string name="Signup">註冊</string>
+    <string name="tuiat">該用戶名已被註冊。</string>
+    <string name="Login">登錄</string>
+    <string name="Account">帳戶</string>
+    <string name="forgotpassword">忘記密碼了?</string>
+
+    <string name="loginwithaccount">或使用您的用戶名登錄</string>
+    <string name="newur">新用戶註冊</string>
+    <string name="Usernameinitnew">用戶名（4-50個字符）</string>
+    <string name="Passwordnew">密碼（6-8個字符）</string>
+    <string name="Emailnew">電子郵件</string>
+    <string name="PhoneNumber">電話號碼</string>
+    <string name="Unknown">不詳</string>
+    <string name="enteryEmail">輸入你的電子郵箱</string>
+    <string name="enteryPhone">輸入你的電話號碼</string>
+    <string name="signuptips">當您忘記密碼時，將需要“電話號碼”或“電子郵件”來進行檢索。我們建議您完成這些。</string>
+
+    <string name="confirmusername">確認用戶名</string>
+    <string name="next">下一個</string>
+    <string name="fblogdes">請填入一個用戶名。用戶名是檢索密碼的非常重要的標識符，請記住。</string>
+    <string name="selectusername">選擇用戶名</string>
+    <string name="reselpass_desone">輸入您帳戶的用戶名以重置密碼。您有關於重置密碼的任何問題<u>contact us</u>.</string>
+    <string name="reselpass_destwo">請輸入電子郵件或電話號碼。您有關於重置密碼的任何問題<u>contact us</u>.</string>
+    <string name="forgetgosingup">難道不記得他們中的任何一個嗎？請<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">重設密碼</string>
+    <string name="NewPassword">新密碼</string>
+    <string name="Enterthepasswordagain">確認密碼</string>
+    <string name="signuplimitdes">您的設備已達到註冊用戶名的最大數量。請選擇以下用戶名登錄。</string>
+    <string name="Register">註冊</string>
+    <string name="eyun">輸入你的用戶名</string>
+    <string name="eypsw">輸入您的密碼</string>
+    <string name="loginerrortips">請輸入正確的用戶名和密碼。請注意，密碼字段區分大小寫。</string>
+    <string name="Resetpasswordfailed">重置密碼失敗。</string>
+    <string name="Theusernamewasnotregistered">用戶名未註冊。</string>
+    <string name="petceotn">請輸入正確的電子郵件或電話號碼。</string>
+    <string name="fbrfail">Facebook註冊失敗。</string>
+    <string name="Registerfailed">註冊失敗，請確認您的網絡連接正常，單擊註冊按鈕再試一次。</string>
+    <string name="Loginfailed">登錄失敗。</string>
+    <string name="me">我</string>
+    <string name="Avatar">頭像</string>
+    <string name="Myposts">我的帖子</string>
+    <string name="passowrduploadok">密碼更換成功</string>
+    <string name="logout">登出</string>
+    <string name="passwordsame">您輸入的兩個密碼不一致</string>
+    <string name="PopularComments">熱門評論</string>
+
+    <string name="Request">請求</string>
+    <string name="Youarerequesting">你正在請求：</string>
+    <string name="Addrequest">添加請求</string>
+    <string name="Myrequests">我的要求</string>
+    <string name="Myuploads">我的上傳</string>
+    <string name="Updated">已更新</string>
+    <string name="Comingsoon">即將發布</string>
+    <string name="searchappyouwanttorequest">搜索您要請求的應用：</string>
+    <string name="Addupload">上傳Mod</string>
+    <string name="requestdetailhint">詳細描述您的請求。 （至少50個字符）</string>
+    <string name="requesterror">提交失敗，請稍後再試。</string>
+    <string name="detailserror">（100-4000個字符）</string>
+    <string name="view">查看</string>
+    <string name="isthiswork">它有用嗎？</string>
+    <string name="edit">編輯</string>
+    <string name="APKZippyshareurl">APK Zippyshare網址：</string>
+    <string name="OBBDataurl">OBB /Data Zippyshare網址:(可選）</string>
+    <string name="Youarereupload">您正在上傳：</string>
+    <string name="Upload">上傳</string>
+    <string name="Uploadfail">上傳失敗。</string>
+    <string name="apkfail">請輸入apk文件的Zippyshare URL。</string>
+    <string name="obbfail">請輸入obb文件的Zippyshare URL。</string>
+    <string name="worked">工作</string>
+    <string name="Uploadsuccess">上傳成功</string>
+    <string name="Requestsuccess">請求成功</string>
+    <string name="clickyes">您可以從好用隊列重新編輯和提交您的請求。</string>
+    <string name="clickno">此請求將被添加到即將即將發布的隊列中。</string>
+    <string name="messages">消息</string>
+    <string name="RecommendMods">推薦 Mods</string>
+    <string name="requestdetailserror">(50-4000 字符)</string>
+
+    <string name="Changetheimage">更改圖像>></string>
+    <string name="Typethecodeinthebox">在框中鍵入代碼</string>
+    <string name="Verificationerror">驗證失敗，請重試</string>
+    <string name="Verifing">驗證中…</string>
+
+    <string name="fix_tips_title">刪除前請嘗試其他服務器</string>
+    <string name="fix_tips_content">是否要在刪除之前連接到另一台服務器以嘗試下載？</string>
+    <string name="fix_progress_title">掃描所有服務器</string>
+    <string name="fix_progress_content">正在為您尋找最快的服務器，可能花費幾分鐘時間，請稍等</string>
+    <string name="fix_failed_content">當前沒有您可用的服務器，請稍後再嘗試</string>
+    <string name="fix_tips_failtitle">沒有更多的服務器</string>
+    <string name="fix_ok">試一試</string>
+
+    <!--社区 -->
+    <string name="please_loginanddownload">請先下載</string>
+    <string name="myvoted">我的投票</string>
+    <string name="working">好用</string>
+    <string name="inanhour">請一個小時後再投票</string>
+
+
+    <string name="Review">評論</string>
+    <string name="myreply">我的回覆</string>
+    <string name="Post">發布</string>
+    <string name="addavideo">新增影片</string>
+    <string name="enterthevideourlhere">請在此處輸入Youtube視頻網址。</string>
+    <string name="onlysupportyoutube">僅支持YouTube視頻</string>
+    <string name="searchorcreate">搜索或創建</string>
+    <string name="hashtags">歷史標籤</string>
+    <string name="featuredhash">特色主題標籤</string>
+    <string name="newhshstag">新主題標籤</string>
+    <string name="hot">熱</string>
+    <string name="Comments">評論</string>
+    <string name="replies">回覆</string>
+    <string name="community">社區</string>
+    <string name="report">報告</string>
+    <string name="reply">回复</string>
+    <string name="reportsuccess">您的報告已成功提交。</string>
+    <string name="reportfail">您的報告未能提交。</string>
+    <string name="replytowho">回覆X：</string>
+    <string name="replyfail">回复失敗</string>
+    <string name="Reviews">評論</string>
+    <string name="success">成功</string>
+    <string name="sendfailed">失敗的</string>
+    <string name="deletesuccess">成功刪除</string>
+    <string name="deletefailed">刪除失敗</string>
+    <string name="Group">組</string>
+    <string name="repliedtouser">回覆</string>
+    <string name="speaksomething">請輸入至少20個字符</string>
+    <string name="speaktoolong">字符數超過限制，最多可以輸入4000個字符。</string>
+    <string name="tapandholdptodelete">點擊並按住圖片將其刪除。</string>
+    <string name="addvideofaild">添加視頻失敗！請確保您的網絡可以瀏覽Youtube視頻並重新添加。</string>
+    <string name="Video">視頻</string>
+
+    <string name="Hotsearches">熱門搜索詞</string>
+    <string name="Hothashtags">熱門主題</string>
+    <string name="history">歷史搜索詞</string>
+    <string name="aboutthisgame">關於這個遊戲</string>
+    <string name="details">詳情</string>
+    <string name="sellallreviews">查看所有評測</string>
+
+    <string name="hfivetitle">H5 遊戲</string>
+    <string name="Recommended">快速遊戲</string>
+    <string name="exit_tips">再按一次退出遊戲</string>
+    <string name="h5_menu_reload">重新加載</string>
+    <string name="h5_menu_share">分享</string>
+    <string name="h5_menu_shortcut">添加到主屏幕</string>
+    <string name="installplaywitouthti">免安裝小遊戲</string>
+
+    <!--全局rty-->
+    <string name="crash_dialog_title">啊哦，崩潰了</string>
+    <string name="crash_toast_message">很抱歉，程序出現異常，即將退出，請郵件反饋問題。</string>
+    <string name="crash_dialog_message">很抱歉，程序出現異常，請郵件反饋問題。</string>
+    <string name="crash_dialog_feedback">反饋問題</string>
+    <string name="crash_dialog_restart">重新打開</string>
+
+    <string name="init_fail">初始化失敗，請嘗試使用VPN或換個網絡試一試。</string>
+    <string name="error_file_des">APK文件已被刪除，正在重新下載中。</string>
+
+    <string name="sdpermission">我們需要訪問外部存儲，請確保已授予訪問權限</string>
+    <string name="Night_Mode">夜間模式</string>
+    <string name="thisty">該用戶名已被使用。嘗試另一個。可用的：</string>
+
+    <!--home_feature-->
+    <string name="Feature">精選</string>
+    <string name="editorpick">編輯推薦</string>
+    <string name="PopularInlast">過去24小時熱點</string>
+    <string name="Latestupdated">最近更新</string>
+    <string name="paidforfree">免费</string>
+
+    <string name="ToadyRecommend">今日推薦</string>
+    <string name="hotmods">熱門Mods</string>
+    <string name="hotrecommended">熱門推薦</string>
+
+
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">搜索您要請求的應用：</string>
+    <string name="addapost">發帖</string>
+    <string name="launch_des">發現百分百可用的Mod\n大家上傳，大家評測！</string>
+    <string name="requestamod">求Mod</string>
+    <string name="uploadamod">上傳</string>
+
+    <!--boundle 新增-->
+    <string name="Installing">正在安裝</string>
+    <string name="bundleneedsfive">暫時不支持安裝,請把手機更新到Android 5.0及以上版本</string>
+    <string name="parsingerror">解析apk出錯或已取消</string>
+    <string name="tipsinstallok">安裝成功</string>
+    <string name="tipsinstallfail">安裝失敗,請重試</string>
+
+
+    <!--图片上传表达-->
+    <string name="maxmbperimage">每张图片最大10MB</string>
+    <string name="Imagesmustbelessthan">图片必须小于10MB，请缩小图片尺寸，重新保存或重新添加文件，然后尝试重新上传。</string>
+
+
+    <string name="installfailed">安裝失敗</string>
+    <string name="miuides">請打開開發者選項，關閉MIUI優化後再次嘗試</string>
+
+    <string name="playdes">玩一玩</string>
+    <string name="todayhotgame">今日熱門</string>
+    <string name="newcoming">必玩新遊</string>
+    <string name="recentlyplayed">最近常玩</string>
+    <string name="toopenitquickntime">為了下次更快打開次遊戲，請：</string>
+    <string name="finditin">可以在 X 裡找到</string>
+    <string name="needhelp">需要幫助？</string>
+    <string name="peoplealsoplaygames">玩了這個的用戶還喜歡：</string>
+
+    <string name="opencommunitydes">如果您發現有成人帖子或任何不良帖子，請單擊該帖子右上角的報告按鈕，我們將刪除該帖子並在第一時間阻止發布者！ 請講文明！</string>
+    <string name="myreviews">我的評測</string>
+
+    <string name="tagthisapp">標記此應用</string>
+    <string name="appuploader">應用上傳者</string>
+    <string name="votedresult">你已經給這個app投過票了。</string>
+    <string name="votedokok">投票成功咯。</string>
+    <string name="please_downlaodthisapp">請先下載此應用程序。</string>
+    <string name="safetitle">應用APK保證</string>
+    <string name="safedes">該apk通過了針對病毒，惡意軟件的安全測試。它使用了受信任的經過驗證的數字簽名。</string>
+    <string name="bereported">您已經舉報過了。</string>
+
+    <string name="pleasefinishyourdownloadingqueu">請先完成您的下載隊列。</string>
+    <string name="adduploadvideo">添加視頻：（可選）</string>
+    <string name="uploadscreenshots">上傳截圖（160 * 90）</string>
+    <string name="scerrnshoteserror">屏幕截圖是必需的。</string>
+    <string name="bannererror">標語為必填項。</string>
+    <string name="pleaseentergoogleaddress">請在Google Play上輸入應用ID或URL。</string>
+    <string name="thisposthasbeendeleted">該帖子已被刪除。</string>
+    <string name="add">添加</string>
+    <string name="oagputc">或添加Google Play網址以繼續</string>
+    <string name="description">描述：</string>
+    <string name="uploadbanner">上傳橫幅（702 * 460）</string>
+    <string name="noedituploadtips">您必須進行任何更改才能提交。</string>
+    <string name="addexcusiveaddressixit">這個app 已經存在咯。</string>
+
+    <string name="itisworkingonyourdevice">這個Mod是否可用?</string>
+    <string name="no_working">不可用</string>
+    <string name="vote_it">投票</string>
+    <string name="novirus">無病毒</string>
+    <string name="nomalware">無惡意軟件</string>
+    <string name="nospyware">無間諜軟件</string>
+    <string name="less">收回</string>
+
+    <string name="votedandfail">您已經評論過，請檢查“我的評論”列表。</string>
+
+</resources>
