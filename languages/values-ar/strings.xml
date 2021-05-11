@@ -425,4 +425,24 @@ https://www.happymod.com</string>
 
     <string name="votedandfail">لقد قمت بالفعل بالمراجعة ، يرجى مراجعة قائمة "مراجعاتي".</string>
 
+    <string name="fastdownloader">تحميل أسرع</string>
+    <string name="usehtgetspeed">استخدم HyperTorrent للحصول على سرعة تزيد عن 200٪.</string>
+    <string name="cleanfdft">نظيفة وأمبير. تنزيل سريع للتورنت</string>
+    <string name="fasterspeed">سرعة أكبر</string>
+    <string name="speedfordownloading">200٪ ~ 1،000٪ + سرعة تنزيل الملفات الكبيرة من HappyMod.</string>
+    <string name="nolimits">لا حدود</string>
+    <string name="nslnfsl">لا الحد الأقصى للسرعة. لا يوجد حد لحجم الملف.</string>
+    <string name="Clean">ينظف</string>
+    <string name="Cdnoadfree">تصميم نظيف ، بدون إعلان ؛ 100٪ مجانا!</string>
+    <string name="wrhtdbf">نوصي باستخدام HyperTorrent لتنزيل الملفات الكبيرة.</string>
+    <string name="nothanks">لا شكرا</string>
+
+
+    <string name="Checkthenetwork">تحقق من الشبكة</string>
+    <string name="Configuringip">تكوين IP المتاح لك</string>
+    <string name="Configuringipfailed">فشل التكوين ، تم اكتشاف 8 عناوين IP غير متوفرة ، يرجى محاولة استخدام VPN.</string>
+    <string name="Donatedes">HappyMod مجاني تمامًا ، ونحن نكره الإعلانات بقدر ما تفعله！ \ n \ n نحتاج إلى تبرعك لتوفير تنزيلات أسرع وأكثر أمانًا. \ n \ n يُرجى التحلي بالصبر ومحاولة مشاهدة الإعلانات الكاملة لإكمال التبرع. \ n \ n شكرا لك！</string>
+    <string name="viewstepdeti">عرض تفاصيل الخطوة</string>
+    
+    
 </resources>
