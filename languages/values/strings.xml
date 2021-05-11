@@ -480,7 +480,23 @@
     <string name="wrhtdbf">We recommend HyperTorrent to downloading big files.</string>
     <string name="nothanks">No,thanks</string>
 
+    <string name="fastdownloader">Faster Download</string>
+    <string name="usehtgetspeed">Use HyperTorrent to get 200%+ speed.</string>
+    <string name="cleanfdft">clean &amp; fast downloader for torrents</string>
+    <string name="fasterspeed">Faster speed</string>
+    <string name="speedfordownloading">200%~1,000%+ speed for downloading big files from HappyMod.</string>
+    <string name="nolimits">No limits</string>
+    <string name="nslnfsl">No speed limit. No file size limit.</string>
+    <string name="Clean">Clean</string>
+    <string name="Cdnoadfree">Clean design, no ad &amp; 100% free!</string>
+    <string name="wrhtdbf">How to use HyperTorrent?</string>
+    <string name="nothanks">No thanks</string>
+    <string name="Checkthenetwork">Check the network</string>
+    <string name="Configuringip">Configuring available IP for you</string>
+    <string name="Configuringipfailed">Configuration failed, 8 IPs are detected to be unavailable, please try to use VPN.</string>
+    <string name="Donatedes">HappyMod is completely free, and we hate ads as much as you do！\n\nWe need your donation to provide faster and safer downloads.\n\nPlease be patient and try to watch the full ads to complete the donation.\n\nThank you！</string>
 
+    <string name="viewstepdeti">View step details</string>
 
 
 
