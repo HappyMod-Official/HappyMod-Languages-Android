@@ -449,7 +449,7 @@
     <string name="add">Inserisci</string>
     <string name="oagputc">Oppure aggiungi l\'URL di Google Play per continuare</string>
     <string name="description">Descrizione:</string>
-    <string name="uploadbanner">Carica banner (702 * 460)</string>
+    <string name="uploadbanner">Carica banner (720 * 406)</string>
     <string name="noedituploadtips">Non puoi inviarlo senza apportare modifiche.</string>
     <string name="addexcusiveaddressixit">Questo apk esiste già.</string>
 
@@ -461,5 +461,25 @@
     <string name="nospyware">Nessuno spyware</string>
     <string name="less">Di meno</string>
     <string name="votedandfail">Hai già esaminato, controlla l\'elenco "Le mie recensioni".</string>
+
+    <string name="fastdownloader">No grazie</string>
+    <string name="usehtgetspeed">Usa HyperTorrent per ottenere una velocità superiore al 200%.</string>
+    <string name="cleanfdft">pulito e downloader veloce per torrent</string>
+    <string name="fasterspeed">Maggiore velocità</string>
+    <string name="speedfordownloading">200% ~ 1.000% + velocità per il download di file di grandi dimensioni da HappyMod.</string>
+    <string name="nolimits">Senza limiti</string>
+    <string name="nslnfsl">Nessun limite di velocità. Nessun limite di dimensione del file.</string>
+    <string name="Clean">Pulito</string>
+    <string name="Cdnoadfree">Design pulito, nessuna pubblicità e 100% gratis!</string>
+    <string name="wrhtdbf">Consigliamo HyperTorrent per scaricare file di grandi dimensioni.</string>
+    <string name="nothanks">No grazie</string>
+
+    <string name="Checkthenetwork">Controlla la rete</string>
+    <string name="Configuringip">Configurazione dell\'IP disponibile per te</string>
+    <string name="Configuringipfailed">Configurazione non riuscita, sono stati rilevati 8 IP non disponibili, prova a utilizzare VPN.</string>
+
+    <string name="Donatedes">HappyMod è completamente gratuito e odiamo gli annunci tanto quanto te！ \ n \ nAbbiamo bisogno della tua donazione per fornire download più veloci e sicuri. \ N \ nPer favore sii paziente e prova a guardare gli annunci completi per completare la donazione. \ N \ nGrazie！</string>
+
+    <string name="viewstepdeti">Visualizza i dettagli del passaggio</string>
 
 </resources>

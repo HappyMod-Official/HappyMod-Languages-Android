@@ -453,7 +453,7 @@
     <string name="add">Thêm vào</string>
     <string name="oagputc">Hoặc thêm URL Google play để tiếp tục</string>
     <string name="description">Sự miêu tả:</string>
-    <string name="uploadbanner">Tải lên biểu ngữ (702 * 460)</string>
+    <string name="uploadbanner">Tải lên biểu ngữ (720 * 406)</string>
     <string name="noedituploadtips">Bạn không thể gửi nó mà không thực hiện bất kỳ thay đổi nào.</string>
     <string name="addexcusiveaddressixit">Apk này đã tồn tại.</string>
 
@@ -466,5 +466,25 @@
     <string name="less">Ít hơn</string>
 
     <string name="votedandfail">Bạn đã đánh giá, vui lòng kiểm tra danh sách "Đánh giá của tôi".</string>
+
+    <string name="fastdownloader">Tải xuống nhanh hơn</string>
+    <string name="usehtgetspeed">Sử dụng HyperTorrent để đạt 200% + tốc độ.</string>
+    <string name="cleanfdft">sạch &amp; trình tải xuống nhanh cho torrent</string>
+    <string name="fasterspeed">Tốc độ nhanh hơn</string>
+    <string name="speedfordownloading">200% ~ 1.000% + tốc độ tải xuống các tệp lớn từ HappyMod.</string>
+    <string name="nolimits">Không giới hạn</string>
+    <string name="nslnfsl">Không giới hạn tốc độ. Không có giới hạn kích thước tệp.</string>
+    <string name="Clean">Dọn dẹp</string>
+    <string name="Cdnoadfree">Thiết kế sạch sẽ, không có quảng cáo &amp; 100% miễn phí!</string>
+    <string name="wrhtdbf">Chúng tôi khuyên bạn nên dùng HyperTorrent để tải xuống các tệp lớn.</string>
+    <string name="nothanks">Không cám ơn</string>
+
+
+    <string name="Checkthenetwork">Kiểm tra mạng</string>
+    <string name="Configuringip">Định cấu hình IP khả dụng cho bạn</string>
+    <string name="Configuringipfailed">Cấu hình không thành công, 8 IP được phát hiện là không khả dụng, vui lòng thử sử dụng VPN.</string>
+
+    <string name="Donatedes">HappyMod hoàn toàn miễn phí và chúng tôi cũng ghét quảng cáo như bạn！ \ n \ nChúng tôi cần sự đóng góp của bạn để tải xuống nhanh hơn và an toàn hơn. \ N \ nHãy kiên nhẫn và cố gắng xem toàn bộ quảng cáo để hoàn thành việc đóng góp. \ N \ nCảm ơn bạn！</string>
+    <string name="viewstepdeti">Xem chi tiết các bước</string>
 
 </resources>

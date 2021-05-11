@@ -445,7 +445,7 @@
     <string name="add">Shto</string>
     <string name="oagputc">Ose shtoni URL-në e Google Play për të vazhduar</string>
     <string name="description">Përshkrim:</string>
-    <string name="uploadbanner">Ngarko banderolën (702 * 460)</string>
+    <string name="uploadbanner">Ngarko banderolën (720 * 406)</string>
     <string name="noedituploadtips">Ju nuk mund ta paraqisni atë pa bërë asnjë ndryshim.</string>
     <string name="addexcusiveaddressixit">Kjo apk tashmë ekziston.</string>
 
@@ -458,5 +458,24 @@
     <string name="less">Мање</string>
 
     <string name="votedandfail">Већ сте прегледали, погледајте листу „Моје рецензије“.</string>
+
+    <string name="fastdownloader">Брже преузимање</string>
+    <string name="usehtgetspeed">Користите ХиперТоррент да бисте постигли 200% + брзину.</string>
+    <string name="cleanfdft">очистити &amp; брзи довнлоадер за торенте</string>
+    <string name="fasterspeed">Већа брзина</string>
+    <string name="speedfordownloading">200% ~ 1.000% + брзина за преузимање великих датотека са ХаппиМод-а.</string>
+    <string name="nolimits">Без ограничења</string>
+    <string name="nslnfsl">Нема ограничења брзине. Нема ограничења величине датотеке.</string>
+    <string name="Clean">Чист</string>
+    <string name="Cdnoadfree">Чист дизајн, без огласа &amp; 100% бесплатно!</string>
+    <string name="wrhtdbf">ХиперТоррент препоручујемо за преузимање великих датотека.</string>
+    <string name="nothanks">Не хвала</string>
+
+    <string name="Checkthenetwork">Проверите мрежу</string>
+    <string name="Configuringip">Конфигурисање доступне ИП адресе за вас</string>
+    <string name="Configuringipfailed">Конфигурација није успела, откривено је да 8 ИП-ова није доступно, покушајте да користите ВПН.</string>
+
+    <string name="Donatedes">ХаппиМод је потпуно бесплатан и ми мрзимо огласе колико и ви！ \ н \ нТреба нам ваша донација да бисмо обезбедили брже и сигурније преузимања. \ Н \ нМолимо вас будите стрпљиви и покушајте да погледате комплетне огласе да бисте довршили донацију. \ Н \ нХвала вам！</string>
+    <string name="viewstepdeti">Погледајте детаље корака</string>
 
 </resources>

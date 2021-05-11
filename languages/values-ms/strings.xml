@@ -443,7 +443,7 @@
     <string name="add">Tambah</string>
     <string name="oagputc">Atau tambahkan URL main Google untuk meneruskan</string>
     <string name="description">Penerangan:</string>
-    <string name="uploadbanner">Muat naik sepanduk (702 * 460)</string>
+    <string name="uploadbanner">Muat naik sepanduk (720 * 406)</string>
     <string name="noedituploadtips">Anda tidak dapat menyerahkannya tanpa membuat perubahan.</string>
     <string name="addexcusiveaddressixit">Apk ini sudah ada.</string>
 
@@ -455,5 +455,25 @@
     <string name="nospyware">Tiada perisian pengintip</string>
     <string name="less">Kurang</string>
     <string name="votedandfail">Anda sudah menyemak, sila semak senarai "Ulasan saya".</string>
+
+    <string name="fastdownloader">Muat turun Lebih pantas</string>
+    <string name="usehtgetspeed">Gunakan HyperTorrent untuk mendapatkan kelajuan 200% +.</string>
+    <string name="cleanfdft">bersih &amp; muat turun pantas untuk torrents</string>
+    <string name="fasterspeed">Kelajuan lebih pantas</string>
+    <string name="speedfordownloading">200% ~ 1,000% + kelajuan untuk memuat turun fail besar dari HappyMod.</string>
+    <string name="nolimits">Tiada had</string>
+    <string name="nslnfsl">Tiada had kelajuan. Tiada had saiz fail.</string>
+    <string name="Clean">Bersih</string>
+    <string name="Cdnoadfree">Reka bentuk yang bersih, tanpa iklan &amp; 100% percuma!</string>
+    <string name="wrhtdbf">Kami mengesyorkan HyperTorrent memuat turun fail besar.</string>
+    <string name="nothanks">Tidak Terima kasih</string>
+
+    <string name="Checkthenetwork">Periksa rangkaian</string>
+    <string name="Configuringip">Mengkonfigurasi IP yang tersedia untuk anda</string>
+    <string name="Configuringipfailed">Konfigurasi gagal, 8 IP dikesan tidak tersedia, sila gunakan VPN.</string>
+
+    <string name="Donatedes">HappyMod adalah percuma, dan kami sangat membenci iklan seperti yang anda lakukan！ \ n \ nKami memerlukan sumbangan anda untuk memberikan muat turun yang lebih pantas dan lebih selamat. \ N \ nSabarlah dan cuba tonton iklan penuh untuk menyelesaikan sumbangan. \ N \ nTerima kasih！</string>
+
+    <string name="viewstepdeti">Lihat butiran langkah</string>
 
 </resources>

@@ -447,7 +447,7 @@
     <string name="add">கூட்டு</string>
     <string name="oagputc">அல்லது தொடர Google play URL ஐச் சேர்க்கவும்</string>
     <string name="description">விளக்கம்:</string>
-    <string name="uploadbanner">பேனரைப் பதிவேற்று (702 * 460)</string>
+    <string name="uploadbanner">பேனரைப் பதிவேற்று (720 * 406)</string>
     <string name="noedituploadtips">எந்த மாற்றமும் செய்யாமல் அதை சமர்ப்பிக்க முடியாது.</string>
     <string name="addexcusiveaddressixit">இந்த apk ஏற்கனவே உள்ளது.</string>
 
@@ -461,4 +461,23 @@
 
     <string name="votedandfail">మీరు ఇప్పటికే సమీక్షించారు, దయచేసి "నా సమీక్షలు" జాబితాను తనిఖీ చేయండి.</string>
 
+    <string name="fastdownloader">వేగంగా డౌన్‌లోడ్</string>
+    <string name="usehtgetspeed">200% + వేగం పొందడానికి హైపర్‌టొరెంట్‌ను ఉపయోగించండి.</string>
+    <string name="cleanfdft">శుభ్రంగా &amp; టొరెంట్ల కోసం వేగంగా డౌన్‌లోడ్ చేసేవాడు</string>
+    <string name="fasterspeed">వేగవంతమైన వేగం</string>
+    <string name="speedfordownloading">హ్యాపీమోడ్ నుండి పెద్ద ఫైళ్ళను డౌన్‌లోడ్ చేయడానికి 200% ~ 1,000% + వేగం.</string>
+    <string name="nolimits">అవధులు లేవు</string>
+    <string name="nslnfsl">వేగ పరిమితి లేదు. ఫైల్ పరిమాణ పరిమితి లేదు.</string>
+    <string name="Clean">శుభ్రంగా</string>
+    <string name="Cdnoadfree">శుభ్రమైన డిజైన్, ప్రకటన లేదు &amp; 100% ఉచితం!</string>
+    <string name="wrhtdbf">పెద్ద ఫైళ్ళను డౌన్‌లోడ్ చేయడానికి హైపర్‌టొరెంట్‌ను మేము సిఫార్సు చేస్తున్నాము.</string>
+    <string name="nothanks">లేదు ధన్యవాదాలు</string>
+
+    <string name="Checkthenetwork">నెట్‌వర్క్‌ను తనిఖీ చేయండి</string>
+    <string name="Configuringip">మీ కోసం అందుబాటులో ఉన్న IP ని కాన్ఫిగర్ చేస్తోంది</string>
+    <string name="Configuringipfailed">కాన్ఫిగరేషన్ విఫలమైంది, 8 IP లు అందుబాటులో లేవని కనుగొనబడింది, దయచేసి VPN ని ఉపయోగించడానికి ప్రయత్నించండి.</string>
+
+    <string name="Donatedes">హ్యాపీమోడ్ పూర్తిగా ఉచితం, మరియు మీరు చేసేంతవరకు మేము ప్రకటనలను ద్వేషిస్తాము！ \ n \ n వేగంగా మరియు సురక్షితమైన డౌన్‌లోడ్‌లను అందించడానికి మాకు మీ విరాళం అవసరం. \ N \ n దయచేసి ఓపికపట్టండి మరియు విరాళం పూర్తి చేయడానికి పూర్తి ప్రకటనలను చూడటానికి ప్రయత్నించండి. \ N \ n ధన్యవాదాలు</string>
+
+    <string name="viewstepdeti">దశ వివరాలను చూడండి</string>
 </resources>

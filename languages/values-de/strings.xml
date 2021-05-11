@@ -452,7 +452,7 @@
     <string name="add">Hinzufügen</string>
     <string name="oagputc">Oder fügen Sie die Google Play URL hinzu, um fortzufahren</string>
     <string name="description">Beschreibung:</string>
-    <string name="uploadbanner">Banner hochladen (702 * 460)</string>
+    <string name="uploadbanner">Banner hochladen (720 * 406)</string>
     <string name="noedituploadtips">Sie können es nicht einreichen, ohne Änderungen vorzunehmen.</string>
     <string name="addexcusiveaddressixit">Diese apk existiert bereits.</string>
 
@@ -465,5 +465,25 @@
     <string name="less">Weniger</string>
 
     <string name="votedandfail">Sie haben bereits überprüft, überprüfen Sie bitte die Liste "Meine Bewertungen".</string>
+
+    <string name="fastdownloader">Schnellerer Download</string>
+    <string name="usehtgetspeed">Verwenden Sie HyperTorrent, um eine Geschwindigkeit von 200% + zu erreichen.</string>
+    <string name="cleanfdft">sauber &amp; schneller Downloader für Torrents</string>
+    <string name="fasterspeed">Schnellere Geschwindigkeit</string>
+    <string name="speedfordownloading">200% ~ 1.000% + Geschwindigkeit zum Herunterladen großer Dateien von HappyMod.</string>
+    <string name="nolimits">Keine Grenzen</string>
+    <string name="nslnfsl">Keine Geschwindigkeitsbegrenzung. Keine Dateigrößenbeschränkung.</string>
+    <string name="Clean">Reinigen</string>
+    <string name="Cdnoadfree">Sauberes Design, keine Werbung &amp; 100% kostenlos!</string>
+    <string name="wrhtdbf">Wir empfehlen HyperTorrent zum Herunterladen großer Dateien.</string>
+    <string name="nothanks">Nein Danke</string>
+
+    <string name="Checkthenetwork">Überprüfen Sie das Netzwerk</string>
+    <string name="Configuringip">Konfigurieren der verfügbaren IP für Sie</string>
+    <string name="Configuringipfailed">Konfiguration fehlgeschlagen, 8 IPs wurden als nicht verfügbar erkannt. Bitte versuchen Sie, VPN zu verwenden.</string>
+
+    <string name="Donatedes">HappyMod ist völlig kostenlos und wir hassen Anzeigen genauso wie Sie. \ N \ nWir benötigen Ihre Spende, um schnellere und sicherere Downloads zu ermöglichen. \ N \ nBitte haben Sie etwas Geduld und versuchen Sie, die vollständigen Anzeigen zu sehen, um die Spende abzuschließen. \ N \ nDanke！</string>
+
+    <string name="viewstepdeti">Schrittdetails anzeigen</string>
 
 </resources>

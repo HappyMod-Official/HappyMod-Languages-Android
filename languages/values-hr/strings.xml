@@ -445,7 +445,7 @@
     <string name="add">Dodati</string>
     <string name="oagputc">Ili dodajte URL za reprodukciju za nastavak</string>
     <string name="description">Opis:</string>
-    <string name="uploadbanner">Prijenos natpisa (702 * 460)</string>
+    <string name="uploadbanner">Prijenos natpisa (720 * 406)</string>
     <string name="noedituploadtips">Ne možete ga poslati bez ikakvih promjena.</string>
     <string name="addexcusiveaddressixit">Ovaj apk već postoji.</string>
 
@@ -459,4 +459,23 @@
 
     <string name="votedandfail">Već ste pregledali, provjerite popis "Moje recenzije".</string>
 
+    <string name="fastdownloader">Brže preuzimanje</string>
+    <string name="usehtgetspeed">Koristite HyperTorrent da biste postigli 200% + brzinu.</string>
+    <string name="cleanfdft">očistiti &amp; brzi downloader za bujice</string>
+    <string name="fasterspeed">Veća brzina</string>
+    <string name="speedfordownloading">200% ~ 1.000% + brzina za preuzimanje velikih datoteka s HappyModa.</string>
+    <string name="nolimits">Bez granica</string>
+    <string name="nslnfsl">Bez ograničenja brzine. Nema ograničenja veličine datoteke.</string>
+    <string name="Clean">Čist</string>
+    <string name="Cdnoadfree">Čist dizajn, bez oglasa &amp; 100% besplatno!</string>
+    <string name="wrhtdbf">HyperTorrent preporučujemo za preuzimanje velikih datoteka.</string>
+    <string name="nothanks">Ne hvala</string>
+
+    <string name="Checkthenetwork">Provjerite mrežu</string>
+    <string name="Configuringip">Konfiguriranje dostupne IP adrese za vas</string>
+    <string name="Configuringipfailed">Konfiguracija nije uspjela, otkriveno je da 8 IP-ova nije dostupno, pokušajte koristiti VPN.</string>
+
+    <string name="Donatedes">HappyMod je potpuno besplatan, a mi mrzimo oglase koliko i vi！ \ n \ nTreba nam vaša donacija za brže i sigurnije preuzimanje. \ N \ nMolimo vas budite strpljivi i pokušajte pogledati cjelovite oglase kako biste dovršili donaciju. \ N \ nHvala vam！</string>
+
+    <string name="viewstepdeti">Pogledajte detalje koraka</string>
 </resources>

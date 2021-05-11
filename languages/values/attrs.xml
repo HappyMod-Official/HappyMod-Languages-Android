@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- loading 圈-->
+    <declare-styleable name="ProgressWheel">
+        <attr name="progressIndeterminate" format="boolean" />
+        <attr name="barColor" format="color" />
+        <attr name="rimColor" format="color" />
+        <attr name="rimWidth" format="dimension" />
+        <attr name="spinSpeed" format="float" />
+        <attr name="barSpinCycleTime" format="integer" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="fillRadius" format="boolean" />
+        <attr name="barWidth" format="dimension" />
+        <attr name="linearProgress" format="boolean" />
+    </declare-styleable>
+
+
+    <!--原APP大图 -->
+    <declare-styleable name="JazzyViewPager">
+        <attr name="style">
+            <enum name="standard" value="0" />
+            <enum name="tablet" value="1" />
+            <enum name="cubein" value="2" />
+            <enum name="cubeout" value="3" />
+            <enum name="flipvertical" value="4" />
+            <enum name="fliphorizontal" value="5" />
+            <enum name="stack" value="6" />
+            <enum name="zoomin" value="7" />
+            <enum name="zoomout" value="8" />
+            <enum name="rotateup" value="9" />
+            <enum name="rotatedown" value="10" />
+            <enum name="accordion" value="11" />
+        </attr>
+        <attr name="fadeEnabled" format="boolean" />
+        <attr name="outlineEnabled" format="boolean" />
+        <attr name="outlineColor" format="color|reference" />
+    </declare-styleable>
+
+
+
+    <!--  圆形imageview-->
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width_imageview" format="dimension" />
+        <attr name="border_color_imageview" format="color" />
+    </declare-styleable>
+
+
+
+    <!--  社区 -->
+
+    <declare-styleable name="MyProgessBarSheQu">
+        <attr name="left_height" format="dimension"/>
+        <attr name="left_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_offset" format="dimension"/>
+        <attr name="text_distance" format="dimension"/>
+        <attr name="text_border_color" format="color"/>
+        <attr name="text_border_size" format="dimension"/>
+        <attr name="text_border_isshow" format="boolean"/>
+        <attr name="right_height" format="dimension"/>
+        <attr name="right_color" format="color"/>
+    </declare-styleable>
+
+
+
+    <!--  社区 RichTextView RichEditText-->
+
+    <declare-styleable name="RichTextView">
+        <attr name="needNumberShow" format="boolean" />
+        <attr name="needUrlShow" format="boolean" />
+        <attr name="richText" format="string" />
+        <attr name="topicList" format="reference" />
+        <attr name="nameList" format="reference" />
+        <attr name="atColor" format="color" />
+        <attr name="topicColor" format="color" />
+        <attr name="linkColor" format="color" />
+        <attr name="emojiSize" format="integer|reference" />
+        <attr name="emojiVerticalAlignment" format="integer|reference" />
+        <attr name="spanUrlCallBackListener" format="reference" />
+        <attr name="spanAtUserCallBackListener" format="reference" />
+        <attr name="spanTopicCallBackListener" format="reference" />
+        <attr name="spanCreateListener" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="RichEditText">
+        <attr name="richMaxLength" format="integer" />
+        <attr name="richIconSize" format="dimension" />
+        <attr name="editTextAtUtilJumpListener" format="reference" />
+        <attr name="richEditTopicList" format="reference" />
+        <attr name="richEditNameList" format="reference" />
+        <attr name="richEditColorAtUser" format="string" />
+        <attr name="richEditColorTopic" format="string" />
+    </declare-styleable>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

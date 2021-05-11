@@ -449,7 +449,7 @@
     <string name="add">Menambahkan</string>
     <string name="oagputc">Atau tambahkan URL Google play untuk melanjutkan</string>
     <string name="description">Deskripsi:</string>
-    <string name="uploadbanner">Unggah spanduk (702 * 460)</string>
+    <string name="uploadbanner">Unggah spanduk (720 * 406)</string>
     <string name="noedituploadtips">Anda tidak dapat mengirimkannya tanpa melakukan perubahan apa pun.</string>
     <string name="addexcusiveaddressixit">Apk ini sudah ada.</string>
 
@@ -462,4 +462,23 @@
     <string name="less">Kurang</string>
     <string name="votedandfail">Anda telah meninjau, silakan periksa daftar "Ulasan saya".</string>
 
+    <string name="fastdownloader">Unduh Lebih Cepat</string>
+    <string name="usehtgetspeed">Gunakan HyperTorrent untuk mendapatkan kecepatan 200% +.</string>
+    <string name="cleanfdft">bersih &amp; pengunduh cepat untuk torrent</string>
+    <string name="fasterspeed">Kecepatan lebih cepat</string>
+    <string name="speedfordownloading">200% ~ 1.000% + kecepatan untuk mengunduh file besar dari HappyMod.</string>
+    <string name="nolimits">Tanpa batas</string>
+    <string name="nslnfsl">Tidak ada batasan kecepatan. Tidak ada batasan ukuran file.</string>
+    <string name="Clean">Bersih</string>
+    <string name="Cdnoadfree">Desain bersih, tanpa iklan &amp; 100% gratis!</string>
+    <string name="wrhtdbf">Kami merekomendasikan HyperTorrent untuk mengunduh file besar.</string>
+    <string name="nothanks">Tidak terima kasih</string>
+
+    <string name="Checkthenetwork">Periksa jaringannya</string>
+    <string name="Configuringip">Mengonfigurasi IP yang tersedia untuk Anda</string>
+    <string name="Configuringipfailed">Konfigurasi gagal, 8 IP terdeteksi tidak tersedia, coba gunakan VPN.</string>
+
+    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti halnya Anda！ \ n \ nKami membutuhkan donasi Anda untuk menyediakan unduhan yang lebih cepat dan lebih aman. \ N \ nHarap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi. \ N \ nTerima kasih！</string>
+
+    <string name="viewstepdeti">Lihat detail langkah</string>
 </resources>

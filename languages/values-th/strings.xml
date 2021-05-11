@@ -450,7 +450,7 @@
     <string name="add">เพิ่ม</string>
     <string name="oagputc">หรือเพิ่ม Google play URL เพื่อดำเนินการต่อ</string>
     <string name="description">คำอธิบาย:</string>
-    <string name="uploadbanner">อัปโหลดแบนเนอร์ (702 * 460)</string>
+    <string name="uploadbanner">อัปโหลดแบนเนอร์ (720 * 406)</string>
     <string name="noedituploadtips">คุณไม่สามารถส่งได้โดยไม่ทำการเปลี่ยนแปลงใด ๆ</string>
     <string name="addexcusiveaddressixit">apk นี้มีอยู่แล้ว</string>
 
@@ -463,5 +463,25 @@
     <string name="less">น้อยกว่า</string>
 
     <string name="votedandfail">คุณได้ตรวจสอบแล้วโปรดตรวจสอบรายการ "บทวิจารณ์ของฉัน"</string>
+
+    <string name="fastdownloader">ดาวน์โหลดได้เร็วขึ้น</string>
+    <string name="usehtgetspeed">ใช้ HyperTorrent เพื่อรับ 200% + ความเร็ว</string>
+    <string name="cleanfdft">สะอาด &amp; ตัวดาวน์โหลดที่รวดเร็วสำหรับ torrents</string>
+    <string name="fasterspeed">ความเร็วที่เร็วขึ้น</string>
+    <string name="speedfordownloading">200% ~ 1,000% + ความเร็วในการดาวน์โหลดไฟล์ขนาดใหญ่จาก HappyMod</string>
+    <string name="nolimits">ไม่มีขีด จำกัด</string>
+    <string name="nslnfsl">ไม่ จำกัด ความเร็ว ไม่ จำกัด ขนาดไฟล์</string>
+    <string name="Clean">ทำความสะอาด</string>
+    <string name="Cdnoadfree">ดีไซน์สะอาดตาไม่มีโฆษณา &amp; ฟรี 100%!</string>
+    <string name="wrhtdbf">เราขอแนะนำ HyperTorrent ในการดาวน์โหลดไฟล์ขนาดใหญ่</string>
+    <string name="nothanks">ไม่เป็นไรขอบคุณ</string>
+
+    <string name="Checkthenetwork">ตรวจสอบเครือข่าย</string>
+    <string name="Configuringip">การกำหนดค่า IP ที่ใช้ได้สำหรับคุณ</string>
+    <string name="Configuringipfailed">การกำหนดค่าล้มเหลวตรวจพบ 8 IP ไม่พร้อมใช้งานโปรดลองใช้ VPN</string>
+
+    <string name="Donatedes">HappyMod ไม่มีค่าใช้จ่ายใด ๆ ทั้งสิ้นและเราเกลียดชังโฆษณามากพอ ๆ กับคุณ！ \ n \ n เราต้องการการบริจาคของคุณเพื่อให้ดาวน์โหลดได้เร็วขึ้นและปลอดภัยขึ้น \ n \ n โปรดอดใจรอและพยายามดูโฆษณาทั้งหมดเพื่อให้การบริจาคเสร็จสมบูรณ์ \ n \ \ n ขอบคุณครับ！</string>
+
+    <string name="viewstepdeti">ดูรายละเอียดขั้นตอน</string>
 
 </resources>

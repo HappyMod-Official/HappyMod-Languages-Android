@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 状态栏颜色 -->
+    <color name="colorPrimary">#3A933F</color>
+    <color name="colorPrimaryDark">#3A933F</color>
+    <color name="colorAccent">#00b80c</color>
+
+    <!-- title 渐变色的开始于结尾色 -->
+    <color name="bg_start">#48b84f</color>
+    <color name="bg_end">#00ad0c</color>
+
+    <color name="title_text_color">#fefefe</color>
+
+    <color name="cor31">#313131</color>
+    <color name="cor333">#333333</color>
+    <color name="cor666">#666666</color>
+    <color name="cor999">#999999</color>
+    <color name="OOb80c">#00b80c</color><!-- 主要用于产品中的提示色 -->
+    <color name="ff9906">#ff9906</color><!--下载完成按钮颜色 -->
+
+
+    <!-- beijing -->
+    <color name="corfa">#fafafa</color>
+    <color name="ebebeb">#ebebeb</color>
+    <color name="cor99">#999999</color>
+    <color name="coraaa">#aaaaaa</color>
+
+    <color name="cord9">#D9D9D9</color>
+    <color name="white">#ffffff</color>
+    <color name="noselect">#99FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="cccccc">#cccccc</color>
+    <color name="corerror">#d50000</color>
+    <color name="corff9906">#ff9906</color>
+
+    <color name="coricon1">#f6b34c</color>
+    <color name="coricon2">#26C6DA</color>
+    <color name="coricon3">#999999</color>
+
+    <color name="fab_colorPressed">#3A933F</color>
+    <color name="fab_colorRipple">#40ca49</color>
+
+
+
+
+
+    <color name="an_title_one">#a4a5a4</color>
+    <color name="an_title_two">#828482</color>
+    <color name="an_title_three">#606360</color>
+    <color name="black_theme">#1B1F1A</color>
+
+
+    <color name="black_bg_two">#222621</color>
+    <color name="black_bg_three">#2D312C</color>
+
+
+
+
+   <!-- 悬浮按钮颜色-->
+    <color name="normal_community">#fec919</color>
+    <color name="normal_allrequest">#ef471a</color>
+    <color name="normal_allupload">#b457cb</color>
+    <color name="normal_apost">#0bb6fe</color>
+    <color name="normal_amod">#ce1a75</color>
+    <color name="normal_aupload">#3e52b4</color>
+
+
+    <color name="press_community">#ecb427</color>
+    <color name="press_allrequest">#bf3915</color>
+    <color name="press_allupload">#9046a2</color>
+    <color name="press_apost">#0992cb</color>
+    <color name="press_amod">#a5155e</color>
+    <color name="press_aupload">#324290</color>
+
+
+    <color name="ripple_community">#fed314</color>
+    <color name="ripple_allrequest">#fe724d</color>
+    <color name="ripple_allupload">#dc6de3</color>
+    <color name="ripple_apost">#3dceff</color>
+    <color name="ripple_amod">#e051a7</color>
+    <color name="ripple_aupload">#5e74bf</color>
+
+
+
+</resources>

@@ -449,7 +449,7 @@
     <string name="add">অ্যাড</string>
     <string name="oagputc">বা চালিয়ে যেতে গুগল প্লে URL যুক্ত করুন</string>
     <string name="description">বর্ণনা:</string>
-    <string name="uploadbanner">ব্যানার আপলোড করুন (702 * 460)</string>
+    <string name="uploadbanner">ব্যানার আপলোড করুন (720 * 406)</string>
     <string name="noedituploadtips">কোনও পরিবর্তন না করে আপনি এটি জমা দিতে পারবেন না।</string>
     <string name="addexcusiveaddressixit">এই apk ইতিমধ্যে বিদ্যমান।</string>
 
@@ -462,5 +462,25 @@
     <string name="less">কম</string>
 
     <string name="votedandfail">আপনি ইতিমধ্যে পর্যালোচনা করেছেন, দয়া করে "আমার পর্যালোচনা" তালিকা পরীক্ষা করুন।</string>
+
+    <string name="fastdownloader">দ্রুত ডাউনলোড করুন</string>
+    <string name="usehtgetspeed">200% + গতি পেতে হাইপারটোরেন্ট ব্যবহার করুন।</string>
+    <string name="cleanfdft">পরিষ্কার &amp; টরেন্টস জন্য দ্রুত ডাউনলোডার</string>
+    <string name="fasterspeed">দ্রুত গতি</string>
+    <string name="speedfordownloading">হ্যাপিমড থেকে বড় ফাইলগুলি ডাউনলোড করার জন্য 200% ~ 1,000% + গতি।</string>
+    <string name="nolimits">সীমাহীন</string>
+    <string name="nslnfsl">গতির সীমা নেই। ফাইল আকারের কোনও সীমা নেই।</string>
+    <string name="Clean">পরিষ্কার</string>
+    <string name="Cdnoadfree">পরিষ্কার নকশা, কোনও বিজ্ঞাপন নেই &amp; 100% বিনামূল্যে!</string>
+    <string name="wrhtdbf">আমরা হাইপারটোরেন্টকে বড় বড় ফাইল ডাউনলোড করার পরামর্শ দিই।</string>
+    <string name="nothanks">না ধন্যবাদ</string>
+
+    <string name="Checkthenetwork">নেটওয়ার্কটি পরীক্ষা করুন</string>
+    <string name="Configuringip">আপনার জন্য উপলব্ধ আইপি কনফিগার করা</string>
+    <string name="Configuringipfailed">কনফিগারেশন ব্যর্থ হয়েছে, 8 টি আইপি অনুপলব্ধ বলে সনাক্ত করা হয়েছে, দয়া করে ভিপিএন ব্যবহার করার চেষ্টা করুন।</string>
+
+    <string name="Donatedes">হ্যাপিমড সম্পূর্ণ বিনামূল্যে, এবং আপনার বিজ্ঞাপনগুলি আমরা ততই ঘৃণা করি！ \ n \ n দ্রুত এবং সুরক্ষিত ডাউনলোডগুলি সরবরাহ করার জন্য আমাদের আপনার অনুদানের দরকার। n আপনাকে ধন্যবাদ！</string>
+
+    <string name="viewstepdeti">পদক্ষেপের বিশদ দেখুন</string>
 
 </resources>

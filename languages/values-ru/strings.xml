@@ -449,7 +449,7 @@
 	<string name="add">Добавить</string>
 	<string name="oagputc">Или добавьте URL-адрес Google Play, чтобы продолжить</string>
 	<string name="description">Описание:</string>
-	<string name="uploadbanner">Загрузить баннер (702 * 460)</string>
+	<string name="uploadbanner">Загрузить баннер (720 * 406)</string>
 	<string name="noedituploadtips">Вы не можете отправить его без каких-либо изменений.</string>
 	<string name="addexcusiveaddressixit">Этот apk уже существует.</string>
 
@@ -463,4 +463,23 @@
 
 	<string name="votedandfail">Вы уже просмотрели, пожалуйста, проверьте список «Мои отзывы».</string>
 
+	<string name="fastdownloader">Быстрая загрузка</string>
+	<string name="usehtgetspeed">Используйте HyperTorrent, чтобы получить 200% + скорость.</string>
+	<string name="cleanfdft">чистый &amp; быстрый загрузчик торрентов</string>
+	<string name="fasterspeed">Быстрее скорость</string>
+	<string name="speedfordownloading">200% ~ 1000% + скорость загрузки больших файлов с HappyMod.</string>
+	<string name="nolimits">Без ограничений</string>
+	<string name="nslnfsl">Без ограничения скорости. Нет ограничений по размеру файла.</string>
+	<string name="Clean">Чистый</string>
+	<string name="Cdnoadfree">Чистый дизайн, без рекламы &amp; 100% бесплатно!</string>
+	<string name="wrhtdbf">Мы рекомендуем HyperTorrent для загрузки больших файлов.</string>
+	<string name="nothanks">Нет спасибо</string>
+
+	<string name="Checkthenetwork">Überprüfen Sie das Netzwerk</string>
+	<string name="Configuringip">Konfigurieren der verfügbaren IP für Sie</string>
+	<string name="Configuringipfailed">Konfiguration fehlgeschlagen, 8 IPs wurden als nicht verfügbar erkannt. Bitte versuchen Sie, VPN zu verwenden.</string>
+
+	<string name="Donatedes">HappyMod полностью бесплатен, и мы ненавидим рекламу так же сильно, как и вы！ \ n \ nМы нуждаемся в вашем пожертвовании, чтобы обеспечить более быструю и безопасную загрузку. \ N \ nПожалуйста, проявите терпение и попробуйте просмотреть полную рекламу, чтобы завершить пожертвование. nСпасибо！</string>
+
+	<string name="viewstepdeti">Просмотр сведений о шаге</string>
 </resources>

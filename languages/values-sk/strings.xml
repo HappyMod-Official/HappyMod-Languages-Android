@@ -442,7 +442,7 @@
     <string name="add">Pridať</string>
     <string name="oagputc">Alebo pokračujte pridaním adresy URL pre Google Play</string>
     <string name="description">Popis:</string>
-    <string name="uploadbanner">Nahrať banner (702 * 460)</string>
+    <string name="uploadbanner">Nahrať banner (720 * 406)</string>
     <string name="noedituploadtips">Nemôžete ju odoslať bez vykonania akýchkoľvek zmien.</string>
     <string name="addexcusiveaddressixit">Tento apk už existuje.</string>
 
@@ -455,5 +455,25 @@
     <string name="less">Menej</string>
 
     <string name="votedandfail">Už ste skontrolovali, pozrite si zoznam „Moje recenzie“.</string>
+
+    <string name="fastdownloader">Rýchlejšie sťahovanie</string>
+    <string name="usehtgetspeed">Použite HyperTorrent a získate rýchlosť vyššiu ako 200%.</string>
+    <string name="cleanfdft">čisté &amp; rýchly downloader pre torrenty</string>
+    <string name="fasterspeed">Rýchlejšia rýchlosť</string>
+    <string name="speedfordownloading">200% ~ 1 000% + rýchlosť sťahovania veľkých súborov z HappyMod.</string>
+    <string name="nolimits">Bez limitov</string>
+    <string name="nslnfsl">Bez obmedzenia rýchlosti. Žiadne obmedzenie veľkosti súboru.</string>
+    <string name="Clean">Vyčistiť</string>
+    <string name="Cdnoadfree">Čistý dizajn, žiadna reklama &amp; 100% zadarmo!</string>
+    <string name="wrhtdbf">HyperTorrent odporúčame na sťahovanie veľkých súborov.</string>
+    <string name="nothanks">Nie ďakujem</string>
+
+    <string name="Checkthenetwork">Skontrolujte sieť</string>
+    <string name="Configuringip">Konfiguruje sa pre vás dostupná IP</string>
+    <string name="Configuringipfailed">Konfigurácia zlyhala, zistilo sa, že 8 adries IP nie je k dispozícii, skúste použiť VPN.</string>
+
+    <string name="Donatedes">HappyMod je úplne zadarmo a rovnako ako vy nenávidíme aj vaše reklamy！ \ n \ n Potrebujeme váš dar, aby sme zabezpečili rýchlejšie a bezpečnejšie sťahovanie. \ N \ n Buďte trpezliví a na dokončenie daru sa snažte pozrieť si všetky reklamy. \ N \ nĎakujem！</string>
+
+    <string name="viewstepdeti">Zobraziť podrobnosti kroku</string>
 
 </resources>

@@ -453,7 +453,7 @@
     <string name="add">Добавяне</string>
     <string name="oagputc">Или добавете Google play URL, за да продължите</string>
     <string name="description">Описание:</string>
-    <string name="uploadbanner">Качване на банер (702 * 460)</string>
+    <string name="uploadbanner">Качване на банер (720 * 406)</string>
     <string name="noedituploadtips">Не можете да го изпратите, без да правите промени.</string>
     <string name="addexcusiveaddressixit">Този apk вече съществува.</string>
 
@@ -467,4 +467,23 @@
 
     <string name="votedandfail">Вече прегледахте, моля, проверете списъка „Моите отзиви“.</string>
 
+    <string name="fastdownloader">По-бързо изтегляне</string>
+    <string name="usehtgetspeed">Използвайте HyperTorrent, за да получите 200% + скорост.</string>
+    <string name="cleanfdft">почистване &amp; бързо изтегляне за торенти</string>
+    <string name="fasterspeed">По-бърза скорост</string>
+    <string name="speedfordownloading">200% ~ 1000% + скорост за изтегляне на големи файлове от HappyMod.</string>
+    <string name="nolimits">Без ограничение</string>
+    <string name="nslnfsl">Без ограничение на скоростта. Няма ограничение за размера на файла.</string>
+    <string name="Clean">Чисто</string>
+    <string name="Cdnoadfree">Изчистен дизайн, без реклама &amp; 100% безплатно!</string>
+    <string name="wrhtdbf">Препоръчваме HyperTorrent да изтегляте големи файлове.</string>
+    <string name="nothanks">Не благодаря</string>
+
+    <string name="Checkthenetwork">Проверете мрежата</string>
+    <string name="Configuringip">Конфигуриране на наличния IP за вас</string>
+    <string name="Configuringipfailed">Конфигурацията не бе успешна, 8 IP адреса бяха открити като недостъпни, моля, опитайте да използвате VPN.</string>
+
+    <string name="Donatedes">HappyMod е напълно безплатен и ние мразим рекламите толкова, колкото и вие！ \ n \ nНие се нуждаете от дарението си, за да осигурите по-бързо и безопасно изтегляне. \ N \ nМоля, бъдете търпеливи и се опитайте да гледате пълните реклами, за да завършите дарението. \ N \ nБлагодаря！</string>
+
+    <string name="viewstepdeti">Преглед на подробности за стъпката</string>
 </resources>

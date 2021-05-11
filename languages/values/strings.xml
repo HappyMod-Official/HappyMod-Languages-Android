@@ -450,7 +450,7 @@
     <string name="add">Add</string>
     <string name="oagputc">Or add Google play URL to continue</string>
     <string name="description">Description:</string>
-    <string name="uploadbanner">Upload banner (702*460)</string>
+    <string name="uploadbanner">Upload banner (720*406)</string>
     <string name="noedituploadtips">You can\'t submit it without making any changes.</string>
     <string name="addexcusiveaddressixit">This apk already exists.</string>
 
@@ -465,20 +465,6 @@
 
     <string name="votedandfail">You have already reviewed, please check "My reviews" list.</string>
 
-    <string name="fastdownloader">Faster Download</string>
-    <string name="usehtgetspeed">Use HyperTorrent to get 200%+ speed.</string>
-
-
-    <string name="cleanfdft">clean &amp; fast downloader for torrents</string>
-
-    <string name="fasterspeed">Faster speed</string>
-    <string name="speedfordownloading">300%~1,000%+speed for downloading big files from HappyMod.</string>
-    <string name="nolimits">No limits</string>
-    <string name="nslnfsl">No speed limit. No file size limit.</string>
-    <string name="Clean">Clean</string>
-    <string name="Cdnoadfree">Clean design,no ad &amp; 100% free!</string>
-    <string name="wrhtdbf">We recommend HyperTorrent to downloading big files.</string>
-    <string name="nothanks">No,thanks</string>
 
     <string name="fastdownloader">Faster Download</string>
     <string name="usehtgetspeed">Use HyperTorrent to get 200%+ speed.</string>
@@ -497,7 +483,6 @@
     <string name="Donatedes">HappyMod is completely free, and we hate ads as much as you do！\n\nWe need your donation to provide faster and safer downloads.\n\nPlease be patient and try to watch the full ads to complete the donation.\n\nThank you！</string>
 
     <string name="viewstepdeti">View step details</string>
-
 
 
 </resources>

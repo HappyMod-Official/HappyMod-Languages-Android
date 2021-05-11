@@ -442,7 +442,7 @@
     <string name="add">ചേർക്കുക</string>
     <string name="oagputc">അല്ലെങ്കിൽ തുടരാൻ Google പ്ലേ URL ചേർക്കുക</string>
     <string name="description">വിവരണം:</string>
-    <string name="uploadbanner">ബാനർ അപ്‌ലോഡുചെയ്യുക (702 * 460)</string>
+    <string name="uploadbanner">ബാനർ അപ്‌ലോഡുചെയ്യുക (720 * 406)</string>
     <string name="noedituploadtips">മാറ്റങ്ങളൊന്നും വരുത്താതെ നിങ്ങൾക്ക് ഇത് സമർപ്പിക്കാൻ കഴിയില്ല.</string>
     <string name="addexcusiveaddressixit">ഈ APK ഇതിനകം നിലവിലുണ്ട്.</string>
 
@@ -454,5 +454,26 @@
     <string name="nospyware">സ്‌പൈവെയർ ഇല്ല</string>
     <string name="less">കുറവ്</string>
     <string name="votedandfail">നിങ്ങൾ ഇതിനകം അവലോകനം ചെയ്തു, ദയവായി "എന്റെ അവലോകനങ്ങൾ" ലിസ്റ്റ് പരിശോധിക്കുക.</string>
+
+    <string name="fastdownloader">വേഗത്തിലുള്ള ഡൗൺലോഡ്</string>
+    <string name="usehtgetspeed">200% + വേഗത ലഭിക്കാൻ ഹൈപ്പർ ടോറന്റ് ഉപയോഗിക്കുക.</string>
+    <string name="cleanfdft">വൃത്തിയാക്കുക &amp; ടോറന്റുകൾക്കായി അതിവേഗ ഡൗൺലോഡർ</string>
+    <string name="fasterspeed">വേഗത</string>
+    <string name="speedfordownloading">ഹാപ്പിമോഡിൽ നിന്ന് വലിയ ഫയലുകൾ ഡൗൺലോഡുചെയ്യുന്നതിന് 200% ~ 1,000% + വേഗത.</string>
+    <string name="nolimits">പരിധി ഇല്ല</string>
+    <string name="nslnfsl">വേഗത പരിധിയില്ല. ഫയൽ വലുപ്പ പരിധിയൊന്നുമില്ല.</string>
+    <string name="Clean">വൃത്തിയാക്കുക</string>
+    <string name="Cdnoadfree">വൃത്തിയുള്ള രൂപകൽപ്പന, പരസ്യമില്ല &amp; 100% സ free ജന്യമാണ്!</string>
+    <string name="wrhtdbf">വലിയ ഫയലുകൾ ഡ download ൺ‌ലോഡുചെയ്യുന്നതിന് ഞങ്ങൾ‌ ഹൈപ്പർ‌ടോറൻറ് ശുപാർശ ചെയ്യുന്നു.</string>
+    <string name="nothanks">വേണ്ട നന്ദി</string>
+
+    <string name="Checkthenetwork">നെറ്റ്‌വർക്ക് പരിശോധിക്കുക</string>
+    <string name="Configuringip">നിങ്ങൾക്കായി ലഭ്യമായ IP ക്രമീകരിക്കുന്നു</string>
+    <string name="Configuringipfailed">കോൺഫിഗറേഷൻ പരാജയപ്പെട്ടു, 8 ഐപികൾ ലഭ്യമല്ലെന്ന് കണ്ടെത്തി, ദയവായി വിപിഎൻ ഉപയോഗിക്കാൻ ശ്രമിക്കുക.</string>
+
+    <string name="Donatedes">ഹാപ്പിമോഡ് പൂർണ്ണമായും സ is ജന്യമാണ്, നിങ്ങൾ ചെയ്യുന്നതുപോലെ ഞങ്ങൾ പരസ്യങ്ങളെ വെറുക്കുന്നു！ \ n \ n വേഗതയേറിയതും സുരക്ഷിതവുമായ ഡ download ൺ‌ലോഡുകൾ‌ നൽ‌കുന്നതിന് ഞങ്ങൾക്ക് നിങ്ങളുടെ സംഭാവന ആവശ്യമാണ്. \ N \ n ദയവായി ക്ഷമയോടെ സംഭാവന പൂർത്തിയാക്കുന്നതിന് മുഴുവൻ പരസ്യങ്ങളും കാണാൻ ശ്രമിക്കുക. n നന്ദി</string>
+
+    <string name="viewstepdeti">ഘട്ടം വിശദാംശങ്ങൾ കാണുക</string>
+
 
 </resources>

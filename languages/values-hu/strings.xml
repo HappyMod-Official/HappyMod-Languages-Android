@@ -449,7 +449,7 @@
     <string name="add">Hozzáadás</string>
     <string name="oagputc">Vagy a folytatáshoz adja hozzá a Google Play URL-t</string>
     <string name="description">Leírás:</string>
-    <string name="uploadbanner">Szalaghirdetés feltöltése (702 * 460)</string>
+    <string name="uploadbanner">Szalaghirdetés feltöltése (720 * 406)</string>
     <string name="noedituploadtips">Nem adhatja be változtatások nélkül.</string>
     <string name="addexcusiveaddressixit">Ez az apk már létezik.</string>
 
@@ -462,5 +462,25 @@
     <string name="less">Kevésbé</string>
 
     <string name="votedandfail">Már áttekintette, ellenőrizze a „Saját vélemények” listát.</string>
+
+    <string name="fastdownloader">Gyorsabb letöltés</string>
+    <string name="usehtgetspeed">Használja a HyperTorrent alkalmazást 200% + sebesség eléréséhez.</string>
+    <string name="cleanfdft">tiszta &amp; gyors letöltő a torrentekhez</string>
+    <string name="fasterspeed">Gyorsabb sebesség</string>
+    <string name="speedfordownloading">200% ~ 1000% + sebesség nagy fájlok letöltéséhez a HappyMod-ból.</string>
+    <string name="nolimits">Határok nélkül</string>
+    <string name="nslnfsl">Nincs sebességkorlátozás. Nincs fájlméret korlát.</string>
+    <string name="Clean">Tiszta</string>
+    <string name="Cdnoadfree">Tiszta kialakítás, nincs hirdetés &amp; 100% ingyenes!</string>
+    <string name="wrhtdbf">Nagy fájlok letöltéséhez javasoljuk a HyperTorrent alkalmazást.</string>
+    <string name="nothanks">Nem köszönöm</string>
+
+    <string name="Checkthenetwork">Ellenőrizze a hálózatot</string>
+    <string name="Configuringip">A rendelkezésre álló IP beállítása az Ön számára</string>
+    <string name="Configuringipfailed">A konfigurálás sikertelen, 8 IP-t észleltünk, hogy nem érhetők el. Kérjük, próbálja meg használni a VPN-t.</string>
+
+    <string name="Donatedes">A HappyMod teljesen ingyenes, és ugyanúgy utáljuk a hirdetéseket is.！ \ N \ nA gyorsabb és biztonságosabb letöltés érdekében szükségünk van adományára. \ N \ nKérjük, legyen türelmes, és az adomány teljesítéséhez próbálja meg megnézni a teljes hirdetéseket. \ N \ nKöszönöm！</string>
+
+    <string name="viewstepdeti">A lépés részleteinek megtekintése</string>
 
 </resources>

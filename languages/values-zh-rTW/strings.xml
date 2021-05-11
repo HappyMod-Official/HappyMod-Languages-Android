@@ -445,7 +445,7 @@
     <string name="add">添加</string>
     <string name="oagputc">或添加Google Play網址以繼續</string>
     <string name="description">描述：</string>
-    <string name="uploadbanner">上傳橫幅（702 * 460）</string>
+    <string name="uploadbanner">上傳橫幅（720 * 406）</string>
     <string name="noedituploadtips">您必須進行任何更改才能提交。</string>
     <string name="addexcusiveaddressixit">這個app 已經存在咯。</string>
 
@@ -459,4 +459,24 @@
 
     <string name="votedandfail">您已經評論過，請檢查“我的評論”列表。</string>
 
+    <string name="fastdownloader">快速的下載</string>
+    <string name="usehtgetspeed">使用HyperTorrent可獲得200％以上的速度。</string>
+    <string name="cleanfdft">清潔種子快速下載器</string>
+    <string name="fasterspeed">速度加快</string>
+    <string name="speedfordownloading">從HappyMod下載大文件的速度提高了200％〜1,000％。</string>
+    <string name="nolimits">無限</string>
+    <string name="nslnfsl">無速度限制。</string>
+    <string name="Clean">乾淨的</string>
+    <string name="Cdnoadfree">簡潔的設計，無廣告100％免費！</string>
+    <string name="wrhtdbf">我們建議HyperTorrent下載大文件。</string>
+    <string name="nothanks">不 謝謝</string>
+
+    <string name="Checkthenetwork">檢查網絡</string>
+    <string name="Configuringip">為您配置可用的IP</string>
+    <string name="Configuringipfailed">配置失敗，檢測到8個IP不可用，請嘗試使用VPN。</string>
+
+
+    <string name="Donatedes">HappyMod是完全免費的，我們和您一樣討厭廣告！\n\n我們需要您的捐贈來提供更快，更安全的下載。\n\n請耐心等待，並觀看完整的廣告以完成捐贈。\n\n謝謝你！</string>
+
+    <string name="viewstepdeti">查看步驟詳細信息</string>
 </resources>

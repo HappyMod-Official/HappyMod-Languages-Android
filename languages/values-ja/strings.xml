@@ -448,7 +448,7 @@
     <string name="add">追加</string>
     <string name="oagputc">または続行するにはGooglePlayのURLを追加してください</string>
     <string name="description">説明：</string>
-    <string name="uploadbanner">バナーのアップロード（702 * 460）</string>
+    <string name="uploadbanner">バナーのアップロード（720 * 406）</string>
     <string name="noedituploadtips">変更を加えずに送信することはできません。</string>
     <string name="addexcusiveaddressixit">このapkはすでに存在します。</string>
 
@@ -461,4 +461,23 @@
     <string name="less">もっと少なく</string>
     <string name="votedandfail">すでにレビュー済みです。「マイレビュー」リストを確認してください。</string>
 
+    <string name="fastdownloader">より速いダウンロード</string>
+    <string name="usehtgetspeed">HyperTorrentを使用して200％以上の速度を取得します。</string>
+    <string name="cleanfdft">クリーン＆amp; トレント用の高速ダウンローダー</string>
+    <string name="fasterspeed">より速い速度</string>
+    <string name="speedfordownloading">HappyModから大きなファイルをダウンロードするための200％〜1,000％+速度。</string>
+    <string name="nolimits">無制限</string>
+    <string name="nslnfsl">速度制限はありません。 ファイルサイズの制限はありません。</string>
+    <string name="Clean">掃除</string>
+    <string name="Cdnoadfree">すっきりとしたデザイン、広告なし＆amp; 100％無料！</string>
+    <string name="wrhtdbf">大きなファイルをダウンロードするには、HyperTorrentをお勧めします。</string>
+    <string name="nothanks">結構です</string>
+
+    <string name="Checkthenetwork">ネットワークを確認してください</string>
+    <string name="Configuringip">利用可能なIPを構成する</string>
+    <string name="Configuringipfailed">構成に失敗しました。8つのIPが使用できないことが検出されました。VPNを使用してみてください。</string>
+
+    <string name="Donatedes">HappyModは完全に無料で、広告は大嫌いです！\ n \ nより速く、より安全なダウンロードを提供するには、寄付が必要です。\ n \ nしばらくお待ちください。広告全体を見て、寄付を完了してください。\ n \ nありがとうございます！</string>
+
+    <string name="viewstepdeti">ステップの詳細を表示する</string>
 </resources>

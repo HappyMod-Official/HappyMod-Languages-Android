@@ -455,7 +455,7 @@
     <string name="add">Προσθήκη</string>
     <string name="oagputc">Ή προσθέστε το Google Play URL για να συνεχίσετε</string>
     <string name="description">Περιγραφή:</string>
-    <string name="uploadbanner">Μεταφόρτωση banner (702 * 460)</string>
+    <string name="uploadbanner">Μεταφόρτωση banner (720 * 406)</string>
     <string name="noedituploadtips">Δεν μπορείτε να το υποβάλετε χωρίς να κάνετε αλλαγές.</string>
     <string name="addexcusiveaddressixit">Αυτό το apk υπάρχει ήδη.</string>
 
@@ -469,4 +469,23 @@
 
     <string name="votedandfail">Έχετε ήδη ελέγξει, ελέγξτε τη λίστα "Οι κριτικές μου".</string>
 
+    <string name="fastdownloader">Ταχύτερη λήψη</string>
+    <string name="usehtgetspeed">Χρησιμοποιήστε το HyperTorrent για να αποκτήσετε ταχύτητα 200% +.</string>
+    <string name="cleanfdft">καθαρό &amp; γρήγορο πρόγραμμα λήψης για torrents</string>
+    <string name="fasterspeed">Ταχύτερη ταχύτητα</string>
+    <string name="speedfordownloading">200% ~ 1.000% + ταχύτητα για τη λήψη μεγάλων αρχείων από το HappyMod.</string>
+    <string name="nolimits">Χωρίς όρια</string>
+    <string name="nslnfsl">Χωρίς όριο ταχύτητας. Χωρίς όριο μεγέθους αρχείου.</string>
+    <string name="Clean">ΚΑΘΑΡΗ</string>
+    <string name="Cdnoadfree">Καθαρός σχεδιασμός, χωρίς διαφήμιση &amp; 100% δωρεάν!</string>
+    <string name="wrhtdbf">Συνιστούμε το HyperTorrent να κάνει λήψη μεγάλων αρχείων.</string>
+    <string name="nothanks">Οχι ευχαριστώ</string>
+
+    <string name="Checkthenetwork">Ελέγξτε το δίκτυο</string>
+    <string name="Configuringip">Διαμόρφωση διαθέσιμης IP για εσάς</string>
+    <string name="Configuringipfailed">Η διαμόρφωση απέτυχε, 8 IP εντοπίστηκαν ότι δεν είναι διαθέσιμα. Δοκιμάστε να χρησιμοποιήσετε το VPN.</string>
+
+    <string name="Donatedes">Το HappyMod είναι εντελώς δωρεάν και μισούμε τις διαφημίσεις όσο και εσείς！ \ n \ n Χρειαζόμαστε τη δωρεά σας για να παρέχουμε γρηγορότερες και ασφαλέστερες λήψεις. \ N \ nΠαίνετε υπομονή και προσπαθήστε να παρακολουθήσετε τις πλήρεις διαφημίσεις για να ολοκληρώσετε τη δωρεά. \ N \ nΣας ευχαριστώ！</string>
+
+    <string name="viewstepdeti">Δείτε τις λεπτομέρειες του βήματος</string>
 </resources>

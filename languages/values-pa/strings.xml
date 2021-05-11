@@ -451,7 +451,7 @@
     <string name="add">ਸ਼ਾਮਲ ਕਰੋ</string>
     <string name="oagputc">ਜਾਂ ਜਾਰੀ ਰੱਖਣ ਲਈ ਗੂਗਲ ਪਲੇ URL ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ</string>
     <string name="description">ਵੇਰਵਾ:</string>
-    <string name="uploadbanner">ਅਪਲੋਡ ਬੈਨਰ (702 * 460)</string>
+    <string name="uploadbanner">ਅਪਲੋਡ ਬੈਨਰ (720 * 406)</string>
     <string name="noedituploadtips">ਤੁਸੀਂ ਬਿਨਾਂ ਕੋਈ ਤਬਦੀਲੀ ਕੀਤੇ ਇਸ ਨੂੰ ਜਮ੍ਹਾ ਨਹੀਂ ਕਰ ਸਕਦੇ.</string>
     <string name="addexcusiveaddressixit">ਇਹ ਏਪੀਕੇ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ.</string>
 
@@ -463,5 +463,26 @@
     <string name="nospyware">ਕੋਈ ਸਪਾਈਵੇਅਰ ਨਹੀਂ</string>
     <string name="less">ਘੱਟ</string>
     <string name="votedandfail">ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ ਸਮੀਖਿਆ ਕੀਤੀ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ "ਮੇਰੀਆਂ ਸਮੀਖਿਆਵਾਂ" ਸੂਚੀ ਨੂੰ ਵੇਖੋ.</string>
+
+    <string name="fastdownloader">ਤੇਜ਼ ਡਾ Downloadਨਲੋਡ</string>
+    <string name="usehtgetspeed">200% + ਸਪੀਡ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਹਾਈਪਰਟੋਰੈਂਟ ਦੀ ਵਰਤੋਂ ਕਰੋ.</string>
+    <string name="cleanfdft">ਸਾਫ਼ &amp; ਤੇਜ਼ ਡਾ downloadਨਲੋਡਰ</string>
+    <string name="fasterspeed">ਤੇਜ਼ ਗਤੀ</string>
+    <string name="speedfordownloading">ਹੈਪੀਮੌਡ ਤੋਂ ਵੱਡੀਆਂ ਫਾਈਲਾਂ ਡਾingਨਲੋਡ ਕਰਨ ਲਈ 200% ~ 1,000% + ਗਤੀ.</string>
+    <string name="nolimits">ਕੋਈ ਸੀਮਾ ਨਹੀਂ</string>
+    <string name="nslnfsl">ਕੋਈ ਗਤੀ ਸੀਮਾ. ਕੋਈ ਫਾਈਲ ਅਕਾਰ ਦੀ ਸੀਮਾ ਨਹੀਂ.</string>
+    <string name="Clean">ਸਾਫ਼</string>
+    <string name="Cdnoadfree">ਸਾਫ਼ ਡਿਜ਼ਾਇਨ, ਕੋਈ ਇਸ਼ਤਿਹਾਰ &amp; 100% ਮੁਫਤ!</string>
+    <string name="wrhtdbf">ਅਸੀਂ ਵੱਡੀਆਂ ਫਾਈਲਾਂ ਡਾ downloadਨਲੋਡ ਕਰਨ ਲਈ ਹਾਈਪਰਟੋਰੈਂਟ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ.</string>
+    <string name="nothanks">ਨਹੀਂ ਧੰਨਵਾਦ</string>
+
+    <string name="Checkthenetwork">ਨੈੱਟਵਰਕ ਦੀ ਜਾਂਚ ਕਰੋ</string>
+    <string name="Configuringip">ਤੁਹਾਡੇ ਲਈ ਉਪਲਬਧ ਆਈਪੀ ਦੀ ਸੰਰਚਨਾ ਕਰਨੀ</string>
+    <string name="Configuringipfailed">ਕੌਂਫਿਗ੍ਰੇਸ਼ਨ ਅਸਫਲ, 8 ਆਈਪੀਜ਼ ਅਣਉਪਲਬਧ ਹੋਣ ਦਾ ਪਤਾ ਲਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਵੀਪੀਐਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ.</string>
+
+    <string name="Donatedes">ਹੈਪੀਮੌਡ ਪੂਰੀ ਤਰ੍ਹਾਂ ਮੁਫਤ ਹੈ, ਅਤੇ ਅਸੀਂ ਓਨੇ ਹੀ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਨਫ਼ਰਤ ਕਰਦੇ ਹਾਂ ਜਿੰਨਾ ਤੁਸੀਂ ਕਰਦੇ ਹੋ！ \ n \ n ਤੇਜ਼ ਅਤੇ ਸੁਰੱਖਿਅਤ ਡਾ downloadਨਲੋਡ ਮੁਹੱਈਆ ਕਰਨ ਲਈ ਸਾਨੂੰ ਤੁਹਾਡੇ ਦਾਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ. \ N patient n ਕਿਰਪਾ ਕਰਕੇ ਸਬਰ ਰੱਖੋ ਅਤੇ ਦਾਨ ਪੂਰਾ ਕਰਨ ਲਈ ਪੂਰੇ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ. \ N \ n ਧੰਨਵਾਦ！</string>
+
+
+    <string name="viewstepdeti">ਕਦਮ ਵੇਰਵੇ ਵੇਖੋ</string>
 
 </resources>

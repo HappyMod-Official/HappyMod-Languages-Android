@@ -453,7 +453,7 @@
 	<string name="add">Adicionar</string>
 	<string name="oagputc">Ou adicione o URL do Google Play para continuar</string>
 	<string name="description">Descrição:</string>
-	<string name="uploadbanner">Banner de upload (702 * 460)</string>
+	<string name="uploadbanner">Banner de upload (720 * 406)</string>
 	<string name="noedituploadtips">Você não pode enviá-lo sem fazer alterações.</string>
 	<string name="addexcusiveaddressixit">Este apk já existe.</string>
 
@@ -466,5 +466,25 @@
 	<string name="less">Menos</string>
 
 	<string name="votedandfail">Você já revisou, por favor verifique a lista "Minhas revisões".</string>
+
+	<string name="fastdownloader">Download mais rápido</string>
+	<string name="usehtgetspeed">Use o HyperTorrent para obter 200% + velocidade.</string>
+	<string name="cleanfdft">limpar &amp; downloader rápido para torrents</string>
+	<string name="fasterspeed">Velocidade mais rápida</string>
+	<string name="speedfordownloading">200% ~ 1,000% + velocidade para baixar arquivos grandes do HappyMod.</string>
+	<string name="nolimits">Sem limites</string>
+	<string name="nslnfsl">Sem limite de velocidade. Sem limite de tamanho de arquivo.</string>
+	<string name="Clean">Limpar / limpo</string>
+	<string name="Cdnoadfree">Design limpo, sem anúncios &amp; 100% grátis!</string>
+	<string name="wrhtdbf">Recomendamos o HyperTorrent para baixar arquivos grandes.</string>
+	<string name="nothanks">Não obrigado</string>
+
+	<string name="Checkthenetwork">Verifique a rede</string>
+	<string name="Configuringip">Configurando o IP disponível para você</string>
+	<string name="Configuringipfailed">Falha na configuração, 8 IPs foram detectados como indisponíveis, tente usar VPN.</string>
+
+	<string name="Donatedes">HappyMod é totalmente gratuito, e odiamos anúncios tanto quanto você！ \ n \ nPrecisamos da sua doação para fornecer downloads mais rápidos e seguros. \ N \ nSeja paciente e tente assistir os anúncios completos para concluir a doação. \ N \ nObrigado！</string>
+
+	<string name="viewstepdeti">Ver detalhes da etapa</string>
 
 </resources>

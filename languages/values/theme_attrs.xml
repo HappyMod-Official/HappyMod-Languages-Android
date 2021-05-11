@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="color_BCBDBB" format="color|reference" /><!--一级文字颜色-->
+    <attr name="color_slide_title" format="color|reference" />
+    <attr name="color_slide_xian" format="color|reference" />
+
+    <attr name="color_hometitle" format="color|reference" />
+    <attr name="color_hometitle2" format="color|reference" />
+    <attr name="color_hometitle3" format="color|reference" />
+
+    <attr name="color_sidebg" format="color|reference" /><!--白色_夜间黑背景-->
+    <attr name="color_sidebgf2" format="color|reference" /><!--f2f2f2_夜间黑背景-->
+    <attr name="color_hometitle_bg" format="color|reference" /><!--绿主题_夜间黑-->
+    <attr name="color_modinfo" format="color|reference" /><!--modInfo-->
+    <attr name="color_hometopbg" format="color|reference" />
+    <attr name="home_tab_select_cor" format="color|reference" />
+    <attr name="home_tab_noselect_cor" format="color|reference" />
+    <attr name="two_level" format="color|reference"/>
+    <attr name="appmain_vp_tab" format="color|reference" />
+    <attr name="download_bt_des" format="color|reference" />
+    <attr name="red_text_f44336" format="color|reference" />
+    <attr name="nine_all_bg" format="color|reference" />
+    <attr name="whiteBlackIcon" format="color|reference" />
+
+    <attr name="toolbar_search" format="color|reference" />
+    <attr name="toolbar_download" format="color|reference" />
+    <attr name="toolbar_share" format="color|reference" />
+    <attr name="white_black_bg2" format="color|reference" />
+    <attr name="f2f2_black_bg3" format="color|reference" />
+    <attr name="fefefe_titleone" format="color|reference" />
+    <attr name="white_black_bg3" format="color|reference" />
+    <attr name="d9d9d9_black_bg1" format="color|reference" />
+
+    <attr name="whiteicon_nightIcon" format="color|reference" />
+    <attr name="launage_cor" format="color|reference" />
+    <attr name="hmsearch_bg" format="color|reference" />
+    <attr name="dataIconForegroundCor" format="color|reference" />
+    <attr name="downloadbt_bg" format="color|reference" />
+    <attr name="white_circle" format="color|reference" />
+
+    <attr name="f_bt_apk" format="color|reference" />
+    <attr name="f_bt_request" format="color|reference" />
+    <attr name="f_bt_post" format="color|reference" />
+    <attr name="downloadbtCor" format="color|reference" />
+    <attr name="singup_bg" format="color|reference" />
+    <attr name="login_bg" format="color|reference" />
+    <attr name="home_menu" format="color|reference" />
+    <attr name="home_search" format="color|reference" />
+    <attr name="home_download" format="color|reference" />
+    <attr name="home_gift" format="color|reference" />
+    <attr name="dataIconNew" format="color|reference" />
+
+    <attr name="fb_a_post" format="color|reference" />
+    <attr name="fb_a_request" format="color|reference"/>
+    <attr name="fb_a_upload" format="color|reference" />
+    <attr name="title31" format="color|reference" />
+    <attr name="safebg" format="color|reference" />
+
+
+    <!--H5 背景图-->
+    <attr name="hot_bg_1" format="color|reference" />
+    <attr name="hot_bg_2" format="color|reference" />
+    <attr name="hot_bg_3" format="color|reference" />
+    <attr name="hot_bg_4" format="color|reference" />
+    <attr name="hot_bg_5" format="color|reference" />
+    <attr name="hot_bg_6" format="color|reference" />
+    <attr name="hot_bg_7" format="color|reference" />
+    <attr name="hot_bg_8" format="color|reference" />
+    <attr name="hot_bg_9" format="color|reference" />
+
+    <attr name="recycleplayed_bg" format="color|reference" />
+    <attr name="playoneplay" format="color|reference"/>
+    <attr name="tipsdialog_top" format="color|reference"/>
+
+
+    <attr name="modlist_bottom" format="color|reference" />
+    <attr name="modlist_top" format="color|reference"/>
+    <attr name="modlist_circle_r" format="color|reference"/>
+    <attr name="modlist_circle_g" format="color|reference" />
+    <attr name="community_app_bg" format="color|reference" />
+    <attr name="launchtopbg" format="color|reference" />
+    <attr name="launchbotombg" format="color|reference" />
+    <attr name="launchperson" format="color|reference" />
+    <attr name="launchtextcor" format="color|reference" />
+    <attr name="launchok" format="color|reference" />
+
+
+</resources>

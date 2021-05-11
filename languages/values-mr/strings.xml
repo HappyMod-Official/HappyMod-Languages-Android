@@ -445,7 +445,7 @@
     <string name="add">जोडा</string>
     <string name="oagputc">किंवा सुरू ठेवण्यासाठी Google प्ले URL जोडा</string>
     <string name="description">वर्णन:</string>
-    <string name="uploadbanner">अपलोड बॅनर (702 * 460)</string>
+    <string name="uploadbanner">अपलोड बॅनर (720 * 406)</string>
     <string name="noedituploadtips">आपण कोणतेही बदल न करता सबमिट करू शकत नाही.</string>
     <string name="addexcusiveaddressixit">ഈ APK ഇതിനകം നിലവിലുണ്ട്.</string>
 
@@ -457,5 +457,26 @@
     <string name="nospyware">स्पायवेअर नाही</string>
     <string name="less">कमी</string>
     <string name="votedandfail">आपण यापूर्वीच पुनरावलोकन केले आहे, कृपया "माझी पुनरावलोकने" यादी तपासा.</string>
+
+    <string name="fastdownloader">वेगवान डाउनलोड</string>
+    <string name="usehtgetspeed">200% + गती मिळविण्यासाठी हायपरटोरेंट वापरा.</string>
+    <string name="cleanfdft">स्वच्छ  विद्युतप्रवाह मोजण्याच्या एककाचे संक्षिप्त रुप; टॉरेन्टसाठी जलद डाउनलोडर</string>
+    <string name="fasterspeed">वेगवान वेग</string>
+    <string name="speedfordownloading">हॅपीमॉड वरून मोठ्या फायली डाउनलोड करण्यासाठी 200%. 1,000% + गती.</string>
+    <string name="nolimits">मर्यादा नाही</string>
+    <string name="nslnfsl">वेग मर्यादा नाही. फाइल आकार मर्यादा नाही.</string>
+    <string name="Clean">स्वच्छ</string>
+    <string name="Cdnoadfree">स्वच्छ डिझाइन, कोणतीही जाहिरात नाही विद्युतप्रवाह मोजण्याच्या एककाचे संक्षिप्त रुप; 100% विनामूल्य!</string>
+    <string name="wrhtdbf">आम्ही मोठ्या फायली डाउनलोड करण्यासाठी हायपरटोरेंटची शिफारस करतो.</string>
+    <string name="nothanks">नको धन्यवाद</string>
+
+    <string name="Checkthenetwork">नेटवर्क तपासा</string>
+    <string name="Configuringip">आपल्यासाठी उपलब्ध आयपी कॉन्फिगर करीत आहे</string>
+    <string name="Configuringipfailed">कॉन्फिगरेशन अयशस्वी, 8 आयपी अनुपलब्ध असल्याचे आढळले, कृपया व्हीपीएन वापरण्याचा प्रयत्न करा.</string>
+
+    <string name="Donatedes">हॅपीमोड पूर्णपणे विनामूल्य आहे आणि आपण जसे करता त्या जाहिराती आम्हाला आवडत नाहीत！ \ n \ n जलद आणि सुरक्षित डाउनलोड प्रदान करण्यासाठी आम्हाला आपल्या देणगीची आवश्यकता आहे. \ N \ n कृपया धैर्य ठेवा आणि देणगी पूर्ण करण्यासाठी पूर्ण जाहिराती पहाण्याचा प्रयत्न करा. \ N \ एन धन्यवाद！</string>
+
+
+    <string name="viewstepdeti">चरण तपशील पहा</string>
 
 </resources>

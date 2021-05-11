@@ -445,7 +445,7 @@
     <string name="add">கூட்டு</string>
     <string name="oagputc">அல்லது தொடர Google play URL ஐச் சேர்க்கவும்</string>
     <string name="description">விளக்கம்:</string>
-    <string name="uploadbanner">பேனரைப் பதிவேற்று (702 * 460)</string>
+    <string name="uploadbanner">பேனரைப் பதிவேற்று (720 * 406)</string>
     <string name="noedituploadtips">எந்த மாற்றமும் செய்யாமல் அதை சமர்ப்பிக்க முடியாது.</string>
     <string name="addexcusiveaddressixit">இந்த apk ஏற்கனவே உள்ளது.</string>
 
@@ -457,5 +457,24 @@
     <string name="nospyware">ஸ்பைவேர் இல்லை</string>
     <string name="less">குறைவாக</string>
     <string name="votedandfail">நீங்கள் ஏற்கனவே மதிப்பாய்வு செய்துள்ளீர்கள், தயவுசெய்து "எனது மதிப்புரைகள்" பட்டியலைச் சரிபார்க்கவும்.</string>
+
+    <string name="fastdownloader">வேகமாக பதிவிறக்கம்</string>
+    <string name="usehtgetspeed">200% + வேகத்தைப் பெற ஹைப்பர் டொரண்டைப் பயன்படுத்தவும்.</string>
+    <string name="cleanfdft">சுத்தமான  ஆம்ப்; டொரண்டுகளுக்கு வேகமாக பதிவிறக்குபவர்</string>
+    <string name="fasterspeed">வேகமான வேகம்</string>
+    <string name="speedfordownloading">HappyMod இலிருந்து பெரிய கோப்புகளைப் பதிவிறக்குவதற்கு 200% ~ 1,000% + வேகம்.</string>
+    <string name="nolimits">வரையறைகள் இல்லை</string>
+    <string name="nslnfsl">. ஒரு வேளை.</string>
+    <string name="Clean">சுத்தமான</string>
+    <string name="Cdnoadfree">சுத்தமான வடிவமைப்பு, விளம்பரம் இல்லை ஆம்ப்; 100% இலவசம்!</string>
+    <string name="wrhtdbf">பெரிய கோப்புகளைப் பதிவிறக்குவதற்கு ஹைப்பர் டொரண்டை பரிந்துரைக்கிறோம்.</string>
+    <string name="nothanks">இல்லை நன்றி</string>
+
+    <string name="Checkthenetwork">பிணையத்தை சரிபார்க்கவும்</string>
+    <string name="Configuringip">உங்களுக்காக கிடைக்கக்கூடிய ஐபி கட்டமைக்கிறது</string>
+    <string name="Configuringipfailed">உள்ளமைவு தோல்வியுற்றது, 8 ஐபிக்கள் கிடைக்கவில்லை என கண்டறியப்பட்டது, தயவுசெய்து விபிஎன் பயன்படுத்த முயற்சிக்கவும்.</string>
+
+    <string name="Donatedes">ஹேப்பி மோட் முற்றிலும் இலவசம், நீங்கள் செய்யும் அளவுக்கு விளம்பரங்களை நாங்கள் வெறுக்கிறோம் \ \ n \ n வேகமான மற்றும் பாதுகாப்பான பதிவிறக்கங்களை வழங்க உங்கள் நன்கொடை எங்களுக்குத் தேவை. \ N \ n பொறுமையாக இருங்கள் மற்றும் நன்கொடை முடிக்க முழு விளம்பரங்களையும் பார்க்க முயற்சிக்கவும். \ N \ n நன்றி</string>
+    <string name="viewstepdeti">படி விவரங்களைக் காண்க</string>
 
 </resources>

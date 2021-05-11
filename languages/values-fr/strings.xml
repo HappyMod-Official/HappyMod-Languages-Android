@@ -451,7 +451,7 @@
     <string name="add">Ajouter</string>
     <string name="oagputc">Ou ajoutez l\'URL de Google Play pour continuer</string>
     <string name="description">La description:</string>
-    <string name="uploadbanner">Télécharger la bannière (702 * 460)</string>
+    <string name="uploadbanner">Télécharger la bannière (720 * 406)</string>
     <string name="noedituploadtips">Vous ne pouvez pas le soumettre sans apporter de modifications.</string>
     <string name="addexcusiveaddressixit">Cet apk existe déjà..</string>
 
@@ -464,5 +464,25 @@
     <string name="less">Moins</string>
 
     <string name="votedandfail">Vous avez déjà évalué, veuillez consulter la liste "Mes avis".</string>
+
+    <string name="fastdownloader">Téléchargement plus rapide</string>
+    <string name="usehtgetspeed">Utilisez HyperTorrent pour obtenir 200% + de vitesse.</string>
+    <string name="cleanfdft">nettoyer &amp; téléchargeur rapide pour les torrents</string>
+    <string name="fasterspeed">Vitesse plus rapide</string>
+    <string name="speedfordownloading">200% ~ 1000% + vitesse pour télécharger de gros fichiers à partir de HappyMod.</string>
+    <string name="nolimits">Pas de limites</string>
+    <string name="nslnfsl">Pas de limite de vitesse. Aucune limite de taille de fichier.</string>
+    <string name="Clean">Nettoyer</string>
+    <string name="Cdnoadfree">Design épuré, pas de publicité &amp; 100% gratuit!</string>
+    <string name="wrhtdbf">Nous recommandons HyperTorrent pour télécharger de gros fichiers.</string>
+    <string name="nothanks">Non merci</string>
+
+    <string name="Checkthenetwork">Vérifiez le réseau</string>
+    <string name="Configuringip">Configurer l\'adresse IP disponible pour vous</string>
+    <string name="Configuringipfailed">La configuration a échoué, 8 adresses IP sont détectées comme indisponibles, veuillez essayer d\'utiliser le VPN.</string>
+
+    <string name="Donatedes">HappyMod est entièrement gratuit et nous détestons les publicités autant que vous！ \ n \ nNous avons besoin de votre don pour fournir des téléchargements plus rapides et plus sûrs. \ N \ nVeuillez patienter et essayez de regarder l\'intégralité des publicités pour compléter le don. \ N \ nMerci！</string>
+
+    <string name="viewstepdeti">Afficher les détails de l\'étape</string>
 
 </resources>

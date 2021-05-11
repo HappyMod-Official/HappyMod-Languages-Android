@@ -449,7 +449,7 @@
 	<string name="add">Shto</string>
 	<string name="oagputc">Ose shtoni URL-në e Google Play për të vazhduar</string>
 	<string name="description">Përshkrim:</string>
-	<string name="uploadbanner">Ngarko banderolën (702 * 460)</string>
+	<string name="uploadbanner">Ngarko banderolën (720 * 406)</string>
 	<string name="noedituploadtips">Ju nuk mund ta paraqisni atë pa bërë asnjë ndryshim.</string>
 	<string name="addexcusiveaddressixit">Kjo apk tashmë ekziston.</string>
 
@@ -462,4 +462,23 @@
 	<string name="less">Më pak</string>
 	<string name="votedandfail">Ju tashmë keni rishikuar, ju lutemi kontrolloni listën "Shqyrtimet e mia".</string>
 
+	<string name="fastdownloader">Shkarkim më të shpejtë</string>
+	<string name="usehtgetspeed">Përdorni HyperTorrent për të marrë 200% + shpejtësi.</string>
+	<string name="cleanfdft">të pastër &amp; shkarkues i shpejtë për torrente</string>
+	<string name="fasterspeed">Shpejtësi më e shpejtë</string>
+	<string name="speedfordownloading">200% ~ 1,000% + shpejtësi për shkarkimin e skedarëve të mëdhenj nga HappyMod.</string>
+	<string name="nolimits">Pa kufi</string>
+	<string name="nslnfsl">Pa kufizim shpejtësie. Nuk ka kufizim të madhësisë së skedarit.</string>
+	<string name="Clean">I pastër</string>
+	<string name="Cdnoadfree">Dizajn i pastër, pa reklama &amp; 100% falas!</string>
+	<string name="wrhtdbf">Ne rekomandojmë HyperTorrent për të shkarkuar skedarë të mëdhenj.</string>
+	<string name="nothanks">Jo faleminderit</string>
+
+	<string name="Checkthenetwork">Kontrolloni rrjetin</string>
+	<string name="Configuringip">Konfigurimi i IP-ve të disponueshme për ju</string>
+	<string name="Configuringipfailed">Konfigurimi dështoi, 8 IP janë zbuluar të padisponueshme, ju lutemi provoni të përdorni VPN.</string>
+
+	<string name="Donatedes">HappyMod është plotësisht falas dhe ne i urrejmë reklamat po aq sa ju bëni！ \ n \ nNe kemi nevojë për dhurimin tuaj për të siguruar shkarkime më të shpejta dhe më të sigurta. \ N \ nJu lutemi të keni durim dhe të përpiqeni të shikoni reklamat e plota për të përfunduar dhurimin. \ N \ faleminderit！</string>
+
+	<string name="viewstepdeti">Shikoni detajet e hapit</string>
 </resources>

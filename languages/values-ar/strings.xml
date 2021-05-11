@@ -411,7 +411,7 @@ https://www.happymod.com</string>
     <string name="add">أضف</string>
     <string name="oagputc"> أو أضف عنوان URL الخاص بـ Google play للمتابعة </string>
     <string name="description">وصف:</string>
-    <string name="uploadbanner">تحميل بانر (702 * 460)</string>
+    <string name="uploadbanner">تحميل بانر (720 * 406)</string>
     <string name="noedituploadtips">لا يمكنك إرسالها بدون إجراء أية تغييرات.</string>
     <string name="addexcusiveaddressixit">ملف apk هذا موجود بالفعل.</string>
 
@@ -443,6 +443,5 @@ https://www.happymod.com</string>
     <string name="Configuringipfailed">فشل التكوين ، تم اكتشاف 8 عناوين IP غير متوفرة ، يرجى محاولة استخدام VPN.</string>
     <string name="Donatedes">HappyMod مجاني تمامًا ، ونحن نكره الإعلانات بقدر ما تفعله！ \ n \ n نحتاج إلى تبرعك لتوفير تنزيلات أسرع وأكثر أمانًا. \ n \ n يُرجى التحلي بالصبر ومحاولة مشاهدة الإعلانات الكاملة لإكمال التبرع. \ n \ n شكرا لك！</string>
     <string name="viewstepdeti">عرض تفاصيل الخطوة</string>
-    
-    
+
 </resources>

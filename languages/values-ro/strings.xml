@@ -452,7 +452,7 @@
     <string name="add">Adăuga</string>
     <string name="oagputc">Sau adăugați adresa URL Google Play pentru a continua</string>
     <string name="description">Descriere:</string>
-    <string name="uploadbanner">Încărcare banner (702 * 460)</string>
+    <string name="uploadbanner">Încărcare banner (720 * 406)</string>
     <string name="noedituploadtips">Nu îl puteți trimite fără a face modificări.</string>
     <string name="addexcusiveaddressixit">Acest APK există deja.</string>
 
@@ -464,5 +464,25 @@
     <string name="nospyware">Fără spyware</string>
     <string name="less">Mai puțin</string>
     <string name="votedandfail">Ați examinat deja, vă rugăm să verificați lista „Recenziile mele”.</string>
+
+    <string name="fastdownloader">Descărcare mai rapidă</string>
+    <string name="usehtgetspeed">Folosiți HyperTorrent pentru a obține 200% + viteză.</string>
+    <string name="cleanfdft">curat &amp; downloader rapid pentru torrente</string>
+    <string name="fasterspeed">Viteză mai rapidă</string>
+    <string name="speedfordownloading">200% ~ 1.000% + viteză pentru descărcarea fișierelor mari de pe HappyMod.</string>
+    <string name="nolimits">Fără limite</string>
+    <string name="nslnfsl">Fără limită de viteză. Fără limită de dimensiune a fișierului.</string>
+    <string name="Clean">Curat</string>
+    <string name="Cdnoadfree">Design curat, fără anunțuri &amp; 100% gratuit!</string>
+    <string name="wrhtdbf">Vă recomandăm HyperTorrent să descărcați fișiere mari.</string>
+    <string name="nothanks">Nu mulțumesc</string>
+
+    <string name="Checkthenetwork">Verificați rețeaua</string>
+    <string name="Configuringip">Configurarea IP-ului disponibil pentru dvs.</string>
+    <string name="Configuringipfailed">Configurarea a eșuat, 8 IP-uri sunt detectate ca fiind indisponibile, vă rugăm să încercați să utilizați VPN.</string>
+
+    <string name="Donatedes">HappyMod este complet gratuit și urăsc anunțurile la fel de mult ca dvs.！ \ n \ nAvem nevoie de donația dvs. pentru a oferi descărcări mai rapide și mai sigure. \ N \ n Vă rugăm să aveți răbdare și să încercați să urmăriți anunțurile complete pentru a finaliza donația. \ N \ nMultumesc！</string>
+
+    <string name="viewstepdeti">Vizualizați detaliile pasului</string>
 
 </resources>

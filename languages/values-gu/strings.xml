@@ -444,7 +444,7 @@
     <string name="add">ઉમેરો</string>
     <string name="oagputc">અથવા ચાલુ રાખવા માટે ગૂગલ પ્લે યુઆરએલ ઉમેરો</string>
     <string name="description">વર્ણન:</string>
-    <string name="uploadbanner">અપલોડ બેનર (702 * 460)</string>
+    <string name="uploadbanner">અપલોડ બેનર (720 * 406)</string>
     <string name="noedituploadtips">તમે તેને કોઈપણ ફેરફારો કર્યા વિના સબમિટ કરી શકતા નથી.</string>
     <string name="addexcusiveaddressixit">આ apk પહેલાથી જ અસ્તિત્વમાં છે.</string>
 
@@ -457,5 +457,25 @@
     <string name="less">ઓછી</string>
 
     <string name="votedandfail">તમે પહેલાથી સમીક્ષા કરી લીધી છે, કૃપા કરીને "મારી સમીક્ષાઓ" સૂચિ તપાસો.</string>
+
+    <string name="fastdownloader">ઝડપી ડાઉનલોડ</string>
+    <string name="usehtgetspeed">200% + ગતિ મેળવવા માટે હાયપરટોરન્ટનો ઉપયોગ કરો.</string>
+    <string name="cleanfdft">સ્વચ્છ &amp; ટોરેન્ટ્સ માટે ઝડપી ડાઉનલોડર</string>
+    <string name="fasterspeed">ઝડપી ગતિ</string>
+    <string name="speedfordownloading">હેપ્પીમોડથી મોટી ફાઇલો ડાઉનલોડ કરવા માટે 200% ~ 1,000% + ગતિ.</string>
+    <string name="nolimits">સીમા વગરનું</string>
+    <string name="nslnfsl">ગતિ મર્યાદા નથી. ફાઇલ કદની કોઈ મર્યાદા નથી.</string>
+    <string name="Clean">ચોખ્ખો</string>
+    <string name="Cdnoadfree">સ્વચ્છ ડિઝાઇન, કોઈ જાહેરાત નહીં &amp; 100% મફત!</string>
+    <string name="wrhtdbf">અમે મોટી ફાઇલોને ડાઉનલોડ કરવા માટે હાયપરટorરન્ટની ભલામણ કરીએ છીએ.</string>
+    <string name="nothanks">ના આભાર</string>
+
+    <string name="Checkthenetwork">નેટવર્ક તપાસો</string>
+    <string name="Configuringip">તમારા માટે ઉપલબ્ધ આઇપીને ગોઠવી રહ્યા છીએ</string>
+    <string name="Configuringipfailed">રૂપરેખાંકન નિષ્ફળ થયું, 8 આઇપીઝ અનુપલબ્ધ હોવાનું જાણવા મળ્યું, કૃપા કરીને વીપીએનનો ઉપયોગ કરવાનો પ્રયાસ કરો.</string>
+
+    <string name="Donatedes">હેપ્પીમ completelyડ સંપૂર્ણપણે મફત છે, અને અમે જેટલી જાહેરાતો કરીએ છીએ તેટલી અમને ધિક્કાર છે！ \ n \ n ઝડપી અને સલામત ડાઉનલોડ પ્રદાન કરવા માટે અમને તમારા દાનની જરૂર છે. \ N \ n કૃપા કરીને ધીરજ રાખો અને દાન પૂર્ણ કરવા માટે સંપૂર્ણ જાહેરાતો જોવાનો પ્રયાસ કરો. \ N \ n આભાર！</string>
+
+    <string name="viewstepdeti">પગલાની વિગતો જુઓ</string>
 
 </resources>

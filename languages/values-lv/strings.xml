@@ -443,7 +443,7 @@
     <string name="add">Pievienot</string>
     <string name="oagputc">Vai arī pievienojiet Google Play URL, lai turpinātu</string>
     <string name="description">Apraksts:</string>
-    <string name="uploadbanner">Augšupielādēt reklāmkarogu (702 * 460)</string>
+    <string name="uploadbanner">Augšupielādēt reklāmkarogu (720 * 406)</string>
     <string name="noedituploadtips">To nevar iesniegt, neveicot nekādas izmaiņas.</string>
     <string name="addexcusiveaddressixit">Šis apk jau pastāv.</string>
 
@@ -455,5 +455,25 @@
     <string name="nospyware">Nav spiegprogrammatūras</string>
     <string name="less">Mazāk</string>
     <string name="votedandfail">Jūs jau esat pārskatījis, lūdzu, pārbaudiet sarakstu “Manas atsauksmes”.</string>
+
+    <string name="fastdownloader">Ātrāka lejupielāde</string>
+    <string name="usehtgetspeed">Izmantojiet HyperTorrent, lai iegūtu 200% + ātrumu.</string>
+    <string name="cleanfdft">tīrs &amp; ātrs straumju lejupielādētājs</string>
+    <string name="fasterspeed">Ātrāks ātrums</string>
+    <string name="speedfordownloading">200% ~ 1000% + ātrums lielu failu lejupielādei no HappyMod.</string>
+    <string name="nolimits">Bez robežām</string>
+    <string name="nslnfsl">Ātruma ierobežojuma nav. Nav faila lieluma ierobežojuma.</string>
+    <string name="Clean">Tīrs</string>
+    <string name="Cdnoadfree">Tīrs dizains, bez reklāmas &amp; 100% bez maksas!</string>
+    <string name="wrhtdbf">Lielu failu lejupielādei iesakām HyperTorrent.</string>
+    <string name="nothanks">Nē paldies</string>
+
+    <string name="Checkthenetwork">Pārbaudiet tīklu</string>
+    <string name="Configuringip">Pieejamā IP konfigurēšana</string>
+    <string name="Configuringipfailed">Konfigurēšana neizdevās, tiek konstatēts, ka 8 IP nav pieejami. Lūdzu, mēģiniet izmantot VPN.</string>
+
+    <string name="Donatedes">HappyMod ir pilnīgi bez maksas, un mēs tikpat ļoti ienīstam reklāmas kā jūs.！ \ N \ nMums ir nepieciešams jūsu ziedojums, lai nodrošinātu ātrāku un drošāku lejupielādi. \ N \ nLūdzu, esiet pacietīgs un mēģiniet noskatīties visas reklāmas, lai pabeigtu ziedojumu. \ N \ nPaldies！</string>
+
+    <string name="viewstepdeti">Skatīt detalizētu informāciju par darbību</string>
 
 </resources>

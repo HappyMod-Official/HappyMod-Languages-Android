@@ -451,7 +451,7 @@
     <string name="add">Přidat</string>
     <string name="oagputc">Nebo pokračujte přidáním adresy Google Play</string>
     <string name="description">Popis:</string>
-    <string name="uploadbanner">Nahrát banner (702 * 460)</string>
+    <string name="uploadbanner">Nahrát banner (720 * 406)</string>
     <string name="noedituploadtips">Nemůžete jej odeslat bez jakýchkoli změn.</string>
     <string name="addexcusiveaddressixit">Tento apk již existuje.</string>
 
@@ -464,5 +464,26 @@
     <string name="less">Méně</string>
 
     <string name="votedandfail">Už jste zkontrolovali, zkontrolujte prosím seznam „Moje recenze“.</string>
+
+    <string name="fastdownloader">Rychlejší stahování</string>
+    <string name="usehtgetspeed">Použijte HyperTorrent a získejte více než 200% rychlost.</string>
+    <string name="cleanfdft">čistý &amp; rychlý downloader pro torrenty</string>
+    <string name="fasterspeed">Rychlejší rychlost</string>
+    <string name="speedfordownloading">Rychlost 200% ~ 1 000% + pro stahování velkých souborů z HappyMod.</string>
+    <string name="nolimits">Žadné limity</string>
+    <string name="nslnfsl">Žádné omezení rychlosti. Žádný limit velikosti souboru.</string>
+    <string name="Clean">Čistý</string>
+    <string name="Cdnoadfree">Čistý design, žádná reklama &amp; 100% zdarma!</string>
+    <string name="wrhtdbf">HyperTorrent doporučujeme stahovat velké soubory.</string>
+    <string name="nothanks">Ne díky</string>
+
+    <string name="Checkthenetwork">Zkontrolujte síť</string>
+    <string name="Configuringip">Konfigurace dostupné IP pro vás</string>
+    <string name="Configuringipfailed">Konfigurace se nezdařila, bylo zjištěno 8 IP adres, které nejsou k dispozici, zkuste použít VPN.</string>
+
+    <string name="Donatedes">HappyMod je zcela zdarma a reklamy nenávidíme stejně jako vy！ \ n \ n Potřebujeme váš dar, abychom zajistili rychlejší a bezpečnější stahování. \ N \ n Buďte trpěliví a zkuste sledovat kompletní reklamy, abyste mohli dar dokončit. \ N \ n Děkuji！</string>
+
+
+    <string name="viewstepdeti">Zobrazit podrobnosti kroku</string>
 
 </resources>

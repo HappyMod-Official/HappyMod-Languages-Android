@@ -446,7 +446,7 @@
     <string name="add">जोड़ना</string>
     <string name="oagputc">या जारी रखने के लिए Google Play URL जोड़ें</string>
     <string name="description">विवरण:</string>
-    <string name="uploadbanner">अपलोड बैनर (702 * 460)</string>
+    <string name="uploadbanner">अपलोड बैनर (720 * 406)</string>
     <string name="noedituploadtips">आप बिना कोई बदलाव किए इसे सबमिट नहीं कर सकते।</string>
     <string name="addexcusiveaddressixit">यह एपीके पहले से मौजूद है।</string>
 
@@ -459,5 +459,25 @@
     <string name="less">कम</string>
 
     <string name="votedandfail">आपने पहले ही समीक्षा कर ली है, कृपया "मेरी समीक्षा" सूची देखें।</string>
+
+    <string name="fastdownloader">तेज़ डाउनलोड</string>
+    <string name="usehtgetspeed">200% + गति प्राप्त करने के लिए HyperTorrent का उपयोग करें।</string>
+    <string name="cleanfdft">साफ &amp; टॉरेंट के लिए फास्ट डाउनलोडर</string>
+    <string name="fasterspeed">तेज गति</string>
+    <string name="speedfordownloading">हैप्पीमॉड से बड़ी फ़ाइलों को डाउनलोड करने के लिए 200% ~ 1,000% + की गति।</string>
+    <string name="nolimits">असीम</string>
+    <string name="nslnfsl">कोई गति सीमा नहीं। कोई फ़ाइल आकार सीमा नहीं।</string>
+    <string name="Clean">स्वच्छ</string>
+    <string name="Cdnoadfree">साफ डिजाइन, कोई विज्ञापन नहीं &amp; 100% मुफ्त!</string>
+    <string name="wrhtdbf">हम बड़ी फ़ाइलों को डाउनलोड करने के लिए हाइपरटोरेंट की सलाह देते हैं।</string>
+    <string name="nothanks">जी नहीं धन्यवाद</string>
+
+    <string name="Checkthenetwork">नेटवर्क की जाँच करें</string>
+    <string name="Configuringip">आपके लिए उपलब्ध आईपी को कॉन्फ़िगर करना</string>
+    <string name="Configuringipfailed">कॉन्फ़िगरेशन विफल हुआ, 8 आईपी अनुपलब्ध पाए गए, कृपया वीपीएन का उपयोग करने का प्रयास करें।</string>
+
+    <string name="Donatedes">HappyMod पूरी तरह से मुफ़्त है, और हम विज्ञापनों से उतना ही घृणा करते हैं, जितना कि आप free \ n \ n करते हैं, हमें तेज़ और सुरक्षित डाउनलोड प्रदान करने के लिए आपके दान की आवश्यकता है। \ n \ n कृपया धैर्य रखें और दान पूरा करने के लिए पूर्ण विज्ञापन देखने का प्रयास करें। \ n \ _ nThank आप！</string>
+
+    <string name="viewstepdeti">चरण विवरण देखें</string>
 
 </resources>

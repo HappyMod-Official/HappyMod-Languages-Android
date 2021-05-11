@@ -444,7 +444,7 @@
     <string name="add">ಸೇರಿಸಿ</string>
     <string name="oagputc">ಅಥವಾ ಮುಂದುವರೆಯಲು Google Play URL ಅನ್ನು ಸೇರಿಸಿ</string>
     <string name="description">ವಿವರಣೆ:</string>
-    <string name="uploadbanner">ಬ್ಯಾನರ್ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ (702 * 460)</string>
+    <string name="uploadbanner">ಬ್ಯಾನರ್ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ (720 * 406)</string>
     <string name="noedituploadtips">ಯಾವುದೇ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡದೆ ನೀವು ಅದನ್ನು ಸಲ್ಲಿಸಲಾಗುವುದಿಲ್ಲ.</string>
     <string name="addexcusiveaddressixit">ಈ ಎಪಿಕೆ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.</string>
 
@@ -456,5 +456,25 @@
     <string name="nospyware">ಸ್ಪೈವೇರ್ ಇಲ್ಲ</string>
     <string name="less">ಕಡಿಮೆ</string>
     <string name="votedandfail">ನೀವು ಈಗಾಗಲೇ ಪರಿಶೀಲಿಸಿದ್ದೀರಿ, ದಯವಿಟ್ಟು "ನನ್ನ ವಿಮರ್ಶೆಗಳು" ಪಟ್ಟಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+
+    <string name="fastdownloader">ಬೇಡ ಧನ್ಯವಾದಗಳು</string>
+    <string name="usehtgetspeed">200% + ವೇಗವನ್ನು ಪಡೆಯಲು ಹೈಪರ್ ಟೊರೆಂಟ್ ಬಳಸಿ.</string>
+    <string name="cleanfdft">ಸ್ವಚ್  &amp; ಟೊರೆಂಟ್‌ಗಳಿಗಾಗಿ ವೇಗವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವವರು</string>
+    <string name="fasterspeed">ವೇಗದ ವೇಗ</string>
+    <string name="speedfordownloading">ಹ್ಯಾಪಿಮೋಡ್‌ನಿಂದ ದೊಡ್ಡ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು 200% ~ 1,000% + ವೇಗ.</string>
+    <string name="nolimits">ಮಿತಿಯಿಲ್ಲ</string>
+    <string name="nslnfsl">ವೇಗ ಮಿತಿ ಇಲ್ಲ. ಫೈಲ್ ಗಾತ್ರದ ಮಿತಿಯಿಲ್ಲ.</string>
+    <string name="Clean">ಸ್ವಚ್ .ಗೊಳಿಸಿ</string>
+    <string name="Cdnoadfree">ಸ್ವಚ್ design ವಿನ್ಯಾಸ, ಜಾಹೀರಾತು ಇಲ್ಲ &amp; 100% ಉಚಿತ!</string>
+    <string name="wrhtdbf">ದೊಡ್ಡ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ನಾವು ಹೈಪರ್‌ಟೊರೆಂಟ್ ಅನ್ನು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.</string>
+    <string name="nothanks">ಬೇಡ ಧನ್ಯವಾದಗಳು</string>
+
+    <string name="Checkthenetwork">ನೆಟ್‌ವರ್ಕ್ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="Configuringip">ನಿಮಗಾಗಿ ಲಭ್ಯವಿರುವ ಐಪಿ ಅನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="Configuringipfailed">ಸಂರಚನೆ ವಿಫಲವಾಗಿದೆ, 8 ಐಪಿಗಳು ಲಭ್ಯವಿಲ್ಲ ಎಂದು ಪತ್ತೆಯಾಗಿದೆ, ದಯವಿಟ್ಟು ವಿಪಿಎನ್ ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ.</string>
+
+    <string name="Donatedes">ಹ್ಯಾಪಿ ಮೋಡ್ ಸಂಪೂರ್ಣವಾಗಿ ಉಚಿತವಾಗಿದೆ, ಮತ್ತು ನೀವು ಮಾಡುವಷ್ಟು ಜಾಹೀರಾತುಗಳನ್ನು ನಾವು ದ್ವೇಷಿಸುತ್ತೇವೆ \ \ n \ n ವೇಗವಾಗಿ ಮತ್ತು ಸುರಕ್ಷಿತ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ಒದಗಿಸಲು ನಿಮ್ಮ ಕೊಡುಗೆ ನಮಗೆ ಬೇಕಾಗುತ್ತದೆ. \ N \ n ದಯವಿಟ್ಟು ತಾಳ್ಮೆಯಿಂದಿರಿ ಮತ್ತು ದೇಣಿಗೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಪೂರ್ಣ ಜಾಹೀರಾತುಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸಿ. \ N \ n ಧನ್ಯವಾದಗಳು</string>
+
+    <string name="viewstepdeti">ಹಂತದ ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
 
 </resources>

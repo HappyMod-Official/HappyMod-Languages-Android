@@ -445,7 +445,7 @@
     <string name="add">Dodaj</string>
     <string name="oagputc">Lub dodaj adres URL Google Play, aby kontynuować</string>
     <string name="description">Opis:</string>
-    <string name="uploadbanner">Prześlij baner (702 * 460)</string>
+    <string name="uploadbanner">Prześlij baner (720 * 406)</string>
     <string name="noedituploadtips">Nie możesz go przesłać bez wprowadzania żadnych zmian.</string>
     <string name="addexcusiveaddressixit">Ten plik APK już istnieje.</string>
 
@@ -457,4 +457,27 @@
     <string name="nospyware">Brak oprogramowania szpiegującego</string>
     <string name="less">Mniej</string>
     <string name="votedandfail">Już sprawdziłeś, sprawdź listę „Moje recenzje”.</string>
+
+    <string name="fastdownloader">Szybsze pobieranie</string>
+    <string name="usehtgetspeed">Użyj HyperTorrent, aby uzyskać 200% + prędkość.</string>
+    <string name="cleanfdft">czysty &amp; szybki downloader dla torrentów</string>
+    <string name="fasterspeed">Większa prędkość</string>
+    <string name="speedfordownloading">200% ~ 1000% + prędkość pobierania dużych plików z HappyMod.</string>
+    <string name="nolimits">Bez limitów</string>
+    <string name="nslnfsl">Brak ograniczenia prędkości. Brak limitu rozmiaru pliku.</string>
+    <string name="Clean">Czysty</string>
+    <string name="Cdnoadfree">Przejrzysty projekt, brak reklam i 100% za darmo!</string>
+    <string name="wrhtdbf">Do pobierania dużych plików zalecamy HyperTorrent.</string>
+    <string name="nothanks">Nie dziękuję</string>
+
+
+    <string name="Checkthenetwork">Sprawdź sieć</string>
+    <string name="Configuringip">Konfigurowanie dostępnego adresu IP dla Ciebie</string>
+    <string name="Configuringipfailed">Konfiguracja nie powiodła się, wykryto 8 adresów IP, które są niedostępne, spróbuj użyć VPN.</string>
+
+    <string name="Donatedes">HappyMod jest całkowicie darmowy i nienawidzimy reklam tak samo jak Ty！ \ n \ nPotrzebujemy Twojej darowizny, aby zapewnić szybsze i bezpieczniejsze pobieranie. \ N \ nProsimy o cierpliwość i spróbuj obejrzeć pełne reklamy, aby przekazać darowiznę. \ N \ dziękuję！</string>
+
+
+    <string name="viewstepdeti">Zobacz szczegóły kroku</string>
+
 </resources>

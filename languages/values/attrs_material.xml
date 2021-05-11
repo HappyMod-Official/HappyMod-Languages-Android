@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <declare-styleable name="LButtonStyle">
+        <attr name="widget_animColor" format="reference|color" />
+        <attr name="widget_background" format="reference|color" />
+        <attr name="widget_delayclick" format="boolean" />
+        <attr name="widget_type">
+            <enum name="normal" value="0" />
+            <enum name="left" value="1" />
+            <enum name="right" value="2" />
+            <enum name="center" value="3" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="PreferenceStyle">
+        <attr name="preference_title" format="string" />
+        <attr name="preference_summary" format="string" />
+        <attr name="preference_checked" format="boolean" />
+        <attr name="preference_show_divider" format="boolean" />
+    </declare-styleable>
+
+</resources>

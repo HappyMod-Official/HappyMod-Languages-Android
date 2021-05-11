@@ -446,7 +446,7 @@
     <string name="add">Toevoegen</string>
     <string name="oagputc">Of voeg de Google play-URL toe om door te gaan</string>
     <string name="description">Omschrijving:</string>
-    <string name="uploadbanner">Banner uploaden (702 * 460)</string>
+    <string name="uploadbanner">Banner uploaden (720 * 406)</string>
     <string name="noedituploadtips">U kunt het niet verzenden zonder wijzigingen aan te brengen.</string>
     <string name="addexcusiveaddressixit">Deze apk bestaat al.</string>
 
@@ -458,5 +458,26 @@
     <string name="nospyware">Geen spyware</string>
     <string name="less">Minder</string>
     <string name="votedandfail">Je hebt al een recensie, kijk dan in de lijst "Mijn recensies".</string>
+
+    <string name="fastdownloader">Snellere download</string>
+    <string name="usehtgetspeed">Gebruik HyperTorrent om 200% + snelheid te krijgen.</string>
+    <string name="cleanfdft">schoon &amp; snelle downloader voor torrents</string>
+    <string name="fasterspeed">Hogere snelheid</string>
+    <string name="speedfordownloading">200% ~ 1.000% + snelheid voor het downloaden van grote bestanden van HappyMod.</string>
+    <string name="nolimits">Geen grenzen</string>
+    <string name="nslnfsl">Geen snelheidsbeperking. Geen maximale bestandsgrootte.</string>
+    <string name="Clean">Schoon</string>
+    <string name="Cdnoadfree">Strak ontwerp, geen reclame &amp; 100% gratis!</string>
+    <string name="wrhtdbf">We raden HyperTorrent aan om grote bestanden te downloaden.</string>
+    <string name="nothanks">Nee dank u wel</string>
+
+    <string name="Checkthenetwork">Controleer het netwerk</string>
+    <string name="Configuringip">Beschikbare IP voor u configureren</string>
+    <string name="Configuringipfailed">Configuratie mislukt, 8 IP\'s zijn niet beschikbaar, probeer VPN te gebruiken.</string>
+
+    <string name="Donatedes">HappyMod is volledig gratis en we haten advertenties net zo erg als jij！ \ n \ nWe hebben je donatie nodig om snellere en veiligere downloads te bieden. \ N \ nWees geduldig en probeer de volledige advertenties te bekijken om de donatie te voltooien. \ N \ nDank je！</string>
+
+    <string name="viewstepdeti">Bekijk stapdetails</string>
+
 
 </resources>

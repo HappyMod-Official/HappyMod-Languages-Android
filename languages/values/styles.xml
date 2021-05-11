@@ -1,0 +1,314 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <!-- 启动页面 白屏
+     -->
+    <style name="AppThemeLaunch" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorAccent</item>
+    </style>
+
+
+
+
+    <!-- 首页使用，5.0以上可嵌套到状态栏上 -->
+
+
+    <style name="RadingStyleEdit" parent="Base.Widget.AppCompat.RatingBar">
+        <!-- 定义星星图片 -->
+        <item name="android:progressDrawable">@drawable/bg_rating_bar_solid</item>
+        <!-- 根据自定义星星图片的大小,设置相应的值,否则可能显示不全 -->
+        <item name="android:numColumns">5</item>
+        <!--//这里放一些你觉得公共的属性(你可以在控件里覆盖这里的属性)-->
+    </style>
+
+
+    <style name="RadingStyleComment" parent="Base.Widget.AppCompat.RatingBar">
+        <!-- 定义星星图片 -->
+        <item name="android:progressDrawable">@drawable/bg_rating_bar_small</item>
+        <!-- 根据自定义星星图片的大小,设置相应的值,否则可能显示不全 -->
+        <item name="android:numColumns">5</item>
+        <!--//这里放一些你觉得公共的属性(你可以在控件里覆盖这里的属性)-->
+    </style>
+
+
+
+
+
+    <!--评分-->
+    <style name="RatingEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/cccccc</item>
+        <item name="colorControlActivated">@color/OOb80c</item>
+    </style>
+
+
+
+    <!--通知-->
+
+
+    <!--dialog-->
+
+
+    <!--弹出在中间-->
+    <style name="MyDialogStyle" parent="AppTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="CustomProgressBar" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/bg_custom_progress</item>
+    </style>
+
+
+
+
+    <!--社区功能悬浮球-->
+    <style name="MenuButtonsSmall">
+        <item name="fab_size">mini</item>
+        <item name="fab_colorNormal">?attr/colorAccent</item>
+        <item name="fab_colorPressed">@color/fab_colorPressed</item>
+        <item name="fab_colorRipple">@color/fab_colorRipple</item>
+    </style>
+
+
+    <!--h5游戏-->
+    <style name="BottomDialog" parent="@style/Base.V7.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+
+    <style name="BottomDialog.Animation" parent="Animation.AppCompat.Dialog">
+        <item name="android:windowEnterAnimation">@anim/tranlate_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/tranlate_dialog_out</item>
+    </style>
+
+    <style name="SplashProgressBar" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/bg_progress_splash</item>
+    </style>
+
+
+
+
+
+
+
+    <!--日间模式-->
+    <style name="DayTheme" parent="AppTheme">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item><!--主题绿_暗绿  checkbox 评星-->
+
+        <item name="title31">@color/cor31</item>
+        <item name="color_hometitle">@color/cor333</item><!--黑对_一级夜间白-->
+        <item name="color_hometitle2">@color/cor666</item>
+        <item name="color_hometitle3">@color/cor999</item>
+
+        <item name="color_sidebg">@color/white</item><!--白色_夜间黑-->
+        <item name="color_sidebgf2">@color/color_f2</item><!--f2f2f2_夜间黑-->
+        <item name="color_hometitle_bg">@color/colorAccent</item><!--00b80c_夜间黑-->
+        <item name="color_slide_xian">#cccccc</item><!--cccccc_夜间黑-->
+
+        <item name="playoneplay">@color/white</item><!--白色_99FFFFFF-->
+
+        <item name="color_slide_title">@color/white</item>
+        <item name="color_BCBDBB">@color/cor333</item>
+        <item name="color_modinfo">@color/corff9906</item><!--modinfo-->
+        <item name="color_hometopbg">@color/white</item>
+        <item name="home_tab_select_cor">@color/white</item><!--选中字体-->
+        <item name="home_tab_noselect_cor">@color/noselect</item><!--没选中字体-->
+        <item name="two_level">@color/white</item><!--白色对_二级标题-->
+        <item name="appmain_vp_tab">@color/color_fa</item>
+        <item name="download_bt_des">@color/white</item>
+        <item name="red_text_f44336">#f44336</item>
+        <item name="fefefe_titleone">@color/title_text_color</item>
+
+        <item name="d9d9d9_black_bg1">#d9d9d9</item>
+        <item name="white_black_bg3">@color/white</item>
+        <item name="f2f2_black_bg3">@color/color_f2</item>
+        <item name="white_black_bg2">@color/white</item>
+        <item name="nine_all_bg">@drawable/nine_all</item>
+        <item name="whiteBlackIcon">@drawable/ic_back_white_24dp</item>
+
+        <item name="toolbar_search">@drawable/search_white</item>
+        <item name="toolbar_download">@drawable/download_white</item>
+        <item name="toolbar_share">@drawable/ic_share_white_24dp</item>
+        <item name="whiteicon_nightIcon">@color/white</item>
+        <item name="launage_cor">#38474F</item>
+        <item name="hmsearch_bg">#e6f5e7</item>
+        <item name="dataIconForegroundCor">@color/transparent</item>
+        <item name="downloadbt_bg">@color/cccccc</item>
+        <item name="white_circle">@color/cccccc</item>
+
+        <item name="f_bt_apk">@drawable/uploadapk</item>
+        <item name="f_bt_request">@drawable/ic_request</item>
+        <item name="f_bt_post">@drawable/ic_post</item>
+        <item name="downloadbtCor">#00000000</item>
+        <item name="singup_bg">@drawable/signup_l</item>
+        <item name="login_bg">@drawable/login_l</item>
+        <item name="home_menu">@drawable/menu</item>
+
+        <item name="home_search">@drawable/ic_search_gray_main</item>
+        <item name="home_download">@drawable/ic_download_gray_main</item>
+        <item name="home_gift">@drawable/gift_chaping</item>
+        <item name="dataIconNew">@color/transparent</item>
+
+        <item name="fb_a_post">@drawable/add_a_post</item>
+        <item name="fb_a_request">@drawable/request_a_mod</item>
+        <item name="fb_a_upload">@drawable/upload_a_mod</item>
+        <item name="safebg">#f2fff2</item>
+
+        <!--H5 背景-->
+        <item name="recycleplayed_bg">@drawable/played_day</item>
+        <item name="hot_bg_1">@drawable/hot_day1</item>
+        <item name="hot_bg_2">@drawable/hot_day2</item>
+        <item name="hot_bg_3">@drawable/hot_day3</item>
+        <item name="hot_bg_4">@drawable/hot_day4</item>
+        <item name="hot_bg_5">@drawable/hot_day5</item>
+        <item name="hot_bg_6">@drawable/hot_day6</item>
+        <item name="hot_bg_7">@drawable/hot_day7</item>
+        <item name="hot_bg_8">@drawable/hot_day8</item>
+        <item name="hot_bg_9">@drawable/hot_day9</item>
+
+        <item name="tipsdialog_top">#ff6d00</item>
+
+        <item name="modlist_bottom">@drawable/day_modlist_b</item>
+        <item name="modlist_top">@drawable/day_modlist_t</item>
+
+        <item name="modlist_circle_r">@drawable/red_l</item>
+        <item name="modlist_circle_g">@drawable/green_l</item>
+
+        <item name="community_app_bg">@drawable/day_app_bg</item>
+        <item name="launchtopbg">@drawable/safe_bg_top</item>
+        <item name="launchperson">@drawable/safe_person</item>
+        <item name="launchbotombg">@color/white</item>
+        <item name="launchtextcor">#313131</item>
+        <item name="launchok">@drawable/safe_ok</item>
+
+
+    </style>
+
+
+
+    <!--夜间模式-->
+    <style name="NightTheme" parent="AppTheme">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="colorPrimary">#262626</item>
+        <item name="colorPrimaryDark">#1e1e1e</item>
+        <item name="colorAccent">#0a8813</item><!--主题绿_暗绿  checkbox 评星-->
+
+        <item name="title31">#a4a5a4</item>
+        <item name="color_hometitle">@color/an_title_one</item><!--黑对_一级夜间白-->
+        <item name="color_hometitle2">@color/an_title_two</item>
+        <item name="color_hometitle3">@color/an_title_three</item>
+
+        <item name="color_sidebg">@color/black_theme</item><!--白色_夜间黑背景-->
+        <item name="color_sidebgf2">@color/black_theme</item><!--f2f2f2_夜间黑-->
+        <item name="color_hometitle_bg">@color/black_theme</item><!--00b80c_夜间黑-->
+        <item name="color_slide_xian">@color/black_theme</item><!--cccccc_夜间黑-->
+
+        <item name="playoneplay">@color/noselect</item><!--白色_99FFFFFF-->
+
+
+        <item name="color_slide_title">#7D7E7C</item>
+        <item name="color_BCBDBB">#BCBDBB</item>
+        <item name="color_modinfo">#BB720F</item><!--modinfo 127C0B -->
+        <item name="color_hometopbg">#323631</item>
+        <item name="home_tab_select_cor">@color/an_title_one</item><!--选中字体-->
+        <item name="home_tab_noselect_cor">@color/an_title_two</item><!--没选中字体-->
+        <item name="two_level">@color/an_title_two</item><!--白色对_二级标题-->
+        <item name="appmain_vp_tab">#222622</item>
+        <item name="download_bt_des">#9dcaa0</item>
+        <item name="red_text_f44336">#9d352b</item>
+        <item name="fefefe_titleone">@color/an_title_one</item>
+
+
+        <item name="d9d9d9_black_bg1">@color/black_theme</item>
+        <item name="white_black_bg3">@color/black_bg_three</item>
+        <item name="f2f2_black_bg3">@color/black_bg_three</item>
+        <item name="white_black_bg2">@color/black_bg_two</item>
+        <item name="nine_all_bg">@color/black_bg_two</item>
+        <item name="hmsearch_bg">@color/black_bg_two</item>
+
+        <item name="whiteBlackIcon">@drawable/ic_arrow_back_616161_24dp</item>
+
+        <item name="toolbar_search">@drawable/search_white_616161</item>
+        <item name="toolbar_download">@drawable/download_white_616161</item>
+        <item name="toolbar_share">@drawable/ic_share_616161_24dp</item>
+        <item name="whiteicon_nightIcon">#616161</item>
+        <item name="launage_cor">@color/an_title_one</item>
+        <item name="dataIconForegroundCor">#991b1f1b</item>
+        <item name="downloadbt_bg">#323632</item>
+        <item name="white_circle">#991b1f1b</item>
+
+        <item name="f_bt_apk">@drawable/uploadapk_night</item>
+        <item name="f_bt_request">@drawable/ic_request_night</item>
+        <item name="f_bt_post">@drawable/ic_post_night</item>
+        <item name="downloadbtCor">#661b1f1b</item>
+        <item name="singup_bg">@drawable/signup_d</item>
+        <item name="login_bg">@drawable/login_d</item>
+
+        <item name="home_menu">@drawable/menu_night</item>
+
+        <item name="home_search">@drawable/ic_search_gray_night</item>
+        <item name="home_download">@drawable/ic_download_gray_night</item>
+        <item name="home_gift">@drawable/gift_chaping_night</item>
+        <item name="dataIconNew">#331b1f1b</item>
+
+
+        <item name="fb_a_post">@drawable/add_a_post_n</item>
+        <item name="fb_a_request">@drawable/request_a_mod_n</item>
+        <item name="fb_a_upload">@drawable/upload_a_mod_n</item>
+        <item name="safebg">#262a27</item>
+
+        <!--H5 背景-->
+        <item name="recycleplayed_bg">@drawable/played_night</item>
+        <item name="hot_bg_1">@drawable/hot_night1</item>
+        <item name="hot_bg_2">@drawable/hot_night2</item>
+        <item name="hot_bg_3">@drawable/hot_night3</item>
+        <item name="hot_bg_4">@drawable/hot_night4</item>
+        <item name="hot_bg_5">@drawable/hot_night5</item>
+        <item name="hot_bg_6">@drawable/hot_night6</item>
+        <item name="hot_bg_7">@drawable/hot_night7</item>
+        <item name="hot_bg_8">@drawable/hot_night8</item>
+        <item name="hot_bg_9">@drawable/hot_night9</item>
+
+        <item name="tipsdialog_top">#d15d05</item>
+
+        <item name="modlist_bottom">@drawable/night_modlist_b</item>
+        <item name="modlist_top">@drawable/night_modlist_t</item>
+
+        <item name="modlist_circle_r">@drawable/red_d</item>
+        <item name="modlist_circle_g">@drawable/green_d</item>
+        <item name="community_app_bg">@drawable/night_app_bg</item>
+        <item name="launchtopbg">@drawable/safe_bg_top_night</item>
+        <item name="launchperson">@drawable/safe_person_night</item>
+        <item name="launchbotombg">#262e27</item>
+        <item name="launchtextcor">#99ffffff</item>
+        <item name="launchok">@drawable/safe_ok_night</item>
+        <!--list页的头像icon-->
+        <!--  <item name="image_list_icon_normal">@drawable/normal_40dp_night</item>-->
+    </style>
+
+</resources>

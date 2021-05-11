@@ -448,7 +448,7 @@
     <string name="add">Añadir</string>
     <string name="oagputc">O agregue la URL de Google Play para continuar</string>
     <string name="description">Descripción:</string>
-    <string name="uploadbanner">Subir banner (702 * 460)</string>
+    <string name="uploadbanner">Subir banner (720 * 406)</string>
     <string name="noedituploadtips">No puede enviarlo sin realizar ningún cambio.</string>
     <string name="addexcusiveaddressixit">Este apk ya existe.</string>
 
@@ -461,5 +461,26 @@
     <string name="less">Menos</string>
 
     <string name="votedandfail">Ya ha revisado, consulte la lista "Mis revisiones".</string>
+
+    <string name="fastdownloader">Descarga más rápida</string>
+    <string name="usehtgetspeed">Utilice HyperTorrent para obtener más del 200% de velocidad.</string>
+    <string name="cleanfdft">limpio &amp; descargador rápido de torrents</string>
+    <string name="fasterspeed">Velocidad más rápida</string>
+    <string name="speedfordownloading">200% ~ 1,000% + velocidad para descargar archivos grandes de HappyMod.</string>
+    <string name="nolimits">Sin limites</string>
+    <string name="nslnfsl">Sin limite de velocidad. Sin límite de tamaño de archivo.</string>
+    <string name="Clean">Limpio</string>
+    <string name="Cdnoadfree">Diseño limpio, sin publicidad y amp; ¡100% gratis!</string>
+    <string name="wrhtdbf">Recomendamos HyperTorrent para descargar archivos grandes.</string>
+    <string name="nothanks">No gracias</string>
+
+    <string name="Checkthenetwork">Verifica la red</string>
+    <string name="Configuringip">Configurando la IP disponible para usted</string>
+    <string name="Configuringipfailed">La configuración falló, se detectó que 8 direcciones IP no están disponibles, intente usar VPN.</string>
+
+    <string name="Donatedes">HappyMod es completamente gratuito y odiamos los anuncios tanto como usted！ \ n \ nNecesitamos su donación para proporcionar descargas más rápidas y seguras. \ N \ nTenga paciencia e intente ver los anuncios completos para completar la donación. \ N \ nGracias！</string>
+
+    <string name="viewstepdeti">Ver detalles del paso</string>
+
 
 </resources>

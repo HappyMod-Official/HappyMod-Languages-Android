@@ -446,7 +446,7 @@
     <string name="add">Ekle</string>
     <string name="oagputc"> Veya devam etmek için Google play URL\'sini ekleyin</string>
     <string name="description">Açıklama:</string>
-    <string name="uploadbanner">Afiş yükle (702 * 460)</string>
+    <string name="uploadbanner">Afiş yükle (720 * 406)</string>
     <string name="noedituploadtips">Herhangi bir değişiklik yapmadan gönderemezsiniz.</string>
     <string name="addexcusiveaddressixit">Bu apk zaten var.</string>
 
@@ -459,5 +459,25 @@
     <string name="less">Az</string>
 
     <string name="votedandfail">Zaten incelediniz, lütfen "İncelemelerim" listesini kontrol edin.</string>
+
+    <string name="fastdownloader">Daha Hızlı İndirme</string>
+    <string name="usehtgetspeed">% 200\'den fazla hız elde etmek için HyperTorrent\'i kullanın.</string>
+    <string name="cleanfdft">temizle &amp; torrentler için hızlı indirici</string>
+    <string name="fasterspeed">Daha hızlı</string>
+    <string name="speedfordownloading">HappyMod\'dan büyük dosyaları indirmek için% 200 ~% 1.000 + hız.</string>
+    <string name="nolimits">Limit yok</string>
+    <string name="nslnfsl">Hız limiti yok. Dosya boyutu sınırı yok.</string>
+    <string name="Clean">Temiz</string>
+    <string name="Cdnoadfree">Temiz tasarım, reklam yok &amp; % 100 bedava!</string>
+    <string name="wrhtdbf">HyperTorrent\'in büyük dosyaları indirmesini öneriyoruz.</string>
+    <string name="nothanks">Hayır teşekkürler</string>
+
+
+    <string name="Checkthenetwork">Ağı kontrol edin</string>
+    <string name="Configuringip">Mevcut IP\'yi sizin için yapılandırma</string>
+    <string name="Configuringipfailed">Yapılandırma başarısız oldu, 8 IP\'nin kullanılamadığı tespit edildi, lütfen VPN kullanmayı deneyin.</string>
+
+    <string name="Donatedes">HappyMod tamamen ücretsizdir ve biz de sizin kadar reklamlardan nefret ediyoruz！ \ n \ nDaha hızlı ve daha güvenli indirme sağlamak için bağışınıza ihtiyacımız var. \ N \ nLütfen sabırlı olun ve bağışı tamamlamak için tüm reklamları izlemeye çalışın. \ N \ nTeşekkür ederim！</string>
+    <string name="viewstepdeti">Adım ayrıntılarını görüntüleyin</string>
 
 </resources>

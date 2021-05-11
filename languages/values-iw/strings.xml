@@ -447,7 +447,7 @@
     <string name="add">לְהוֹסִיף</string>
     <string name="oagputc">או הוסף כתובת אתר של Google Play כדי להמשיך</string>
     <string name="description">תיאור:</string>
-    <string name="uploadbanner">העלאת באנר (702 * 460)</string>
+    <string name="uploadbanner">העלאת באנר (720 * 406)</string>
     <string name="noedituploadtips">אינך יכול להגיש אותו מבלי לבצע שינויים.</string>
     <string name="addexcusiveaddressixit">APK זה כבר קיים.</string>
 
@@ -459,4 +459,25 @@
     <string name="nospyware">אין תוכנות ריגול</string>
     <string name="less">פָּחוּת</string>
     <string name="votedandfail">כבר בדקת, אנא בדוק את רשימת "הביקורות שלי".</string>
+
+    <string name="fastdownloader">הורדה מהירה יותר</string>
+    <string name="usehtgetspeed">השתמש ב- HyperTorrent כדי להשיג מהירות של 200% +.</string>
+    <string name="cleanfdft">נקי &amp; הורדה מהירה לטורנטים</string>
+    <string name="fasterspeed">מהירות מהירה יותר</string>
+    <string name="speedfordownloading">200% ~ 1,000% + מהירות להורדת קבצים גדולים מ- HappyMod.</string>
+    <string name="nolimits">ללא גבולות</string>
+    <string name="nslnfsl">ללא הגבלת מהירות. אין מגבלה על גודל הקובץ.</string>
+    <string name="Clean">לְנַקוֹת</string>
+    <string name="Cdnoadfree">עיצוב נקי, ללא מודעה &amp; 100% חינם!</string>
+    <string name="wrhtdbf">אנו ממליצים על HyperTorrent להורדת קבצים גדולים.</string>
+    <string name="nothanks">לא תודה</string>
+
+    <string name="Checkthenetwork">בדוק את הרשת</string>
+    <string name="Configuringip">הגדרת IP זמין עבורך</string>
+    <string name="Configuringipfailed">התצורה נכשלה, 8 כתובות IP מזוהות כבלתי זמינות, נסה להשתמש ב- VPN.</string>
+
+    <string name="Donatedes">HappyMod הוא לגמרי בחינם, ואנחנו שונאים מודעות באותה מידה שאתה עושה！ \ n \ n אנו זקוקים לתרומתך בכדי לספק הורדות מהירות ובטוחות יותר. \ N \ n אנא התאזר בסבלנות ונסה לצפות במודעות המלאות כדי להשלים את התרומה. \ N \ תודה！</string>
+
+    <string name="viewstepdeti">צפו בפרטי שלב</string>
+
 </resources>
