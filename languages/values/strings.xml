@@ -1,12 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,7 +19,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <!--首页-->
     <string name="Paid">Paid</string>
     <string name="GAME">Game</string>
@@ -40,7 +35,6 @@
     <string name="Recommended_New_Mods">Recommended New Mods</string>
     <string name="Last_Update_Mods">Latest Updates</string>
     <string name="SearchHint">Search..</string>
-
     <!-- 侧滑-->
     <string name="Homeweb">Official Website</string>
     <string name="Management">Management</string>
@@ -51,7 +45,6 @@
     <string name="Checkforupdate">Check for Update</string>
     <string name="FollowusonTwitter">Follow us on Twitter</string>
     <string name="FollowusonFacebook">Follow us on Facebook</string>
-
     <!--设置页-->
     <string name="settings_network_remind">Mobile Network Alert</string>
     <string name="settings_auto_install">Automatically Install</string>
@@ -59,10 +52,8 @@
     <string name="settings_other">Other</string>
     <string name="settings_clear_cache">Clear Cache</string>
     <string name="Clean_up_the_complete">The cache is cleared.</string>
-
     <!--空数据页-->
     <string name="des_no_serach_result"> Oops! No result found.</string>
-
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Downloading</string>
@@ -79,8 +70,6 @@
     <string name="Ratingsreviews">Ratings &amp; Reviews</string>
     <string name="Tryitlater">Try it later</string>
     <string name="Serviceisbusy">Connecting…</string>
-
-
     <!-- 下载删除的文字 -->
     <string name="Notice">Notice</string>
     <string name="deletethistask">Delete this file</string>
@@ -90,7 +79,6 @@
     <string name="NotwhatIwant">Not what I want</string>
     <string name="Downloadfailed">Download failed</string>
     <string name="Downloadistooslow">Download is too slow</string>
-
     <!--APP详情页-->
     <string name="Mods">Mods</string>
     <string name="Original">Original</string>
@@ -99,8 +87,6 @@
     <string name="Downloadobb">Download(APK+OBB)</string>
     <string name="Downloaddata">Download(APK+DATA)</string>
     <string name="Downloadboundle">Download BUNDLE</string>
-
-
     <string name="Downloaded">Downloaded</string>
     <string name="Install">Install</string>
     <string name="Connecting">Connecting…</string>
@@ -110,7 +96,6 @@
     <string name="Recommend">Recommend</string>
     <string name="Recommendmod">Recommended Mod</string>
     <string name="Moremods">Latest Version(s)</string>
-
     <!--评分-->
     <string name="Submit">Submit</string>
     <string name="Hated_it">Hate it!</string>
@@ -118,15 +103,12 @@
     <string name="Its_ok">It\'s OK.</string>
     <string name="Liked_it">Like it.</string>
     <string name="Loved_it">Love it!</string>
-
     <!--分享-->
     <string name="share_happymod">Share ‘HappyMod’ via</string>
     <string name="share_subject">Get HappyMod</string>
     <string name="share_text">Download 100% working mods with @HappyMod\nhttps://www.happymod.com/</string>
-
     <!--修改路径-->
     <string name="pref_location">Storage location</string>
-
     <!--update -->
     <string name="force_des">100% Working Mods</string>
     <string name="nvisrti">New version is ready to install.</string>
@@ -141,7 +123,6 @@
     <string name="Is_this_app_you_need">Are you looking for this app?</string>
     <string name="No">No</string>
     <string name="Yes">Yes</string>
-
     <string name="bcdes">. Free up storage and try again.</string>
     <string name="need">; Available:</string>
     <string name="No_enough_space_left_on_device">Not enough storage. Need:</string>
@@ -150,18 +131,13 @@
     <string name="initializing">Initializing</string>
     <string name="Retrying">Retrying</string>
     <string name="language">Language</string>
-
     <!--类别界面 -->
-
     <string name="Popular">Popular</string>
     <string name="s_New">New</string>
     <string name="apps">Apps</string>
-
     <!-- 大文件 -->
     <string name="mergering">Final processing</string>
     <string name="mergerwait">Final processing (Needs 1–2 minutes)</string>
-
-
     <!-- 验证 -->
     <string name="Startverification">Start Verification</string>
     <string name="verificationShangXian">Oops! You have reached daily download limit, try again after X hours.</string>
@@ -169,12 +145,9 @@
     <string name="Morehelp">(More help)</string>
     <string name="uid">UserId</string>
     <string name="copysuccess">Userid has been copied to the clipboard.</string>
-
     <string name="watchnow">View now</string>
     <string name="ggdownloading">Ads is loading, please wait and keep happymod open.</string>
     <string name="verificaing">In verification, please wait a moment.</string>
-
-
     <!-- 评价 -->
     <string name="Removeads">Remove ads</string>
     <string name="Paidforfree">Paid for free</string>
@@ -202,7 +175,6 @@
     <string name="Unlimitedhints">Unlimited hints</string>
     <string name="Megamod">Mega mod</string>
     <string name="Full">Full</string>
-
     <!-- 注册登录 -->
     <string name="Username">Username</string>
     <string name="Usernameinit">4–50 characters</string>
@@ -223,7 +195,6 @@
     <string name="Login">Log in</string>
     <string name="Account">Account</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">Or login with your username</string>
     <string name="newur">New user registration</string>
     <string name="Usernameinitnew">Username(4-50 characters)</string>
@@ -234,14 +205,13 @@
     <string name="enteryEmail">Enter your email</string>
     <string name="enteryPhone">Enter your phone number</string>
     <string name="signuptips">When you forget your password, you will need "Phone number" or "Email" to retrieve. We recommend that you complete them.</string>
-
     <string name="confirmusername">Confirm username</string>
     <string name="next">Next</string>
     <string name="fblogdes">Please enter a username. The username is a very important identifier for retrieving the password, please keep in mind.</string>
     <string name="selectusername">Select username</string>
-    <string name="reselpass_desone">Enter the username of your account to reset password. You have any issue about reset password&#160;<u>contact us</u>.</string>
-    <string name="reselpass_destwo">Please enter the email or the phone number.  You have any issue about reset password&#160;<u>contact us</u>.</string>
-    <string name="forgetgosingup">Can\'t remember any of them? Please&#160;<u>sign up a new account</u>.</string>
+    <string name="reselpass_desone">Enter the username of your account to reset password. You have any issue about reset password <u>contact us</u>.</string>
+    <string name="reselpass_destwo">Please enter the email or the phone number.  You have any issue about reset password <u>contact us</u>.</string>
+    <string name="forgetgosingup">Can\'t remember any of them? Please <u>sign up a new account</u>.</string>
     <string name="Resetpassword">Reset password</string>
     <string name="NewPassword">New password</string>
     <string name="Enterthepasswordagain">Confirm the password</string>
@@ -263,7 +233,6 @@
     <string name="logout">Log out</string>
     <string name="passwordsame">The two passwords you entered are inconsistent</string>
     <string name="PopularComments">Popular Comments</string>
-
     <!-- MyRequests  -->
     <string name="Request">Request</string>
     <string name="Youarerequesting">You are requesting:</string>
@@ -296,12 +265,10 @@
     <string name="messages">Messages</string>
     <string name="RecommendMods">Recommend Mods</string>
     <string name="requestdetailserror">(50–4000 characters)</string>
-
-    <string name="Changetheimage">Change the image>></string>
+    <string name="Changetheimage">Change the image&gt;&gt;</string>
     <string name="Typethecodeinthebox">Type the code in the box</string>
     <string name="Verificationerror">Verification failed, please try again.</string>
     <string name="Verifing">Verifying…</string>
-
     <!--补偿下载 -->
     <string name="fix_tips_title">Try other servers before deleting</string>
     <string name="fix_tips_content">Would you like to connect to another server to try to download it before deleting it?</string>
@@ -310,15 +277,12 @@
     <string name="fix_failed_content">There are currently no servers available to you, please try again later.</string>
     <string name="fix_tips_failtitle">No more servers</string>
     <string name="fix_ok">Try it</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">Please download this mod first.</string>
     <string name="myvoted">My votes</string>
     <string name="working">Working</string>
     <string name="inanhour">Please vote again in an hour.</string>
-
     <!--社区  -->
-
     <string name="Review">Review</string>
     <string name="myreply">My replies</string>
     <string name="Post">Post</string>
@@ -351,7 +315,6 @@
     <string name="tapandholdptodelete">Tap and hold the picture to delete it.</string>
     <string name="addvideofaild">Adding video failed！Please make sure your network can browse Youtube video and re-add it.</string>
     <string name="Video">Video</string>
-
     <!-- 搜索-->
     <string name="Hotsearches">Hot searches</string>
     <string name="Hothashtags">Hot hashtags</string>
@@ -359,7 +322,6 @@
     <string name="aboutthisgame">About This Game</string>
     <string name="details">Details</string>
     <string name="sellallreviews">See all reviews</string>
-
     <!--h5游戏-->
     <string name="hfivetitle">Quick Games</string>
     <string name="Recommended">Recommended</string>
@@ -368,57 +330,43 @@
     <string name="h5_menu_share">Share</string>
     <string name="h5_menu_shortcut">Add To Homescreen</string>
     <string name="installplaywitouthti">Instant play without having to install</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">Oops...</string>
     <string name="crash_toast_message">Sorry, APP exception, will be exit，please submit your bug report via email.</string>
     <string name="crash_dialog_message">Sorry, APP exception, please submit your bug report via email.</string>
     <string name="crash_dialog_feedback">Report bugs</string>
     <string name="crash_dialog_restart">Restart</string>
-
     <string name="init_fail">Initialization failed, please use VPN or change to other networks.</string>
     <string name="error_file_des">This file has been deleted and is being re-downloaded now.</string>
     <string name="sdpermission">We need to access your external storage. Please make sure the permission is granted.</string>
-
     <string name="Night_Mode">Night Mode</string>
-
     <string name="thisty">That username is taken. Try another. Available:</string>
-
     <!--home_feature-->
     <string name="Feature">Featured</string>
     <string name="editorpick">Editor\'s Pick</string>
     <string name="PopularInlast">Popular In Last 24 Hours</string>
     <string name="Latestupdated">Latest Updated</string>
     <string name="paidforfree">Paid For Free</string>
-
     <string name="ToadyRecommend">Toady\'s Recommend</string>
     <string name="hotmods">Hot Mods</string>
     <string name="hotrecommended">Hot Recommended</string>
-
-
-
     <!--upload 新增-->
-     <string name="searchappyouwanttoupload">Search the app you want to upload:</string>
-     <string name="addapost">Add a post</string>
-     <string name="launch_des">Find 100% Working Mods\nUploaded by users; Verified by users!</string>
-     <string name="requestamod">Request a mod</string>
-     <string name="uploadamod">Upload a mod</string>
-
+    <string name="searchappyouwanttoupload">Search the app you want to upload:</string>
+    <string name="addapost">Add a post</string>
+    <string name="launch_des">Find 100% Working Mods\nUploaded by users; Verified by users!</string>
+    <string name="requestamod">Request a mod</string>
+    <string name="uploadamod">Upload a mod</string>
     <!--boundle 新增-->
     <string name="Installing">Installing</string>
     <string name="bundleneedsfive">Sorry, Bundle needs Android 5.0 and above.</string>
     <string name="parsingerror">Error parsing apk or canceled.</string>
     <string name="tipsinstallok">The installation was successful.</string>
     <string name="tipsinstallfail">Installation failed, please try again.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Max 10MB per image.</string>
     <string name="Imagesmustbelessthan">Images must be less than 10MB, please reduce the image dimensions, re-save or re-export your file, and try uploading it again.</string>
-
     <string name="installfailed">Installation Failed.</string>
     <string name="miuides">Please turn on Developer Options,ture off MIUI optimization and try again.</string>
-
-
     <string name="playdes">Play</string>
     <string name="newcoming">New incoming</string>
     <string name="recentlyplayed">Recently played</string>
@@ -426,11 +374,9 @@
     <string name="needhelp">Need help?</string>
     <string name="opencommunitydes">If you find an adult or any bad post, please click the report button in the upper right corner of the post, and we will delete the post and block the poster in the first time! Please speak civilized!</string>
     <string name="myreviews">My reviews</string>
-
     <string name="todayhotgame">Today\'s hot</string>
     <string name="toopenitquickntime">To find it easy next time, you can:</string>
     <string name="peoplealsoplaygames">People play this game also like</string>
-
     <string name="tagthisapp">Flag this app</string>
     <string name="appuploader">App uploaded by</string>
     <string name="votedresult">You have already voted for this app.</string>
@@ -439,7 +385,6 @@
     <string name="safetitle">App apk Guaranteed</string>
     <string name="safedes">This apk passed the security test for virus, malware. It used a trusted and verified digital signature.</string>
     <string name="bereported">You have reported it.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Please finish your downloading queue first.</string>
     <string name="adduploadvideo">Add video: (optional)</string>
     <string name="uploadscreenshots">Upload screenshots (160*90)</string>
@@ -453,8 +398,6 @@
     <string name="uploadbanner">Upload banner (720*406)</string>
     <string name="noedituploadtips">You can\'t submit it without making any changes.</string>
     <string name="addexcusiveaddressixit">This apk already exists.</string>
-
-
     <string name="itisworkingonyourdevice">Is it working on your device?</string>
     <string name="no_working">Not Working</string>
     <string name="vote_it">Vote it</string>
@@ -462,10 +405,7 @@
     <string name="nomalware">No Malware</string>
     <string name="nospyware">No Spyware</string>
     <string name="less">Less</string>
-
     <string name="votedandfail">You have already reviewed, please check "My reviews" list.</string>
-
-
     <string name="fastdownloader">Faster Download</string>
     <string name="usehtgetspeed">Use HyperTorrent to get 200%+ speed.</string>
     <string name="cleanfdft">clean &amp; fast downloader for torrents</string>
@@ -474,15 +414,12 @@
     <string name="nolimits">No limits</string>
     <string name="nslnfsl">No speed limit. No file size limit.</string>
     <string name="Clean">Clean</string>
-    <string name="Cdnoadfree">Clean design, no ad &amp; 100% free!</string>
+    <string name="Cdnoadfree">Clean design, no ad &amp; 100% free!TEST</string>
     <string name="wrhtdbf">How to use HyperTorrent?</string>
     <string name="nothanks">No thanks</string>
     <string name="Checkthenetwork">Check the network</string>
     <string name="Configuringip">Configuring available IP for you</string>
     <string name="Configuringipfailed">Configuration failed, 8 IPs are detected to be unavailable, please try to use VPN.</string>
     <string name="Donatedes">HappyMod is completely free, and we hate ads as much as you do！\n\nWe need your donation to provide faster and safer downloads.\n\nPlease be patient and try to watch the full ads to complete the donation.\n\nThank you！</string>
-
     <string name="viewstepdeti">View step details</string>
-
-
 </resources>
