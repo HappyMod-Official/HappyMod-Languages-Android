@@ -1,11 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--波兰语-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -22,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <string name="Paid">Płatny</string>
     <string name="GAME">Gra</string>
     <string name="APP">App</string>
@@ -38,8 +35,6 @@
     <string name="Recommended_New_Mods">Zalecane nowe modyfikacje</string>
     <string name="Last_Update_Mods">Najnowsze aktualizacje</string>
     <string name="SearchHint">Szukaj..</string>
-
-
     <string name="Homeweb">Oficjalna strona internetowa</string>
     <string name="Management">Zarządzanie</string>
     <string name="Settings">Ustawienia</string>
@@ -49,19 +44,13 @@
     <string name="Checkforupdate">Sprawdź aktualizacje</string>
     <string name="FollowusonTwitter">Śledź nas na Twitterze</string>
     <string name="FollowusonFacebook">Śledź nas na facebooku</string>
-
-
     <string name="settings_network_remind">Alarm sieci komórkowej</string>
     <string name="settings_auto_install">Automatycznie zainstaluj</string>
     <string name="Download_Directory">Katalog pobierania</string>
     <string name="settings_other">Inny</string>
     <string name="settings_clear_cache">Wyczyść pamięć podręczną</string>
     <string name="Clean_up_the_complete">Pamięć podręczna jest wyczyszczona.</string>
-
-
     <string name="des_no_serach_result"> Ups! Nie znaleziono żadnych wyników.</string>
-
-
     <string name="Downloads">Pliki do pobrania</string>
     <string name="Downloading">Ściąganie</string>
     <string name="Finished">Skończone</string>
@@ -77,9 +66,6 @@
     <string name="Ratingsreviews">Oceny</string>
     <string name="Tryitlater">Wypróbuj później</string>
     <string name="Serviceisbusy">Złączony...</string>
-
-
-
     <string name="Notice">Ogłoszenie</string>
     <string name="deletethistask">Usuń ten plik</string>
     <string name="Cancel">Anuluj</string>
@@ -88,8 +74,6 @@
     <string name="NotwhatIwant">Nie to, czego chcę</string>
     <string name="Downloadfailed">Pobieranie nie udane</string>
     <string name="Downloadistooslow">Pobieranie jest zbyt wolne</string>
-
-
     <string name="Mods">Mody</string>
     <string name="Original">Oryginalny</string>
     <string name="Previousversion">Poprzednia wersja</string>
@@ -97,8 +81,6 @@
     <string name="Downloadobb">Pobierz (APK+OBB)</string>
     <string name="Downloaddata">Pobierz (APK+DATA)</string>
     <string name="Downloadboundle">Pobierz BUNDLE</string>
-
-
     <string name="Downloaded">Pobrane</string>
     <string name="Install">zainstalować</string>
     <string name="Connecting">Złączony...</string>
@@ -108,24 +90,16 @@
     <string name="Recommend">Polecić</string>
     <string name="Recommendmod">Zalecany mod</string>
     <string name="Moremods">Najnowsze wersje</string>
-
-
     <string name="Submit">Zatwierdź</string>
     <string name="Hated_it">Nienawidzę tego!</string>
     <string name="Disliked_it">Nie lubię tego.</string>
     <string name="Its_ok">W porządku.</string>
     <string name="Liked_it">Lubię to.</string>
     <string name="Loved_it">Kocham to!</string>
-
-
     <string name="share_happymod">Udostępnij „HappyMod” za pośrednictwem</string>
     <string name="share_subject">Uzyskaj HappyMod</string>
     <string name="share_text">Pobierz 100% modów roboczych za pomocą @HappyMod http: //www.happymod.com/</string>
-
-
     <string name="pref_location">Miejsce przechowywania</string>
-
-
     <string name="force_des">100% modów roboczych</string>
     <string name="nvisrti">nowa wersja jest gotowa do instalacji.</string>
     <string name="OPEN">OTWARTY</string>
@@ -147,32 +121,20 @@
     <string name="initializing">Inicjowanie</string>
     <string name="Retrying">Ponawiam próbę</string>
     <string name="language">Język</string>
-
-
-
     <string name="Popular">Popularny</string>
     <string name="s_New">Nowy</string>
     <string name="apps">Aplikacje</string>
-
-
     <string name="mergering">Końcowe przetwarzanie</string>
     <string name="mergerwait">Końcowe przetwarzanie (wymaga 1-2 minut)</string>
-
-
-
     <string name="Startverification">Rozpocznij weryfikację</string>
     <string name="verificationShangXian">Ups! Osiągnąłeś dzienny limit pobierania, spróbuj ponownie po X godzinach.</string>
     <string name="verificationFail">Weryfikacja nie powiodła się, spróbuj ponownie!</string>
     <string name="Morehelp">(Więcej pomocy)</string>
     <string name="uid">Identyfikator użytkownika</string>
     <string name="copysuccess">ID użytkownika zostało skopiowane do schowka.</string>
-
     <string name="watchnow">Wyświetl teraz</string>
     <string name="ggdownloading">Reklamy się ładują, zaczekaj i otwórz happymod.</string>
     <string name="verificaing">W weryfikacji poczekaj chwilę.</string>
-
-
-
     <string name="Removeads">Usuń reklamy</string>
     <string name="Paidforfree">Płatny za darmo</string>
     <string name="Unlimitedmoney">Nielimitowane pieniądze</string>
@@ -199,8 +161,6 @@
     <string name="Unlimitedhints">Nieograniczone wskazówki</string>
     <string name="Megamod">Mega mod</string>
     <string name="Full">Pełny</string>
-
-
     <string name="Username">Nazwa Użytkownika</string>
     <string name="Usernameinit">4-50 znaków</string>
     <string name="Usernametip">Tylko litery a-z, liczby, @. - _ proszę (bez spacji lub innych znaków specjalnych). 4-50 znaków.</string>
@@ -220,7 +180,6 @@
     <string name="Login">Zaloguj Się</string>
     <string name="Account">Konto</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">LUB zaloguj się przy użyciu swojej nazwy użytkownika</string>
     <string name="newur">Rejestracja nowego użytkownika</string>
     <string name="Usernameinitnew">Nazwa użytkownika (4-50 znaków)</string>
@@ -231,7 +190,6 @@
     <string name="enteryEmail">Wprowadź swój email</string>
     <string name="enteryPhone">Wprowadź swój numer telefonu</string>
     <string name="signuptips">Jeśli zapomnisz hasła, będziesz potrzebować „numeru telefonu” lub „e-maila”, aby je odzyskać. Zalecamy ich uzupełnienie.</string>
-
     <string name="confirmusername">Potwierdź nazwę użytkownika</string>
     <string name="next">Kolejny</string>
     <string name="fblogdes">Proszę, wpisz nazwę użytkownika. Nazwa użytkownika jest bardzo ważnym identyfikatorem do pobierania hasła, należy pamiętać.</string>
@@ -260,8 +218,6 @@
     <string name="logout">Wyloguj</string>
     <string name="passwordsame">Dwa wprowadzone hasła są niespójne</string>
     <string name="PopularComments">Popularne komentarze</string>
-
-
     <string name="Request">Żądanie</string>
     <string name="Youarerequesting">Żądasz:</string>
     <string name="Addrequest">Dodaj żądanie</string>
@@ -293,16 +249,11 @@
     <string name="messages">Wiadomości</string>
     <string name="RecommendMods">Polecam modyfikacje</string>
     <string name="requestdetailserror">(50-4000 znaków)</string>
-
-
-    <string name="Changetheimage">Zmień obraz >></string>
+    <string name="Changetheimage">Zmień obraz &gt;&gt;</string>
     <string name="Typethecodeinthebox">Wpisz kod w polu</string>
     <string name="Verificationerror">Weryfikacja nie powiodła się, spróbuj ponownie.</string>
     <string name="Verifing">Weryfikacja…</string>
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Wypróbuj inne serwery przed usunięciem</string>
     <string name="fix_tips_content">Czy chcesz połączyć się z innym serwerem, aby spróbować go pobrać przed usunięciem?</string>
     <string name="fix_progress_title">Skanowanie serwerów</string>
@@ -310,13 +261,11 @@
     <string name="fix_failed_content">Obecnie nie ma dostępnych serwerów, spróbuj ponownie później.</string>
     <string name="fix_tips_failtitle">Nigdy więcej serwerów</string>
     <string name="fix_ok">Spróbuj</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">Najpierw pobierz ten mod.</string>
     <string name="myvoted">Mój głos</string>
     <string name="working">Pracujący</string>
     <string name="inanhour">Głosuj ponownie za godzinę.</string>
-
     <string name="Review">Przejrzeć</string>
     <string name="myreply">Moje odpowiedzi</string>
     <string name="Post">Poczta</string>
@@ -349,15 +298,12 @@
     <string name="tapandholdptodelete">Naciśnij i przytrzymaj zdjęcie, aby je usunąć.</string>
     <string name="addvideofaild">Dodawanie wideo nie powiodło się！ Upewnij się, że Twoja sieć może przeglądać wideo z YouTube i dodać je ponownie.</string>
     <string name="Video">Wideo</string>
-
     <string name="Hotsearches">Popularne wyszukiwania</string>
     <string name="Hothashtags">Gorące hashtagi</string>
     <string name="history">Historia</string>
     <string name="aboutthisgame">O tej grze</string>
     <string name="details">Detale</string>
     <string name="sellallreviews">Zobacz wszystkie recenzje</string>
-
-
     <string name="hfivetitle">Szybkie gry</string>
     <string name="Recommended">Zalecana</string>
     <string name="exit_tips">Naciśnij ponownie, aby wyjść z gry</string>
@@ -365,54 +311,43 @@
     <string name="h5_menu_share">Dzielić</string>
     <string name="h5_menu_shortcut">Dodaj do ekranu głównego</string>
     <string name="installplaywitouthti">Natychmiastowa gra bez konieczności instalacji</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">Ups ...</string>
     <string name="crash_toast_message">Przepraszamy, wyjątek APP zostanie zamknięty, prześlij zgłoszenie błędu e-mailem.</string>
     <string name="crash_dialog_message">Przepraszamy, wyjątek APP, prześlij zgłoszenie błędu przez e-mail.</string>
     <string name="crash_dialog_feedback">Zgłoś błędy</string>
     <string name="crash_dialog_restart">Uruchom ponownie</string>
-
     <string name="init_fail">Inicjalizacja nie powiodła się, użyj VPN lub zmień na inne sieci.</string>
     <string name="error_file_des">Ten plik został usunięty i jest teraz ponownie pobierany.</string>
-
     <string name="sdpermission">Musimy uzyskać dostęp do pamięci zewnętrznej. Upewnij się, że zezwolenie zostało udzielone.</string>
     <string name="Night_Mode">Tryb nocny</string>
-
     <string name="thisty">Ta nazwa użytkownika jest zajęta. Spróbuj innego. Dostępny:</string>
-
     <!--home_feature-->
     <string name="Feature">Ocechowany</string>
     <string name="editorpick">Wybór redaktora</string>
     <string name="PopularInlast">Popularne w ciągu ostatnich 24 godzin</string>
     <string name="Latestupdated">Ostatnia aktualizacja</string>
     <string name="paidforfree">Płatne za darmo</string>
-
     <string name="ToadyRecommend">Polecam Toady</string>
     <string name="hotmods">Gorące mody</string>
     <string name="hotrecommended">Gorąco polecam</string>
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Wyszukaj aplikację, którą chcesz przesłać:</string>
     <string name="addapost">Dodaj post</string>
     <string name="launch_des">Znajdź 100% działających modów \ nPrzesłane przez użytkowników; Zweryfikowane przez użytkowników!</string>
     <string name="requestamod">Poproś o mod</string>
     <string name="uploadamod">Prześlij mod</string>
-
     <!--boundle 新增-->
     <string name="Installing">Instalowanie</string>
     <string name="bundleneedsfive">Przepraszamy, pakiet wymaga Androida 5.0 i nowszych wersji.</string>
     <string name="parsingerror">Błąd podczas analizowania pliku APK lub anulowany.</string>
     <string name="tipsinstallok">Instalacja zakończyła się powodzeniem.</string>
     <string name="tipsinstallfail">Instalacja nie powiodła się, spróbuj ponownie.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Maksymalnie 10 MB na obraz.</string>
     <string name="Imagesmustbelessthan">Obrazy muszą być mniejsze niż 10 MB. Zmniejsz wymiary obrazu, zapisz ponownie lub ponownie wyeksportuj plik i spróbuj przesłać go ponownie.</string>
-
     <string name="installfailed">Instalacja nie powiodła się.</string>
     <string name="miuides">Włącz Opcje programisty, wyłącz optymalizację MIUI i spróbuj ponownie.</string>
-
     <string name="playdes">Grać</string>
     <string name="todayhotgame">Dzisiaj jest gorąco</string>
     <string name="newcoming">Nowy nadchodzący</string>
@@ -421,20 +356,16 @@
     <string name="finditin">Znajdź w X</string>
     <string name="needhelp">Potrzebuję pomocy?</string>
     <string name="peoplealsoplaygames">Ludzie grali w tę grę także:</string>
-
     <string name="opencommunitydes">Jeśli znajdziesz dorosłego lub zły post, kliknij przycisk zgłoś w prawym górnym rogu postu, a my usuniemy post i zablokujemy plakat po raz pierwszy! Proszę, mów po cywilizacji!</string>
     <string name="myreviews">Moje recenzje</string>
-
     <string name="tagthisapp">Zgłoś tę aplikację</string>
     <string name="appuploader">Aplikacja przesłana przez</string>
     <string name="votedresult">Już głosowałeś na tę aplikację.</string>
     <string name="votedokok">Twój głos został pomyślnie przesłany.</string>
     <string name="please_downlaodthisapp">Najpierw pobierz tę aplikację.</string>
-
     <string name="safetitle">Aplikacja APK gwarantowana</string>
     <string name="safedes">Ten plik APK przeszedł test bezpieczeństwa pod kątem wirusów, złośliwego oprogramowania. Używał zaufanego i zweryfikowanego podpisu cyfrowego.</string>
     <string name="bereported">Zgłosiłeś to.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Najpierw zakończ kolejkę pobierania.</string>
     <string name="adduploadvideo">Dodaj wideo: (opcjonalnie)</string>
     <string name="uploadscreenshots">Prześlij zrzuty ekranu (160 * 90)</string>
@@ -448,7 +379,6 @@
     <string name="uploadbanner">Prześlij baner (720 * 406)</string>
     <string name="noedituploadtips">Nie możesz go przesłać bez wprowadzania żadnych zmian.</string>
     <string name="addexcusiveaddressixit">Ten plik APK już istnieje.</string>
-
     <string name="itisworkingonyourdevice">Czy to działa na Twoim urządzeniu?</string>
     <string name="no_working">Nie działa</string>
     <string name="vote_it">Głosuj na to</string>
@@ -457,7 +387,6 @@
     <string name="nospyware">Brak oprogramowania szpiegującego</string>
     <string name="less">Mniej</string>
     <string name="votedandfail">Już sprawdziłeś, sprawdź listę „Moje recenzje”.</string>
-
     <string name="fastdownloader">Szybsze pobieranie</string>
     <string name="usehtgetspeed">Użyj HyperTorrent, aby uzyskać 200% + prędkość.</string>
     <string name="cleanfdft">czysty &amp; szybki downloader dla torrentów</string>
@@ -469,15 +398,9 @@
     <string name="Cdnoadfree">Przejrzysty projekt, brak reklam i 100% za darmo!</string>
     <string name="wrhtdbf">Do pobierania dużych plików zalecamy HyperTorrent.</string>
     <string name="nothanks">Nie dziękuję</string>
-
-
     <string name="Checkthenetwork">Sprawdź sieć</string>
     <string name="Configuringip">Konfigurowanie dostępnego adresu IP dla Ciebie</string>
     <string name="Configuringipfailed">Konfiguracja nie powiodła się, wykryto 8 adresów IP, które są niedostępne, spróbuj użyć VPN.</string>
-
     <string name="Donatedes">HappyMod jest całkowicie darmowy i nienawidzimy reklam tak samo jak Ty！ \ n \ nPotrzebujemy Twojej darowizny, aby zapewnić szybsze i bezpieczniejsze pobieranie. \ N \ nProsimy o cierpliwość i spróbuj obejrzeć pełne reklamy, aby przekazać darowiznę. \ N \ dziękuję！</string>
-
-
     <string name="viewstepdeti">Zobacz szczegóły kroku</string>
-
 </resources>
