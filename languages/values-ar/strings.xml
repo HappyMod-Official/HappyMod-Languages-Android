@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <!--首页-->
     <string name="Paid">مدفوعة</string>
     <string name="GAME">العاب</string>
@@ -86,7 +82,6 @@
     <string name="Downloadobb">تنزيل (APK+OBB)</string>
     <string name="Downloaddata">تنزيل (APK+DATA)</string>
     <string name="Downloadboundle">تنزيل BUNDLE</string>
-
     <string name="Downloaded">تم التنزيل</string>
     <string name="Install">التثبيت</string>
     <string name="Connecting">جار الاتصال ...</string>
@@ -187,7 +182,6 @@ https://www.happymod.com</string>
     <string name="Login">تسجيل الدخول</string>
     <string name="Account">الحساب</string>
     <string name="forgotpassword">نسيت كلمة السر؟</string>
-
     <string name="loginwithaccount">أو قم بتسجيل الدخول باستخدام اسم المستخدم الخاص بك</string>
     <string name="newur">تسجيل مستخدم جديد</string>
     <string name="Usernameinitnew">اسم المستخدم (4-50 حرف)</string>
@@ -198,7 +192,6 @@ https://www.happymod.com</string>
     <string name="enteryEmail">أدخل بريدك الإلكتروني</string>
     <string name="enteryPhone">أدخل رقم هاتفك</string>
     <string name="signuptips">عند نسيان كلمة المرور ، ستحتاج إلى "رقم الهاتف" أو "البريد الإلكتروني" لاستردادها. نوصي بإكمالها.</string>
-
     <string name="confirmusername">تأكيد اسم المستخدم</string>
     <string name="next">التالي</string>
     <string name="fblogdes">الرجاء ادخال اسم المستخدم. اسم المستخدم هو مهم للغاية لاستعادة كلمة المرور ، يرجى الانتباه.</string>
@@ -258,15 +251,11 @@ https://www.happymod.com</string>
     <string name="messages">رسائل</string>
     <string name="RecommendMods">يوصي وزارة الدفاع</string>
     <string name="requestdetailserror">(من 50 إلى 4000 حرف)</string>
-
-    <string name="Changetheimage">تغيير الصورة >></string>
+    <string name="Changetheimage">تغيير الصورة &gt;&gt;</string>
     <string name="Typethecodeinthebox">اكتب الرمز في المربع</string>
     <string name="Verificationerror">فشل التحقق ، يرجى المحاولة مرة أخرى.</string>
     <string name="Verifing">التحقق من ...</string>
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">جرب الخوادم الأخرى قبل الحذف</string>
     <string name="fix_tips_content">هل ترغب في الاتصال بخادم آخر لمحاولة تنزيله قبل حذفه؟</string>
     <string name="fix_progress_title">خوادم المسح الضوئي</string>
@@ -274,14 +263,11 @@ https://www.happymod.com</string>
     <string name="fix_failed_content">لا تتوفر حاليًا خوادم ، يرجى إعادة المحاولة لاحقًا.</string>
     <string name="fix_ok">جربها</string>
     <string name="fix_tips_failtitle">لا مزيد من الخوادم</string>
-
-
     <!--社区 -->
     <string name="please_loginanddownload">يرجى تحميل هذا وزارة الدفاع أولا.</string>
     <string name="myvoted">تصويتي</string>
     <string name="working">العمل</string>
     <string name="inanhour">يرجى التصويت مرة أخرى في غضون ساعة.</string>
-
     <string name="Review">مراجعة</string>
     <string name="myreply">ردودي</string>
     <string name="Post">بريد</string>
@@ -314,16 +300,12 @@ https://www.happymod.com</string>
     <string name="tapandholdptodelete">اضغط مع الاستمرار على الصورة لحذفها.</string>
     <string name="addvideofaild">أخفق إضافة فيديو！ يرجى التأكد من أن شبكتك تستطيع تصفح فيديو Youtube وإعادة إضافته.</string>
     <string name="Video">فيديو</string>
-
-
     <string name="Hotsearches">عمليات البحث الساخنة</string>
     <string name="Hothashtags">الهاشتاج الساخنة</string>
     <string name="history">التاريخ</string>
     <string name="aboutthisgame">عن هذه اللعبة</string>
     <string name="details">تفاصيل</string>
     <string name="sellallreviews">انظر جميع الاستعراضات</string>
-
-
     <string name="hfivetitle">ألعاب سريعة</string>
     <string name="Recommended">موصى به</string>
     <string name="exit_tips">اضغط مرة أخرى للخروج من اللعبة</string>
@@ -331,55 +313,42 @@ https://www.happymod.com</string>
     <string name="h5_menu_share">شارك</string>
     <string name="h5_menu_shortcut">أضف إلى الشاشة الرئيسية</string>
     <string name="installplaywitouthti">اللعب الفوري دون الحاجة إلى تثبيت</string>
-
-
     <string name="crash_dialog_title">وجه الفتاة...</string>
     <string name="crash_toast_message">عذرًا ، سيتم استثناء APP ، submit الرجاء إرسال تقرير الأخطاء عبر البريد الإلكتروني.</string>
     <string name="crash_dialog_message">عذرًا ، استثناء APP ، يرجى إرسال تقرير الأخطاء عبر البريد الإلكتروني.</string>
     <string name="crash_dialog_feedback">تقرير البق</string>
     <string name="crash_dialog_restart">إعادة بدء</string>
-
     <string name="init_fail">فشلت التهيئة ، يرجى استخدام VPN أو التغيير إلى شبكات أخرى.</string>
     <string name="error_file_des">تم حذف هذا الملف ويتم إعادة تنزيله الآن.</string>
     <string name="sdpermission">نحتاج إلى الوصول إلى وحدة التخزين الخارجية الخاصة بك ، يرجى التأكد من منح الإذن.</string>
-
     <string name="Night_Mode">الوضع الليلي</string>
     <string name="thisty">اسم المستخدم هذا مأخوذ. جرب شئ اخر. متاح:</string>
-
     <!--home_feature-->
     <string name="Feature">متميز</string>
     <string name="editorpick">اختيار المحرر</string>
     <string name="PopularInlast">  شائع في آخر 24 ساعة</string>
     <string name="Latestupdated">آخر تحديث</string>
     <string name="paidforfree">مدفوع مجانًا</string>
-
     <string name="ToadyRecommend">وصى Toady</string>
     <string name="hotmods">تعديل ساخن</string>
     <string name="hotrecommended">موصى به ساخن</string>
-
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">ابحث عن التطبيق الذي تريد تحميله:</string>
     <string name="addapost">أضف منشور</string>
     <string name="launch_des">ابحث عن أوضاع عمل 100٪ \ n تم تحميلها من قبل المستخدمين ؛ التحقق من قبل المستخدمين!</string>
     <string name="requestamod">طلب تعديل</string>
     <string name="uploadamod">تحميل وزارة الدفاع</string>
-
-
     <!--boundle 新增-->
     <string name="Installing">التثبيت</string>
     <string name="bundleneedsfive">عذرًا ، يحتاج Bundle إلى Android 5.0 والإصدارات الأحدث.</string>
     <string name="parsingerror">حدث خطأ أثناء تحليل ملف apk أو تم إلغاؤه.</string>
     <string name="tipsinstallok">تم التثبيت بنجاح.</string>
     <string name="tipsinstallfail">فشل التثبيت ، يرجى المحاولة مرة أخرى.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">10 ميجا بايت كحد أقصى لكل صورة.</string>
     <string name="Imagesmustbelessthan">يجب أن يكون حجم الصور أقل من 10 ميجابايت ، يرجى تقليل أبعاد الصورة وإعادة حفظ ملفك أو إعادة تصديره وحاول تحميله مرة أخرى.</string>
-
     <string name="installfailed">فشل التثبيت.</string>
     <string name="miuides">يرجى تشغيل خيارات المطور ، وإيقاف تحسين MIUI وحاول مرة أخرى.</string>
-
     <string name="playdes">لعب</string>
     <string name="todayhotgame">اليوم حار</string>
     <string name="newcoming">واردة جديدة</string>
@@ -388,10 +357,8 @@ https://www.happymod.com</string>
     <string name="finditin">ابحث عنه في X</string>
     <string name="needhelp">تحتاج مساعدة؟</string>
     <string name="peoplealsoplaygames">لعب الناس هذه اللعبة أيضًا:</string>
-
     <string name="opencommunitydes">إذا وجدت شخصًا بالغًا أو أي منشور سيئ ، فالرجاء النقر فوق زر الإبلاغ في الزاوية اليمنى العليا من المنشور ، وسنقوم بحذف المنشور وحظر الملصق في المرة الأولى! من فضلك تكلم متحضر!</string>
     <string name="myreviews">مراجعاتي</string>
-
     <string name="tagthisapp">علم هذا التطبيق</string>
     <string name="appuploader">تم الرفع بواسطة</string>
     <string name="votedresult">لقد قمت بالفعل بالتصويت لهذا التطبيق.</string>
@@ -400,7 +367,6 @@ https://www.happymod.com</string>
     <string name="safetitle">التطبيق apk مضمون</string>
     <string name="safedes">اجتاز ملف apk هذا اختبار الأمان بحثًا عن الفيروسات والبرامج الضارة. استخدم توقيعًا رقميًا موثوقًا به وتم التحقق منه.</string>
     <string name="bereported">لقد أبلغت عنها.</string>
-
     <string name="pleasefinishyourdownloadingqueu">يرجى إنهاء قائمة انتظار التنزيل أولاً.</string>
     <string name="adduploadvideo">أضف فيديو: (اختياري)</string>
     <string name="uploadscreenshots">تحميل لقطات (160 * 90)</string>
@@ -414,7 +380,6 @@ https://www.happymod.com</string>
     <string name="uploadbanner">تحميل بانر (720 * 406)</string>
     <string name="noedituploadtips">لا يمكنك إرسالها بدون إجراء أية تغييرات.</string>
     <string name="addexcusiveaddressixit">ملف apk هذا موجود بالفعل.</string>
-
     <string name="itisworkingonyourdevice">هل تعمل على جهازك؟</string>
     <string name="no_working">لا يعمل</string>
     <string name="vote_it">صوّت لها</string>
@@ -422,9 +387,7 @@ https://www.happymod.com</string>
     <string name="nomalware">لا برامج ضارة</string>
     <string name="nospyware">لا توجد برامج تجسس</string>
     <string name="less">أقل</string>
-
     <string name="votedandfail">لقد قمت بالفعل بالمراجعة ، يرجى مراجعة قائمة "مراجعاتي".</string>
-
     <string name="fastdownloader">تحميل أسرع</string>
     <string name="usehtgetspeed">استخدم HyperTorrent للحصول على سرعة تزيد عن 200٪.</string>
     <string name="cleanfdft">نظيفة وأمبير. تنزيل سريع للتورنت</string>
@@ -436,12 +399,9 @@ https://www.happymod.com</string>
     <string name="Cdnoadfree">تصميم نظيف ، بدون إعلان ؛ 100٪ مجانا!</string>
     <string name="wrhtdbf">نوصي باستخدام HyperTorrent لتنزيل الملفات الكبيرة.</string>
     <string name="nothanks">لا شكرا</string>
-
-
     <string name="Checkthenetwork">تحقق من الشبكة</string>
     <string name="Configuringip">تكوين IP المتاح لك</string>
     <string name="Configuringipfailed">فشل التكوين ، تم اكتشاف 8 عناوين IP غير متوفرة ، يرجى محاولة استخدام VPN.</string>
     <string name="Donatedes">HappyMod مجاني تمامًا ، ونحن نكره الإعلانات بقدر ما تفعله！ \ n \ n نحتاج إلى تبرعك لتوفير تنزيلات أسرع وأكثر أمانًا. \ n \ n يُرجى التحلي بالصبر ومحاولة مشاهدة الإعلانات الكاملة لإكمال التبرع. \ n \ n شكرا لك！</string>
     <string name="viewstepdeti">عرض تفاصيل الخطوة</string>
-
 </resources>
