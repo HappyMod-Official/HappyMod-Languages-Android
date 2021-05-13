@@ -1,12 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!--希伯来语-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,8 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
-
     <!--首页-->
     <string name="Paid">שלם</string>
     <string name="GAME">משחק</string>
@@ -41,8 +36,6 @@
     <string name="Recommended_New_Mods">מומלץ חדש Mods</string>
     <string name="Last_Update_Mods">עדכון אחרון</string>
     <string name="SearchHint">חיפוש:</string>
-
-
     <!-- 侧滑-->
     <string name="Homeweb">האתר הרשמי</string>
     <string name="Management">ניהול</string>
@@ -53,7 +46,6 @@
     <string name="Checkforupdate">חפש עדכונים</string>
     <string name="FollowusonTwitter">עקבו אחרינו בטוויטר</string>
     <string name="FollowusonFacebook">עקבו אחרינו בפייסבוק</string>
-
     <!--设置页-->
     <string name="settings_network_remind">התראה ברשת לנייד</string>
     <string name="settings_auto_install">התקנה אוטומטית</string>
@@ -61,10 +53,8 @@
     <string name="settings_other">אחר</string>
     <string name="settings_clear_cache">נקה מטמון</string>
     <string name="Clean_up_the_complete">המטמון נמחק</string>
-
     <!--空数据页-->
     <string name="des_no_serach_result">אופס! לא נמצאו תוצאות.</string>
-
     <!--下载管理页-->
     <string name="Downloads">הורד</string>
     <string name="Downloading">מוריד</string>
@@ -81,8 +71,6 @@
     <string name="Ratingsreviews">דירוג ודירוג</string>
     <string name="Tryitlater">נסה שוב מאוחר יותר</string>
     <string name="Serviceisbusy">התחבר ...</string>
-
-
     <!-- 下载删除的文字 -->
     <string name="Notice">תשומת לב</string>
     <string name="deletethistask">מחק את הקובץ הזה</string>
@@ -92,7 +80,6 @@
     <string name="NotwhatIwant">לא מה שאני רוצה</string>
     <string name="Downloadfailed">הורדה נכשלה</string>
     <string name="Downloadistooslow">ההורדה איטית מדי</string>
-
     <!--APP详情页-->
     <string name="Mods">MODS</string>
     <string name="Original">מקורי</string>
@@ -101,7 +88,6 @@
     <string name="Downloadobb">הורד(APK+OBB)</string>
     <string name="Downloaddata">הורדה (APK+DATA)</string>
     <string name="Downloadboundle">הורדה BUNDLE</string>
-
     <string name="Downloaded">הורד</string>
     <string name="Install">התקנה</string>
     <string name="Connecting">התחבר ...</string>
@@ -111,7 +97,6 @@
     <string name="Recommend">מומלץ</string>
     <string name="Recommendmod">Mod מומלץ</string>
     <string name="Moremods">עוד אופנות</string>
-
     <!--评分-->
     <string name="Submit">שלח</string>
     <string name="Hated_it">שונא את זה!</string>
@@ -119,16 +104,12 @@
     <string name="Its_ok">זה לא משנה.</string>
     <string name="Liked_it">כמו זה.</string>
     <string name="Loved_it">אוהב את זה!</string>
-
-
     <!--分享-->
     <string name="share_happymod">שתף HappyMod מ</string>
     <string name="share_subject">קבל HappyMod</string>
     <string name="share_text">הורד 100% קל לשימוש עם mod @ HappyMod \ nhttps: //www.happymod.com/</string>
-
     <!--修改路径-->
     <string name="pref_location">מיקום אחסון</string>
-
     <!--update -->
     <string name="force_des">100% קל לשימוש mod</string>
     <string name="nvisrti">הגרסה החדשה מוכנה להתקנה.</string>
@@ -151,18 +132,13 @@
     <string name="initializing">אתחל</string>
     <string name="Retrying">נסה שוב</string>
     <string name="language">שפה</string>
-
     <!--类别界面 -->
-
     <string name="Popular">פופולרי</string>
     <string name="s_New">האחרונה</string>
     <string name="apps">יישום</string>
-
-
     <!-- 大文件 -->
     <string name="mergering">השלב האחרון</string>
     <string name="mergerwait">טיפול סופי (דורש 1-2 דקות)</string>
-
     <!-- 验证 -->
     <string name="Startverification">התחל אימות</string>
     <string name="verificationShangXian">אופס! הגעת למגבלת ההורדה היומית, נסה שוב לאחר X שעות.</string>
@@ -170,11 +146,9 @@
     <string name="Morehelp">(עזרה נוספת)</string>
     <string name="uid">מזהה משתמש</string>
     <string name="copysuccess">מזהה המשתמש הועתק ללוח.</string>
-
     <string name="watchnow">תראי עכשיו</string>
     <string name="ggdownloading">המודעה נטענת, אנא המתן ושמור פתוח.</string>
     <string name="verificaing">המתן בזמן האימות.</string>
-
     <!-- 评价 -->
     <string name="Removeads">הסר מודעה</string>
     <string name="Paidforfree">חינם</string>
@@ -202,9 +176,6 @@
     <string name="Unlimitedhints">אינסופי הנחיה</string>
     <string name="Megamod">סדקים מרובים</string>
     <string name="Full">גרסה מלאה</string>
-
-
-
     <!-- 注册登录 -->
     <string name="Username">שם משתמש</string>
     <string name="Usernameinit">4-50 תווים</string>
@@ -225,7 +196,6 @@
     <string name="Login">התחברות</string>
     <string name="Account">חשבון</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">או התחבר עם שם המשתמש שלך</string>
     <string name="newur">רישום משתמש חדש</string>
     <string name="Usernameinitnew">Username(4-50 characters)</string>
@@ -236,8 +206,6 @@
     <string name="enteryEmail">Enter your email</string>
     <string name="enteryPhone">Enter your phone number</string>
     <string name="signuptips">When you forget your password, you will need "Phone number" or "Email" to retrieve. We recommend that you complete them.</string>
-
-
     <string name="confirmusername">אשר את שם המשתמש</string>
     <string name="next">הבא</string>
     <string name="fblogdes">אנא הכנס שם משתמש. שם המשתמש הוא מזהה חשוב מאוד לאחזור הסיסמה, זכור.</string>
@@ -266,8 +234,6 @@
     <string name="logout">להתנתק</string>
     <string name="passwordsame">שתי הסיסמאות שהזנת אינן עקביות</string>
     <string name="PopularComments">תגובות פופולריות</string>
-
-
     <string name="Request">בקשה</string>
     <string name="Youarerequesting">אתה מבקש:</string>
     <string name="Addrequest">הוסף בקשה</string>
@@ -299,14 +265,10 @@
     <string name="messages">הודעות</string>
     <string name="RecommendMods">ממליצים על אופנים</string>
     <string name="requestdetailserror">(50-4000 תווים)</string>
-
-
-    <string name="Changetheimage">שנה את התמונה >></string>
+    <string name="Changetheimage">שנה את התמונה &gt;&gt;</string>
     <string name="Typethecodeinthebox">הקלד את הקוד בתיבה</string>
     <string name="Verificationerror">האימות נכשל. אנא נסה שוב.</string>
     <string name="Verifing">מאמת …</string>
-
-
     <string name="fix_tips_title">נסה שרתים אחרים לפני המחיקה</string>
     <string name="fix_tips_content">האם תרצה להתחבר לשרת אחר כדי לנסות להוריד אותו לפני שתמחק אותו?</string>
     <string name="fix_progress_title">סריקת שרתי</string>
@@ -314,13 +276,11 @@
     <string name="fix_failed_content">כרגע אין שרתים זמינים עבורך, נסה שוב מאוחר יותר.</string>
     <string name="fix_tips_failtitle">אין יותר שרתים</string>
     <string name="fix_ok">נסה זאת</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">אנא הורד תחילה את המוד הזה.</string>
     <string name="myvoted">ההצבעה שלי</string>
     <string name="working">עובד</string>
     <string name="inanhour">אנא הצבע שוב בעוד שעה.</string>
-
     <string name="Review">סקירה</string>
     <string name="myreply">התשובות שלי</string>
     <string name="Post">הודעה</string>
@@ -353,14 +313,12 @@
     <string name="tapandholdptodelete">הקש והחזק את התמונה כדי למחוק אותה.</string>
     <string name="addvideofaild">הוספת הווידאו נכשלה！ אנא וודא שהרשת שלך יכולה לגלוש בווידיאו ב- Youtube ולהוסיף אותו מחדש.</string>
     <string name="Video">וידאו</string>
-
     <string name="Hotsearches">חיפושים חמים</string>
     <string name="Hothashtags">תגיות חמות</string>
     <string name="history">היסטוריה</string>
     <string name="aboutthisgame">על המשחק הזה</string>
     <string name="details">פרטים</string>
     <string name="sellallreviews">ראה את כל הביקורות</string>
-
     <string name="hfivetitle">משחקים מהירים</string>
     <string name="Recommended">מומלץ</string>
     <string name="exit_tips">לחץ שוב אחורה כדי לצאת מהמשחק</string>
@@ -368,54 +326,43 @@
     <string name="h5_menu_share">שתף</string>
     <string name="h5_menu_shortcut">הוסף למסך הבית</string>
     <string name="installplaywitouthti">משחק מיידי ללא צורך להתקין</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">אופס ...</string>
     <string name="crash_toast_message">סליחה, חריגת ה- APP תצא. אנא שלח את דוח הבאג שלך בדוא"ל.</string>
     <string name="crash_dialog_message">סליחה, חריגה מ- APP, אנא שלח את דוח הבאג שלך באמצעות דוא"ל.</string>
     <string name="crash_dialog_feedback">דווח על באגים</string>
     <string name="crash_dialog_restart">איתחול</string>
-
-
     <string name="init_fail">האתחול נכשל, אנא השתמש ב- VPN או שנה לרשתות אחרות.</string>
     <string name="error_file_des">קובץ זה נמחק והוא מוריד מחדש כעת.</string>
     <string name="sdpermission">עלינו לגשת לאחסון החיצוני שלך. אנא וודא שההרשאה ניתנת.</string>
     <string name="Night_Mode">מצב לילה</string>
-
     <string name="thisty">שם המשתמש הזה תפוס. נסה אחרת. זמין:</string>
-
     <!--home_feature-->
     <string name="Feature">מומלצים</string>
     <string name="editorpick">בחירת העורך</string>
     <string name="PopularInlast">פופולרי ביממה האחרונה</string>
     <string name="Latestupdated">עודכן לאחרונה</string>
     <string name="paidforfree">בתשלום בחינם</string>
-
     <string name="ToadyRecommend">המלצות של Toady</string>
     <string name="hotmods">מצבים חמים</string>
     <string name="hotrecommended">מומלץ חם</string>
-
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">חפש באפליקציה שתרצה להעלות:</string>
     <string name="addapost">הוסף פוסט</string>
     <string name="launch_des">מצא 100% מצבי עבודה \ n שהועלה על ידי משתמשים; מאומת על ידי משתמשים!</string>
     <string name="requestamod">בקש מוד</string>
     <string name="uploadamod">העלה מוד</string>
-
     <!--boundle 新增-->
     <string name="Installing">מתקין</string>
     <string name="bundleneedsfive">מצטערים, חבילה זקוקה לאנדרואיד 5.0 ומעלה.</string>
     <string name="parsingerror">שגיאה בניתוח apk או ביטול.</string>
     <string name="tipsinstallok">ההתקנה הייתה מוצלחת.</string>
     <string name="tipsinstallfail">ההתקנה נכשלה, אנא נסה שוב.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">מקסימום 10MB לתמונה.</string>
     <string name="Imagesmustbelessthan">על התמונות להיות פחות מ- 10MB, אנא צמצם את ממדי התמונה, שמור מחדש או ייצא מחדש את הקובץ ונסה להעלות אותו שוב.</string>
     <string name="installfailed">ההתקנה נכשלה.</string>
     <string name="miuides">אנא הפעל את אפשרויות המפתחים, כבה את מיטוב MIUI ונסה שוב.</string>
-
     <string name="playdes">לְשַׂחֵק</string>
     <string name="todayhotgame">היום חם</string>
     <string name="newcoming">נכנס חדש</string>
@@ -424,10 +371,8 @@
     <string name="finditin">מצא אותו ב- X</string>
     <string name="needhelp">זקוק לעזרה?</string>
     <string name="peoplealsoplaygames">אנשים שיחקו במשחק הזה שיחקו גם:</string>
-
     <string name="opencommunitydes">אם אתה מוצא מבוגר או כל הודעה גרועה, אנא לחץ על כפתור הדוח בפינה הימנית העליונה של ההודעה, ונמחק את הפוסט ונחסום את הפוסטר בפעם הראשונה! אנא דבר תרבותי!</string>
     <string name="myreviews">הביקורות שלי</string>
-
     <string name="tagthisapp">סמן את האפליקציה הזו</string>
     <string name="appuploader">האפליקציה הועלתה על ידי</string>
     <string name="votedresult">כבר הצבעת לאפליקציה הזו.</string>
@@ -436,7 +381,6 @@
     <string name="safetitle">יישום apk מובטח</string>
     <string name="safedes">Apk זה עבר את מבחן האבטחה לנגיף, תוכנות זדוניות. הוא השתמש בחתימה דיגיטלית מהימנה ומאומתת.</string>
     <string name="bereported">דיווחת על זה.</string>
-
     <string name="pleasefinishyourdownloadingqueu">אנא סיים תחילה את תור ההורדות שלך.</string>
     <string name="adduploadvideo">הוסף סרטון: (אופציונלי)</string>
     <string name="uploadscreenshots">העלה צילומי מסך (160 * 90)</string>
@@ -450,7 +394,6 @@
     <string name="uploadbanner">העלאת באנר (720 * 406)</string>
     <string name="noedituploadtips">אינך יכול להגיש אותו מבלי לבצע שינויים.</string>
     <string name="addexcusiveaddressixit">APK זה כבר קיים.</string>
-
     <string name="itisworkingonyourdevice">האם זה עובד במכשיר שלך?</string>
     <string name="no_working">לא עובד</string>
     <string name="vote_it">הצביעו בזה</string>
@@ -459,7 +402,6 @@
     <string name="nospyware">אין תוכנות ריגול</string>
     <string name="less">פָּחוּת</string>
     <string name="votedandfail">כבר בדקת, אנא בדוק את רשימת "הביקורות שלי".</string>
-
     <string name="fastdownloader">הורדה מהירה יותר</string>
     <string name="usehtgetspeed">השתמש ב- HyperTorrent כדי להשיג מהירות של 200% +.</string>
     <string name="cleanfdft">נקי &amp; הורדה מהירה לטורנטים</string>
@@ -471,13 +413,9 @@
     <string name="Cdnoadfree">עיצוב נקי, ללא מודעה &amp; 100% חינם!</string>
     <string name="wrhtdbf">אנו ממליצים על HyperTorrent להורדת קבצים גדולים.</string>
     <string name="nothanks">לא תודה</string>
-
     <string name="Checkthenetwork">בדוק את הרשת</string>
     <string name="Configuringip">הגדרת IP זמין עבורך</string>
     <string name="Configuringipfailed">התצורה נכשלה, 8 כתובות IP מזוהות כבלתי זמינות, נסה להשתמש ב- VPN.</string>
-
     <string name="Donatedes">HappyMod הוא לגמרי בחינם, ואנחנו שונאים מודעות באותה מידה שאתה עושה！ \ n \ n אנו זקוקים לתרומתך בכדי לספק הורדות מהירות ובטוחות יותר. \ N \ n אנא התאזר בסבלנות ונסה לצפות במודעות המלאות כדי להשלים את התרומה. \ N \ תודה！</string>
-
     <string name="viewstepdeti">צפו בפרטי שלב</string>
-
 </resources>
