@@ -1,10 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--泰语-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -20,8 +19,7 @@
         <item>RotateDown</item>
         <item>Accordion</item>
     </string-array>
-   <!-- ↑  以上不用多语言翻译-->
-
+    <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">ต้องจ่าย</string>
     <string name="GAME">เกม</string>
@@ -38,7 +36,6 @@
     <string name="Recommended_New_Mods">แนะนำ Mods ใหม่</string>
     <string name="Last_Update_Mods">อัพเดทล่าสุด</string>
     <string name="SearchHint">ค้นหา..</string>
-
     <!-- 侧滑-->
     <string name="Homeweb">เว็บไซต์ทางการ</string>
     <string name="Management">การจัดการ</string>
@@ -49,7 +46,6 @@
     <string name="Checkforupdate">ตรวจสอบสำหรับการปรับปรุง</string>
     <string name="FollowusonTwitter">ติดตามเราบน Twitter</string>
     <string name="FollowusonFacebook">ติดตามเราบน Facebook</string>
-
     <!--设置页-->
     <string name="settings_network_remind">การแจ้งเตือนเครือข่ายมือถือ</string>
     <string name="settings_auto_install">ติดตั้งโดยอัตโนมัติ</string>
@@ -57,10 +53,8 @@
     <string name="settings_other">อื่น ๆ</string>
     <string name="settings_clear_cache">ล้างแคช</string>
     <string name="Clean_up_the_complete">ล้างแคชแล้ว</string>
-
     <!--空数据页-->
     <string name="des_no_serach_result"> อ๊ะ! ไม่พบผลลัพธ์</string>
-
     <!--下载管理页-->
     <string name="Downloads">ดาวน์โหลด</string>
     <string name="Downloading">ดาวน์โหลด</string>
@@ -77,9 +71,6 @@
     <string name="Ratingsreviews">ความนิยม &amp; ความคิดเห็น</string>
     <string name="Tryitlater">ลองอีกครั้งในภายหลัง</string>
     <string name="Serviceisbusy">การเชื่อมต่อ...</string>
-
-
-
     <!-- 下载删除的文字 -->
     <string name="Notice">แจ้งให้ทราบ</string>
     <string name="deletethistask">ลบไฟล์นี้</string>
@@ -89,8 +80,6 @@
     <string name="NotwhatIwant">ไม่ใช่สิ่งที่ฉันต้องการ</string>
     <string name="Downloadfailed">การดาวน์โหลดล้มเหลว</string>
     <string name="Downloadistooslow">การดาวน์โหลดช้าเกินไป</string>
-
-
     <!--APP详情页-->
     <string name="Mods">mods</string>
     <string name="Original">เป็นต้นฉบับ</string>
@@ -99,8 +88,6 @@
     <string name="Downloadobb">ดาวน์โหลด (APK+OBB)</string>
     <string name="Downloaddata">ดาวน์โหลด(APK+DATA)</string>
     <string name="Downloadboundle">ดาวน์โหลดBUNDLE</string>
-
-
     <string name="Downloaded">ดาวน์โหลด</string>
     <string name="Install">ติดตั้ง</string>
     <string name="Connecting">การเชื่อมต่อ...</string>
@@ -110,9 +97,6 @@
     <string name="Recommend">แนะนำ</string>
     <string name="Recommendmod">Mod ที่แนะนำ</string>
     <string name="Moremods">Mods เพิ่มเติม</string>
-
-
-
     <!--评分-->
     <string name="Submit">เสนอ</string>
     <string name="Hated_it">เกลียดมัน!</string>
@@ -120,16 +104,12 @@
     <string name="Its_ok">ไม่เป็นไร.</string>
     <string name="Liked_it">ชอบมัน.</string>
     <string name="Loved_it">รักมัน!</string>
-
-
     <!--分享-->
     <string name="share_happymod">แชร์ \'HappyMod\' ผ่านทาง</string>
     <string name="share_subject">รับ HappyMod</string>
     <string name="share_text">ดาวน์โหลดตัวดัดแปลงการทำงาน 100% ด้วย @HappyMod \ nhttps: //www.happymod.com/</string>
-
     <!--修改路径-->
     <string name="pref_location">ที่เก็บสินค้า</string>
-
     <!--update -->
     <string name="force_des">Mods ทำงาน 100%</string>
     <string name="nvisrti">เวอร์ชั่นใหม่พร้อมติดตั้งแล้ว</string>
@@ -152,19 +132,13 @@
     <string name="initializing">เริ่มต้น</string>
     <string name="Retrying">กำลังลองอีกครั้ง</string>
     <string name="language">ภาษา</string>
-
     <!--类别界面 -->
-
     <string name="Popular">เป็นที่นิยม</string>
     <string name="s_New">ใหม่</string>
     <string name="apps">ปพลิเคชัน</string>
-
-
-
     <!-- 大文件 -->
     <string name="mergering">การประมวลผลขั้นสุดท้าย</string>
     <string name="mergerwait">การประมวลผลขั้นสุดท้าย (ต้องการ 1-2 นาที)</string>
-
     <!-- 验证 -->
     <string name="Startverification">เริ่มการยืนยัน</string>
     <string name="verificationShangXian">อ๊ะ! คุณดาวน์โหลดเกินจำนวนสูงสุดต่อวันแล้วลองอีกครั้งหลังจากผ่านไป X ชั่วโมง</string>
@@ -172,12 +146,9 @@
     <string name="Morehelp">(ความช่วยเหลือเพิ่มเติม)</string>
     <string name="uid">หมายเลขผู้ใช้</string>
     <string name="copysuccess">คัดลอกหมายเลขผู้ใช้ไปยังคลิปบอร์ดแล้ว</string>
-
     <string name="watchnow">ดูตอนนี้</string>
     <string name="ggdownloading">กำลังโหลดโฆษณาโปรดรอและเปิด happymod ต่อไป</string>
     <string name="verificaing">กรุณารอสักครู่ในการตรวจสอบ</string>
-
-
     <!-- 评价 -->
     <string name="Removeads">ลบโฆษณา</string>
     <string name="Paidforfree">ฟรี</string>
@@ -205,7 +176,6 @@
     <string name="Unlimitedhints">พรอมต์ที่ไม่มีที่สิ้นสุด</string>
     <string name="Megamod">หลายรอยแตก</string>
     <string name="Full">เวอร์ชันเต็ม</string>
-
     <!--注册登录-->
     <string name="Username">ชื่อผู้ใช้</string>
     <string name="Usernameinit">4-50 ตัวอักษร</string>
@@ -226,7 +196,6 @@
     <string name="Login">เข้าสู่ระบบ</string>
     <string name="Account">บัญชี</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">หรือเข้าสู่ระบบด้วยชื่อผู้ใช้ของคุณ</string>
     <string name="newur">การลงทะเบียนผู้ใช้ใหม่</string>
     <string name="Usernameinitnew">ชื่อผู้ใช้ (4-50 ตัวอักษร)</string>
@@ -237,7 +206,6 @@
     <string name="enteryEmail">กรอกอีเมล์ของคุณ</string>
     <string name="enteryPhone">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
     <string name="signuptips">เมื่อคุณลืมรหัสผ่านคุณจะต้อง "หมายเลขโทรศัพท์" หรือ "อีเมล" เพื่อรับข้อมูล เราขอแนะนำให้คุณกรอกให้ครบถ้วน</string>
-
     <string name="confirmusername">ยืนยันชื่อผู้ใช้</string>
     <string name="next">ต่อไป</string>
     <string name="fblogdes">กรุณาใส่ชื่อผู้ใช้ ชื่อผู้ใช้เป็นตัวระบุที่สำคัญมากสำหรับการดึงรหัสผ่านโปรดจำไว้</string>
@@ -266,7 +234,6 @@
     <string name="logout">ออกจากระบบ</string>
     <string name="passwordsame">รหัสผ่านสองตัวที่คุณป้อนไม่สอดคล้องกัน</string>
     <string name="PopularComments">ความคิดเห็นยอดนิยม</string>
-
     <string name="Request">ขอร้อง</string>
     <string name="Youarerequesting">คุณกำลังร้องขอ:</string>
     <string name="Addrequest">เพิ่มคำขอ</string>
@@ -298,14 +265,11 @@
     <string name="messages">ข้อความ</string>
     <string name="RecommendMods">แนะนำ Mods</string>
     <string name="requestdetailserror">(50-4000 ตัวอักษร)</string>
-
-    <string name="Changetheimage">เปลี่ยนภาพ >></string>
+    <string name="Changetheimage">เปลี่ยนภาพ &gt;&gt;</string>
     <string name="Typethecodeinthebox">พิมพ์รหัสในกล่อง</string>
     <string name="Verificationerror">การยืนยันล้มเหลวโปรดลองอีกครั้ง</string>
     <string name="Verifing">การตรวจสอบ …</string>
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">ลองเซิร์ฟเวอร์อื่น ๆ ก่อนที่จะลบ</string>
     <string name="fix_tips_content">คุณต้องการเชื่อมต่อกับเซิร์ฟเวอร์อื่นเพื่อพยายามดาวน์โหลดก่อนที่จะลบหรือไม่</string>
     <string name="fix_progress_title">กำลังสแกนเซิร์ฟเวอร์</string>
@@ -313,13 +277,11 @@
     <string name="fix_failed_content">ขณะนี้ไม่มีเซิร์ฟเวอร์ให้คุณโปรดลองอีกครั้งในภายหลัง</string>
     <string name="fix_tips_failtitle">ไม่มีเซิร์ฟเวอร์อีกต่อไป</string>
     <string name="fix_ok">ลองมัน</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">โปรดดาวน์โหลดตัวดัดแปลงนี้ก่อน</string>
     <string name="myvoted">คะแนนของฉัน</string>
     <string name="working">การทำงาน</string>
     <string name="inanhour">โปรดลงคะแนนอีกครั้งในอีกหนึ่งชั่วโมง</string>
-
     <string name="Review">ทบทวน</string>
     <string name="myreply">คำตอบของฉัน</string>
     <string name="Post">เสา</string>
@@ -352,15 +314,12 @@
     <string name="tapandholdptodelete">แตะรูปภาพค้างไว้เพื่อลบ</string>
     <string name="addvideofaild">การเพิ่มวิดีโอล้มเหลว！ โปรดตรวจสอบให้แน่ใจว่าเครือข่ายของคุณสามารถเรียกดูวิดีโอ Youtube และเพิ่มอีกครั้งได้</string>
     <string name="Video">วีดีโอ</string>
-
     <string name="Hotsearches">การค้นหายอดนิยม</string>
     <string name="Hothashtags">แฮชแท็กยอดนิยม</string>
     <string name="history">ประวัติศาสตร์</string>
     <string name="aboutthisgame">เกี่ยวกับเกมนี้</string>
     <string name="details">รายละเอียด</string>
     <string name="sellallreviews">ดูความคิดเห็นทั้งหมด</string>
-
-
     <string name="hfivetitle">เกมด่วน</string>
     <string name="Recommended">แนะนำ</string>
     <string name="exit_tips">กดกลับมาอีกครั้งเพื่อออกจากเกม</string>
@@ -368,37 +327,26 @@
     <string name="h5_menu_share">หุ้น</string>
     <string name="h5_menu_shortcut">เพิ่มไปยังหน้าจอหลัก</string>
     <string name="installplaywitouthti">เล่นได้ทันทีโดยไม่ต้องติดตั้ง</string>
-
-
     <!--全局rty-->
     <string name="crash_dialog_title">โอ๊ะโอ ...</string>
     <string name="crash_toast_message">ขออภัยข้อยกเว้นของแอปจะออก exit โปรดส่งรายงานข้อบกพร่องของคุณทางอีเมล</string>
     <string name="crash_dialog_message">ขออภัยข้อยกเว้น APP โปรดส่งรายงานข้อบกพร่องของคุณทางอีเมล</string>
     <string name="crash_dialog_feedback">รายงานข้อบกพร่อง</string>
     <string name="crash_dialog_restart">เริ่มต้นใหม่</string>
-
-
     <string name="init_fail">การเริ่มต้นล้มเหลวโปรดใช้ VPN หรือเปลี่ยนเป็นเครือข่ายอื่น</string>
     <string name="error_file_des">ไฟล์นี้ถูกลบไปแล้วและจะถูกดาวน์โหลดอีกครั้งในขณะนี้</string>
-
     <string name="sdpermission">เราจำเป็นต้องเข้าถึงที่เก็บข้อมูลภายนอกของคุณ โปรดตรวจสอบให้แน่ใจว่าได้รับอนุญาต</string>
     <string name="Night_Mode">โหมดกลางคืน</string>
-
     <string name="thisty">ชื่อผู้ใช้นั้นถูกใช้แล้ว. ลองอันอื่น ที่มีอยู่:</string>
-
-
-
     <!--home_feature-->
     <string name="Feature">แนะนำ</string>
     <string name="editorpick">เลือกบรรณาธิการ</string>
     <string name="PopularInlast">ยอดนิยมใน 24 ชั่วโมงที่ผ่านมา</string>
     <string name="Latestupdated">อัพเดทล่าสุด</string>
     <string name="paidforfree">จ่ายเงินฟรี</string>
-
     <string name="ToadyRecommend">แนะนำของโทดดี้</string>
     <string name="hotmods">Hot Mods</string>
     <string name="hotrecommended">แนะนำเด็ด</string>
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">ค้นหาแอพที่คุณต้องการอัปโหลด:</string>
     <string name="addapost">เพิ่มโพสต์</string>
@@ -411,14 +359,11 @@
     <string name="parsingerror">เกิดข้อผิดพลาดในการแยกวิเคราะห์ apk หรือยกเลิก</string>
     <string name="tipsinstallok">การติดตั้งสำเร็จแล้ว.</string>
     <string name="tipsinstallfail">การติดตั้งล้มเหลวโปรดลองอีกครั้ง</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">สูงสุด 10MB ต่อภาพ</string>
     <string name="Imagesmustbelessthan">รูปภาพต้องมีขนาดไม่เกิน 10MB โปรดลดขนาดภาพบันทึกอีกครั้งหรือส่งออกไฟล์ของคุณอีกครั้งและลองอัปโหลดอีกครั้ง</string>
-
     <string name="installfailed">การติดตั้งล้มเหลว.</string>
     <string name="miuides">โปรดเปิดตัวเลือกสำหรับนักพัฒนาปิดการเพิ่มประสิทธิภาพ MIUI แล้วลองอีกครั้ง</string>
-
     <string name="playdes">เล่น</string>
     <string name="todayhotgame">วันนี้อากาศร้อน</string>
     <string name="newcoming">เข้ามาใหม่</string>
@@ -427,10 +372,8 @@
     <string name="finditin">ค้นหาได้ใน X</string>
     <string name="needhelp">ต้องการความช่วยเหลือ?</string>
     <string name="peoplealsoplaygames">คนเล่นเกมนี้ยังเล่น:</string>
-
     <string name="opencommunitydes">หากคุณพบว่ามีผู้ใหญ่หรือโพสต์ที่ไม่ดีใด ๆ โปรดคลิกปุ่มรายงานที่มุมขวาบนของโพสต์และเราจะลบโพสต์และบล็อกผู้โพสต์ในครั้งแรก! กรุณาพูดอย่างมีอารยะ!</string>
     <string name="myreviews">บทวิจารณ์ของฉัน</string>
-
     <string name="tagthisapp">ตั้งค่าสถานะแอปนี้</string>
     <string name="appuploader">อัปโหลดแอปโดย</string>
     <string name="votedresult">คุณได้โหวตให้แอปนี้แล้ว</string>
@@ -439,7 +382,6 @@
     <string name="safetitle">แอป apk รับประกัน</string>
     <string name="safedes">apk นี้ผ่านการทดสอบความปลอดภัยสำหรับไวรัสมัลแวร์ ใช้ลายเซ็นดิจิทัลที่เชื่อถือได้และได้รับการยืนยัน</string>
     <string name="bereported">คุณได้รายงานแล้ว</string>
-
     <string name="pleasefinishyourdownloadingqueu">โปรดรอคิวการดาวน์โหลดของคุณให้เสร็จสิ้นก่อน</string>
     <string name="adduploadvideo">เพิ่มวิดีโอ: (ไม่บังคับ)</string>
     <string name="uploadscreenshots">อัปโหลดภาพหน้าจอ (160 * 90)</string>
@@ -453,7 +395,6 @@
     <string name="uploadbanner">อัปโหลดแบนเนอร์ (720 * 406)</string>
     <string name="noedituploadtips">คุณไม่สามารถส่งได้โดยไม่ทำการเปลี่ยนแปลงใด ๆ</string>
     <string name="addexcusiveaddressixit">apk นี้มีอยู่แล้ว</string>
-
     <string name="itisworkingonyourdevice">มันทำงานบนอุปกรณ์ของคุณหรือไม่?</string>
     <string name="no_working">ไม่ทำงาน</string>
     <string name="vote_it">โหวตเลย</string>
@@ -461,9 +402,7 @@
     <string name="nomalware">ไม่มีมัลแวร์</string>
     <string name="nospyware">ไม่มีสปายแวร์</string>
     <string name="less">น้อยกว่า</string>
-
     <string name="votedandfail">คุณได้ตรวจสอบแล้วโปรดตรวจสอบรายการ "บทวิจารณ์ของฉัน"</string>
-
     <string name="fastdownloader">ดาวน์โหลดได้เร็วขึ้น</string>
     <string name="usehtgetspeed">ใช้ HyperTorrent เพื่อรับ 200% + ความเร็ว</string>
     <string name="cleanfdft">สะอาด &amp; ตัวดาวน์โหลดที่รวดเร็วสำหรับ torrents</string>
@@ -475,13 +414,9 @@
     <string name="Cdnoadfree">ดีไซน์สะอาดตาไม่มีโฆษณา &amp; ฟรี 100%!</string>
     <string name="wrhtdbf">เราขอแนะนำ HyperTorrent ในการดาวน์โหลดไฟล์ขนาดใหญ่</string>
     <string name="nothanks">ไม่เป็นไรขอบคุณ</string>
-
     <string name="Checkthenetwork">ตรวจสอบเครือข่าย</string>
     <string name="Configuringip">การกำหนดค่า IP ที่ใช้ได้สำหรับคุณ</string>
     <string name="Configuringipfailed">การกำหนดค่าล้มเหลวตรวจพบ 8 IP ไม่พร้อมใช้งานโปรดลองใช้ VPN</string>
-
     <string name="Donatedes">HappyMod ไม่มีค่าใช้จ่ายใด ๆ ทั้งสิ้นและเราเกลียดชังโฆษณามากพอ ๆ กับคุณ！ \ n \ n เราต้องการการบริจาคของคุณเพื่อให้ดาวน์โหลดได้เร็วขึ้นและปลอดภัยขึ้น \ n \ n โปรดอดใจรอและพยายามดูโฆษณาทั้งหมดเพื่อให้การบริจาคเสร็จสมบูรณ์ \ n \ \ n ขอบคุณครับ！</string>
-
     <string name="viewstepdeti">ดูรายละเอียดขั้นตอน</string>
-
 </resources>
