@@ -1,11 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--马来语-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -22,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <string name="Paid">Dibayar</string>
     <string name="GAME">Permainan</string>
     <string name="APP">Aplikasi</string>
@@ -38,8 +35,6 @@
     <string name="Recommended_New_Mods">Mod baru yang disyorkan</string>
     <string name="Last_Update_Mods">Kemas Kini Terkini</string>
     <string name="SearchHint">Cari ..</string>
-
-
     <string name="Homeweb">Laman web rasmi</string>
     <string name="Management">Pengurusan</string>
     <string name="Settings">Tetapan</string>
@@ -49,19 +44,13 @@
     <string name="Checkforupdate">Semak Kemas Kini</string>
     <string name="FollowusonTwitter">Ikuti kami di Twitter</string>
     <string name="FollowusonFacebook">Ikuti kami di Facebook</string>
-
-
     <string name="settings_network_remind">Alert Rangkaian Mudah Alih</string>
     <string name="settings_auto_install">Pasang secara automatik</string>
     <string name="Download_Directory">Muat turun Direktori</string>
     <string name="settings_other">Lain-lain</string>
     <string name="settings_clear_cache">Kosongkan cache</string>
     <string name="Clean_up_the_complete">Cache dibersihkan.</string>
-
-
     <string name="des_no_serach_result"> Oops! Tiada hasil dijumpai.</string>
-
-
     <string name="Downloads">Muat turun</string>
     <string name="Downloading">Memuat turun</string>
     <string name="Finished">Selesai</string>
@@ -77,9 +66,6 @@
     <string name="Ratingsreviews">Penilaian</string>
     <string name="Tryitlater">Cuba kemudian</string>
     <string name="Serviceisbusy">Menyambung ...</string>
-
-
-
     <string name="Notice">Notis</string>
     <string name="deletethistask">Padam fail ini</string>
     <string name="Cancel">Batalkan</string>
@@ -88,8 +74,6 @@
     <string name="NotwhatIwant">Bukan apa yang saya mahukan</string>
     <string name="Downloadfailed">Muat turun gagal</string>
     <string name="Downloadistooslow">Muat turun terlalu perlahan</string>
-
-
     <string name="Mods">Mod</string>
     <string name="Original">Asal</string>
     <string name="Previousversion">Versi terdahulu</string>
@@ -97,8 +81,6 @@
     <string name="Downloadobb">Muat turun (APK+OBB)</string>
     <string name="Downloaddata">Muat Turun (APK+DATA)</string>
     <string name="Downloadboundle">Muat Turun BUNDLE</string>
-
-
     <string name="Downloaded">Dikemaskini</string>
     <string name="Install">Pasang</string>
     <string name="Connecting">Menyambung ...</string>
@@ -108,24 +90,16 @@
     <string name="Recommend">Mengesyorkan</string>
     <string name="Recommendmod">Mod Disyorkan</string>
     <string name="Moremods">Versi Terkini</string>
-
-
     <string name="Submit">Hantar</string>
     <string name="Hated_it">Benci!</string>
     <string name="Disliked_it">Tidak suka.</string>
     <string name="Its_ok">Ia ok.</string>
     <string name="Liked_it">Suka.</string>
     <string name="Loved_it">Suka!</string>
-
-
     <string name="share_happymod">Kongsi \'HappyMod\' melalui</string>
     <string name="share_subject">Dapatkan HappyMod</string>
     <string name="share_text">Muat turun 100% mod kerja dengan @HappyMod \ nhttps: //www.happymod.com/</string>
-
-
     <string name="pref_location">Lokasi penyimpanan</string>
-
-
     <string name="force_des">Mod Kerja 100%</string>
     <string name="nvisrti">versi baru siap dipasang.</string>
     <string name="OPEN">BUKA</string>
@@ -147,32 +121,20 @@
     <string name="initializing">Inisialisasi</string>
     <string name="Retrying">Cuba lagi</string>
     <string name="language">Bahasa</string>
-
-
-
     <string name="Popular">Popular</string>
     <string name="s_New">Baru</string>
     <string name="apps">Apps</string>
-
-
     <string name="mergering">Pemprosesan akhir</string>
     <string name="mergerwait">Pemprosesan akhir (Perlu 1-2 minit)</string>
-
-
-
     <string name="Startverification">Mulakan Pengesahan</string>
     <string name="verificationShangXian">Oops! Anda telah mencapai had muat turun harian, cuba lagi selepas jam X.</string>
     <string name="verificationFail">Pengesahan gagal, sila cuba lagi!</string>
     <string name="Morehelp">(Bantuan lanjut)</string>
     <string name="uid">ID Pengguna</string>
     <string name="copysuccess">Userid telah disalin ke papan klip.</string>
-
     <string name="watchnow">Lihat sekarang</string>
     <string name="ggdownloading">Iklan memuatkan, sila tunggu dan simpan gembira.</string>
     <string name="verificaing">Dalam pengesahan, sila tunggu seketika.</string>
-
-
-
     <string name="Removeads">Alih iklan</string>
     <string name="Paidforfree">Dibayar secara percuma</string>
     <string name="Unlimitedmoney">Wang tanpa had</string>
@@ -199,8 +161,6 @@
     <string name="Unlimitedhints">Petua yang tidak terhad</string>
     <string name="Megamod">Mod Mega</string>
     <string name="Full">Penuh</string>
-
-
     <string name="Username">Nama pengguna</string>
     <string name="Usernameinit">4-50 aksara</string>
     <string name="Usernametip">Hanya huruf a-z, nombor, @. - _ sila (tiada ruang atau aksara khas lain). 4-50 aksara.</string>
@@ -220,7 +180,6 @@
     <string name="Login">Log masuk</string>
     <string name="Account">Akaun</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">ATAU log masuk dengan nama pengguna anda</string>
     <string name="newur">Pendaftaran pengguna baru</string>
     <string name="Usernameinitnew">Nama pengguna (4-50 aksara)</string>
@@ -231,7 +190,6 @@
     <string name="enteryEmail">Masukkan emel anda</string>
     <string name="enteryPhone">Masukkan nombor telefon anda</string>
     <string name="signuptips">Apabila anda lupa kata laluan anda, anda perlu "Nombor telefon" atau "E-mel" untuk mendapatkan semula. Kami mengesyorkan agar anda melengkapkannya.</string>
-
     <string name="confirmusername">Sahkan nama pengguna</string>
     <string name="next">Seterusnya</string>
     <string name="fblogdes">Sila masukkan nama pengguna. Nama pengguna adalah pengenal yang sangat penting untuk mendapatkan semula kata laluan, sila ingat.</string>
@@ -260,8 +218,6 @@
     <string name="logout">Log keluar</string>
     <string name="passwordsame">Kedua kata laluan yang anda masukkan tidak konsisten</string>
     <string name="PopularComments">Komen Popular</string>
-
-
     <string name="Request">Permintaan</string>
     <string name="Youarerequesting">Anda meminta:</string>
     <string name="Addrequest">Tambah permintaan</string>
@@ -293,16 +249,11 @@
     <string name="messages">Mesej</string>
     <string name="RecommendMods">Merekomendasikan Mod</string>
     <string name="requestdetailserror">(50-4000 aksara)</string>
-
-
-
-    <string name="Changetheimage">Tukar imej >></string>
+    <string name="Changetheimage">Tukar imej &gt;&gt;</string>
     <string name="Typethecodeinthebox">Taipkan kod dalam kotak</string>
     <string name="Verificationerror">Pengesahan gagal, sila cuba lagi.</string>
     <string name="Verifing">Mengesahkan …</string>
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Cuba pelayan lain sebelum memadam</string>
     <string name="fix_tips_content">Adakah anda ingin menyambung ke pelayan lain untuk cuba memuat turunnya sebelum memadamnya?</string>
     <string name="fix_progress_title">Mengimbas pelayan</string>
@@ -310,13 +261,11 @@
     <string name="fix_failed_content">Pada masa ini tiada pelayan yang tersedia untuk anda, sila cuba lagi kemudian.</string>
     <string name="fix_tips_failtitle">Tiada lagi pelayan</string>
     <string name="fix_ok">Cuba ia</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">Sila muat turun mod ini dahulu.</string>
     <string name="myvoted">Undi saya</string>
     <string name="working">Bekerja</string>
     <string name="inanhour">Sila undi semula dalam masa sejam.</string>
-
     <string name="Review">Tinjauan</string>
     <string name="myreply">Jawapan saya</string>
     <string name="Post">Hantar</string>
@@ -349,14 +298,12 @@
     <string name="tapandholdptodelete">Ketik dan tahan gambar untuk memadamkannya.</string>
     <string name="addvideofaild">Menambah video gagal! Sila pastikan rangkaian anda boleh menyemak imbas video Youtube dan tambahnya semula.</string>
     <string name="Video">Video</string>
-
     <string name="Hotsearches">Carian panas</string>
     <string name="Hothashtags">Hashtags panas</string>
     <string name="history">Sejarah</string>
     <string name="aboutthisgame">Mengenai permainan ini</string>
     <string name="details">Butiran</string>
     <string name="sellallreviews">Lihat semua ulasan</string>
-
     <string name="hfivetitle">Permainan cepat</string>
     <string name="Recommended">Disyorkan</string>
     <string name="exit_tips">Tekan kembali untuk keluar dari permainan</string>
@@ -364,55 +311,43 @@
     <string name="h5_menu_share">Kongsi</string>
     <string name="h5_menu_shortcut">Tambah ke skrin utama</string>
     <string name="installplaywitouthti">Main segera tanpa perlu memasang</string>
-
-
     <!--全局rty-->
     <string name="crash_dialog_title">Oops ...</string>
     <string name="crash_toast_message">Maaf, pengecualian APP, akan keluar, sila serahkan laporan pepijat anda melalui e-mel.</string>
     <string name="crash_dialog_message">Maaf, pengecualian APP, sila serahkan laporan pepijat anda melalui e-mel.</string>
     <string name="crash_dialog_feedback">Laporkan pepijat</string>
     <string name="crash_dialog_restart">Mula semula</string>
-
     <string name="init_fail">Inisialisasi gagal, sila gunakan VPN atau tukar ke rangkaian lain.</string>
     <string name="error_file_des">Fail ini telah dipadam dan sedang dimuat turun semula sekarang.</string>
-
     <string name="sdpermission">Kami perlu mengakses storan luaran anda. Sila pastikan kebenaran diberikan.</string>
     <string name="Night_Mode">Mod malam</string>
-
     <string name="thisty">Nama pengguna itu diambil. Cuba yang lain. Tersedia:</string>
-
     <!--home_feature-->
     <string name="Feature">Disediakan</string>
     <string name="editorpick">Pilih Editor</string>
     <string name="PopularInlast">Popular dalam 24 jam terakhir</string>
     <string name="Latestupdated">Terkini Dikemaskini</string>
     <string name="paidforfree">Dibayar Percuma</string>
-
     <string name="ToadyRecommend">Cadangan Toady \'s</string>
     <string name="hotmods">Mod Panas</string>
     <string name="hotrecommended">Disyorkan Hot</string>
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Cari aplikasi yang ingin anda muat naik:</string>
     <string name="addapost">Tambahkan siaran</string>
     <string name="launch_des">Cari Mod Kerja 100% \n Diunggah oleh pengguna; Disahkan oleh pengguna!</string>
     <string name="requestamod">Minta mod</string>
     <string name="uploadamod">Muat naik mod</string>
-
     <!--boundle 新增-->
     <string name="Installing">Memasang</string>
     <string name="bundleneedsfive">Maaf, Bundle memerlukan Android 5.0 dan lebih tinggi.</string>
     <string name="parsingerror">Ralat menguraikan apk atau dibatalkan.</string>
     <string name="tipsinstallok">Pemasangan berjaya.</string>
     <string name="tipsinstallfail">Pemasangan gagal, sila cuba lagi.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Maksimum 10MB setiap gambar.</string>
     <string name="Imagesmustbelessthan">Gambar mestilah kurang dari 10MB, harap kurangkan dimensi gambar, simpan semula atau eksport semula fail anda, dan cuba muat naik semula.</string>
-
     <string name="installfailed">Pemasangan gagal.</string>
     <string name="miuides">Sila hidupkan Pilihan Pembangun, matikan pengoptimuman MIUI dan cuba lagi.</string>
-
     <string name="playdes">Main</string>
     <string name="todayhotgame">Hari ini panas</string>
     <string name="newcoming">Baru masuk</string>
@@ -423,7 +358,6 @@
     <string name="peoplealsoplaygames">Orang yang bermain permainan ini juga bermain:</string>
     <string name="opencommunitydes">Sekiranya anda menjumpai orang dewasa atau entri yang tidak baik, sila klik butang laporan di sudut kanan atas siaran, dan kami akan memadam siaran dan menyekat poster pada kali pertama! Tolong bercakap beradab!</string>
     <string name="myreviews">Ulasan saya</string>
-
     <string name="tagthisapp">Tandakan aplikasi ini</string>
     <string name="appuploader">Aplikasi yang dimuat naik oleh</string>
     <string name="votedresult">Anda telah memilih aplikasi ini.</string>
@@ -432,7 +366,6 @@
     <string name="safetitle">Aplikasi apk Dijamin</string>
     <string name="safedes">Apk ini lulus ujian keselamatan untuk virus, malware. Ia menggunakan tandatangan digital yang dipercayai dan disahkan.</string>
     <string name="bereported">Anda telah melaporkannya.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Sila selesaikan barisan muat turun anda terlebih dahulu.</string>
     <string name="adduploadvideo">Tambahkan video: (pilihan)</string>
     <string name="uploadscreenshots">Muat naik tangkapan skrin (160 * 90)</string>
@@ -446,7 +379,6 @@
     <string name="uploadbanner">Muat naik sepanduk (720 * 406)</string>
     <string name="noedituploadtips">Anda tidak dapat menyerahkannya tanpa membuat perubahan.</string>
     <string name="addexcusiveaddressixit">Apk ini sudah ada.</string>
-
     <string name="itisworkingonyourdevice">Adakah ia berfungsi pada peranti anda?</string>
     <string name="no_working">Tidak bekerja</string>
     <string name="vote_it">Undi</string>
@@ -455,7 +387,6 @@
     <string name="nospyware">Tiada perisian pengintip</string>
     <string name="less">Kurang</string>
     <string name="votedandfail">Anda sudah menyemak, sila semak senarai "Ulasan saya".</string>
-
     <string name="fastdownloader">Muat turun Lebih pantas</string>
     <string name="usehtgetspeed">Gunakan HyperTorrent untuk mendapatkan kelajuan 200% +.</string>
     <string name="cleanfdft">bersih &amp; muat turun pantas untuk torrents</string>
@@ -467,13 +398,9 @@
     <string name="Cdnoadfree">Reka bentuk yang bersih, tanpa iklan &amp; 100% percuma!</string>
     <string name="wrhtdbf">Kami mengesyorkan HyperTorrent memuat turun fail besar.</string>
     <string name="nothanks">Tidak Terima kasih</string>
-
     <string name="Checkthenetwork">Periksa rangkaian</string>
     <string name="Configuringip">Mengkonfigurasi IP yang tersedia untuk anda</string>
     <string name="Configuringipfailed">Konfigurasi gagal, 8 IP dikesan tidak tersedia, sila gunakan VPN.</string>
-
     <string name="Donatedes">HappyMod adalah percuma, dan kami sangat membenci iklan seperti yang anda lakukan！ \ n \ nKami memerlukan sumbangan anda untuk memberikan muat turun yang lebih pantas dan lebih selamat. \ N \ nSabarlah dan cuba tonton iklan penuh untuk menyelesaikan sumbangan. \ N \ nTerima kasih！</string>
-
     <string name="viewstepdeti">Lihat butiran langkah</string>
-
 </resources>
