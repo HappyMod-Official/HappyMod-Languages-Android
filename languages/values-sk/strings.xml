@@ -1,10 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--斯洛伐克语-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -21,8 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
-
     <string name="Paid">zaplatil</string>
     <string name="GAME">Hra</string>
     <string name="APP">app</string>
@@ -38,8 +35,6 @@
     <string name="Recommended_New_Mods">Odporúčané nové režimy</string>
     <string name="Last_Update_Mods">Najnovšie aktualizácie</string>
     <string name="SearchHint">Vyhľadávanie..</string>
-
-
     <string name="Homeweb">Oficiálna web stránka</string>
     <string name="Management">management</string>
     <string name="Settings">nastavenie</string>
@@ -49,19 +44,13 @@
     <string name="Checkforupdate">Skontrolovať aktualizácie</string>
     <string name="FollowusonTwitter">sledujte nás na Twitteri</string>
     <string name="FollowusonFacebook">Sledujte nás na Facebooku</string>
-
-
     <string name="settings_network_remind">Upozornenie na mobilnú sieť</string>
     <string name="settings_auto_install">Automaticky nainštalovať</string>
     <string name="Download_Directory">Stiahnuť adresár</string>
     <string name="settings_other">ostatné</string>
     <string name="settings_clear_cache">Vymazať vyrovnávaciu pamäť</string>
     <string name="Clean_up_the_complete">Vyrovnávacia pamäť sa vymaže.</string>
-
-
     <string name="des_no_serach_result"> Och! Nenašli sa žiadne výsledky.</string>
-
-
     <string name="Downloads">K stiahnutiu</string>
     <string name="Downloading">sťahovanie</string>
     <string name="Finished">dokončené</string>
@@ -77,9 +66,6 @@
     <string name="Ratingsreviews">hodnotenie</string>
     <string name="Tryitlater">Skúste to neskôr</string>
     <string name="Serviceisbusy">Pripájanie ...</string>
-
-
-
     <string name="Notice">oznámenia</string>
     <string name="deletethistask">Odstrániť tento súbor</string>
     <string name="Cancel">Zrušiť</string>
@@ -88,8 +74,6 @@
     <string name="NotwhatIwant">Nie, čo chcem</string>
     <string name="Downloadfailed">Sťahovanie zlyhalo</string>
     <string name="Downloadistooslow">Sťahovanie je príliš pomalé</string>
-
-
     <string name="Mods">mods</string>
     <string name="Original">originál</string>
     <string name="Previousversion">Predošlá verzia</string>
@@ -97,8 +81,6 @@
     <string name="Downloadobb">Stiahnite si (APK+OBB)</string>
     <string name="Downloaddata">Download (APK+DATA)</string>
     <string name="Downloadboundle">Download BUNDLE</string>
-
-
     <string name="Downloaded">stiahnuť</string>
     <string name="Install">inštalovať</string>
     <string name="Connecting">Pripájanie ...</string>
@@ -108,24 +90,16 @@
     <string name="Recommend">odporučiť</string>
     <string name="Recommendmod">Odporúčané Mod</string>
     <string name="Moremods">Najnovšie verzie</string>
-
-
     <string name="Submit">Predložiť</string>
     <string name="Hated_it">Neznášam to!</string>
     <string name="Disliked_it">Nepáči sa to.</string>
     <string name="Its_ok">Je to v poriadku.</string>
     <string name="Liked_it">Páči sa mi to.</string>
     <string name="Loved_it">Milujem to!</string>
-
-
     <string name="share_happymod">Zdieľajte „HappyMod“ cez</string>
     <string name="share_subject">Získajte HappyMod</string>
     <string name="share_text">Stiahnuť 100% pracovné mody pomocou @HappyMod \ t</string>
-
-
     <string name="pref_location">Skladová lokácia</string>
-
-
     <string name="force_des">100% pracovné režimy</string>
     <string name="nvisrti">nová verzia je pripravená na inštaláciu.</string>
     <string name="OPEN">OTVORENÉ</string>
@@ -147,32 +121,20 @@
     <string name="initializing">Inicializácia</string>
     <string name="Retrying">Retrying</string>
     <string name="language">Jazyk</string>
-
-
-
     <string name="Popular">populárne</string>
     <string name="s_New">Nový</string>
     <string name="apps">aplikácie</string>
-
-
     <string name="mergering">Konečné spracovanie</string>
     <string name="mergerwait">Konečné spracovanie (Vyžaduje 1-2 minúty)</string>
-
-
-
     <string name="Startverification">Spustite overovanie</string>
     <string name="verificationShangXian">Och! Dosiahli ste denný limit preberania, skúste to znova po X hodinách.</string>
     <string name="verificationFail">Overenie zlyhalo, skúste to znova!</string>
     <string name="Morehelp">(Viac pomoci)</string>
     <string name="uid">ID používateľa</string>
     <string name="copysuccess">Userid bol skopírovaný do schránky.</string>
-
     <string name="watchnow">Zobraziť teraz</string>
     <string name="ggdownloading">Reklamy sa načítavajú, počkajte a nechajte Happymod otvorený.</string>
     <string name="verificaing">Pri overovaní počkajte chvíľu.</string>
-
-
-
     <string name="Removeads">Odstrániť reklamy</string>
     <string name="Paidforfree">Platené zadarmo</string>
     <string name="Unlimitedmoney">Neobmedzené peniaze</string>
@@ -199,8 +161,6 @@
     <string name="Unlimitedhints">Neobmedzené rady</string>
     <string name="Megamod">Mega mod</string>
     <string name="Full">plne</string>
-
-
     <string name="Username">užívateľské meno</string>
     <string name="Usernameinit">4-50 znakov</string>
     <string name="Usernametip">Iba písmená a-z, čísla, @. - _ Prosím (žiadne medzery alebo iné špeciálne znaky). 4-50 znakov.</string>
@@ -220,7 +180,6 @@
     <string name="Login">Prihlásiť sa</string>
     <string name="Account">účet</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">ALEBO sa prihláste pomocou svojho používateľského mena</string>
     <string name="newur">Registrácia nového používateľa</string>
     <string name="Usernameinitnew">Používateľské meno (4 - 50 znakov)</string>
@@ -231,7 +190,6 @@
     <string name="enteryEmail">Zadajte svoj e-mail</string>
     <string name="enteryPhone">Zadajte svoje telefónne číslo</string>
     <string name="signuptips">Ak zabudnete svoje heslo, budete ho potrebovať na získanie čísla „Telefónne číslo“ alebo „E-mail“. Odporúčame ich vyplniť.</string>
-
     <string name="confirmusername">Potvrďte používateľské meno</string>
     <string name="next">Ďalšie</string>
     <string name="fblogdes">Zadajte používateľské meno. Užívateľské meno je veľmi dôležitým identifikátorom na získanie hesla, majte na pamäti.</string>
@@ -260,8 +218,6 @@
     <string name="logout">Odhlásiť sa</string>
     <string name="passwordsame">Dve zadané heslá sú nekonzistentné</string>
     <string name="PopularComments">Populárne komentáre</string>
-
-
     <string name="Request">žiadosť</string>
     <string name="Youarerequesting">Žiadate:</string>
     <string name="Addrequest">Pridať požiadavku</string>
@@ -293,15 +249,11 @@
     <string name="messages">správy</string>
     <string name="RecommendMods">Odporučiť Mods</string>
     <string name="requestdetailserror">(50 - 4000 znakov)</string>
-
-    <string name="Changetheimage">Zmena obrázka >></string>
+    <string name="Changetheimage">Zmena obrázka &gt;&gt;</string>
     <string name="Typethecodeinthebox">Zadajte kód do poľa</string>
     <string name="Verificationerror">Overenie zlyhalo, skúste to znova.</string>
     <string name="Verifing">Overovanie …</string>
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Pred odstránením vyskúšajte iné servery</string>
     <string name="fix_tips_content">Chcete sa pripojiť k inému serveru a pokúsiť sa ho stiahnuť pred jeho odstránením?</string>
     <string name="fix_progress_title">Skenovacie servery</string>
@@ -309,14 +261,11 @@
     <string name="fix_failed_content">Momentálne nemáte k dispozícii žiadne servery. Skúste to znova neskôr.</string>
     <string name="fix_tips_failtitle">Žiadne ďalšie servery</string>
     <string name="fix_ok">Skús to</string>
-
-
     <!--社区 -->
     <string name="please_loginanddownload">Najskôr si stiahnite tento režim.</string>
     <string name="myvoted">Môj hlas</string>
     <string name="working">pracovné</string>
     <string name="inanhour">Hlasujte znova o hodinu.</string>
-
     <string name="Review">Preskúmanie</string>
     <string name="myreply">Moje odpovede</string>
     <string name="Post">pošta</string>
@@ -349,14 +298,12 @@
     <string name="tapandholdptodelete">Ak chcete obrázok odstrániť, klepnite a podržte.</string>
     <string name="addvideofaild">Pridanie videa zlyhalo！ Uistite sa, že vaša sieť môže prehľadávať video YouTube a znova ho pridať.</string>
     <string name="Video">video</string>
-
     <string name="Hotsearches">Horúce vyhľadávania</string>
     <string name="Hothashtags">Horúce značky hashtag</string>
     <string name="history">histórie</string>
     <string name="aboutthisgame">O tejto hre</string>
     <string name="details">podrobnosti</string>
     <string name="sellallreviews">Zobraziť všetky recenzie</string>
-
     <string name="hfivetitle">Rýchle hry</string>
     <string name="Recommended">odporúča</string>
     <string name="exit_tips">Opäť stlačte pre ukončenie hry</string>
@@ -364,53 +311,43 @@
     <string name="h5_menu_share">zdieľam</string>
     <string name="h5_menu_shortcut">Pridať na domovskú obrazovku</string>
     <string name="installplaywitouthti">Okamžitá hra bez nutnosti inštalácie</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">Och ...</string>
     <string name="crash_toast_message">Ľutujeme, výnimka aplikácie bude ukončená ， odošlite hlásenie o chybe e-mailom.</string>
     <string name="crash_dialog_message">Ľutujeme, výnimka z aplikácie, odošlite hlásenie o chybe e-mailom.</string>
     <string name="crash_dialog_feedback">Nahlásiť chyby</string>
     <string name="crash_dialog_restart">Reštart</string>
-
     <string name="init_fail">Inicializácia zlyhala, použite VPN alebo prejdite na iné siete.</string>
     <string name="error_file_des">Tento súbor bol odstránený a teraz sa znova sťahuje.</string>
-
     <string name="sdpermission">Potrebujeme prístup k vášmu externému úložisku. Uistite sa, že bolo povolenie udelené.</string>
     <string name="Night_Mode">Nočný mód</string>
-
     <string name="thisty">Používateľské meno je obsadené. Skúste iný. K dispozícii:</string>
-
     <!--home_feature-->
     <string name="Feature">predstavoval</string>
     <string name="editorpick">Vyber editora</string>
     <string name="PopularInlast">Populárne za posledných 24 hodín</string>
     <string name="Latestupdated">Posledná aktualizácia</string>
     <string name="paidforfree">Platené zadarmo</string>
-
     <string name="ToadyRecommend">Odporúčanie Toady</string>
     <string name="hotmods">Hot Mods</string>
     <string name="hotrecommended">Odporúča sa</string>
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Odovzdajte mod</string>
     <string name="addapost">Pridajte príspevok</string>
     <string name="launch_des">Nájdite 100% pracovných režimov \n Nahrávané používateľmi; Overené používateľmi!</string>
     <string name="requestamod">Vyžiadajte si mod</string>
     <string name="uploadamod">Odovzdajte mod</string>
-
     <!--boundle 新增-->
     <string name="Installing">inštalácia</string>
     <string name="bundleneedsfive">Ľutujeme, balík Bundle potrebuje systém Android 5.0 a novší.</string>
     <string name="parsingerror">Chyba pri analýze súboru APK alebo zrušená.</string>
     <string name="tipsinstallok">Inštalácia bola úspešná.</string>
     <string name="tipsinstallfail">Inštalácia zlyhala, skúste znova.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Maximálne 10 MB na obrázok.</string>
     <string name="Imagesmustbelessthan">Obrázky musia byť menšie ako 10 MB, zmenšite rozmery obrázka, znova uložte alebo znova exportujte súbor a skúste ho znova nahrať.</string>
     <string name="installfailed">Inštalácia zlyhala.</string>
     <string name="miuides">Zapnite možnosti vývojára, vypnite optimalizáciu MIUI a skúste to znova.</string>
-
     <string name="playdes">hrať</string>
     <string name="todayhotgame">Dnes je horúco</string>
     <string name="newcoming">Nové prichádzajúce</string>
@@ -419,10 +356,8 @@
     <string name="finditin">Nájdite to v X</string>
     <string name="needhelp">Potrebujete pomoc?</string>
     <string name="peoplealsoplaygames">Ľudia hrali túto hru tiež hrali:</string>
-
     <string name="opencommunitydes">Ak nájdete príspevok pre dospelých alebo akýkoľvek zlý príspevok, kliknite na tlačidlo nahlásiť v pravom hornom rohu príspevku. Príspevok odstránime a plagát zablokujeme prvýkrát! Prosím, hovorte civilizovane!</string>
     <string name="myreviews">Moje recenzie</string>
-
     <string name="tagthisapp">Nahlásiť túto aplikáciu</string>
     <string name="appuploader">Aplikáciu nahral používateľ</string>
     <string name="votedresult">Už ste hlasovali pre túto aplikáciu.</string>
@@ -431,7 +366,6 @@
     <string name="safetitle">Aplikácia APK zaručená</string>
     <string name="safedes">Tento apk prešiel bezpečnostným testom na vírus, malware. Využíval dôveryhodný a overený digitálny podpis.</string>
     <string name="bereported">Nahlásili ste to.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Najskôr dokončite poradie sťahovania.</string>
     <string name="adduploadvideo">Pridať video: (voliteľné)</string>
     <string name="uploadscreenshots">Nahrajte snímky obrazovky (160 * 90)</string>
@@ -445,7 +379,6 @@
     <string name="uploadbanner">Nahrať banner (720 * 406)</string>
     <string name="noedituploadtips">Nemôžete ju odoslať bez vykonania akýchkoľvek zmien.</string>
     <string name="addexcusiveaddressixit">Tento apk už existuje.</string>
-
     <string name="itisworkingonyourdevice">Funguje to na vašom zariadení?</string>
     <string name="no_working">Nefunguje</string>
     <string name="vote_it">Hlasujte za to</string>
@@ -453,9 +386,7 @@
     <string name="nomalware">Žiadny malware</string>
     <string name="nospyware">Žiadny spyvér</string>
     <string name="less">Menej</string>
-
     <string name="votedandfail">Už ste skontrolovali, pozrite si zoznam „Moje recenzie“.</string>
-
     <string name="fastdownloader">Rýchlejšie sťahovanie</string>
     <string name="usehtgetspeed">Použite HyperTorrent a získate rýchlosť vyššiu ako 200%.</string>
     <string name="cleanfdft">čisté &amp; rýchly downloader pre torrenty</string>
@@ -467,13 +398,9 @@
     <string name="Cdnoadfree">Čistý dizajn, žiadna reklama &amp; 100% zadarmo!</string>
     <string name="wrhtdbf">HyperTorrent odporúčame na sťahovanie veľkých súborov.</string>
     <string name="nothanks">Nie ďakujem</string>
-
     <string name="Checkthenetwork">Skontrolujte sieť</string>
     <string name="Configuringip">Konfiguruje sa pre vás dostupná IP</string>
     <string name="Configuringipfailed">Konfigurácia zlyhala, zistilo sa, že 8 adries IP nie je k dispozícii, skúste použiť VPN.</string>
-
     <string name="Donatedes">HappyMod je úplne zadarmo a rovnako ako vy nenávidíme aj vaše reklamy！ \ n \ n Potrebujeme váš dar, aby sme zabezpečili rýchlejšie a bezpečnejšie sťahovanie. \ N \ n Buďte trpezliví a na dokončenie daru sa snažte pozrieť si všetky reklamy. \ N \ nĎakujem！</string>
-
     <string name="viewstepdeti">Zobraziť podrobnosti kroku</string>
-
 </resources>
