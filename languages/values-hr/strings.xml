@@ -1,11 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--克罗地亚语-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -22,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <string name="Paid">plaćen</string>
     <string name="GAME">igra</string>
     <string name="APP">Aplikacija</string>
@@ -38,8 +35,6 @@
     <string name="Recommended_New_Mods">Preporučeni novi modovi</string>
     <string name="Last_Update_Mods">Najnovija ažuriranja</string>
     <string name="SearchHint">Traži..</string>
-
-
     <string name="Homeweb">Službena stranica</string>
     <string name="Management">Upravljanje</string>
     <string name="Settings">postavke</string>
@@ -49,19 +44,13 @@
     <string name="Checkforupdate">Potražite ažuriranje</string>
     <string name="FollowusonTwitter">Pratite nas na Twitteru</string>
     <string name="FollowusonFacebook">Pratite nas na Facebooku</string>
-
-
     <string name="settings_network_remind">Upozorenje mobilne mreže</string>
     <string name="settings_auto_install">Automatski instaliraj</string>
     <string name="Download_Directory">Download Directory</string>
     <string name="settings_other">drugo</string>
     <string name="settings_clear_cache">Očisti predmemoriju</string>
     <string name="Clean_up_the_complete">Predmemorija je izbrisana.</string>
-
-
     <string name="des_no_serach_result"> Uh! Nema rezultata.</string>
-
-
     <string name="Downloads">Preuzimanja</string>
     <string name="Downloading">preuzimanje</string>
     <string name="Finished">Gotovi</string>
@@ -77,9 +66,6 @@
     <string name="Ratingsreviews">ocjene</string>
     <string name="Tryitlater">Pokušajte kasnije</string>
     <string name="Serviceisbusy">Povezivanje ...</string>
-
-
-
     <string name="Notice">Obavijest</string>
     <string name="deletethistask">Izbrišite ovu datoteku</string>
     <string name="Cancel">Otkazati</string>
@@ -88,8 +74,6 @@
     <string name="NotwhatIwant">Ne ono što želim</string>
     <string name="Downloadfailed">Preuzimanje nije uspjelo</string>
     <string name="Downloadistooslow">Preuzimanje je presporo</string>
-
-
     <string name="Mods">Modovi</string>
     <string name="Original">Izvornik</string>
     <string name="Previousversion">Prethodna verzija</string>
@@ -97,8 +81,6 @@
     <string name="Downloadobb">Preuzmite(APK+OBB)</string>
     <string name="Downloaddata">Preuzimanje(APK+DATA)</string>
     <string name="Downloadboundle">Preuzimanje BUNDLE</string>
-
-
     <string name="Downloaded">preuzete</string>
     <string name="Install">Instalirati</string>
     <string name="Connecting">Povezivanje ...</string>
@@ -108,24 +90,16 @@
     <string name="Recommend">Preporuči</string>
     <string name="Recommendmod">Preporučeni mod</string>
     <string name="Moremods">Najnovije verzije</string>
-
-
     <string name="Submit">podnijeti</string>
     <string name="Hated_it">Mrziti!</string>
     <string name="Disliked_it">Ne sviđa mi se.</string>
     <string name="Its_ok">U redu je.</string>
     <string name="Liked_it">Sviđa mi se.</string>
     <string name="Loved_it">Volim to!</string>
-
-
     <string name="share_happymod">Podijelite "HappyMod" putem</string>
     <string name="share_subject">Nabavite HappyMod</string>
     <string name="share_text">Preuzmite modele koji rade 100% s radom @HappyMod</string>
-
-
     <string name="pref_location">Mjesto pohrane</string>
-
-
     <string name="force_des">100% radni modovi</string>
     <string name="nvisrti">nova verzija je spremna za instalaciju.</string>
     <string name="OPEN">OTVORENA</string>
@@ -147,32 +121,20 @@
     <string name="initializing">Inicijalizacija</string>
     <string name="Retrying">Ponovni pokušaj</string>
     <string name="language">Jezik</string>
-
-
-
     <string name="Popular">Popularan</string>
     <string name="s_New">Novi</string>
     <string name="apps">Aplikacije</string>
-
-
     <string name="mergering">Završna obrada</string>
     <string name="mergerwait">Završna obrada (treba 1-2 minute)</string>
-
-
-
     <string name="Startverification">Započni provjeru</string>
     <string name="verificationShangXian">Uh! Dostigli ste dnevno ograničenje preuzimanja, pokušajte ponovo nakon X sati.</string>
     <string name="verificationFail">Potvrda nije uspjela, pokušajte ponovno!</string>
     <string name="Morehelp">(Više pomoći)</string>
     <string name="uid">Id Korisnika</string>
     <string name="copysuccess">Userid je kopiran u međuspremnik.</string>
-
     <string name="watchnow">Prikaži sada</string>
     <string name="ggdownloading">Oglasi se učitavaju, pričekajte i čuvajte sretan.</string>
     <string name="verificaing">Prilikom potvrde pričekajte trenutak.</string>
-
-
-
     <string name="Removeads">Makni reklame</string>
     <string name="Paidforfree">Plaćeno besplatno</string>
     <string name="Unlimitedmoney">Neograničen novac</string>
@@ -199,8 +161,6 @@
     <string name="Unlimitedhints">Neograničeni savjeti</string>
     <string name="Megamod">Mega mod</string>
     <string name="Full">puni</string>
-
-
     <string name="Username">Korisničko ime</string>
     <string name="Usernameinit">4-50 znakova</string>
     <string name="Usernametip">Samo slova a-z, brojevi, @. - _ molim (nema razmaka ili drugih posebnih znakova). 4-50 znakova.</string>
@@ -220,7 +180,6 @@
     <string name="Login">Prijaviti se</string>
     <string name="Account">Račun</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">ILI prijavite se sa svojim korisničkim imenom</string>
     <string name="newur">Registracija nove korisnice</string>
     <string name="Usernameinitnew">Korisničko ime (4-50 znakova)</string>
@@ -231,7 +190,6 @@
     <string name="enteryEmail">Upišite svoju e-mail adresu</string>
     <string name="enteryPhone">Unesite vaš telefonski broj</string>
     <string name="signuptips">Kada zaboravite zaporku, trebat će vam "Telefonski broj" ili "E-pošta" za preuzimanje. Preporučujemo da ih ispunite.</string>
-
     <string name="confirmusername">Potvrdite korisničko ime</string>
     <string name="next">Sljedeći</string>
     <string name="fblogdes">Unesite korisničko ime. Korisničko ime je vrlo važan identifikator za dohvaćanje zaporke, imajte na umu.</string>
@@ -260,8 +218,6 @@
     <string name="logout">Odjaviti se</string>
     <string name="passwordsame">Dvije lozinke koje ste unijeli nisu konzistentne</string>
     <string name="PopularComments">Popularni komentari</string>
-
-
     <string name="Request">Zahtjev</string>
     <string name="Youarerequesting">Tražite:</string>
     <string name="Addrequest">Dodaj zahtjev</string>
@@ -293,15 +249,11 @@
     <string name="messages">poruke</string>
     <string name="RecommendMods">Preporučujemo modove</string>
     <string name="requestdetailserror">(50-4000 znakova)</string>
-
-    <string name="Changetheimage">Promijenite sliku >></string>
+    <string name="Changetheimage">Promijenite sliku &gt;&gt;</string>
     <string name="Typethecodeinthebox">Upišite kôd u okvir</string>
     <string name="Verificationerror">Potvrda nije uspjela. Pokušajte ponovo.</string>
     <string name="Verifing">Provjera …</string>
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Prije brisanja pokušajte s drugim poslužiteljima</string>
     <string name="fix_tips_content">Želite li se povezati s drugim poslužiteljem kako biste ga pokušali preuzeti prije brisanja?</string>
     <string name="fix_progress_title">Skeniranje poslužitelja</string>
@@ -309,15 +261,11 @@
     <string name="fix_failed_content">Trenutno vam nisu dostupni poslužitelji. Pokušajte ponovo kasnije.</string>
     <string name="fix_tips_failtitle">Nema više poslužitelja</string>
     <string name="fix_ok">Probaj</string>
-
-
     <!--社区 -->
     <string name="please_loginanddownload">Molimo prvo preuzmite ovaj mod.</string>
     <string name="myvoted">Moj glas</string>
     <string name="working">Radna</string>
     <string name="inanhour">Molim vas, glasajte ponovo za sat vremena.</string>
-
-
     <string name="Review">Pregled</string>
     <string name="myreply">Moji odgovori</string>
     <string name="Post">pošta</string>
@@ -350,14 +298,12 @@
     <string name="tapandholdptodelete">Dodirnite i držite sliku da biste je izbrisali.</string>
     <string name="addvideofaild">Dodavanje videozapisa nije uspjelo！ Provjerite može li vaša mreža pregledavati Youtube video i ponovo ga dodati.</string>
     <string name="Video">Video</string>
-
     <string name="Hotsearches">Najnovije pretrage</string>
     <string name="Hothashtags">Vruće hashtagove</string>
     <string name="history">Povijest</string>
     <string name="aboutthisgame">O ovoj igri</string>
     <string name="details">Detalji</string>
     <string name="sellallreviews">Pogledajte sve recenzije</string>
-
     <string name="hfivetitle">Brze igre</string>
     <string name="Recommended">Preporučeni</string>
     <string name="exit_tips">Ponovno pritisnite za povratak da biste izašli iz igre</string>
@@ -365,34 +311,26 @@
     <string name="h5_menu_share">Udio</string>
     <string name="h5_menu_shortcut">Dodaj na početni zaslon</string>
     <string name="installplaywitouthti">Instant igra bez instalacije</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">Ups ...</string>
     <string name="crash_toast_message">Nažalost, izuzetak APP-a bit će izlaz ， pošaljite svoje izvješće o pogrešci e-poštom.</string>
     <string name="crash_dialog_message">Nažalost, iznimka APP-a, pošaljite svoje izvješće o pogrešci putem e-pošte.</string>
     <string name="crash_dialog_feedback">Prijavite greške</string>
     <string name="crash_dialog_restart">Ponovno pokretanje</string>
-
     <string name="init_fail">Inicijalizacija nije uspjela. Koristite VPN ili promijenite na druge mreže.</string>
     <string name="error_file_des">Ova je datoteka izbrisana i sada se ponovno preuzima.</string>
     <string name="sdpermission">Moramo pristupiti vašoj vanjskoj pohrani. Provjerite je li odobrenje odobreno.</string>
-
     <string name="Night_Mode">Noćni način</string>
-
     <string name="thisty">Korisničko ime je zauzeto. Pokušajte s drugim. Dostupno:</string>
-
     <!--home_feature-->
     <string name="Feature">Istaknuti</string>
     <string name="editorpick">Odabir urednika</string>
     <string name="PopularInlast">Popularno u posljednja 24 sata</string>
     <string name="Latestupdated">Najnovije ažurirano</string>
     <string name="paidforfree">Plaćeno besplatno</string>
-
     <string name="ToadyRecommend">Toady \'s preporuka</string>
     <string name="hotmods">Hot Mods</string>
     <string name="hotrecommended">Preporučuje se vruće</string>
-
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Pretražite aplikaciju koju želite prenijeti:</string>
     <string name="addapost">Dodajte post</string>
@@ -405,14 +343,11 @@
     <string name="parsingerror">Pogreška pri raščlanjivanju apk ili otkazana.</string>
     <string name="tipsinstallok">Instalacija je bila uspješna.</string>
     <string name="tipsinstallfail">Instalacija nije uspjela. Pokušajte ponovo.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Maks. 10 MB po slici.</string>
     <string name="Imagesmustbelessthan">Slike moraju biti manje od 10 MB, smanjite dimenzije slike, ponovno spremite ili ponovo izvezite datoteku i pokušajte je ponovo prenijeti.</string>
-
     <string name="installfailed">Instalacija nije uspjela.</string>
     <string name="miuides">Uključite opcije za razvojne programere, isključite MIUI optimizaciju i pokušajte ponovo.</string>
-
     <string name="playdes">igra</string>
     <string name="todayhotgame">Danas je vruće</string>
     <string name="newcoming">Novi dolazni</string>
@@ -421,10 +356,8 @@
     <string name="finditin">Pronađite ga u X</string>
     <string name="needhelp">Trebate pomoć?</string>
     <string name="peoplealsoplaygames">Ljudi su igrali ovu igru također igrali:</string>
-
     <string name="opencommunitydes">Ako pronađete odraslu osobu ili bilo kakav loš post, kliknite gumb za prijavu u gornjem desnom kutu posta, a mi ćemo prvi put izbrisati post i blokirati poster! Molim vas, govorite civilizirano!</string>
     <string name="myreviews">Moje kritike</string>
-
     <string name="tagthisapp">Označi ovu aplikaciju</string>
     <string name="appuploader">Aplikaciju prenio</string>
     <string name="votedresult">Već ste glasali za ovu aplikaciju.</string>
@@ -432,9 +365,7 @@
     <string name="please_downlaodthisapp">Prvo preuzmite ovu aplikaciju.</string>
     <string name="safetitle">Aplikacija aplikacije zajamčena</string>
     <string name="safedes">Ovaj je apk prošao sigurnosni test za virus, zlonamjerni softver. Koristio je pouzdani i provjereni digitalni potpis.</string>
-
     <string name="bereported">Prijavili ste to.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Prvo dovršite svoj red za preuzimanje.</string>
     <string name="adduploadvideo">Dodaj videozapis: (nije obavezno)</string>
     <string name="uploadscreenshots">Prenesite snimke zaslona (160 * 90)</string>
@@ -448,7 +379,6 @@
     <string name="uploadbanner">Prijenos natpisa (720 * 406)</string>
     <string name="noedituploadtips">Ne možete ga poslati bez ikakvih promjena.</string>
     <string name="addexcusiveaddressixit">Ovaj apk već postoji.</string>
-
     <string name="itisworkingonyourdevice">Radi li na vašem uređaju?</string>
     <string name="no_working">Ne radi</string>
     <string name="vote_it">Glasajte</string>
@@ -456,9 +386,7 @@
     <string name="nomalware">Nema zlonamjernog softvera</string>
     <string name="nospyware">Nema špijunskog softvera</string>
     <string name="less">Manje</string>
-
     <string name="votedandfail">Već ste pregledali, provjerite popis "Moje recenzije".</string>
-
     <string name="fastdownloader">Brže preuzimanje</string>
     <string name="usehtgetspeed">Koristite HyperTorrent da biste postigli 200% + brzinu.</string>
     <string name="cleanfdft">očistiti &amp; brzi downloader za bujice</string>
@@ -470,12 +398,9 @@
     <string name="Cdnoadfree">Čist dizajn, bez oglasa &amp; 100% besplatno!</string>
     <string name="wrhtdbf">HyperTorrent preporučujemo za preuzimanje velikih datoteka.</string>
     <string name="nothanks">Ne hvala</string>
-
     <string name="Checkthenetwork">Provjerite mrežu</string>
     <string name="Configuringip">Konfiguriranje dostupne IP adrese za vas</string>
     <string name="Configuringipfailed">Konfiguracija nije uspjela, otkriveno je da 8 IP-ova nije dostupno, pokušajte koristiti VPN.</string>
-
     <string name="Donatedes">HappyMod je potpuno besplatan, a mi mrzimo oglase koliko i vi！ \ n \ nTreba nam vaša donacija za brže i sigurnije preuzimanje. \ N \ nMolimo vas budite strpljivi i pokušajte pogledati cjelovite oglase kako biste dovršili donaciju. \ N \ nHvala vam！</string>
-
     <string name="viewstepdeti">Pogledajte detalje koraka</string>
 </resources>
