@@ -1,12 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!--越南-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,8 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
-
     <!--首页-->
     <string name="Paid">Đã thanh toán</string>
     <string name="GAME">Trò chơi</string>
@@ -41,7 +36,6 @@
     <string name="Recommended_New_Mods">Đề xuất Mod mới</string>
     <string name="Last_Update_Mods">Cập nhật mới nhất</string>
     <string name="SearchHint">Tìm kiếm..</string>
-
     <!-- 侧滑-->
     <string name="Homeweb">Trang web chinh thưc</string>
     <string name="Management">Sự quản lý</string>
@@ -52,7 +46,6 @@
     <string name="Checkforupdate">Kiểm tra cập nhật</string>
     <string name="FollowusonTwitter">theo dõi chúng tối trên Twitter</string>
     <string name="FollowusonFacebook">Hãy theo dõi chúng tôi trên Facebook</string>
-
     <!--设置页-->
     <string name="settings_network_remind">Cảnh báo mạng di động</string>
     <string name="settings_auto_install">Tự động cài đặt</string>
@@ -60,10 +53,8 @@
     <string name="settings_other">Khác</string>
     <string name="settings_clear_cache">Xóa bộ nhớ cache</string>
     <string name="Clean_up_the_complete">Bộ nhớ cache bị xóa.</string>
-
     <!--空数据页-->
     <string name="des_no_serach_result"> Rất tiếc! Không có kết quả nào.</string>
-
     <!--下载管理页-->
     <string name="Downloads">Tải xuống</string>
     <string name="Downloading">Đang tải xuống</string>
@@ -80,8 +71,6 @@
     <string name="Ratingsreviews">Xếp hạng &amp; Nhận xét</string>
     <string name="Tryitlater">Thử lại sau nhé</string>
     <string name="Serviceisbusy">Kết nối...</string>
-
-
     <!-- 下载删除的文字 -->
     <string name="Notice">Để ý</string>
     <string name="deletethistask">Xóa tập tin này</string>
@@ -91,8 +80,6 @@
     <string name="NotwhatIwant">Không phải những gì tôi muốn</string>
     <string name="Downloadfailed">Tải xuống thất bại</string>
     <string name="Downloadistooslow">Tải xuống quá chậm</string>
-
-
     <!--APP详情页-->
     <string name="Mods">Mod</string>
     <string name="Original">Nguyên</string>
@@ -101,8 +88,6 @@
     <string name="Downloadobb">Tải về(APK+OBB)</string>
     <string name="Downloaddata">Tải về(APK+DATA)</string>
     <string name="Downloadboundle">Tải về BUNDLE</string>
-
-
     <string name="Downloaded">Đã tải xuống</string>
     <string name="Install">cài đặt, dựng lên</string>
     <string name="Connecting">Kết nối...</string>
@@ -112,8 +97,6 @@
     <string name="Recommend">Giới thiệu</string>
     <string name="Recommendmod">Đề xuất Mod</string>
     <string name="Moremods">Nhiều Mod hơn</string>
-
-
     <!--评分-->
     <string name="Submit">Gửi đi</string>
     <string name="Hated_it">Ghét nó!</string>
@@ -121,16 +104,12 @@
     <string name="Its_ok">Ổn mà.</string>
     <string name="Liked_it">Thích nó</string>
     <string name="Loved_it">Yêu nó!</string>
-
-
     <!--分享-->
     <string name="share_happymod">Chia sẻ ‘HappyMod, qua</string>
     <string name="share_subject">Nhận HappyMod</string>
     <string name="share_text">Tải về mod hoạt động 100% với @HappyMod\nhttps://www.happymod.com/</string>
-
     <!--修改路径-->
     <string name="pref_location">Khu vực lưu trữ</string>
-
     <!--update -->
     <string name="force_des">100% chế độ làm việc</string>
     <string name="nvisrti">phiên bản mới đã sẵn sàng để cài đặt.</string>
@@ -153,18 +132,13 @@
     <string name="initializing">Đang khởi tạo</string>
     <string name="Retrying">Đang thử lại</string>
     <string name="language">Ngôn ngữ</string>
-
     <!--类别界面 -->
-
     <string name="Popular">Phổ biến</string>
     <string name="s_New">Mới</string>
     <string name="apps">Ứng dụng</string>
-
-
     <!-- 大文件 -->
     <string name="mergering">Xử lý cuối cùng</string>
     <string name="mergerwait">Xử lý cuối cùng (Cần 1-2 phút)</string>
-
     <!-- 验证 -->
     <string name="Startverification">Bắt đầu xác minh</string>
     <string name="verificationShangXian">Rất tiếc! Bạn đã đạt đến giới hạn tải xuống hàng ngày, hãy thử lại sau X giờ.</string>
@@ -172,11 +146,9 @@
     <string name="Morehelp">(Giúp đỡ nhiều hơn)</string>
     <string name="uid">Tên người dùng</string>
     <string name="copysuccess">Userid đã được sao chép vào clipboard.</string>
-
     <string name="watchnow">Xem ngay</string>
     <string name="ggdownloading">Quảng cáo đang tải, vui lòng đợi và tiếp tục mở happymod.</string>
     <string name="verificaing">Xin vui lòng chờ trong khi xác minh.</string>
-
     <!-- 评价 -->
     <string name="Removeads">Xóa quảng cáo</string>
     <string name="Paidforfree">Miễn phí</string>
@@ -204,7 +176,6 @@
     <string name="Unlimitedhints">Dấu nhắc vô hạn</string>
     <string name="Megamod">Nhiều vết nứt</string>
     <string name="Full">Phiên bản đầy đủ</string>
-
     <!-- 注册登录 -->
     <string name="Username">Tên đăng nhập</string>
     <string name="Usernameinit">4-50 ký tự</string>
@@ -225,7 +196,6 @@
     <string name="Login">Đăng nhập</string>
     <string name="Account">Tài khoản</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">HOẶC đăng nhập với tên người dùng của bạn</string>
     <string name="newur">Đăng Ký Người Dùng Mới</string>
     <string name="Usernameinitnew">Tên người dùng (4-50 ký tự)</string>
@@ -236,7 +206,6 @@
     <string name="enteryEmail">Nhập email của bạn</string>
     <string name="enteryPhone">Nhập số điện thoại của bạn</string>
     <string name="signuptips">Khi bạn quên mật khẩu, bạn sẽ cần "Số điện thoại" hoặc "Email" để truy xuất. Chúng tôi khuyên bạn nên hoàn thành chúng.</string>
-
     <string name="confirmusername">Xác thực tên người dùng</string>
     <string name="next">Kế tiếp</string>
     <string name="fblogdes">Vui lòng nhập tên người dùng. Tên người dùng là một định danh rất quan trọng để lấy lại mật khẩu, xin lưu ý.</string>
@@ -265,8 +234,6 @@
     <string name="logout">Đăng xuất</string>
     <string name="passwordsame">Hai mật khẩu bạn đã nhập không nhất quán</string>
     <string name="PopularComments">Bình luận phổ biến</string>
-
-
     <string name="Request">Yêu cầu</string>
     <string name="Youarerequesting">Bạn đang yêu cầu:</string>
     <string name="Addrequest">Thêm yêu cầu</string>
@@ -298,15 +265,11 @@
     <string name="messages">Tin nhắn</string>
     <string name="RecommendMods">Đề nghị Mod</string>
     <string name="requestdetailserror">(50-4000 ký tự)</string>
-
-    <string name="Changetheimage">Thay đổi hình ảnh >></string>
+    <string name="Changetheimage">Thay đổi hình ảnh &gt;&gt;</string>
     <string name="Typethecodeinthebox">Nhập mã vào ô</string>
     <string name="Verificationerror">Mã xác nhận thất bại. Vui lòng thử lại.</string>
     <string name="Verifing">Đang xác minh</string>
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Hãy thử các máy chủ khác trước khi xóa</string>
     <string name="fix_tips_content">Bạn có muốn kết nối với một máy chủ khác để thử tải xuống trước khi xóa nó không?</string>
     <string name="fix_progress_title">Máy chủ quét</string>
@@ -314,14 +277,11 @@
     <string name="fix_failed_content">Hiện tại không có máy chủ có sẵn cho bạn, vui lòng thử lại sau.</string>
     <string name="fix_tips_failtitle">Không còn máy chủ</string>
     <string name="fix_ok">Thử nó</string>
-
-
     <!--社区 -->
     <string name="please_loginanddownload">Vui lòng tải mod này trước.</string>
     <string name="myvoted">Phiếu bầu của tôi</string>
     <string name="working">Đang làm việc</string>
     <string name="inanhour">Hãy bỏ phiếu lại sau một giờ nữa.</string>
-
     <string name="Review">Ôn tập</string>
     <string name="myreply">Câu trả lời của tôi</string>
     <string name="Post">Bài đăng</string>
@@ -354,15 +314,12 @@
     <string name="tapandholdptodelete">Chạm và giữ hình ảnh để xóa nó.</string>
     <string name="addvideofaild">Thêm video không thành công！ Vui lòng đảm bảo rằng mạng của bạn có thể duyệt video Youtube và thêm lại.</string>
     <string name="Video">Video</string>
-
     <string name="Hotsearches">Tìm kiếm hấp dẫn</string>
     <string name="Hothashtags">Hashtags nóng</string>
     <string name="history">Lịch sử</string>
     <string name="aboutthisgame">Về trò chơi này</string>
     <string name="details">Chi tiết</string>
     <string name="sellallreviews">Xem tất cả các đánh giá</string>
-
-
     <string name="hfivetitle">Trò chơi nhanh</string>
     <string name="Recommended">Đề xuất</string>
     <string name="exit_tips">Nhấn lại lần nữa để thoát khỏi trò chơi</string>
@@ -370,56 +327,43 @@
     <string name="h5_menu_share">Chia sẻ</string>
     <string name="h5_menu_shortcut">Thêm vào màn hình chính</string>
     <string name="installplaywitouthti">Chơi ngay mà không cần phải cài đặt</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">Rất tiếc ...</string>
     <string name="crash_toast_message">Xin lỗi, ngoại lệ APP, sẽ được thoát ， vui lòng gửi báo cáo lỗi của bạn qua email.</string>
     <string name="crash_dialog_message">Xin lỗi, ngoại lệ APP, vui lòng gửi báo cáo lỗi của bạn qua email.</string>
     <string name="crash_dialog_feedback">Báo cáo lỗi</string>
     <string name="crash_dialog_restart">Khởi động lại</string>
-
     <string name="init_fail">Khởi tạo thất bại, vui lòng sử dụng VPN hoặc thay đổi sang các mạng khác.</string>
     <string name="error_file_des">Tập tin này đã bị xóa và hiện đang được tải xuống lại.</string>
-
-
     <string name="sdpermission">Chúng tôi cần truy cập vào bộ nhớ ngoài của bạn. Vui lòng đảm bảo rằng quyền được cấp.</string>
     <string name="Night_Mode">Chế độ ban đêm</string>
-
     <string name="thisty">Tên người dùng đó đã được sử dụng. Thử cái khác. Có sẵn:</string>
-
     <!--home_feature-->
     <string name="Feature">Đặc sắc</string>
     <string name="editorpick">Lựa chọn của biên tập viên</string>
     <string name="PopularInlast">Phổ biến trong 24 giờ qua</string>
     <string name="Latestupdated">Cập nhật mới nhất</string>
     <string name="paidforfree">Được trả tiền miễn phí</string>
-
     <string name="ToadyRecommend">Đề nghị của Toady</string>
     <string name="hotmods">Mod nóng</string>
     <string name="hotrecommended">Khuyến nghị nóng</string>
-
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Tìm kiếm ứng dụng bạn muốn tải lên:</string>
     <string name="addapost">Thêm một bài viết</string>
     <string name="launch_des">Tìm 100% Mod hoạt động \ nUploaded bởi người dùng; Được xác minh bởi người dùng!</string>
     <string name="requestamod">Yêu cầu một mod</string>
     <string name="uploadamod">Tải lên một mod</string>
-
     <!--boundle 新增-->
     <string name="Installing">Cài đặt</string>
     <string name="bundleneedsfive">Xin lỗi, Bundle cần Android 5.0 trở lên.</string>
     <string name="parsingerror">Lỗi phân tích apk hoặc hủy bỏ.</string>
     <string name="tipsinstallok">Việc cài đặt đã thành công.</string>
     <string name="tipsinstallfail">Cài đặt thất bại, vui lòng thử lại.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Tối đa 10 MB cho mỗi hình ảnh.</string>
     <string name="Imagesmustbelessthan">Hình ảnh phải nhỏ hơn 10 MB, vui lòng giảm kích thước hình ảnh, lưu lại hoặc xuất lại tệp của bạn và thử tải lên lại.</string>
-
     <string name="installfailed">Cài đặt thất bại.</string>
     <string name="miuides">Vui lòng bật Tùy chọn nhà phát triển, tắt tối ưu hóa MIUI và thử lại.</string>
-
     <string name="playdes">Chơi</string>
     <string name="todayhotgame">Hôm nay nóng</string>
     <string name="newcoming">Mới đến</string>
@@ -428,21 +372,16 @@
     <string name="finditin">Tìm nó trong X</string>
     <string name="needhelp">Cần giúp đỡ?</string>
     <string name="peoplealsoplaygames">Những người đã chơi trò chơi này cũng đã chơi:</string>
-
     <string name="opencommunitydes">Nếu phát hiện người lớn hoặc bài nào xấu, vui lòng bấm vào nút report ở góc trên bên phải bài, chúng tôi sẽ xóa bài và chặn người đăng trong lần đầu tiên! Hãy ăn nói văn minh!</string>
     <string name="myreviews">Đánh giá của tôi</string>
-
     <string name="tagthisapp">Gắn cờ ứng dụng này</string>
     <string name="appuploader">Ứng dụng được tải lên bởi</string>
     <string name="votedresult">Bạn đã bình chọn cho ứng dụng này.</string>
     <string name="votedokok">Phiếu bầu của bạn đã được gửi thành công.</string>
     <string name="please_downlaodthisapp">Vui lòng tải xuống ứng dụng này trước.</string>
-
     <string name="safetitle">Ứng dụng apk được đảm bảo</string>
     <string name="safedes">Gói ứng dụng này đã vượt qua bài kiểm tra bảo mật về vi rút, phần mềm độc hại. Nó đã sử dụng một chữ ký số đáng tin cậy và đã được xác minh.</string>
     <string name="bereported">Bạn đã báo cáo nó.</string>
-
-
     <string name="pleasefinishyourdownloadingqueu">Vui lòng hoàn thành hàng đợi tải xuống của bạn trước.</string>
     <string name="adduploadvideo">Thêm video: (tùy chọn)</string>
     <string name="uploadscreenshots">Tải lên ảnh chụp màn hình (160 * 90)</string>
@@ -456,7 +395,6 @@
     <string name="uploadbanner">Tải lên biểu ngữ (720 * 406)</string>
     <string name="noedituploadtips">Bạn không thể gửi nó mà không thực hiện bất kỳ thay đổi nào.</string>
     <string name="addexcusiveaddressixit">Apk này đã tồn tại.</string>
-
     <string name="itisworkingonyourdevice">Nó có hoạt động trên thiết bị của bạn không?</string>
     <string name="no_working">Không làm việc</string>
     <string name="vote_it">Bầu chọn nó</string>
@@ -464,9 +402,7 @@
     <string name="nomalware">Không có phần mềm độc hại</string>
     <string name="nospyware">Không có phần mềm gián điệp</string>
     <string name="less">Ít hơn</string>
-
     <string name="votedandfail">Bạn đã đánh giá, vui lòng kiểm tra danh sách "Đánh giá của tôi".</string>
-
     <string name="fastdownloader">Tải xuống nhanh hơn</string>
     <string name="usehtgetspeed">Sử dụng HyperTorrent để đạt 200% + tốc độ.</string>
     <string name="cleanfdft">sạch &amp; trình tải xuống nhanh cho torrent</string>
@@ -478,13 +414,9 @@
     <string name="Cdnoadfree">Thiết kế sạch sẽ, không có quảng cáo &amp; 100% miễn phí!</string>
     <string name="wrhtdbf">Chúng tôi khuyên bạn nên dùng HyperTorrent để tải xuống các tệp lớn.</string>
     <string name="nothanks">Không cám ơn</string>
-
-
     <string name="Checkthenetwork">Kiểm tra mạng</string>
     <string name="Configuringip">Định cấu hình IP khả dụng cho bạn</string>
     <string name="Configuringipfailed">Cấu hình không thành công, 8 IP được phát hiện là không khả dụng, vui lòng thử sử dụng VPN.</string>
-
     <string name="Donatedes">HappyMod hoàn toàn miễn phí và chúng tôi cũng ghét quảng cáo như bạn！ \ n \ nChúng tôi cần sự đóng góp của bạn để tải xuống nhanh hơn và an toàn hơn. \ N \ nHãy kiên nhẫn và cố gắng xem toàn bộ quảng cáo để hoàn thành việc đóng góp. \ N \ nCảm ơn bạn！</string>
     <string name="viewstepdeti">Xem chi tiết các bước</string>
-
 </resources>
