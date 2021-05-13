@@ -1,13 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
     <!--保加利亚语-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -24,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <string name="Paid">платен</string>
     <string name="GAME">Игра</string>
     <string name="APP">App</string>
@@ -40,8 +35,6 @@
     <string name="Recommended_New_Mods">Препоръчителни нови модели</string>
     <string name="Last_Update_Mods">Последни актуализации</string>
     <string name="SearchHint">Търсене..</string>
-
-
     <string name="Homeweb">Официален сайт</string>
     <string name="Management">управление</string>
     <string name="Settings">Настройки</string>
@@ -51,19 +44,13 @@
     <string name="Checkforupdate">Проверка за актуализация</string>
     <string name="FollowusonTwitter">Следвайте ни в Twitter</string>
     <string name="FollowusonFacebook">Последвайте ни във Фейсбук</string>
-
-
     <string name="settings_network_remind">Предупреждение за мобилна мрежа</string>
     <string name="settings_auto_install">Автоматично инсталиране</string>
     <string name="Download_Directory">Изтегляне на директория</string>
     <string name="settings_other">друг</string>
     <string name="settings_clear_cache">Изтрий кеш-памет</string>
     <string name="Clean_up_the_complete">Кешът се изчиства.</string>
-
-
     <string name="des_no_serach_result"> Ами сега! Няма намерен резултат.</string>
-
-
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Изтеглянето</string>
     <string name="Finished">Завършен</string>
@@ -79,9 +66,6 @@
     <string name="Ratingsreviews">Оценки</string>
     <string name="Tryitlater">Опитайте по-късно</string>
     <string name="Serviceisbusy">Свързване ...</string>
-
-
-
     <string name="Notice">известие</string>
     <string name="deletethistask">Изтрийте този файл</string>
     <string name="Cancel">Отказ</string>
@@ -90,8 +74,6 @@
     <string name="NotwhatIwant">Не това, което искам</string>
     <string name="Downloadfailed">Изтеглянето се провали</string>
     <string name="Downloadistooslow">Изтеглянето е твърде бавно</string>
-
-
     <string name="Mods">Модификации</string>
     <string name="Original">оригинал</string>
     <string name="Previousversion">Предишна версия</string>
@@ -99,8 +81,6 @@
     <string name="Downloadobb">Изтеглете (APK+OBB)</string>
     <string name="Downloaddata">Изтегляне (APK+DATA)</string>
     <string name="Downloadboundle">Изтегляне BUNDLE</string>
-
-
     <string name="Downloaded">Изтеглили</string>
     <string name="Install">Инсталирай</string>
     <string name="Connecting">Свързване ...</string>
@@ -110,24 +90,16 @@
     <string name="Recommend">Препоръчвам</string>
     <string name="Recommendmod">Препоръчителен Mod</string>
     <string name="Moremods">Последни версии</string>
-
-
     <string name="Submit">Изпращане</string>
     <string name="Hated_it">Мразя го!</string>
     <string name="Disliked_it">Не го харесвам.</string>
     <string name="Its_ok">Няма проблем.</string>
     <string name="Liked_it">Харесай го.</string>
     <string name="Loved_it">Обичам го!</string>
-
-
     <string name="share_happymod">Споделете „HappyMod“ чрез</string>
     <string name="share_subject">Вземи HappyMod</string>
     <string name="share_text">Изтегляне на 100% работещи модове с @HappyMod \ t</string>
-
-
     <string name="pref_location">Място на съхранение</string>
-
-
     <string name="force_des">100% работещи модули</string>
     <string name="nvisrti">новата версия е готова за инсталиране.</string>
     <string name="OPEN">OPEN</string>
@@ -149,32 +121,20 @@
     <string name="initializing">Инициализиране</string>
     <string name="Retrying">Извършва се повторен опит</string>
     <string name="language">език</string>
-
-
-
     <string name="Popular">Популярен</string>
     <string name="s_New">нов</string>
     <string name="apps">Apps</string>
-
-
     <string name="mergering">Крайна обработка</string>
     <string name="mergerwait">Крайна обработка (Необходими са 1-2 минути)</string>
-
-
-
     <string name="Startverification">Начало на проверката</string>
     <string name="verificationShangXian">Ами сега! Достигнахте дневния лимит за изтегляне, опитайте отново след X часа.</string>
     <string name="verificationFail">Потвърждението не бе успешно. Моля, опитайте отново!</string>
     <string name="Morehelp">(Още помощ)</string>
     <string name="uid">UserId</string>
     <string name="copysuccess">Userid е копиран в клипборда.</string>
-
     <string name="watchnow">Вижте сега</string>
     <string name="ggdownloading">Рекламите се зареждат, моля, изчакайте и оставете щастливия отворен.</string>
     <string name="verificaing">При потвърждаване изчакайте малко.</string>
-
-
-
     <string name="Removeads">Премахни рекламите</string>
     <string name="Paidforfree">Платено безплатно</string>
     <string name="Unlimitedmoney">Неограничени пари</string>
@@ -201,8 +161,6 @@
     <string name="Unlimitedhints">Неограничени съвети</string>
     <string name="Megamod">Мега мод</string>
     <string name="Full">пълен</string>
-
-
     <string name="Username">Потребител</string>
     <string name="Usernameinit">4-50 символа</string>
     <string name="Usernametip">Само букви a-z, числа, @. - _ моля (няма интервали или други специални знаци). 4-50 символа.</string>
@@ -222,7 +180,6 @@
     <string name="Login">Влизам</string>
     <string name="Account">Сметка</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">ИЛИ влезте с потребителското си име</string>
     <string name="newur">Нова регистрация на потребителя</string>
     <string name="Usernameinitnew">Потребителско име (4-50 знака)</string>
@@ -233,7 +190,6 @@
     <string name="enteryEmail">Въведете своя имейл</string>
     <string name="enteryPhone">Въведете Вашият телефонен номер</string>
     <string name="signuptips">Когато забравите паролата си, ще ви трябва „Телефонен номер“ или „Имейл“, за да изтеглите. Препоръчваме ви да ги попълните.</string>
-
     <string name="confirmusername">Потвърдете потребителското име</string>
     <string name="next">Следващия</string>
     <string name="fblogdes">Моля, въведете потребителско име. Потребителското име е много важен идентификатор за извличане на паролата, моля, имайте предвид.</string>
@@ -262,8 +218,6 @@
     <string name="logout">Излез от профила си</string>
     <string name="passwordsame">Въведените от вас две пароли са несъвместими</string>
     <string name="PopularComments">Популярни коментари</string>
-
-
     <string name="Request">поискване</string>
     <string name="Youarerequesting">Вие заявявате:</string>
     <string name="Addrequest">Добавете заявка</string>
@@ -295,16 +249,11 @@
     <string name="messages">Съобщения</string>
     <string name="RecommendMods">Препоръчайте модули</string>
     <string name="requestdetailserror">(50-4000 знака)</string>
-
-    <string name="Changetheimage">Променете изображението >></string>
+    <string name="Changetheimage">Променете изображението &gt;&gt;</string>
     <string name="Typethecodeinthebox">Въведете кода в полето</string>
     <string name="Verificationerror">Проверката не бе успешна. Моля, опитайте отново.</string>
     <string name="Verifing">Проверява се …</string>
-
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Опитайте други сървъри, преди да изтриете</string>
     <string name="fix_tips_content">Искате ли да се свържете с друг сървър, за да опитате да го изтеглите, преди да го изтриете?</string>
     <string name="fix_progress_title">Сканиране на сървъри</string>
@@ -312,14 +261,11 @@
     <string name="fix_failed_content">Понастоящем няма достъпни сървъри, моля, опитайте отново по-късно.</string>
     <string name="fix_tips_failtitle">Няма повече сървъри</string>
     <string name="fix_ok">Опитай</string>
-
-
     <!--社区 -->
     <string name="please_loginanddownload">Моля, първо изтеглете този мод</string>
     <string name="myvoted">Моят вот</string>
     <string name="working">работната</string>
     <string name="inanhour">Моля, гласувайте отново след час.</string>
-
     <string name="Review">преглед</string>
     <string name="myreply">Моите отговори</string>
     <string name="Post">пост</string>
@@ -352,16 +298,12 @@
     <string name="tapandholdptodelete">Докоснете и задръжте снимката, за да я изтриете.</string>
     <string name="addvideofaild">Добавянето на видео е неуспешно！ Моля, уверете се, че мрежата ви може да преглежда Youtube видео и да го добавя отново.</string>
     <string name="Video">Видео</string>
-
-
     <string name="Hotsearches">Горещи търсения</string>
     <string name="Hothashtags">Горещи хаштагове</string>
     <string name="history">история</string>
     <string name="aboutthisgame">За тази игра</string>
     <string name="details">детайли</string>
     <string name="sellallreviews">Вижте всички отзиви</string>
-
-
     <string name="hfivetitle">Бързи игри</string>
     <string name="Recommended">Препоръчано</string>
     <string name="exit_tips">Натиснете отново, за да излезете от играта</string>
@@ -369,57 +311,43 @@
     <string name="h5_menu_share">Дял</string>
     <string name="h5_menu_shortcut">Добави към началния екран</string>
     <string name="installplaywitouthti">Незабавна игра без да се налага да инсталирате</string>
-
-
     <!--全局rty-->
     <string name="crash_dialog_title">Ами сега ...</string>
     <string name="crash_toast_message">За съжаление изключението от APP ще излезе ， изпратете своя доклад за грешки по имейл.</string>
     <string name="crash_dialog_message">За съжаление изключение от APP, моля, изпратете своя доклад за грешки по имейл.</string>
     <string name="crash_dialog_feedback">Подаване на сигнал за грешки</string>
     <string name="crash_dialog_restart">Рестартирам</string>
-
-
     <string name="init_fail">Инициализацията не бе успешна. Моля, използвайте VPN или променете в други мрежи.</string>
     <string name="error_file_des">Този файл е изтрит и се изтегля отново.</string>
-
     <string name="sdpermission">Трябва да имаме достъп до вашето външно хранилище. Моля, уверете се, че разрешението е предоставено.</string>
-
     <string name="Night_Mode">Нощен режим</string>
     <string name="thisty">Това име вече се използва. Опитайте друго. На разположение:</string>
-
     <!--home_feature-->
     <string name="Feature">Препоръчани</string>
     <string name="editorpick">Избор на редактора</string>
     <string name="PopularInlast">Популярни в последните 24 часа</string>
     <string name="Latestupdated">Последно актуализирано</string>
     <string name="paidforfree">Плаща се безплатно</string>
-
     <string name="ToadyRecommend">Препоръчвам Тоди</string>
     <string name="hotmods">Горещи модове</string>
     <string name="hotrecommended">Горещо препоръчително</string>
-
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Търсете приложението, което искате да качите:</string>
     <string name="addapost">Добавете публикация</string>
     <string name="launch_des">Намерете 100% работещи модове \ nПодредени от потребители; Проверени от потребителите!</string>
     <string name="requestamod">Поискайте мод</string>
     <string name="uploadamod">Качване на мод</string>
-
     <!--boundle 新增-->
     <string name="Installing">Инсталиране</string>
     <string name="bundleneedsfive">За съжаление Bundle се нуждае от Android 5.0 и по-нови версии.</string>
     <string name="parsingerror">Грешка при анализиране на apk или анулирана.</string>
     <string name="tipsinstallok">Инсталацията беше успешна.</string>
     <string name="tipsinstallfail">Инсталирането не бе успешно. Моля, опитайте отново.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Макс 10MB на изображение.</string>
     <string name="Imagesmustbelessthan">Изображенията трябва да са по-малки от 10 MB, моля, намалете размерите на изображението, запазете или реекспортирайте файла си и опитайте да го качите отново.</string>
-
     <string name="installfailed">Неуспешно инсталиране.</string>
     <string name="miuides">Моля, включете опциите за програмисти, изключете оптимизацията на MIUI и опитайте отново.</string>
-
     <string name="playdes">Играй</string>
     <string name="todayhotgame">Днес е горещо</string>
     <string name="newcoming">Нови входящи</string>
@@ -428,21 +356,16 @@
     <string name="finditin">Намерете го в X</string>
     <string name="needhelp">Нужда от помощ?</string>
     <string name="peoplealsoplaygames">Хората, играещи тази игра, също са играли:</string>
-
     <string name="opencommunitydes">Ако намерите възрастен или лоша публикация, моля, кликнете върху бутона за доклад в горния десен ъгъл на публикацията и ние ще изтрием публикацията и ще блокираме плаката за първи път! Моля, говорете цивилизовано!</string>
     <string name="myreviews">Моите отзиви</string>
-
     <string name="tagthisapp">Сигнализирайте това приложение</string>
     <string name="appuploader">Приложението качено от</string>
     <string name="votedresult">Вече сте гласували за това приложение.</string>
     <string name="votedokok">Вашият глас беше изпратен успешно.</string>
     <string name="please_downlaodthisapp">Моля, първо изтеглете това приложение.</string>
-
     <string name="safetitle">App apk Guaranteed</string>
     <string name="safedes">This apk passed the security test for virus, malware. It used a trusted and verified digital signature.</string>
-
     <string name="bereported">Вие сте го докладвали.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Моля, първо завършете опашката си за изтегляне.</string>
     <string name="adduploadvideo">Добавяне на видео: (по избор)</string>
     <string name="uploadscreenshots">Качване на екранни снимки (160 * 90)</string>
@@ -456,7 +379,6 @@
     <string name="uploadbanner">Качване на банер (720 * 406)</string>
     <string name="noedituploadtips">Не можете да го изпратите, без да правите промени.</string>
     <string name="addexcusiveaddressixit">Този apk вече съществува.</string>
-
     <string name="itisworkingonyourdevice">Работи ли на вашето устройство?</string>
     <string name="no_working">Не работи</string>
     <string name="vote_it">Гласувайте</string>
@@ -464,9 +386,7 @@
     <string name="nomalware">Без зловреден софтуер</string>
     <string name="nospyware">Без шпионски софтуер</string>
     <string name="less">По-малко</string>
-
     <string name="votedandfail">Вече прегледахте, моля, проверете списъка „Моите отзиви“.</string>
-
     <string name="fastdownloader">По-бързо изтегляне</string>
     <string name="usehtgetspeed">Използвайте HyperTorrent, за да получите 200% + скорост.</string>
     <string name="cleanfdft">почистване &amp; бързо изтегляне за торенти</string>
@@ -478,12 +398,9 @@
     <string name="Cdnoadfree">Изчистен дизайн, без реклама &amp; 100% безплатно!</string>
     <string name="wrhtdbf">Препоръчваме HyperTorrent да изтегляте големи файлове.</string>
     <string name="nothanks">Не благодаря</string>
-
     <string name="Checkthenetwork">Проверете мрежата</string>
     <string name="Configuringip">Конфигуриране на наличния IP за вас</string>
     <string name="Configuringipfailed">Конфигурацията не бе успешна, 8 IP адреса бяха открити като недостъпни, моля, опитайте да използвате VPN.</string>
-
     <string name="Donatedes">HappyMod е напълно безплатен и ние мразим рекламите толкова, колкото и вие！ \ n \ nНие се нуждаете от дарението си, за да осигурите по-бързо и безопасно изтегляне. \ N \ nМоля, бъдете търпеливи и се опитайте да гледате пълните реклами, за да завършите дарението. \ N \ nБлагодаря！</string>
-
     <string name="viewstepdeti">Преглед на подробности за стъпката</string>
 </resources>
