@@ -1,11 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--塞尔维亚语-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -22,8 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
-
     <string name="Paid">Паид</string>
     <string name="GAME">Гаме</string>
     <string name="APP">Апликација</string>
@@ -39,8 +35,6 @@
     <string name="Recommended_New_Mods">Препоручени нови модови</string>
     <string name="Last_Update_Mods">Најновија ажурирања</string>
     <string name="SearchHint">Претрага..</string>
-
-
     <string name="Homeweb">Званични сајт</string>
     <string name="Management">Манагемент</string>
     <string name="Settings">Подешавања</string>
@@ -50,19 +44,13 @@
     <string name="Checkforupdate">Проверити ажурирање</string>
     <string name="FollowusonTwitter">Пратите нас на Твиттер-у</string>
     <string name="FollowusonFacebook">Пратите нас на фејзбуку</string>
-
-
     <string name="settings_network_remind">Упозорење мобилне мреже</string>
     <string name="settings_auto_install">Аутоматски инсталирај</string>
     <string name="Download_Directory">Довнлоад Дирецтори</string>
     <string name="settings_other">Друго</string>
     <string name="settings_clear_cache">Цлеар Цацхе</string>
     <string name="Clean_up_the_complete">Кеш се брише.</string>
-
-
     <string name="des_no_serach_result"> Упс! Нема резултата.</string>
-
-
     <string name="Downloads">Преузимања</string>
     <string name="Downloading">Преузимање</string>
     <string name="Finished">Готов</string>
@@ -78,9 +66,6 @@
     <string name="Ratingsreviews">Ратингс</string>
     <string name="Tryitlater">Пробајте касније</string>
     <string name="Serviceisbusy">Повезивање ...</string>
-
-
-
     <string name="Notice">Објава</string>
     <string name="deletethistask">Избришите ову датотеку</string>
     <string name="Cancel">Поништити, отказати</string>
@@ -89,8 +74,6 @@
     <string name="NotwhatIwant">Не оно што желим</string>
     <string name="Downloadfailed">Преузимање није успело</string>
     <string name="Downloadistooslow">Преузимање је преспоро</string>
-
-
     <string name="Mods">Модс</string>
     <string name="Original">Оригинал</string>
     <string name="Previousversion">Претходна верзија</string>
@@ -98,8 +81,6 @@
     <string name="Downloadobb">Довнлоад КСАПК</string>
     <string name="Downloaddata">Преузми (APK+DATA)</string>
     <string name="Downloadboundle">Преузми BUNDLE</string>
-
-
     <string name="Downloaded">Довнлоадед</string>
     <string name="Install">Инсталирај</string>
     <string name="Connecting">Повезивање ...</string>
@@ -109,24 +90,16 @@
     <string name="Recommend">Рецомменд</string>
     <string name="Recommendmod">Препоручени мод</string>
     <string name="Moremods">Најновије верзије</string>
-
-
     <string name="Submit">прихвати</string>
     <string name="Hated_it">Мрзи то!</string>
     <string name="Disliked_it">Не свиђа ми се.</string>
     <string name="Its_ok">У реду је.</string>
     <string name="Liked_it">Допада ми се.</string>
     <string name="Loved_it">Свиђа ми се!</string>
-
-
     <string name="share_happymod">Делите „ХаппиМод“ преко</string>
     <string name="share_subject">Гет ХаппиМод</string>
     <string name="share_text">Довнлоад 100% воркинг модс витх @ХаппиМод \ т</string>
-
-
     <string name="pref_location">Складишно место</string>
-
-
     <string name="force_des">100% модови рада</string>
     <string name="nvisrti">нова верзија је спремна за инсталацију.</string>
     <string name="OPEN">ОПЕН</string>
@@ -148,32 +121,20 @@
     <string name="initializing">Инитиализинг</string>
     <string name="Retrying">Поновни покушај</string>
     <string name="language">Језик</string>
-
-
-
     <string name="Popular">Популар</string>
     <string name="s_New">Нев</string>
     <string name="apps">Апликације</string>
-
-
     <string name="mergering">Завршна обрада</string>
     <string name="mergerwait">Завршна обрада (треба 1-2 минута)</string>
-
-
-
     <string name="Startverification">Старт Верифицатион</string>
     <string name="verificationShangXian">Упс! Достигли сте дневно ограничење преузимања, покушајте поново након Кс сати.</string>
     <string name="verificationFail">Верификација није успела. Молим вас, покушајте поново!</string>
     <string name="Morehelp">(Више помоћи)</string>
     <string name="uid">ИД корисник</string>
     <string name="copysuccess">Усерид је копиран у клипборд.</string>
-
     <string name="watchnow">Прикажи сада</string>
     <string name="ggdownloading">Огласи се учитавају, сачекајте и сачувајте срећу.</string>
     <string name="verificaing">У верификацији, сачекајте тренутак.</string>
-
-
-
     <string name="Removeads">Уклони огласе</string>
     <string name="Paidforfree">Паид фор фрее</string>
     <string name="Unlimitedmoney">Неограничен новац</string>
@@ -200,8 +161,6 @@
     <string name="Unlimitedhints">Унлимитед хинтс</string>
     <string name="Megamod">Мега мод</string>
     <string name="Full">Фулл</string>
-
-
     <string name="Username">Корисничко име</string>
     <string name="Usernameinit">4-50 карактера</string>
     <string name="Usernametip">Само слова а-з, бројеви, @. - _ молим (нема размака или других посебних знакова). 4-50 карактера.</string>
@@ -221,7 +180,6 @@
     <string name="Login">Пријавите се</string>
     <string name="Account">Рачун</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">ИЛИ пријавите се са својим корисничким именом</string>
     <string name="newur">Нова регистрација корисника</string>
     <string name="Usernameinitnew">Корисничко име (4-50 знакова)</string>
@@ -232,7 +190,6 @@
     <string name="enteryEmail">Унесите емаил</string>
     <string name="enteryPhone">Унесите свој број телефона</string>
     <string name="signuptips">Када заборавите лозинку, требаће вам "Телефонски број" или "Е-пошта" да бисте је преузели. Препоручујемо да их испуните.</string>
-
     <string name="confirmusername">Потврди корисничко име</string>
     <string name="next">Следећи</string>
     <string name="fblogdes">Унесите корисничко име. Корисничко име је веома важан идентификатор за дохват лозинке, имајте на уму.</string>
@@ -261,8 +218,6 @@
     <string name="logout">Одјавити се</string>
     <string name="passwordsame">Две лозинке које сте унели нису конзистентне</string>
     <string name="PopularComments">Популарни коментари</string>
-
-
     <string name="Request">Захтев</string>
     <string name="Youarerequesting">Тражите:</string>
     <string name="Addrequest">Додај захтев</string>
@@ -294,15 +249,11 @@
     <string name="messages">Поруке</string>
     <string name="RecommendMods">Рецомменд Модс</string>
     <string name="requestdetailserror">(50-4000 знакова)</string>
-
-    <string name="Changetheimage">Промените слику >></string>
+    <string name="Changetheimage">Промените слику &gt;&gt;</string>
     <string name="Typethecodeinthebox">Унесите код у оквир</string>
     <string name="Verificationerror">Верификација није успела. Молим вас, покушајте поново.</string>
     <string name="Verifing">Потврђивање…</string>
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Пре брисања покушајте са другим серверима</string>
     <string name="fix_tips_content">Да ли желите да се повежете са неким другим сервером да бисте га покушали преузети пре него што га избришете?</string>
     <string name="fix_progress_title">Скенирање сервера</string>
@@ -310,13 +261,11 @@
     <string name="fix_failed_content">Тренутно вам нису доступни сервери, покушајте поново касније.</string>
     <string name="fix_tips_failtitle">Нема више сервера</string>
     <string name="fix_ok">Пробајте</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">Прво пренесите овај мод.</string>
     <string name="myvoted">Мој глас</string>
     <string name="working">Рад</string>
     <string name="inanhour">Молим вас, гласајте поново за сат времена.</string>
-
     <string name="Review">Преглед</string>
     <string name="myreply">Моји одговори</string>
     <string name="Post">пошта</string>
@@ -349,14 +298,12 @@
     <string name="tapandholdptodelete">Тапните и држите слику да бисте је избрисали.</string>
     <string name="addvideofaild">Додавање видеозаписа није успело！ Молимо вас проверите да ли ваша мрежа може прегледати Иоутубе видео и поново га додати.</string>
     <string name="Video">Видео</string>
-
     <string name="Hotsearches">Вруће претраге</string>
     <string name="Hothashtags">Хот хасхтагс</string>
     <string name="history">Историја</string>
     <string name="aboutthisgame">О овој игри</string>
     <string name="details">Детаљи</string>
     <string name="sellallreviews">Погледајте све критике</string>
-
     <string name="hfivetitle">Брзе игре</string>
     <string name="Recommended">Препоручује се</string>
     <string name="exit_tips">Поново притисните да бисте изашли из игре</string>
@@ -364,55 +311,43 @@
     <string name="h5_menu_share">Објави</string>
     <string name="h5_menu_shortcut">Додати на почетни екран</string>
     <string name="installplaywitouthti">Инстант игра без инсталације</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">Oops...</string>
     <string name="crash_toast_message">Извините, АПП изузетак ће бити излаз ， пошаљите извештај о грешци путем е-поште.</string>
     <string name="crash_dialog_message">Извините, АПП изузетак, пошаљите извештај о грешци путем е-поште.</string>
     <string name="crash_dialog_feedback">Пријави грешке</string>
     <string name="crash_dialog_restart">Поново покренути</string>
-
     <string name="init_fail">Иницијализација није успела, користите ВПН или промените у друге мреже.</string>
     <string name="error_file_des">Ова датотека је избрисана и сада се поново преузима.</string>
-
     <string name="sdpermission">Морамо да приступимо вашој спољној меморији. Уверите се да је дозвола дата.</string>
-
     <string name="Night_Mode">Ноћни режим</string>
-
     <string name="thisty">То корисничко име је заузето. Пробајте други. На располагању:</string>
-
     <!--home_feature-->
     <string name="Feature">Изабран</string>
     <string name="editorpick">Изабери уредника</string>
     <string name="PopularInlast">Популарно у последња 24 сата</string>
     <string name="Latestupdated">Последње ажурирано</string>
     <string name="paidforfree">Плаћено бесплатно</string>
-
     <string name="ToadyRecommend">Тоади \'с препорука</string>
     <string name="hotmods">Хот Модс</string>
     <string name="hotrecommended">Хот Рецоммендед</string>
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Претражите апликацију коју желите да отпремите:</string>
     <string name="addapost">Додајте пост</string>
     <string name="launch_des">Пронађите 100% радне модове \ нПребављени од стране корисника; Верификовани од стране корисника!</string>
     <string name="requestamod">Затражи мод</string>
     <string name="uploadamod">Отпреми мод</string>
-
     <!--boundle 新增-->
     <string name="Installing">Инсталирање</string>
     <string name="bundleneedsfive">Нажалост, Бундле треба Андроид 5.0 и новије верзије.</string>
     <string name="parsingerror">Погрешка при рашчлањивању апк или отказана.</string>
     <string name="tipsinstallok">Инсталација је успела.</string>
     <string name="tipsinstallfail">Инсталација није успјела. Покушајте поново.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Макс. 10МБ по слици.</string>
     <string name="Imagesmustbelessthan">Слике морају бити мање од 10 МБ, умањите димензије слике, поново сачувајте или поново извезите датотеку и покушајте да је поново учитате.</string>
-
     <string name="installfailed">Инсталација није успела.</string>
     <string name="miuides">Укључите Девелопер Оптионс, искључите МИУИ оптимизацију и покушајте поново.</string>
-
     <string name="playdes">Игра</string>
     <string name="todayhotgame">Данас је вруће</string>
     <string name="newcoming">Ново долазно</string>
@@ -423,18 +358,14 @@
     <string name="peoplealsoplaygames">Људи су играли ову игру такође:</string>
     <string name="opencommunitydes">Ако пронађете одраслу особу или било који лош пост, кликните на дугме Пријави у горњем десном углу поста, а ми ћемо први пут избрисати пост и блокирати постер! Молим вас, говорите цивилизовано!</string>
     <string name="myreviews">Моје критике</string>
-
-
     <string name="tagthisapp">Означи ову апликацију</string>
     <string name="appuploader">Апликацију отпремио</string>
     <string name="votedresult">Већ сте гласали за ову апликацију.</string>
     <string name="votedokok">Ваш глас је успешно послан.</string>
     <string name="please_downlaodthisapp">Прво преузмите ову апликацију.</string>
-
     <string name="safetitle">Апликација апликације загарантована</string>
     <string name="safedes">Овај апк је прошао безбедносни тест за вирус, малвер. Користио је поуздани и верификовани дигитални потпис.</string>
     <string name="bereported">Пријавили сте.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Ju lutemi, mbaroni së pari radhën tuaj të shkarkimit.</string>
     <string name="adduploadvideo">Shto video: (opsionale)</string>
     <string name="uploadscreenshots">Ngarko foto nga ekrani (160 * 90)</string>
@@ -448,7 +379,6 @@
     <string name="uploadbanner">Ngarko banderolën (720 * 406)</string>
     <string name="noedituploadtips">Ju nuk mund ta paraqisni atë pa bërë asnjë ndryshim.</string>
     <string name="addexcusiveaddressixit">Kjo apk tashmë ekziston.</string>
-
     <string name="itisworkingonyourdevice">Да ли ради на вашем уређају?</string>
     <string name="no_working">Не ради</string>
     <string name="vote_it">Гласајте</string>
@@ -456,9 +386,7 @@
     <string name="nomalware">Нема малвера</string>
     <string name="nospyware">Нема шпијунског софтвера</string>
     <string name="less">Мање</string>
-
     <string name="votedandfail">Већ сте прегледали, погледајте листу „Моје рецензије“.</string>
-
     <string name="fastdownloader">Брже преузимање</string>
     <string name="usehtgetspeed">Користите ХиперТоррент да бисте постигли 200% + брзину.</string>
     <string name="cleanfdft">очистити &amp; брзи довнлоадер за торенте</string>
@@ -470,12 +398,9 @@
     <string name="Cdnoadfree">Чист дизајн, без огласа &amp; 100% бесплатно!</string>
     <string name="wrhtdbf">ХиперТоррент препоручујемо за преузимање великих датотека.</string>
     <string name="nothanks">Не хвала</string>
-
     <string name="Checkthenetwork">Проверите мрежу</string>
     <string name="Configuringip">Конфигурисање доступне ИП адресе за вас</string>
     <string name="Configuringipfailed">Конфигурација није успела, откривено је да 8 ИП-ова није доступно, покушајте да користите ВПН.</string>
-
     <string name="Donatedes">ХаппиМод је потпуно бесплатан и ми мрзимо огласе колико и ви！ \ н \ нТреба нам ваша донација да бисмо обезбедили брже и сигурније преузимања. \ Н \ нМолимо вас будите стрпљиви и покушајте да погледате комплетне огласе да бисте довршили донацију. \ Н \ нХвала вам！</string>
     <string name="viewstepdeti">Погледајте детаље корака</string>
-
 </resources>
