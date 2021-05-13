@@ -1,12 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!--印地语-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <string name="Paid">भुगतान किया है</string>
     <string name="GAME">खेल</string>
     <string name="APP">ऐप</string>
@@ -39,8 +35,6 @@
     <string name="Recommended_New_Mods">नए मॉड की सिफारिश की</string>
     <string name="Last_Update_Mods">नवीनतम अपडेट</string>
     <string name="SearchHint">खोज..</string>
-
-
     <string name="Homeweb">सरकारी वेबसाइट</string>
     <string name="Management">प्रबंध</string>
     <string name="Settings">सेटिंग्स</string>
@@ -50,19 +44,13 @@
     <string name="Checkforupdate">अपडेट के लिये जांचें</string>
     <string name="FollowusonTwitter">हमसे ट्विटर पर सूचित रहें</string>
     <string name="FollowusonFacebook">हमें फ़ेसबुक पर फ़ॉलो करें</string>
-
-
     <string name="settings_network_remind">मोबाइल नेटवर्क अलर्ट</string>
     <string name="settings_auto_install">स्वचालित रूप से स्थापित करें</string>
     <string name="Download_Directory">निर्देशिका डाउनलोड करें</string>
     <string name="settings_other">अन्य</string>
     <string name="settings_clear_cache">कैश को साफ़ करें</string>
     <string name="Clean_up_the_complete">कैश क्लियर हो गया है।</string>
-
-
     <string name="des_no_serach_result"> ऊप्स! कोई परिणाम नहीं मिला।</string>
-
-
     <string name="Downloads">डाउनलोड</string>
     <string name="Downloading">डाउनलोड कर रहा है</string>
     <string name="Finished">ख़त्म होना</string>
@@ -78,9 +66,6 @@
     <string name="Ratingsreviews">रेटिंग</string>
     <string name="Tryitlater">बाद में कोशिश करें</string>
     <string name="Serviceisbusy">कनेक्ट ...</string>
-
-
-
     <string name="Notice">नोटिस</string>
     <string name="deletethistask">इस फ़ाइल को हटाएं</string>
     <string name="Cancel">रद्द करना</string>
@@ -89,8 +74,6 @@
     <string name="NotwhatIwant">मुझे नहीं चाहिए</string>
     <string name="Downloadfailed">डाउनलोड विफल</string>
     <string name="Downloadistooslow">डाउनलोड बहुत धीमा है</string>
-
-
     <string name="Mods">मॉड</string>
     <string name="Original">मूल</string>
     <string name="Previousversion">पुराना वर्जन</string>
@@ -98,8 +81,6 @@
     <string name="Downloadobb">डाउनलोड (APK+OBB)</string>
     <string name="Downloaddata">डाउनलोड (APK+DATA)</string>
     <string name="Downloadboundle">डाउनलोड BUNDLE</string>
-
-
     <string name="Downloaded">डाउनलोड की गई</string>
     <string name="Install">इंस्टॉल करें</string>
     <string name="Connecting">कनेक्ट ...</string>
@@ -109,24 +90,16 @@
     <string name="Recommend">सिफारिश</string>
     <string name="Recommendmod">अनुशंसित मॉड</string>
     <string name="Moremods">नवीनतम संस्करण</string>
-
-
     <string name="Submit">जमा करें</string>
     <string name="Hated_it">घृणा करता हूं!</string>
     <string name="Disliked_it">इसे नापसंद करें।</string>
     <string name="Its_ok">यह ठीक है।</string>
     <string name="Liked_it">पसंद है।</string>
     <string name="Loved_it">इसे प्यार करना!</string>
-
-
     <string name="share_happymod">\'HappyMod\' के माध्यम से साझा करें</string>
     <string name="share_subject">HappyMod प्राप्त करें</string>
     <string name="share_text">100% वर्किंग मोड डाउनलोड करें @HappyMod \ nhttps: //www.happymod.com/ के साथ</string>
-
-
     <string name="pref_location">भंडारण स्थान</string>
-
-
     <string name="force_des">100% वर्किंग मोड्स</string>
     <string name="nvisrti">नया संस्करण स्थापित करने के लिए तैयार है।</string>
     <string name="OPEN">खुला</string>
@@ -140,7 +113,6 @@
     <string name="Is_this_app_you_need">क्या आप इस ऐप की तलाश कर रहे हैं?</string>
     <string name="No">नहीं</string>
     <string name="Yes">हाँ</string>
-
     <string name="bcdes">। भंडारण मुक्त करें और पुनः प्रयास करें।</string>
     <string name="need">; उपलब्ध:</string>
     <string name="No_enough_space_left_on_device">पर्याप्त स्टोरेज नहीं है। जरुरत:</string>
@@ -149,32 +121,20 @@
     <string name="initializing">शुरु कर रहा है</string>
     <string name="Retrying">पुनः प्रयास किया जाएगा</string>
     <string name="language">भाषा</string>
-
-
-
     <string name="Popular">लोकप्रिय</string>
     <string name="s_New">नया</string>
     <string name="apps">ऐप्स</string>
-
-
     <string name="mergering">अंतिम प्रसंस्करण</string>
     <string name="mergerwait">अंतिम प्रसंस्करण (1-2 मिनट की आवश्यकता)</string>
-
-
-
     <string name="Startverification">सत्यापन शुरू करें</string>
     <string name="verificationShangXian">ऊप्स! आप दैनिक डाउनलोड सीमा तक पहुँच चुके हैं, X घंटे के बाद पुनः प्रयास करें।</string>
     <string name="verificationFail">सत्यापन में विफल रहा। कृपया पुन: प्रयास करें!</string>
     <string name="Morehelp">(और अधिक सहायता)</string>
     <string name="uid">यूज़र आईडी</string>
     <string name="copysuccess">Userid को क्लिपबोर्ड पर कॉपी किया गया है।</string>
-
     <string name="watchnow">अभी देखो</string>
     <string name="ggdownloading">विज्ञापन लोड हो रहे हैं, कृपया प्रतीक्षा करें और आनंदमय खुला रखें।</string>
     <string name="verificaing">सत्यापन में, कृपया एक क्षण प्रतीक्षा करें।</string>
-
-
-
     <string name="Removeads">विज्ञापन हटाएँ</string>
     <string name="Paidforfree">मुफ्त में भुगतान किया</string>
     <string name="Unlimitedmoney">असीमित धन</string>
@@ -201,8 +161,6 @@
     <string name="Unlimitedhints">असीमित संकेत</string>
     <string name="Megamod">मेगा मॉड</string>
     <string name="Full">पूर्ण</string>
-
-
     <string name="Username">उपयोगकर्ता नाम</string>
     <string name="Usernameinit">4-50 अक्षर</string>
     <string name="Usernametip">केवल अक्षर z, z, संख्या, @। - _ कृपया (कोई रिक्त स्थान या अन्य विशेष वर्ण नहीं)। 4-50 अक्षर।</string>
@@ -222,7 +180,6 @@
     <string name="Login">लॉग इन करें</string>
     <string name="Account">लेखा</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">या अपने उपयोगकर्ता नाम के साथ लॉगिन करें</string>
     <string name="newur">नया उपयोगकर्ता पंजीकरण</string>
     <string name="Usernameinitnew">उपयोगकर्ता नाम (4-50 वर्ण)</string>
@@ -233,7 +190,6 @@
     <string name="enteryEmail">अपना ईमेल दर्ज करें</string>
     <string name="enteryPhone">अपना दूरभाष क्रमांक दर्ज करें</string>
     <string name="signuptips">जब आप अपना पासवर्ड भूल जाते हैं, तो आपको पुनर्प्राप्त करने के लिए "फोन नंबर" या "ईमेल" की आवश्यकता होगी। हम अनुशंसा करते हैं कि आप उन्हें पूरा करें।</string>
-
     <string name="confirmusername">उपयोगकर्ता नाम की पुष्टि करें</string>
     <string name="next">आगामी</string>
     <string name="fblogdes">कृपया उपयोगकर्तानाम डालें। पासवर्ड पुनः प्राप्त करने के लिए उपयोगकर्ता नाम एक बहुत ही महत्वपूर्ण पहचानकर्ता है, कृपया ध्यान रखें।</string>
@@ -262,8 +218,6 @@
     <string name="logout">लोग आउट</string>
     <string name="passwordsame">आपके द्वारा दर्ज किए गए दो पासवर्ड असंगत हैं</string>
     <string name="PopularComments">लोकप्रिय टिप्पणियाँ</string>
-
-
     <string name="Request">निवेदन</string>
     <string name="Youarerequesting">आप निवेदन कर रहे हैं:</string>
     <string name="Addrequest">अनुरोध जोड़ें</string>
@@ -295,15 +249,11 @@
     <string name="messages">संदेश</string>
     <string name="RecommendMods">मॉड की सिफारिश करें</string>
     <string name="requestdetailserror">(50-4000 अक्षर)</string>
-
-    <string name="Changetheimage">छवि बदलें >></string>
+    <string name="Changetheimage">छवि बदलें &gt;&gt;</string>
     <string name="Typethecodeinthebox">बॉक्स में कोड टाइप करें</string>
     <string name="Verificationerror">सत्यापन में विफल रहा। कृपया पुन: प्रयास करें।</string>
     <string name="Verifing">सत्यापन करें ...</string>
-
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">हटाने से पहले अन्य सर्वर का प्रयास करें</string>
     <string name="fix_tips_content">क्या आप इसे हटाने से पहले इसे डाउनलोड करने का प्रयास करने के लिए किसी अन्य सर्वर से कनेक्ट करना चाहेंगे?</string>
     <string name="fix_progress_title">स्कैनिंग सर्वर</string>
@@ -311,14 +261,11 @@
     <string name="fix_failed_content">वर्तमान में आपके लिए कोई सर्वर उपलब्ध नहीं है, कृपया बाद में पुनः प्रयास करें।</string>
     <string name="fix_tips_failtitle">और कोई सर्वर नहीं</string>
     <string name="fix_ok">कोशिश करो</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">कृपया इस मॉड को पहले डाउनलोड करें।</string>
     <string name="myvoted">मेरा वोट</string>
     <string name="working">काम कर रहे</string>
     <string name="inanhour">कृपया एक घंटे में फिर से मतदान करें।</string>
-
-
     <string name="Review">समीक्षा</string>
     <string name="myreply">मेरे जवाब</string>
     <string name="Post">पद</string>
@@ -351,14 +298,12 @@
     <string name="tapandholdptodelete">इसे हटाने के लिए चित्र को टैप करें और दबाए रखें।</string>
     <string name="addvideofaild">वीडियो जोड़ना विफल video कृपया सुनिश्चित करें कि आपका नेटवर्क Youtube वीडियो ब्राउज़ कर सकता है और इसे फिर से जोड़ सकता है।</string>
     <string name="Video">वीडियो</string>
-
     <string name="Hotsearches">गर्म खोजें</string>
     <string name="Hothashtags">हॉट हैशटैग</string>
     <string name="history">इतिहास</string>
     <string name="aboutthisgame">इस खेल के बारे में</string>
     <string name="details">विवरण</string>
     <string name="sellallreviews">सभी समीक्षाएं देखें</string>
-
     <string name="hfivetitle">त्वरित खेल</string>
     <string name="Recommended">सिफारिश की</string>
     <string name="exit_tips">खेल से बाहर निकलने के लिए फिर से दबाएं</string>
@@ -366,34 +311,26 @@
     <string name="h5_menu_share">शेयर</string>
     <string name="h5_menu_shortcut">होम स्क्रीन में शामिल करें</string>
     <string name="installplaywitouthti">इंस्टाल किए बिना इंस्टेंट प्ले</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">ओह ...</string>
     <string name="crash_toast_message">क्षमा करें, APP अपवाद, बाहर निकल जाएगा submit कृपया अपनी बग रिपोर्ट ईमेल के माध्यम से सबमिट करें।</string>
     <string name="crash_dialog_message">क्षमा करें, APP अपवाद, कृपया अपनी बग रिपोर्ट ईमेल के माध्यम से सबमिट करें।</string>
     <string name="crash_dialog_feedback">बग रिपोर्ट करें</string>
     <string name="crash_dialog_restart">पुनः आरंभ करें</string>
-
     <string name="init_fail">प्रारंभ विफल रहा, कृपया वीपीएन का उपयोग करें या अन्य नेटवर्क में बदलें।</string>
     <string name="error_file_des">यह फ़ाइल हटा दी गई है और अब इसे फिर से डाउनलोड किया जा रहा है।</string>
     <string name="sdpermission">हमें आपके बाहरी संग्रहण तक पहुंचने की आवश्यकता है। कृपया सुनिश्चित करें कि अनुमति दी गई है।</string>
-
     <string name="Night_Mode">रात्री स्वरुप</string>
-
     <string name="thisty">उस उपयोगकर्ता का नाम लिया गया है। कोई दूसरा आज़माएं। उपलब्ध:</string>
-
     <!--home_feature-->
     <string name="Feature">विशेष रुप से प्रदर्शित</string>
     <string name="editorpick">संपादक की पसंद</string>
     <string name="PopularInlast">पिछले 24 घंटों में लोकप्रिय</string>
     <string name="Latestupdated">नवीनतम अपडेट किया गया</string>
     <string name="paidforfree">मुफ्त में भुगतान किया</string>
-
     <string name="ToadyRecommend">टोडी की सिफारिश</string>
     <string name="hotmods">गरम मोदक</string>
     <string name="hotrecommended">गर्म की सिफारिश की</string>
-
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">वह एप्लिकेशन खोजें जिसे आप अपलोड करना चाहते हैं:</string>
     <string name="addapost">एक पोस्ट जोड़ें</string>
@@ -406,14 +343,11 @@
     <string name="parsingerror">एपीके या रद्द करने में त्रुटि।</string>
     <string name="tipsinstallok">स्थापना सफल रही।</string>
     <string name="tipsinstallfail">स्थापना विफल रही, कृपया पुनः प्रयास करें।.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">अधिकतम 10 एमबी प्रति छवि।</string>
     <string name="Imagesmustbelessthan">छवियां 10MB से कम होनी चाहिए, कृपया अपनी फ़ाइल को फिर से सहेजने या पुन: निर्यात करने के लिए छवि आयामों को कम करें, और इसे फिर से अपलोड करने का प्रयास करें।</string>
-
     <string name="installfailed">स्थापना विफल रही।</string>
     <string name="miuides">कृपया डेवलपर विकल्प चालू करें, MIUI अनुकूलन बंद करें और पुनः प्रयास करें।</string>
-
     <string name="playdes">खेल</string>
     <string name="todayhotgame">आज का दिन गर्म है</string>
     <string name="newcoming">नई आने वाली</string>
@@ -422,20 +356,16 @@
     <string name="finditin">इसे एक्स में खोजें</string>
     <string name="needhelp">मदद की ज़रूरत है?</string>
     <string name="peoplealsoplaygames">लोगों ने खेला यह खेल भी खेला:</string>
-
     <string name="opencommunitydes">यदि आपको कोई वयस्क या कोई बुरा पोस्ट मिलता है, तो कृपया पोस्ट के ऊपरी दाएं कोने में रिपोर्ट बटन पर क्लिक करें, और हम पोस्ट को हटा देंगे और पोस्टर को पहली बार में ब्लॉक कर देंगे! कृपया सभ्य बोलें!</string>
     <string name="myreviews">मेरी समीक्षा</string>
-
     <string name="tagthisapp">इस एप को फ्लैग करें</string>
     <string name="appuploader">द्वारा अपलोड किया गया ऐप</string>
     <string name="votedresult">आपने इस ऐप के लिए पहले ही वोट कर दिया है।</string>
     <string name="votedokok">आपका वोट सफलतापूर्वक सबमिट किया गया था</string>
     <string name="please_downlaodthisapp">कृपया इस ऐप को पहले डाउनलोड करें।</string>
-
     <string name="safetitle">App APK गारंटी</string>
     <string name="safedes">इस एपीके ने वायरस, मैलवेयर के लिए सुरक्षा परीक्षण पास किया। इसमें एक विश्वसनीय और सत्यापित डिजिटल हस्ताक्षर का उपयोग किया गया था।</string>
     <string name="bereported">आपने इसकी सूचना दी है।</string>
-
     <string name="pleasefinishyourdownloadingqueu">कृपया अपनी डाउनलोडिंग कतार पहले समाप्त करें।</string>
     <string name="adduploadvideo">वीडियो जोड़ें: (वैकल्पिक)</string>
     <string name="uploadscreenshots">स्क्रीनशॉट अपलोड करें (160 * 90)</string>
@@ -449,7 +379,6 @@
     <string name="uploadbanner">अपलोड बैनर (720 * 406)</string>
     <string name="noedituploadtips">आप बिना कोई बदलाव किए इसे सबमिट नहीं कर सकते।</string>
     <string name="addexcusiveaddressixit">यह एपीके पहले से मौजूद है।</string>
-
     <string name="itisworkingonyourdevice">क्या यह आपके डिवाइस पर काम कर रहा है?</string>
     <string name="no_working">काम नहीं कर रहा</string>
     <string name="vote_it">इसे वोट करें</string>
@@ -457,9 +386,7 @@
     <string name="nomalware">कोई मैलवेयर नहीं</string>
     <string name="nospyware">कोई स्पाइवेयर नहीं</string>
     <string name="less">कम</string>
-
     <string name="votedandfail">आपने पहले ही समीक्षा कर ली है, कृपया "मेरी समीक्षा" सूची देखें।</string>
-
     <string name="fastdownloader">तेज़ डाउनलोड</string>
     <string name="usehtgetspeed">200% + गति प्राप्त करने के लिए HyperTorrent का उपयोग करें।</string>
     <string name="cleanfdft">साफ &amp; टॉरेंट के लिए फास्ट डाउनलोडर</string>
@@ -471,13 +398,9 @@
     <string name="Cdnoadfree">साफ डिजाइन, कोई विज्ञापन नहीं &amp; 100% मुफ्त!</string>
     <string name="wrhtdbf">हम बड़ी फ़ाइलों को डाउनलोड करने के लिए हाइपरटोरेंट की सलाह देते हैं।</string>
     <string name="nothanks">जी नहीं धन्यवाद</string>
-
     <string name="Checkthenetwork">नेटवर्क की जाँच करें</string>
     <string name="Configuringip">आपके लिए उपलब्ध आईपी को कॉन्फ़िगर करना</string>
     <string name="Configuringipfailed">कॉन्फ़िगरेशन विफल हुआ, 8 आईपी अनुपलब्ध पाए गए, कृपया वीपीएन का उपयोग करने का प्रयास करें।</string>
-
     <string name="Donatedes">HappyMod पूरी तरह से मुफ़्त है, और हम विज्ञापनों से उतना ही घृणा करते हैं, जितना कि आप free \ n \ n करते हैं, हमें तेज़ और सुरक्षित डाउनलोड प्रदान करने के लिए आपके दान की आवश्यकता है। \ n \ n कृपया धैर्य रखें और दान पूरा करने के लिए पूर्ण विज्ञापन देखने का प्रयास करें। \ n \ _ nThank आप！</string>
-
     <string name="viewstepdeti">चरण विवरण देखें</string>
-
 </resources>
