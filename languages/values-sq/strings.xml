@@ -1,484 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!--阿尔巴尼亚-->
-	<string name="app_name">HappyMod</string>
-	<string name="Homecom">HappyMod.com</string>
-
-	<string name="facebook_app_id">658182831284939</string>
-
+    <!--阿尔巴尼亚-->
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">HappyMod.com</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
-	<string-array name="jazzy_effects">
-		<item>Standard</item>
-		<item>Tablet</item>
-		<item>CubeIn</item>
-		<item>CubeOut</item>
-		<item>FlipVertical</item>
-		<item>FlipHorizontal</item>
-		<item>Stack</item>
-		<item>ZoomIn</item>
-		<item>ZoomOut</item>
-		<item>RotateUp</item>
-		<item>RotateDown</item>
-		<item>Accordion</item>
-	</string-array>
-	<!-- ↑  以上不用多语言翻译-->
-
-	<!--首页-->
-	<string name="Paid">paguaj</string>
-	<string name="GAME">lojë</string>
-	<string name="APP">kërkesë</string>
-	<string name="NEW">Latest</string>
-	<string name="Categories">klasifikim</string>
-	<string name="games">lojë</string>
-	<string name="REFRESH">freskoj</string>
-	<string name="Unable_to_connect_to_the_network">E pamundur për të hyrë në internet</string>
-	<string name="Recommended_Game_Mods">Mods të rekomanduara Mods</string>
-	<string name="Hot_Game_Mods">Lojërat popullore Mods</string>
-	<string name="Recommended_App_Mods">Modulet e rekomanduara të aplikacioneve</string>
-	<string name="Hot_App_Mods">Modat e aplikacionit më të lartë</string>
-	<string name="Recommended_New_Mods">Modet e reja të rekomanduara</string>
-	<string name="Last_Update_Mods">Azhurnimi i fundit</string>
-	<string name="SearchHint">Duke kërkuar ..</string>
-
-	<!-- 侧滑-->
-	<string name="Homeweb">Faqja zyrtare</string>
-	<string name="Management">drejtuesit</string>
-	<string name="Settings">ngritur</string>
-	<string name="Feedback">reagim</string>
-	<string name="Translation">përkthim</string>
-	<string name="Share">pjesë</string>
-	<string name="Checkforupdate">Kontrolloni për përditësime</string>
-	<string name="FollowusonTwitter">Na ndiqni në Twitter</string>
-	<string name="FollowusonFacebook">Na ndiqni në Facebook</string>
-
-	<!--设置页-->
-	<string name="settings_network_remind">Vigjilje e rrjetit celular</string>
-	<string name="settings_auto_install">Instalimi automatik</string>
-	<string name="Download_Directory">Shkarkoni direktoriumin</string>
-	<string name="settings_other">tjetër</string>
-	<string name="settings_clear_cache">Pastroni cache</string>
-	<string name="Clean_up_the_complete">Cache u pastrua</string>
-
-	<!--空数据页-->
-	<string name="des_no_serach_result">Oops! Nuk u gjetën rezultate.</string>
-
-	<!--下载管理页-->
-	<string name="Downloads">Shkarko</string>
-	<string name="Downloading">Shkarkim</string>
-	<string name="Finished">shkarkohet</string>
-	<string name="No_Download">Skeda nuk u gjet.</string>
-	<string name="Pause">pushim</string>
-	<string name="Waiting_in_queue">Duke pritur në linjë</string>
-	<string name="Completed">i përfunduar</string>
-	<string name="UnZiping">ekstrakt</string>
-	<string name="UnZip_succeed">Nxjerrja e plotë</string>
-	<string name="Rate">Ratings</string>
-	<string name="Rated">vlerësohet</string>
-	<string name="Version">botim</string>
-	<string name="Ratingsreviews">Vlerësim &amp; Vlerësim</string>
-	<string name="Tryitlater">Provo përsëri më vonë</string>
-	<string name="Serviceisbusy">Lidhur ...</string>
-
-
-	<!-- 下载删除的文字 -->
-	<string name="Notice">i kushtoj vëmendje</string>
-	<string name="deletethistask">Fshije këtë skedar</string>
-	<string name="Cancel">anuluar</string>
-	<string name="Delete">fshij</string>
-	<string name="Whydeletethisdownload">Pse ta fshij këtë shkarkim?</string>
-	<string name="NotwhatIwant">Jo atë që dua</string>
-	<string name="Downloadfailed">Shkarkimi deshtoi</string>
-	<string name="Downloadistooslow">Shkarkimi është shumë i ngadalshëm</string>
-
-
-	<!--APP详情页-->
-	<string name="Mods">MODS</string>
-	<string name="Original">origjinal</string>
-	<string name="Previousversion">Versioni historik</string>
-	<string name="Download">Shkarko</string>
-	<string name="Downloadobb">Shkarko (APK+OBB)</string>
-	<string name="Downloaddata">Shkarko (APK+DATA)</string>
-	<string name="Downloadboundle">Shkarko BUNDLE</string>
-
-
-
-	<string name="Downloaded">shkarkohet</string>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <!-- ↑  以上不用多语言翻译-->
+    <!--首页-->
+    <string name="Paid">paguaj</string>
+    <string name="GAME">lojë</string>
+    <string name="APP">kërkesë</string>
+    <string name="NEW">Latest</string>
+    <string name="Categories">klasifikim</string>
+    <string name="games">lojë</string>
+    <string name="REFRESH">freskoj</string>
+    <string name="Unable_to_connect_to_the_network">E pamundur për të hyrë në internet</string>
+    <string name="Recommended_Game_Mods">Mods të rekomanduara Mods</string>
+    <string name="Hot_Game_Mods">Lojërat popullore Mods</string>
+    <string name="Recommended_App_Mods">Modulet e rekomanduara të aplikacioneve</string>
+    <string name="Hot_App_Mods">Modat e aplikacionit më të lartë</string>
+    <string name="Recommended_New_Mods">Modet e reja të rekomanduara</string>
+    <string name="Last_Update_Mods">Azhurnimi i fundit</string>
+    <string name="SearchHint">Duke kërkuar ..</string>
+    <!-- 侧滑-->
+    <string name="Homeweb">Faqja zyrtare</string>
+    <string name="Management">drejtuesit</string>
+    <string name="Settings">ngritur</string>
+    <string name="Feedback">reagim</string>
+    <string name="Translation">përkthim</string>
+    <string name="Share">pjesë</string>
+    <string name="Checkforupdate">Kontrolloni për përditësime</string>
+    <string name="FollowusonTwitter">Na ndiqni në Twitter</string>
+    <string name="FollowusonFacebook">Na ndiqni në Facebook</string>
+    <!--设置页-->
+    <string name="settings_network_remind">Vigjilje e rrjetit celular</string>
+    <string name="settings_auto_install">Instalimi automatik</string>
+    <string name="Download_Directory">Shkarkoni direktoriumin</string>
+    <string name="settings_other">tjetër</string>
+    <string name="settings_clear_cache">Pastroni cache</string>
+    <string name="Clean_up_the_complete">Cache u pastrua</string>
+    <!--空数据页-->
+    <string name="des_no_serach_result">Oops! Nuk u gjetën rezultate.</string>
+    <!--下载管理页-->
+    <string name="Downloads">Shkarko</string>
+    <string name="Downloading">Shkarkim</string>
+    <string name="Finished">shkarkohet</string>
+    <string name="No_Download">Skeda nuk u gjet.</string>
+    <string name="Pause">pushim</string>
+    <string name="Waiting_in_queue">Duke pritur në linjë</string>
+    <string name="Completed">i përfunduar</string>
+    <string name="UnZiping">ekstrakt</string>
+    <string name="UnZip_succeed">Nxjerrja e plotë</string>
+    <string name="Rate">Ratings</string>
+    <string name="Rated">vlerësohet</string>
+    <string name="Version">botim</string>
+    <string name="Ratingsreviews">Vlerësim &amp; Vlerësim</string>
+    <string name="Tryitlater">Provo përsëri më vonë</string>
+    <string name="Serviceisbusy">Lidhur ...</string>
+    <!-- 下载删除的文字 -->
+    <string name="Notice">i kushtoj vëmendje</string>
+    <string name="deletethistask">Fshije këtë skedar</string>
+    <string name="Cancel">anuluar</string>
+    <string name="Delete">fshij</string>
+    <string name="Whydeletethisdownload">Pse ta fshij këtë shkarkim?</string>
+    <string name="NotwhatIwant">Jo atë që dua</string>
+    <string name="Downloadfailed">Shkarkimi deshtoi</string>
+    <string name="Downloadistooslow">Shkarkimi është shumë i ngadalshëm</string>
+    <!--APP详情页-->
+    <string name="Mods">MODS</string>
+    <string name="Original">origjinal</string>
+    <string name="Previousversion">Versioni historik</string>
+    <string name="Download">Shkarko</string>
+    <string name="Downloadobb">Shkarko (APK+OBB)</string>
+    <string name="Downloaddata">Shkarko (APK+DATA)</string>
+    <string name="Downloadboundle">Shkarko BUNDLE</string>
+    <string name="Downloaded">shkarkohet</string>
     <string name="Install">instaloj</string>
-	<string name="Connecting">Lidhur …</string>
-	<string name="readmore">Lexo më shumë</string>
-	<string name="modfeature">Informacione Mod:</string>
-	<string name="Moreversion">Më shumë versione</string>
-	<string name="Recommend">rekomandim</string>
-	<string name="Recommendmod">Mod rekomanduar</string>
-	<string name="Moremods">Më shumë Mods</string>
-
-
-
-	<!--评分-->
+    <string name="Connecting">Lidhur …</string>
+    <string name="readmore">Lexo më shumë</string>
+    <string name="modfeature">Informacione Mod:</string>
+    <string name="Moreversion">Më shumë versione</string>
+    <string name="Recommend">rekomandim</string>
+    <string name="Recommendmod">Mod rekomanduar</string>
+    <string name="Moremods">Më shumë Mods</string>
+    <!--评分-->
     <string name="Submit">paraqes</string>
     <string name="Hated_it">E urrej!</string>
-	<string name="Disliked_it">Nuk më pëlqen.</string>
-	<string name="Its_ok">Nuk ka rëndësi.</string>
-	<string name="Liked_it">Ashtu si.</string>
-	<string name="Loved_it">Duaje!</string>
-
-
+    <string name="Disliked_it">Nuk më pëlqen.</string>
+    <string name="Its_ok">Nuk ka rëndësi.</string>
+    <string name="Liked_it">Ashtu si.</string>
+    <string name="Loved_it">Duaje!</string>
     <!--分享-->
-	<string name="share_happymod">Ndaje\'HappyMod\'nga</string>
-	<string name="share_subject">Merrni HappyMod</string>
-	<string name="share_text">Shkarkoni modin 100% të lehtë për t\'u përdorur me @HappyMod \ nhttps: //www.happymod.com/</string>
-
-	<!--修改路径-->
-	<string name="pref_location">Lokacioni i ruajtjes</string>
-
-	<!--update -->
-	<string name="force_des">100% lehtë për t\'u përdorur mod</string>
-	<string name="nvisrti">Versioni i ri është gati për t\'u instaluar.</string>
-	<string name="OPEN">hapur</string>
-	<string name="OK">mirë</string>
-	<string name="Loading">Ngarkimi i të dhënave …</string>
-	<string name="updata_tip">Ju jeni duke përdorur versionin më të fundit të HappyMod</string>
-	<string name="xzzb">Ju lutem shkarkoni HappyMod zyrtare.</string>
-	<string name="Continue">vazhdoj</string>
-	<string name="appobb">APK+OBB</string>
-	<string name="No_space_left_on_device">Nuk ka hapësirë të mbetur në pajisjen</string>
-	<string name="Is_this_app_you_need">Po kërkoni këtë aplikacion?</string>
-	<string name="No">jo</string>
-	<string name="Yes">ajo është e</string>
-	<string name="bcdes">. Lirë ruajtjen dhe provoni përsëri.</string>
-	<string name="need">; Në dispozicion:</string>
-	<string name="No_enough_space_left_on_device">Nuk ka vend mjaftueshem. Need:</string>
-	<string name="updatenow">Përditëso tani</string>
-	<string name="updateFail">Shkarkimi dështoi. Mbylleni dhe rihapni</string>
-	<string name="initializing">initialization</string>
-	<string name="Retrying">rigjykoj</string>
-	<string name="language">gjuhë</string>
-
-	<!--类别界面 -->
-
-	<string name="Popular">popullor</string>
-	<string name="s_New">Latest</string>
-	<string name="apps">kërkesë</string>
-
-
-	<!-- 大文件 -->
-	<string name="mergering">Hapi i fundit</string>
-	<string name="mergerwait">Trajtimi përfundimtar (kërkon 1–2 minuta)</string>
-
-	<!-- 验证 -->
-	<string name="Startverification">Filloni verifikimin</string>
-	<string name="verificationShangXian">Oops! Ke arritur limitin e përditshëm të shkarkimit. Provo sërish pas orarit X.</string>
-	<string name="verificationFail">Verifikimi dështoi, provo përsëri!</string>
-	<string name="Morehelp">(më shumë ndihmë)</string>
-	<string name="uid">Id i përdoruesit</string>
-	<string name="copysuccess">Identifikuesi i përdoruesit është kopjuar në clipboard.</string>
-
-	<string name="watchnow">Shiko tani</string>
-	<string name="ggdownloading">Reklama është duke u ngarkuar, ju lutem prisni dhe mbani lumturinë e hapur.</string>
-	<string name="verificaing">Ju lutem prisni gjatë verifikimit.</string>
-
-
-	<!-- 评价 -->
-	<string name="Removeads">Hiq reklamën</string>
-	<string name="Paidforfree">falas</string>
-	<string name="Unlimitedmoney">Monedha ari të pakufizuar</string>
-	<string name="Freepurchase">Blerje falas</string>
-	<string name="Freeshopping">Pazar i lirë</string>
-	<string name="Unlocked">hap</string>
-	<string name="Patched">riparim</string>
-	<string name="Premium">Pa pagesë</string>
-	<string name="Pro">Versioni profesional</string>
-	<string name="ModLite">Versioni kompakt</string>
-	<string name="Subscribed">abonim</string>
-	<string name="Prime">kryesor</string>
-	<string name="Plus">Plus version</string>
-	<string name="VIP">VIP</string>
-	<string name="Substratum">Shtresa e poshtme</string>
-	<string name="Debloated">Fshi të padobishme</string>
-	<string name="Donate">dhuroj</string>
-	<string name="AOSPcompatible">AOSP kompatibil</string>
-	<string name="Cracked">plas</string>
-	<string name="NoAds">Nuk ka reklama</string>
-	<string name="Infinite">i pafund</string>
-	<string name="Endless">i pafund</string>
-	<string name="Invincible">Invincible</string>
-	<string name="Unlimitedhints">Infinite shpejtë</string>
-	<string name="Megamod">Shumë çarje</string>
-	<string name="Full">Versioni i plotë</string>
-
-	<!--注册登录-->
-	<string name="Username">Emri i përdoruesit</string>
-	<string name="Usernameinit">4–50 karaktere</string>
-	<string name="Usernametip">Vetëm letra a-z, numra, @. - _ lutem (pa hapësira apo karaktere të tjera speciale). 4-50 karaktere.</string>
-	<string name="Password">fjalëkalim</string>
-	<string name="Enteryourpassword">6-8 karaktere</string>
-	<string name="passwordtip">Vetëm letra A–Z, a-z, numra (pa hapësira ose karaktere speciale). 6-8 karaktere.</string>
-	<string name="nicknametip">Ky pseudonim është marrë tashmë.</string>
-	<string name="Nickname">pseudonimi</string>
-	<string name="Emailaddress">Adresa e emailit</string>
-	<string name="Enteryouremail">Shkruani email-in tuaj</string>
-	<string name="Telephonenumber">Numër telefoni</string>
-	<string name="Enteryourtelephonenumber">Shkruani numrin tuaj të telefonit</string>
-	<string name="phonetip">Futni një nubmer të vlefshëm të telefonit.</string>
-	<string name="emailtip">Futni një adresë e-mail të vlefshme.</string>
-	<string name="Signup">Regjistrohu</string>
-	<string name="tuiat">Ky emër përdoruesi tashmë është marrë.</string>
-	<string name="Login">Identifikohu</string>
-	<string name="Account">llogari</string>
-	<string name="forgotpassword">Forget password?</string>
-
-	<string name="loginwithaccount">OSE identifikohuni me emrin tuaj të përdoruesit</string>
-	<string name="newur">Regjistrimi i ri i përdoruesit</string>
-	<string name="Usernameinitnew">Emri i përdoruesit (4-50 karaktere)</string>
-	<string name="Passwordnew">Fjalëkalimi (6-8 karaktere)</string>
-	<string name="Emailnew">Email</string>
-	<string name="PhoneNumber">Numri i telefonit</string>
-	<string name="Unknown">i panjohur</string>
-	<string name="enteryEmail">Futni emailin tuaj</string>
-
-	<string name="enteryPhone">Vendosni numrin tuaj të telefonit</string>
-	<string name="signuptips">When you forget your password, you will need "Phone number" or "Email" to retrieve. We recommend that you complete them.</string>
-
+    <string name="share_happymod">Ndaje\'HappyMod\'nga</string>
+    <string name="share_subject">Merrni HappyMod</string>
+    <string name="share_text">Shkarkoni modin 100% të lehtë për t\'u përdorur me @HappyMod \ nhttps: //www.happymod.com/</string>
+    <!--修改路径-->
+    <string name="pref_location">Lokacioni i ruajtjes</string>
+    <!--update -->
+    <string name="force_des">100% lehtë për t\'u përdorur mod</string>
+    <string name="nvisrti">Versioni i ri është gati për t\'u instaluar.</string>
+    <string name="OPEN">hapur</string>
+    <string name="OK">mirë</string>
+    <string name="Loading">Ngarkimi i të dhënave …</string>
+    <string name="updata_tip">Ju jeni duke përdorur versionin më të fundit të HappyMod</string>
+    <string name="xzzb">Ju lutem shkarkoni HappyMod zyrtare.</string>
+    <string name="Continue">vazhdoj</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">Nuk ka hapësirë të mbetur në pajisjen</string>
+    <string name="Is_this_app_you_need">Po kërkoni këtë aplikacion?</string>
+    <string name="No">jo</string>
+    <string name="Yes">ajo është e</string>
+    <string name="bcdes">. Lirë ruajtjen dhe provoni përsëri.</string>
+    <string name="need">; Në dispozicion:</string>
+    <string name="No_enough_space_left_on_device">Nuk ka vend mjaftueshem. Need:</string>
+    <string name="updatenow">Përditëso tani</string>
+    <string name="updateFail">Shkarkimi dështoi. Mbylleni dhe rihapni</string>
+    <string name="initializing">initialization</string>
+    <string name="Retrying">rigjykoj</string>
+    <string name="language">gjuhë</string>
+    <!--类别界面 -->
+    <string name="Popular">popullor</string>
+    <string name="s_New">Latest</string>
+    <string name="apps">kërkesë</string>
+    <!-- 大文件 -->
+    <string name="mergering">Hapi i fundit</string>
+    <string name="mergerwait">Trajtimi përfundimtar (kërkon 1–2 minuta)</string>
+    <!-- 验证 -->
+    <string name="Startverification">Filloni verifikimin</string>
+    <string name="verificationShangXian">Oops! Ke arritur limitin e përditshëm të shkarkimit. Provo sërish pas orarit X.</string>
+    <string name="verificationFail">Verifikimi dështoi, provo përsëri!</string>
+    <string name="Morehelp">(më shumë ndihmë)</string>
+    <string name="uid">Id i përdoruesit</string>
+    <string name="copysuccess">Identifikuesi i përdoruesit është kopjuar në clipboard.</string>
+    <string name="watchnow">Shiko tani</string>
+    <string name="ggdownloading">Reklama është duke u ngarkuar, ju lutem prisni dhe mbani lumturinë e hapur.</string>
+    <string name="verificaing">Ju lutem prisni gjatë verifikimit.</string>
+    <!-- 评价 -->
+    <string name="Removeads">Hiq reklamën</string>
+    <string name="Paidforfree">falas</string>
+    <string name="Unlimitedmoney">Monedha ari të pakufizuar</string>
+    <string name="Freepurchase">Blerje falas</string>
+    <string name="Freeshopping">Pazar i lirë</string>
+    <string name="Unlocked">hap</string>
+    <string name="Patched">riparim</string>
+    <string name="Premium">Pa pagesë</string>
+    <string name="Pro">Versioni profesional</string>
+    <string name="ModLite">Versioni kompakt</string>
+    <string name="Subscribed">abonim</string>
+    <string name="Prime">kryesor</string>
+    <string name="Plus">Plus version</string>
+    <string name="VIP">VIP</string>
+    <string name="Substratum">Shtresa e poshtme</string>
+    <string name="Debloated">Fshi të padobishme</string>
+    <string name="Donate">dhuroj</string>
+    <string name="AOSPcompatible">AOSP kompatibil</string>
+    <string name="Cracked">plas</string>
+    <string name="NoAds">Nuk ka reklama</string>
+    <string name="Infinite">i pafund</string>
+    <string name="Endless">i pafund</string>
+    <string name="Invincible">Invincible</string>
+    <string name="Unlimitedhints">Infinite shpejtë</string>
+    <string name="Megamod">Shumë çarje</string>
+    <string name="Full">Versioni i plotë</string>
+    <!--注册登录-->
+    <string name="Username">Emri i përdoruesit</string>
+    <string name="Usernameinit">4–50 karaktere</string>
+    <string name="Usernametip">Vetëm letra a-z, numra, @. - _ lutem (pa hapësira apo karaktere të tjera speciale). 4-50 karaktere.</string>
+    <string name="Password">fjalëkalim</string>
+    <string name="Enteryourpassword">6-8 karaktere</string>
+    <string name="passwordtip">Vetëm letra A–Z, a-z, numra (pa hapësira ose karaktere speciale). 6-8 karaktere.</string>
+    <string name="nicknametip">Ky pseudonim është marrë tashmë.</string>
+    <string name="Nickname">pseudonimi</string>
+    <string name="Emailaddress">Adresa e emailit</string>
+    <string name="Enteryouremail">Shkruani email-in tuaj</string>
+    <string name="Telephonenumber">Numër telefoni</string>
+    <string name="Enteryourtelephonenumber">Shkruani numrin tuaj të telefonit</string>
+    <string name="phonetip">Futni një nubmer të vlefshëm të telefonit.</string>
+    <string name="emailtip">Futni një adresë e-mail të vlefshme.</string>
+    <string name="Signup">Regjistrohu</string>
+    <string name="tuiat">Ky emër përdoruesi tashmë është marrë.</string>
+    <string name="Login">Identifikohu</string>
+    <string name="Account">llogari</string>
+    <string name="forgotpassword">Forget password?</string>
+    <string name="loginwithaccount">OSE identifikohuni me emrin tuaj të përdoruesit</string>
+    <string name="newur">Regjistrimi i ri i përdoruesit</string>
+    <string name="Usernameinitnew">Emri i përdoruesit (4-50 karaktere)</string>
+    <string name="Passwordnew">Fjalëkalimi (6-8 karaktere)</string>
+    <string name="Emailnew">Email</string>
+    <string name="PhoneNumber">Numri i telefonit</string>
+    <string name="Unknown">i panjohur</string>
+    <string name="enteryEmail">Futni emailin tuaj</string>
+    <string name="enteryPhone">Vendosni numrin tuaj të telefonit</string>
+    <string name="signuptips">When you forget your password, you will need "Phone number" or "Email" to retrieve. We recommend that you complete them.</string>
     <string name="confirmusername">Konfirmo emrin e përdoruesit</string>
-	<string name="next">tjetër</string>
-	<string name="fblogdes">Ju lutemi shkruani një emër përdoruesi. Emri i përdoruesit është një identifikues shumë i rëndësishëm për marrjen e fjalëkalimit, ju lutem mbani në mend.</string>
-	<string name="selectusername">Zgjidh emrin e përdoruesit</string>
-	<string name="reselpass_desone">Futni emrin e përdoruesit të llogarisë tuaj për të rivendosur fjalëkalimin. Ke ndonjë problem në lidhje me fjalëkalimin e rivendosjes<u>contact us</u>.</string>
-	<string name="reselpass_destwo">Ju lutemi shkruani email ose numrin e telefonit. Ke ndonjë problem në lidhje me fjalëkalimin e rivendosjes<u>contact us</u>.</string>
-	<string name="forgetgosingup">A nuk mund të mbani mend ndonjë prej tyre? ju lutem<u>sign up a new account</u>.</string>
-	<string name="Resetpassword">Rivendosni fjalëkalimin</string>
-	<string name="NewPassword">Fjalëkalim i ri</string>
-	<string name="Enterthepasswordagain">Konfirmo fjalëkalimin</string>
-	<string name="signuplimitdes">Pajisja juaj ka arritur numrin maksimal të përdoruesve të regjistruar. Ju lutemi zgjidhni emrin e përdoruesit më poshtë për t\'u identifikuar.</string>
-	<string name="Register">Regjistrohu</string>
-	<string name="eyun">Futni emrin e përdoruesit</string>
-	<string name="eypsw">Futni fjalëkalimin tuaj</string>
-	<string name="loginerrortips">Ju lutemi shkruani një emër përdoruesi dhe fjalëkalim të saktë. Vini re se fusha e fjalëkalimit është e ndjeshme ndaj çështjeve.</string>
-	<string name="Resetpasswordfailed">Rivendosja e fjalëkalimit dështoi.</string>
-	<string name="Theusernamewasnotregistered">Emri i përdoruesit nuk u regjistrua.</string>
-	<string name="petceotn">Ju lutemi shkruani emailin ose numrin e telefonit të saktë.</string>
-	<string name="fbrfail">Regjistri i Facebook dështoi.</string>
-	<string name="Registerfailed">Regjistrimi dështoi, ju lutemi konfirmoni që lidhja juaj e rrjetit është normale, klikoni butonin e regjistrimit për të provuar përsëri.</string>
-	<string name="Loginfailed">Identifikimi dështoi.</string>
-	<string name="me">Me</string>
-	<string name="Avatar">Avatar</string>
+    <string name="next">tjetër</string>
+    <string name="fblogdes">Ju lutemi shkruani një emër përdoruesi. Emri i përdoruesit është një identifikues shumë i rëndësishëm për marrjen e fjalëkalimit, ju lutem mbani në mend.</string>
+    <string name="selectusername">Zgjidh emrin e përdoruesit</string>
+    <string name="reselpass_desone">Futni emrin e përdoruesit të llogarisë tuaj për të rivendosur fjalëkalimin. Ke ndonjë problem në lidhje me fjalëkalimin e rivendosjes<u>contact us</u>.</string>
+    <string name="reselpass_destwo">Ju lutemi shkruani email ose numrin e telefonit. Ke ndonjë problem në lidhje me fjalëkalimin e rivendosjes<u>contact us</u>.</string>
+    <string name="forgetgosingup">A nuk mund të mbani mend ndonjë prej tyre? ju lutem<u>sign up a new account</u>.</string>
+    <string name="Resetpassword">Rivendosni fjalëkalimin</string>
+    <string name="NewPassword">Fjalëkalim i ri</string>
+    <string name="Enterthepasswordagain">Konfirmo fjalëkalimin</string>
+    <string name="signuplimitdes">Pajisja juaj ka arritur numrin maksimal të përdoruesve të regjistruar. Ju lutemi zgjidhni emrin e përdoruesit më poshtë për t\'u identifikuar.</string>
+    <string name="Register">Regjistrohu</string>
+    <string name="eyun">Futni emrin e përdoruesit</string>
+    <string name="eypsw">Futni fjalëkalimin tuaj</string>
+    <string name="loginerrortips">Ju lutemi shkruani një emër përdoruesi dhe fjalëkalim të saktë. Vini re se fusha e fjalëkalimit është e ndjeshme ndaj çështjeve.</string>
+    <string name="Resetpasswordfailed">Rivendosja e fjalëkalimit dështoi.</string>
+    <string name="Theusernamewasnotregistered">Emri i përdoruesit nuk u regjistrua.</string>
+    <string name="petceotn">Ju lutemi shkruani emailin ose numrin e telefonit të saktë.</string>
+    <string name="fbrfail">Regjistri i Facebook dështoi.</string>
+    <string name="Registerfailed">Regjistrimi dështoi, ju lutemi konfirmoni që lidhja juaj e rrjetit është normale, klikoni butonin e regjistrimit për të provuar përsëri.</string>
+    <string name="Loginfailed">Identifikimi dështoi.</string>
+    <string name="me">Me</string>
+    <string name="Avatar">Avatar</string>
     <string name="Myposts">postimet e mia</string>
-	<string name="passowrduploadok">Fjalëkalimi ndryshoi me sukses</string>
-	<string name="logout">Shkyç</string>
-	<string name="passwordsame">Dy fjalëkalimet që keni futur janë të paqëndrueshme</string>
-	<string name="PopularComments">Komentet e popullarizuara</string>
-
-
-	<string name="Request">Kërkesë</string>
+    <string name="passowrduploadok">Fjalëkalimi ndryshoi me sukses</string>
+    <string name="logout">Shkyç</string>
+    <string name="passwordsame">Dy fjalëkalimet që keni futur janë të paqëndrueshme</string>
+    <string name="PopularComments">Komentet e popullarizuara</string>
+    <string name="Request">Kërkesë</string>
     <string name="Youarerequesting">Ju po kerkoni:</string>
-	<string name="Addrequest">Shto kërkesë</string>
-	<string name="Myrequests">Kërkesat e mia</string>
-	<string name="Myuploads">Ngarkimet e mia</string>
-	<string name="Updated">përditësuar</string>
-	<string name="Comingsoon">Vjen së shpejti</string>
-	<string name="searchappyouwanttorequest">Kërkoni aplikacionin që dëshironi të kërkoni:</string>
-	<string name="Addupload">Shto ngarkim</string>
-	<string name="requestdetailhint">Trego më shumë rreth kërkesës tënde. (Të paktën 50 karaktere)</string>
-	<string name="requesterror">Paraqitja dështoi, provo përsëri më vonë.</string>
-	<string name="detailserror">(100–4000 karaktere)</string>
-	<string name="view">Pamje</string>
-	<string name="isthiswork">A funksionon?</string>
-	<string name="edit">redaktoj</string>
-	<string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
-	<string name="OBBDataurl">OBB / Data Zippyshare/Mediafire url: (opsional)</string>
-	<string name="Youarereupload">Po ngarkoni:</string>
-	<string name="Upload">Ngarkoni</string>
-	<string name="Uploadfail">Ngarkimi dështoi.</string>
-	<string name="apkfail">Ju lutemi shkruani URL-në e Zippyshare/Mediafire të skedarit apk.</string>
-	<string name="obbfail">Ju lutemi shkruani URL-në Zippyshare/Mediafire të skedarit obb.</string>
-	<string name="worked">Ka punuar</string>
-	<string name="Uploadsuccess">Ngarko suksesin</string>
-	<string name="Requestsuccess">Kërkoni sukses</string>
-	<string name="clickyes">Ju mund ta redaktoni dhe ta dërgoni këtë kërkesë nga radhët e punës.</string>
-	<string name="clickno">Kjo kërkesë do të shtohet përsëri në radhë.</string>
-	<string name="downloadpush_remind">Trego njoftimin pas instalimit</string>
-	<string name="messages">mesazhet</string>
-	<string name="RecommendMods">Rekomandoni Mods</string>
-	<string name="requestdetailserror">(50–4000 karaktere)</string>
-
-	<string name="Changetheimage">Ndrysho imazhin >></string>
-	<string name="Typethecodeinthebox">Shkruani kodin në kutinë</string>
-	<string name="Verificationerror">Verifikimi dështoi, ju lutemi provoni përsëri.</string>
-	<string name="Verifing">Duke verifikuar …</string>
-
-	<!--补偿下载-->
-
-	<string name="fix_tips_title">Provoni serverë të tjerë përpara se të fshini</string>
-	<string name="fix_tips_content">Dëshiron të lidhesh me një server tjetër që të përpiqesh ta shkarkosh para se ta fshish?</string>
-	<string name="fix_progress_title">Skanimi i serverave</string>
-	<string name="fix_progress_content">Mund të duhen disa minuta për të kërkuar serverin më të shpejtë për ju, ju lutemi prisni.</string>
-	<string name="fix_failed_content">Për momentin nuk ka serverë të disponueshëm për ju, ju lutemi provoni përsëri më vonë.</string>
-	<string name="fix_tips_failtitle">Nuk ka më serverë</string>
-	<string name="fix_ok">Provoje</string>
-
-	<!--社区 -->
-	<string name="please_loginanddownload">Ju lutemi shkarkoni këtë mod së pari.</string>
-	<string name="myvoted">Vota ime</string>
-	<string name="working">të punës</string>
-	<string name="inanhour">Ju lutemi sërish të votoni brenda një ore.</string>
-
-	<string name="Review">rishikim</string>
-	<string name="myreply">Përgjigjet e mia</string>
-	<string name="Post">post</string>
-	<string name="addavideo">Shtoni një video</string>
-	<string name="enterthevideourlhere">Ju lutemi shkruani url video në YouTube këtu.</string>
-	<string name="onlysupportyoutube">Mbështetni vetëm videot në Youtube</string>
-	<string name="searchorcreate">Kërkoni ose krijoni</string>
-	<string name="hashtags">Hashtags histori</string>
-	<string name="featuredhash">Hashtags të preferuar</string>
-	<string name="newhshstag">Hashtag i ri</string>
-	<string name="hot">nxehtë</string>
-	<string name="Comments">Comments</string>
-	<string name="replies">Përgjigje</string>
-	<string name="community">Community</string>
-	<string name="report">raport</string>
-	<string name="reply">përgjigje</string>
-	<string name="reportsuccess">Raporti juaj u dorëzua me sukses.</string>
-	<string name="reportfail">Raporti juaj nuk arriti të paraqesë.</string>
-	<string name="replytowho">Përgjigju tek X:</string>
-	<string name="replyfail">Përgjigja dështoi</string>
-	<string name="Reviews">Shqyrtime</string>
-	<string name="success">Sukses</string>
-	<string name="sendfailed">i dështuar</string>
-	<string name="deletesuccess">Etedshtë fshirë me sukses</string>
-	<string name="deletefailed">Dështoi të fshihet</string>
-	<string name="Group">grup</string>
-	<string name="repliedtouser">replied to </string>
-	<string name="speaksomething">Ju lutemi shkruani të paktën 20 karaktorë</string>
-	<string name="speaktoolong">Numri i karaktereve tejkalon kufirin, mund të futen deri në 4000 karaktere.</string>
-	<string name="tapandholdptodelete">Takoni dhe mbani figurën për ta fshirë.</string>
-	<string name="addvideofaild">Shtimi i videos dështoi！ Ju lutemi sigurohuni që rrjeti juaj mund të shfletojë videon në Youtube dhe ta shtojë përsëri atë.</string>
-	<string name="Video">video</string>
-
-	<string name="Hotsearches">Kërkime të nxehta</string>
-	<string name="Hothashtags">Hashtags të nxehtë</string>
-	<string name="history">histori</string>
-	<string name="aboutthisgame">Në lidhje me këtë lojë</string>
-	<string name="details">detalet</string>
+    <string name="Addrequest">Shto kërkesë</string>
+    <string name="Myrequests">Kërkesat e mia</string>
+    <string name="Myuploads">Ngarkimet e mia</string>
+    <string name="Updated">përditësuar</string>
+    <string name="Comingsoon">Vjen së shpejti</string>
+    <string name="searchappyouwanttorequest">Kërkoni aplikacionin që dëshironi të kërkoni:</string>
+    <string name="Addupload">Shto ngarkim</string>
+    <string name="requestdetailhint">Trego më shumë rreth kërkesës tënde. (Të paktën 50 karaktere)</string>
+    <string name="requesterror">Paraqitja dështoi, provo përsëri më vonë.</string>
+    <string name="detailserror">(100–4000 karaktere)</string>
+    <string name="view">Pamje</string>
+    <string name="isthiswork">A funksionon?</string>
+    <string name="edit">redaktoj</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire url: (opsional)</string>
+    <string name="Youarereupload">Po ngarkoni:</string>
+    <string name="Upload">Ngarkoni</string>
+    <string name="Uploadfail">Ngarkimi dështoi.</string>
+    <string name="apkfail">Ju lutemi shkruani URL-në e Zippyshare/Mediafire të skedarit apk.</string>
+    <string name="obbfail">Ju lutemi shkruani URL-në Zippyshare/Mediafire të skedarit obb.</string>
+    <string name="worked">Ka punuar</string>
+    <string name="Uploadsuccess">Ngarko suksesin</string>
+    <string name="Requestsuccess">Kërkoni sukses</string>
+    <string name="clickyes">Ju mund ta redaktoni dhe ta dërgoni këtë kërkesë nga radhët e punës.</string>
+    <string name="clickno">Kjo kërkesë do të shtohet përsëri në radhë.</string>
+    <string name="downloadpush_remind">Trego njoftimin pas instalimit</string>
+    <string name="messages">mesazhet</string>
+    <string name="RecommendMods">Rekomandoni Mods</string>
+    <string name="requestdetailserror">(50–4000 karaktere)</string>
+    <string name="Changetheimage">Ndrysho imazhin &gt;&gt;</string>
+    <string name="Typethecodeinthebox">Shkruani kodin në kutinë</string>
+    <string name="Verificationerror">Verifikimi dështoi, ju lutemi provoni përsëri.</string>
+    <string name="Verifing">Duke verifikuar …</string>
+    <!--补偿下载-->
+    <string name="fix_tips_title">Provoni serverë të tjerë përpara se të fshini</string>
+    <string name="fix_tips_content">Dëshiron të lidhesh me një server tjetër që të përpiqesh ta shkarkosh para se ta fshish?</string>
+    <string name="fix_progress_title">Skanimi i serverave</string>
+    <string name="fix_progress_content">Mund të duhen disa minuta për të kërkuar serverin më të shpejtë për ju, ju lutemi prisni.</string>
+    <string name="fix_failed_content">Për momentin nuk ka serverë të disponueshëm për ju, ju lutemi provoni përsëri më vonë.</string>
+    <string name="fix_tips_failtitle">Nuk ka më serverë</string>
+    <string name="fix_ok">Provoje</string>
+    <!--社区 -->
+    <string name="please_loginanddownload">Ju lutemi shkarkoni këtë mod së pari.</string>
+    <string name="myvoted">Vota ime</string>
+    <string name="working">të punës</string>
+    <string name="inanhour">Ju lutemi sërish të votoni brenda një ore.</string>
+    <string name="Review">rishikim</string>
+    <string name="myreply">Përgjigjet e mia</string>
+    <string name="Post">post</string>
+    <string name="addavideo">Shtoni një video</string>
+    <string name="enterthevideourlhere">Ju lutemi shkruani url video në YouTube këtu.</string>
+    <string name="onlysupportyoutube">Mbështetni vetëm videot në Youtube</string>
+    <string name="searchorcreate">Kërkoni ose krijoni</string>
+    <string name="hashtags">Hashtags histori</string>
+    <string name="featuredhash">Hashtags të preferuar</string>
+    <string name="newhshstag">Hashtag i ri</string>
+    <string name="hot">nxehtë</string>
+    <string name="Comments">Comments</string>
+    <string name="replies">Përgjigje</string>
+    <string name="community">Community</string>
+    <string name="report">raport</string>
+    <string name="reply">përgjigje</string>
+    <string name="reportsuccess">Raporti juaj u dorëzua me sukses.</string>
+    <string name="reportfail">Raporti juaj nuk arriti të paraqesë.</string>
+    <string name="replytowho">Përgjigju tek X:</string>
+    <string name="replyfail">Përgjigja dështoi</string>
+    <string name="Reviews">Shqyrtime</string>
+    <string name="success">Sukses</string>
+    <string name="sendfailed">i dështuar</string>
+    <string name="deletesuccess">Etedshtë fshirë me sukses</string>
+    <string name="deletefailed">Dështoi të fshihet</string>
+    <string name="Group">grup</string>
+    <string name="repliedtouser">replied to </string>
+    <string name="speaksomething">Ju lutemi shkruani të paktën 20 karaktorë</string>
+    <string name="speaktoolong">Numri i karaktereve tejkalon kufirin, mund të futen deri në 4000 karaktere.</string>
+    <string name="tapandholdptodelete">Takoni dhe mbani figurën për ta fshirë.</string>
+    <string name="addvideofaild">Shtimi i videos dështoi！ Ju lutemi sigurohuni që rrjeti juaj mund të shfletojë videon në Youtube dhe ta shtojë përsëri atë.</string>
+    <string name="Video">video</string>
+    <string name="Hotsearches">Kërkime të nxehta</string>
+    <string name="Hothashtags">Hashtags të nxehtë</string>
+    <string name="history">histori</string>
+    <string name="aboutthisgame">Në lidhje me këtë lojë</string>
+    <string name="details">detalet</string>
     <string name="sellallreviews">Shihni të gjitha vlerësimet</string>
-
-
-	<string name="hfivetitle">Lojëra të shpejta</string>
-	<string name="Recommended">Recommended</string>
-	<string name="exit_tips">Shtypni përsëri për të dalë nga loja</string>
-	<string name="h5_menu_reload">Ringarkoj</string>
-	<string name="h5_menu_share">pjesë</string>
-	<string name="h5_menu_shortcut">Shtoni në ekranin e shtëpisë</string>
-	<string name="installplaywitouthti">Luaj menjëherë, pa pasur nevojë të instalosh</string>
-
-	<!--全局rty-->
-	<string name="crash_dialog_title">Oops...</string>
-	<string name="crash_toast_message">Na vjen keq, përjashtimi i APP-së, do të dalë ， ju lutemi paraqisni raportin tuaj të gabimeve përmes postës elektronike.</string>
-	<string name="crash_dialog_message">Na vjen keq, përjashtim i APP, ju lutemi paraqisni raportin tuaj të gabimeve përmes emailit.</string>
-	<string name="crash_dialog_feedback">Raportoni të metat</string>
-	<string name="crash_dialog_restart">Rifillo, fillo përsëri</string>
-
-	<string name="init_fail">Inicializimi dështoi, ju lutemi përdorni VPN ose ndryshoni në rrjetet e tjera.</string>
-	<string name="error_file_des">Ky skedar është fshirë dhe është duke u ri-shkarkuar tani.</string>
-
-	<string name="sdpermission">Ne kemi nevojë për të hyrë në hapësirën tuaj të jashtme. Ju lutemi sigurohuni që leja të jepet.</string>
-	<string name="Night_Mode">Mënyra e natës</string>
-
+    <string name="hfivetitle">Lojëra të shpejta</string>
+    <string name="Recommended">Recommended</string>
+    <string name="exit_tips">Shtypni përsëri për të dalë nga loja</string>
+    <string name="h5_menu_reload">Ringarkoj</string>
+    <string name="h5_menu_share">pjesë</string>
+    <string name="h5_menu_shortcut">Shtoni në ekranin e shtëpisë</string>
+    <string name="installplaywitouthti">Luaj menjëherë, pa pasur nevojë të instalosh</string>
+    <!--全局rty-->
+    <string name="crash_dialog_title">Oops...</string>
+    <string name="crash_toast_message">Na vjen keq, përjashtimi i APP-së, do të dalë ， ju lutemi paraqisni raportin tuaj të gabimeve përmes postës elektronike.</string>
+    <string name="crash_dialog_message">Na vjen keq, përjashtim i APP, ju lutemi paraqisni raportin tuaj të gabimeve përmes emailit.</string>
+    <string name="crash_dialog_feedback">Raportoni të metat</string>
+    <string name="crash_dialog_restart">Rifillo, fillo përsëri</string>
+    <string name="init_fail">Inicializimi dështoi, ju lutemi përdorni VPN ose ndryshoni në rrjetet e tjera.</string>
+    <string name="error_file_des">Ky skedar është fshirë dhe është duke u ri-shkarkuar tani.</string>
+    <string name="sdpermission">Ne kemi nevojë për të hyrë në hapësirën tuaj të jashtme. Ju lutemi sigurohuni që leja të jepet.</string>
+    <string name="Night_Mode">Mënyra e natës</string>
     <string name="thisty">Ai emri i përdoruesit është marrë. Provoni një tjetër. Në dispozicion:</string>
-
-
-	<!--home_feature-->
-	<string name="Feature">Të zgjedhura</string>
-	<string name="editorpick">Zgjedhja e redaktorit</string>
-	<string name="PopularInlast">Popular në 24 orët e fundit</string>
-	<string name="Latestupdated">Përditësuar më së fundmi</string>
-	<string name="paidforfree">Paguhet falas</string>
-
-	<string name="ToadyRecommend">Rekomandoni Toady</string>
-	<string name="hotmods">Modat e nxehta</string>
-	<string name="hotrecommended">Rekomandohet nxehtë</string>
-
-	<!--upload 新增-->
-	<string name="searchappyouwanttoupload">Kërkoni në aplikacionin që dëshironi të ngarkoni:</string>
-	<string name="addapost">Shtoni një postim</string>
-	<string name="launch_des">Gjeni modale pune 100% \ nPërdorur nga përdoruesit; Verifikuar nga përdoruesit!</string>
-	<string name="requestamod">Kërkoni një mod</string>
-	<string name="uploadamod">Ngarko një mod</string>
-
-	<!--boundle 新增-->
-	<string name="Installing">instalimi</string>
-	<string name="bundleneedsfive">Na vjen keq, Bundle ka nevojë për Android 5.0 dhe më lart.</string>
-	<string name="parsingerror">Gabim në parsing apk ose anuluar.</string>
-	<string name="tipsinstallok">Instalimi ishte i suksesshëm.</string>
-	<string name="tipsinstallfail">Instalimi dështoi, ju lutemi provoni përsëri.</string>
-
-	<!--图片上传表达-->
-	<string name="maxmbperimage">Maksimumi 10MB për imazh.</string>
-	<string name="Imagesmustbelessthan">Imazhet duhet të jenë më pak se 10MB, ju lutemi zvogëloni dimensionet e figurës, rivendosni përsëri ose ri-eksportoni skedarin tuaj dhe provoni ta ngarkoni përsëri.</string>
-
+    <!--home_feature-->
+    <string name="Feature">Të zgjedhura</string>
+    <string name="editorpick">Zgjedhja e redaktorit</string>
+    <string name="PopularInlast">Popular në 24 orët e fundit</string>
+    <string name="Latestupdated">Përditësuar më së fundmi</string>
+    <string name="paidforfree">Paguhet falas</string>
+    <string name="ToadyRecommend">Rekomandoni Toady</string>
+    <string name="hotmods">Modat e nxehta</string>
+    <string name="hotrecommended">Rekomandohet nxehtë</string>
+    <!--upload 新增-->
+    <string name="searchappyouwanttoupload">Kërkoni në aplikacionin që dëshironi të ngarkoni:</string>
+    <string name="addapost">Shtoni një postim</string>
+    <string name="launch_des">Gjeni modale pune 100% \ nPërdorur nga përdoruesit; Verifikuar nga përdoruesit!</string>
+    <string name="requestamod">Kërkoni një mod</string>
+    <string name="uploadamod">Ngarko një mod</string>
+    <!--boundle 新增-->
+    <string name="Installing">instalimi</string>
+    <string name="bundleneedsfive">Na vjen keq, Bundle ka nevojë për Android 5.0 dhe më lart.</string>
+    <string name="parsingerror">Gabim në parsing apk ose anuluar.</string>
+    <string name="tipsinstallok">Instalimi ishte i suksesshëm.</string>
+    <string name="tipsinstallfail">Instalimi dështoi, ju lutemi provoni përsëri.</string>
+    <!--图片上传表达-->
+    <string name="maxmbperimage">Maksimumi 10MB për imazh.</string>
+    <string name="Imagesmustbelessthan">Imazhet duhet të jenë më pak se 10MB, ju lutemi zvogëloni dimensionet e figurës, rivendosni përsëri ose ri-eksportoni skedarin tuaj dhe provoni ta ngarkoni përsëri.</string>
     <string name="installfailed">Instalimi dështoi.</string>
-	<string name="miuides">Ju lutemi aktivizoni Opsionet e Zhvilluesit, fikni optimizimin e MIUI dhe provoni përsëri.</string>
-
-	<string name="playdes">Luaj</string>
-	<string name="todayhotgame">Sot është e nxehtë</string>
-	<string name="newcoming">Hyrja e re</string>
-	<string name="recentlyplayed">Luajtur kohët e fundit</string>
-	<string name="toopenitquickntime">Për ta hapur shpejt herën tjetër, ju lutemi:</string>
-	<string name="finditin">Gjeni atë në X</string>
-	<string name="needhelp">Kam nevojë për ndihmë?</string>
-	<string name="peoplealsoplaygames">Njerëzit e kanë luajtur këtë lojë gjithashtu kanë luajtur:</string>
-
-	<string name="opencommunitydes">Nëse gjeni një të rritur ose ndonjë postim të keq, ju lutemi klikoni në butonin e raportit në këndin e sipërm të djathtë të postimit, dhe ne do ta fshijmë postimin dhe bllokojmë postuesin për herë të parë! Ju lutem flisni të civilizuar!</string>
-	<string name="myreviews">Vlerësimet e mia</string>
-
-	<string name="tagthisapp">Flamurojeni këtë aplikacion</string>
-	<string name="appuploader">Aplikacioni i ngarkuar nga</string>
-	<string name="votedresult">Ju tashmë keni votuar për këtë aplikacion.</string>
-	<string name="votedokok">Vota juaj u dorëzua me sukses.</string>
-	<string name="please_downlaodthisapp">Ju lutemi shkarkoni këtë aplikacion së pari.</string>
-	<string name="safetitle">Aplikacioni apk i garantuar</string>
-	<string name="safedes">Ky apk kaloi testin e sigurisë për virus, malware. Përdorte një nënshkrim dixhital të besuar dhe të verifikuar.</string>
-	<string name="bereported">Ju e keni raportuar atë.</string>
-
-	<string name="pleasefinishyourdownloadingqueu">Ju lutemi, mbaroni së pari radhën tuaj të shkarkimit.</string>
-	<string name="adduploadvideo">Shto video: (opsionale)</string>
-	<string name="uploadscreenshots">Ngarko foto nga ekrani (160 * 90)</string>
-	<string name="scerrnshoteserror">Kërkohen pamjet e ekranit.</string>
-	<string name="bannererror">Kërkohet banderola.</string>
-	<string name="pleaseentergoogleaddress">Fut ID-në e aplikacionit ose URL-në në Google Play.</string>
-	<string name="thisposthasbeendeleted">Ky postim është fshirë</string>
-	<string name="add">Shto</string>
-	<string name="oagputc">Ose shtoni URL-në e Google Play për të vazhduar</string>
-	<string name="description">Përshkrim:</string>
-	<string name="uploadbanner">Ngarko banderolën (720 * 406)</string>
-	<string name="noedituploadtips">Ju nuk mund ta paraqisni atë pa bërë asnjë ndryshim.</string>
-	<string name="addexcusiveaddressixit">Kjo apk tashmë ekziston.</string>
-
-	<string name="itisworkingonyourdevice">A po punon në pajisjen tuaj?</string>
-	<string name="no_working">Nuk punon</string>
-	<string name="vote_it">Votoni</string>
-	<string name="novirus">Pa virus</string>
-	<string name="nomalware">Asnjë malware</string>
-	<string name="nospyware">Asnjë Spyware</string>
-	<string name="less">Më pak</string>
-	<string name="votedandfail">Ju tashmë keni rishikuar, ju lutemi kontrolloni listën "Shqyrtimet e mia".</string>
-
-	<string name="fastdownloader">Shkarkim më të shpejtë</string>
-	<string name="usehtgetspeed">Përdorni HyperTorrent për të marrë 200% + shpejtësi.</string>
-	<string name="cleanfdft">të pastër &amp; shkarkues i shpejtë për torrente</string>
-	<string name="fasterspeed">Shpejtësi më e shpejtë</string>
-	<string name="speedfordownloading">200% ~ 1,000% + shpejtësi për shkarkimin e skedarëve të mëdhenj nga HappyMod.</string>
-	<string name="nolimits">Pa kufi</string>
-	<string name="nslnfsl">Pa kufizim shpejtësie. Nuk ka kufizim të madhësisë së skedarit.</string>
-	<string name="Clean">I pastër</string>
-	<string name="Cdnoadfree">Dizajn i pastër, pa reklama &amp; 100% falas!</string>
-	<string name="wrhtdbf">Ne rekomandojmë HyperTorrent për të shkarkuar skedarë të mëdhenj.</string>
-	<string name="nothanks">Jo faleminderit</string>
-
-	<string name="Checkthenetwork">Kontrolloni rrjetin</string>
-	<string name="Configuringip">Konfigurimi i IP-ve të disponueshme për ju</string>
-	<string name="Configuringipfailed">Konfigurimi dështoi, 8 IP janë zbuluar të padisponueshme, ju lutemi provoni të përdorni VPN.</string>
-
-	<string name="Donatedes">HappyMod është plotësisht falas dhe ne i urrejmë reklamat po aq sa ju bëni！ \ n \ nNe kemi nevojë për dhurimin tuaj për të siguruar shkarkime më të shpejta dhe më të sigurta. \ N \ nJu lutemi të keni durim dhe të përpiqeni të shikoni reklamat e plota për të përfunduar dhurimin. \ N \ faleminderit！</string>
-
-	<string name="viewstepdeti">Shikoni detajet e hapit</string>
+    <string name="miuides">Ju lutemi aktivizoni Opsionet e Zhvilluesit, fikni optimizimin e MIUI dhe provoni përsëri.</string>
+    <string name="playdes">Luaj</string>
+    <string name="todayhotgame">Sot është e nxehtë</string>
+    <string name="newcoming">Hyrja e re</string>
+    <string name="recentlyplayed">Luajtur kohët e fundit</string>
+    <string name="toopenitquickntime">Për ta hapur shpejt herën tjetër, ju lutemi:</string>
+    <string name="finditin">Gjeni atë në X</string>
+    <string name="needhelp">Kam nevojë për ndihmë?</string>
+    <string name="peoplealsoplaygames">Njerëzit e kanë luajtur këtë lojë gjithashtu kanë luajtur:</string>
+    <string name="opencommunitydes">Nëse gjeni një të rritur ose ndonjë postim të keq, ju lutemi klikoni në butonin e raportit në këndin e sipërm të djathtë të postimit, dhe ne do ta fshijmë postimin dhe bllokojmë postuesin për herë të parë! Ju lutem flisni të civilizuar!</string>
+    <string name="myreviews">Vlerësimet e mia</string>
+    <string name="tagthisapp">Flamurojeni këtë aplikacion</string>
+    <string name="appuploader">Aplikacioni i ngarkuar nga</string>
+    <string name="votedresult">Ju tashmë keni votuar për këtë aplikacion.</string>
+    <string name="votedokok">Vota juaj u dorëzua me sukses.</string>
+    <string name="please_downlaodthisapp">Ju lutemi shkarkoni këtë aplikacion së pari.</string>
+    <string name="safetitle">Aplikacioni apk i garantuar</string>
+    <string name="safedes">Ky apk kaloi testin e sigurisë për virus, malware. Përdorte një nënshkrim dixhital të besuar dhe të verifikuar.</string>
+    <string name="bereported">Ju e keni raportuar atë.</string>
+    <string name="pleasefinishyourdownloadingqueu">Ju lutemi, mbaroni së pari radhën tuaj të shkarkimit.</string>
+    <string name="adduploadvideo">Shto video: (opsionale)</string>
+    <string name="uploadscreenshots">Ngarko foto nga ekrani (160 * 90)</string>
+    <string name="scerrnshoteserror">Kërkohen pamjet e ekranit.</string>
+    <string name="bannererror">Kërkohet banderola.</string>
+    <string name="pleaseentergoogleaddress">Fut ID-në e aplikacionit ose URL-në në Google Play.</string>
+    <string name="thisposthasbeendeleted">Ky postim është fshirë</string>
+    <string name="add">Shto</string>
+    <string name="oagputc">Ose shtoni URL-në e Google Play për të vazhduar</string>
+    <string name="description">Përshkrim:</string>
+    <string name="uploadbanner">Ngarko banderolën (720 * 406)</string>
+    <string name="noedituploadtips">Ju nuk mund ta paraqisni atë pa bërë asnjë ndryshim.</string>
+    <string name="addexcusiveaddressixit">Kjo apk tashmë ekziston.</string>
+    <string name="itisworkingonyourdevice">A po punon në pajisjen tuaj?</string>
+    <string name="no_working">Nuk punon</string>
+    <string name="vote_it">Votoni</string>
+    <string name="novirus">Pa virus</string>
+    <string name="nomalware">Asnjë malware</string>
+    <string name="nospyware">Asnjë Spyware</string>
+    <string name="less">Më pak</string>
+    <string name="votedandfail">Ju tashmë keni rishikuar, ju lutemi kontrolloni listën "Shqyrtimet e mia".</string>
+    <string name="fastdownloader">Shkarkim më të shpejtë</string>
+    <string name="usehtgetspeed">Përdorni HyperTorrent për të marrë 200% + shpejtësi.</string>
+    <string name="cleanfdft">të pastër &amp; shkarkues i shpejtë për torrente</string>
+    <string name="fasterspeed">Shpejtësi më e shpejtë</string>
+    <string name="speedfordownloading">200% ~ 1,000% + shpejtësi për shkarkimin e skedarëve të mëdhenj nga HappyMod.</string>
+    <string name="nolimits">Pa kufi</string>
+    <string name="nslnfsl">Pa kufizim shpejtësie. Nuk ka kufizim të madhësisë së skedarit.</string>
+    <string name="Clean">I pastër</string>
+    <string name="Cdnoadfree">Dizajn i pastër, pa reklama &amp; 100% falas!</string>
+    <string name="wrhtdbf">Ne rekomandojmë HyperTorrent për të shkarkuar skedarë të mëdhenj.</string>
+    <string name="nothanks">Jo faleminderit</string>
+    <string name="Checkthenetwork">Kontrolloni rrjetin</string>
+    <string name="Configuringip">Konfigurimi i IP-ve të disponueshme për ju</string>
+    <string name="Configuringipfailed">Konfigurimi dështoi, 8 IP janë zbuluar të padisponueshme, ju lutemi provoni të përdorni VPN.</string>
+    <string name="Donatedes">HappyMod është plotësisht falas dhe ne i urrejmë reklamat po aq sa ju bëni！ \ n \ nNe kemi nevojë për dhurimin tuaj për të siguruar shkarkime më të shpejta dhe më të sigurta. \ N \ nJu lutemi të keni durim dhe të përpiqeni të shikoni reklamat e plota për të përfunduar dhurimin. \ N \ faleminderit！</string>
+    <string name="viewstepdeti">Shikoni detajet e hapit</string>
 </resources>
