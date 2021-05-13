@@ -1,12 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
     <!--日本-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <!--首页-->
     <string name="Paid">支払う</string>
     <string name="GAME">ゲーム</string>
@@ -40,7 +36,6 @@
     <string name="Recommended_New_Mods">おすすめの新モッド</string>
     <string name="Last_Update_Mods">最新のアップデート</string>
     <string name="SearchHint">検索する</string>
-
     <!-- 侧滑-->
     <string name="Homeweb">公式サイト</string>
     <string name="Management">管理</string>
@@ -51,7 +46,6 @@
     <string name="Checkforupdate">更新を確認する</string>
     <string name="FollowusonTwitter">Twitterでフォローする</string>
     <string name="FollowusonFacebook">Facebookでフォローする</string>
-
     <!--设置页-->
     <string name="settings_network_remind">モバイルネットワークアラート</string>
     <string name="settings_auto_install">自動インストール</string>
@@ -59,10 +53,8 @@
     <string name="settings_other">その他の</string>
     <string name="settings_clear_cache">キャッシュをクリア</string>
     <string name="Clean_up_the_complete">キャッシュクリア</string>
-
     <!--空数据页-->
     <string name="des_no_serach_result">おっと！ 結果が見つかりませんでした。</string>
-
     <!--下载管理页-->
     <string name="Downloads">ダウンロードする</string>
     <string name="Downloading">ダウンロード中</string>
@@ -79,8 +71,6 @@
     <string name="Ratingsreviews">評価と評価</string>
     <string name="Tryitlater">後でもう一度やり直してください</string>
     <string name="Serviceisbusy">接続しています...</string>
-
-
     <!-- 下载删除的文字 -->
     <string name="Notice">注意</string>
     <string name="deletethistask">このファイルを削除</string>
@@ -90,8 +80,6 @@
     <string name="NotwhatIwant">欲しいものじゃない</string>
     <string name="Downloadfailed">ダウンロードに失敗しました</string>
     <string name="Downloadistooslow">ダウンロードが遅すぎる</string>
-
-
     <!--APP详情页-->
     <string name="Mods">MODS</string>
     <string name="Original">元の</string>
@@ -100,8 +88,6 @@
     <string name="Downloadobb">（APK+OBB）をダウンロード</string>
     <string name="Downloaddata">ダウンロード（APK+DATA）</string>
     <string name="Downloadboundle">ダウンロード BUNDLE</string>
-
-
     <string name="Downloaded">ダウンロード済み</string>
     <string name="Install">インストール</string>
     <string name="Connecting">接続しています...</string>
@@ -111,8 +97,6 @@
     <string name="Recommend">おすすめ</string>
     <string name="Recommendmod">お勧めMOD</string>
     <string name="Moremods">より多くの改造</string>
-
-
     <!--评分-->
     <string name="Submit">提出する</string>
     <string name="Hated_it">それが嫌い！</string>
@@ -120,16 +104,12 @@
     <string name="Its_ok">関係ありません。</string>
     <string name="Liked_it">それが好きです。</string>
     <string name="Loved_it">それを愛しなさい！</string>
-
-
     <!--分享-->
     <string name="share_happymod">からの「HappyMod」を共有</string>
     <string name="share_subject">HappyModを入手</string>
     <string name="share_text">100％使いやすいmodを@HappyModでダウンロードする\ nhttps：//www.happymod.com/</string>
-
     <!--修改路径-->
     <string name="pref_location">保管場所</string>
-
     <!--update -->
     <string name="force_des">100％好用的Mod</string>
     <string name="nvisrti">新しいバージョンをインストールする準備が整いました。</string>
@@ -152,18 +132,13 @@
     <string name="initializing">初始化</string>
     <string name="Retrying">再試行</string>
     <string name="language">言語</string>
-
     <!--类别界面 -->
-
     <string name="Popular">人気のある</string>
     <string name="s_New">最新の</string>
     <string name="apps">申し込み</string>
-
-
     <!-- 大文件 -->
     <string name="mergering">最後のステップ</string>
     <string name="mergerwait">最終治療（1〜2分かかります）</string>
-
     <!-- 验证 -->
     <string name="Startverification">確認を開始</string>
     <string name="verificationShangXian">おっと！ 1日のダウンロード制限に達しました。X時間後にもう一度お試しください。</string>
@@ -171,12 +146,9 @@
     <string name="Morehelp">（もっと助けて）</string>
     <string name="uid">ユーザーID</string>
     <string name="copysuccess">ユーザーIDがクリップボードにコピーされました。</string>
-
     <string name="watchnow">今見て</string>
     <string name="ggdownloading">広告が読み込まれています。しばらくお待ちください。</string>
     <string name="verificaing">確認してお待ちください。</string>
-
-
     <!-- 评价 -->
     <string name="Removeads">広告を削除</string>
     <string name="Paidforfree">無料</string>
@@ -204,8 +176,6 @@
     <string name="Unlimitedhints">無限のプロンプト</string>
     <string name="Megamod">複数の亀裂</string>
     <string name="Full">フルバージョン</string>
-
-
     <!-- 注册登录 -->
     <string name="Username">ユーザー名</string>
     <string name="Usernameinit">4〜50文字</string>
@@ -226,7 +196,6 @@
     <string name="Login">ログイン</string>
     <string name="Account">アカウント</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">またはユーザー名でログイン</string>
     <string name="newur">新規ユーザー登録</string>
     <string name="Usernameinitnew">ユーザー名（4〜50文字）</string>
@@ -237,8 +206,6 @@
     <string name="enteryEmail">メールアドレスを入力</string>
     <string name="enteryPhone">電話番号を入力してください</string>
     <string name="signuptips">パスワードを忘れた場合、取得するには「電話番号」または「メール」が必要になります。 それらを完了することをお勧めします。</string>
-
-
     <string name="confirmusername">ユーザー名を確認</string>
     <string name="next">次</string>
     <string name="fblogdes">ユーザー名を入力してください。ユーザー名はパスワードを取得するための非常に重要な識別子です。覚えておいてください。</string>
@@ -267,7 +234,6 @@
     <string name="logout">ログアウト</string>
     <string name="passwordsame">入力した2つのパスワードが矛盾しています</string>
     <string name="PopularComments">人気のコメント</string>
-
     <string name="Request">要求</string>
     <string name="Youarerequesting">あなたが要求している：</string>
     <string name="Addrequest">リクエストを追加</string>
@@ -299,14 +265,11 @@
     <string name="messages">メッセージ</string>
     <string name="RecommendMods">改造をお勧めします</string>
     <string name="requestdetailserror">（50〜4000文字）</string>
-
-    <string name="Changetheimage">画像を変更する>></string>
+    <string name="Changetheimage">画像を変更する&gt;&gt;</string>
     <string name="Typethecodeinthebox">ボックスにコードを入力してください</string>
     <string name="Verificationerror">検証に失敗しました。もう一度やり直してください。</string>
     <string name="Verifing">確認しています…</string>
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">削除する前に他のサーバーを試してください</string>
     <string name="fix_tips_content">削除する前に別のサーバーに接続してダウンロードを試みますか？</string>
     <string name="fix_progress_title">スキャンサーバー</string>
@@ -314,13 +277,11 @@
     <string name="fix_failed_content">現在、使用可能なサーバーはありません。しばらくしてからもう一度お試しください。</string>
     <string name="fix_tips_failtitle">これ以上サーバー</string>
     <string name="fix_ok">それを試してみてください</string>
-
     <!--社区 -->
     <string name="please_loginanddownload">最初にこのmodをダウンロードしてください。</string>
     <string name="myvoted">私の投票</string>
     <string name="working">ワーキング</string>
     <string name="inanhour">1時間後にもう一度投票してください。</string>
-
     <string name="Review">レビュー</string>
     <string name="myreply">私の返信</string>
     <string name="Post">役職</string>
@@ -353,15 +314,12 @@
     <string name="tapandholdptodelete">削除するには画像を長押しします。</string>
     <string name="addvideofaild">動画の追加に失敗しました。ネットワークでYoutube動画を閲覧できることを確認して、再度追加してください。</string>
     <string name="Video">ビデオ</string>
-
     <string name="Hotsearches">ホット検索</string>
     <string name="Hothashtags">ホットハッシュタグ</string>
     <string name="history">歴史</string>
     <string name="aboutthisgame">このゲームについて</string>
     <string name="details">詳細</string>
     <string name="sellallreviews">すべてのレビューを見る</string>
-
-
     <string name="hfivetitle">クイックゲーム</string>
     <string name="Recommended">お勧め</string>
     <string name="exit_tips">もう一度押すとゲームを終了します</string>
@@ -369,33 +327,26 @@
     <string name="h5_menu_share">シェア</string>
     <string name="h5_menu_shortcut">ホーム画面に追加します</string>
     <string name="installplaywitouthti">インストールすることなくインスタントプレイ</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">おっとっと...</string>
     <string name="crash_toast_message">申し訳ありませんが、APP例外は終了します。バグレポートをメールで送信してください。</string>
     <string name="crash_dialog_message">申し訳ありませんが、APP例外、バグレポートをメールで送信してください。</string>
     <string name="crash_dialog_feedback">バグを報告する</string>
     <string name="crash_dialog_restart">再起動</string>
-
     <string name="init_fail">初期化に失敗しました。VPNを使用するか、他のネットワークに変更してください。</string>
     <string name="error_file_des">このファイルは削除されており、現在再ダウンロード中です。</string>
-
     <string name="sdpermission">外部ストレージにアクセスする必要があります。許可が付与されていることを確認してください。</string>
     <string name="Night_Mode">ナイトモード</string>
-
     <string name="thisty">そのユーザー名は既に使用されています。 別のを試してみてください。 利用可能：</string>
-
     <!--home_feature-->
     <string name="Feature">特徴</string>
     <string name="editorpick">エディターズピック</string>
     <string name="PopularInlast">過去24時間に人気</string>
     <string name="Latestupdated">最終更新</string>
     <string name="paidforfree">無料で支払われる</string>
-
     <string name="ToadyRecommend">Toady \のおすすめ</string>
     <string name="hotmods">ホット改造</string>
     <string name="hotrecommended">人気のおすすめ</string>
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">アップロードするアプリを検索します。</string>
     <string name="addapost">投稿を追加</string>
@@ -408,15 +359,11 @@
     <string name="parsingerror">APKの解析中にエラーが発生したか、キャンセルされました。</string>
     <string name="tipsinstallok">インストールは成功しました。</string>
     <string name="tipsinstallfail">インストールに失敗しました。もう一度お試しください。</string>
-
-
     <!--图片上传表达-->
     <string name="maxmbperimage">画像あたり最大10MB。</string>
     <string name="Imagesmustbelessthan">画像は10 MB未満である必要があります。画像のサイズを縮小し、ファイルを再保存または再エクスポートして、もう一度アップロードしてください。</string>
-
     <string name="installfailed">インストールに失敗しました。</string>
     <string name="miuides">開発者オプションをオンにし、MIUI最適化をオフにして、もう一度試してください。</string>
-
     <string name="playdes">演奏する</string>
     <string name="todayhotgame">今日の暑い</string>
     <string name="newcoming">新しい着信</string>
@@ -425,10 +372,8 @@
     <string name="finditin">Xで見つける</string>
     <string name="needhelp">助けが必要？</string>
     <string name="peoplealsoplaygames">このゲームをプレイした人は以下もプレイしています：</string>
-
     <string name="opencommunitydes">アダルトまたは不適切な投稿を見つけた場合は、投稿の右上隅にある[レポート]ボタンをクリックしてください。初めて投稿を削除し、ポスターをブロックします。 文明を話してください！</string>
     <string name="myreviews">私のレビュー</string>
-
     <string name="tagthisapp">このアプリにフラグを立てる</string>
     <string name="appuploader">によってアップロードされたアプリ</string>
     <string name="votedresult">あなたはすでにこのアプリに投票しています。</string>
@@ -437,7 +382,6 @@
     <string name="safetitle">アプリapk保証</string>
     <string name="safedes">このapkは、ウイルス、マルウェアのセキュリティテストに合格しました。 信頼できる検証済みのデジタル署名を使用しました。</string>
     <string name="bereported">あなたはそれを報告しました。</string>
-
     <string name="pleasefinishyourdownloadingqueu">最初にダウンロードキューを終了してください。</string>
     <string name="adduploadvideo">ビデオの追加:(オプション）</string>
     <string name="uploadscreenshots">スクリーンショットをアップロード（160 * 90）</string>
@@ -451,7 +395,6 @@
     <string name="uploadbanner">バナーのアップロード（720 * 406）</string>
     <string name="noedituploadtips">変更を加えずに送信することはできません。</string>
     <string name="addexcusiveaddressixit">このapkはすでに存在します。</string>
-
     <string name="itisworkingonyourdevice">お使いのデバイスで動作していますか？</string>
     <string name="no_working">動作しない</string>
     <string name="vote_it">投票する</string>
@@ -460,7 +403,6 @@
     <string name="nospyware">スパイウェアなし</string>
     <string name="less">もっと少なく</string>
     <string name="votedandfail">すでにレビュー済みです。「マイレビュー」リストを確認してください。</string>
-
     <string name="fastdownloader">より速いダウンロード</string>
     <string name="usehtgetspeed">HyperTorrentを使用して200％以上の速度を取得します。</string>
     <string name="cleanfdft">クリーン＆amp; トレント用の高速ダウンローダー</string>
@@ -472,12 +414,9 @@
     <string name="Cdnoadfree">すっきりとしたデザイン、広告なし＆amp; 100％無料！</string>
     <string name="wrhtdbf">大きなファイルをダウンロードするには、HyperTorrentをお勧めします。</string>
     <string name="nothanks">結構です</string>
-
     <string name="Checkthenetwork">ネットワークを確認してください</string>
     <string name="Configuringip">利用可能なIPを構成する</string>
     <string name="Configuringipfailed">構成に失敗しました。8つのIPが使用できないことが検出されました。VPNを使用してみてください。</string>
-
     <string name="Donatedes">HappyModは完全に無料で、広告は大嫌いです！\ n \ nより速く、より安全なダウンロードを提供するには、寄付が必要です。\ n \ nしばらくお待ちください。広告全体を見て、寄付を完了してください。\ n \ nありがとうございます！</string>
-
     <string name="viewstepdeti">ステップの詳細を表示する</string>
 </resources>
