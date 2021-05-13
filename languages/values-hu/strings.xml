@@ -1,12 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <!--匈牙利-->
-
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-
     <string name="facebook_app_id">658182831284939</string>
-
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,7 +20,6 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-
     <!--首页-->
     <string name="Paid">fizet</string>
     <string name="GAME">játék</string>
@@ -40,7 +36,6 @@
     <string name="Recommended_New_Mods">Ajánlott új módok</string>
     <string name="Last_Update_Mods">Legutóbbi frissítés</string>
     <string name="SearchHint">Keresés ..</string>
-
     <!-- 侧滑-->
     <string name="Homeweb">Hivatalos honlap</string>
     <string name="Management">vezetés</string>
@@ -51,7 +46,6 @@
     <string name="Checkforupdate">Ellenőrizze a frissítéseket</string>
     <string name="FollowusonTwitter">Kövess minket a Twitteren</string>
     <string name="FollowusonFacebook">Kövess minket a Facebookon</string>
-
     <!--设置页-->
     <string name="settings_network_remind">Mobil hálózati riasztás</string>
     <string name="settings_auto_install">Automatikus telepítés</string>
@@ -59,10 +53,8 @@
     <string name="settings_other">más</string>
     <string name="settings_clear_cache">Gyorsítótár törlése</string>
     <string name="Clean_up_the_complete">A gyorsítótár törölve</string>
-
     <!--空数据页-->
     <string name="des_no_serach_result">Hoppá! Nincs találat.</string>
-
     <!--下载管理页-->
     <string name="Downloads">Letöltés</string>
     <string name="Downloading">A letöltés</string>
@@ -79,8 +71,6 @@
     <string name="Ratingsreviews">Értékelés és értékelés</string>
     <string name="Tryitlater">Próbálkozzon később</string>
     <string name="Serviceisbusy">Connected ...</string>
-
-
     <!-- 下载删除的文字 -->
     <string name="Notice">figyel</string>
     <string name="deletethistask">Törölje ezt a fájlt</string>
@@ -90,8 +80,6 @@
     <string name="NotwhatIwant">Nem az, amit akarok</string>
     <string name="Downloadfailed">Sikertelen letöltés</string>
     <string name="Downloadistooslow">A letöltés túl lassú</string>
-
-
     <!--APP详情页-->
     <string name="Mods">MODS</string>
     <string name="Original">az eredeti</string>
@@ -100,8 +88,6 @@
     <string name="Downloadobb">Letöltés (APK+OBB)</string>
     <string name="Downloaddata">Letöltés (APK+DATA)</string>
     <string name="Downloadboundle">Letöltés BUNDLE</string>
-
-
     <string name="Downloaded">letöltve</string>
     <string name="Install">felszerel</string>
     <string name="Connecting">Connected ...</string>
@@ -111,8 +97,6 @@
     <string name="Recommend">ajánlás</string>
     <string name="Recommendmod">Ajánlott mod</string>
     <string name="Moremods">További módok</string>
-
-
     <!--评分-->
     <string name="Submit">Küldje</string>
     <string name="Hated_it">Utálom!</string>
@@ -120,16 +104,12 @@
     <string name="Its_ok">Nem számít.</string>
     <string name="Liked_it">Tetszik.</string>
     <string name="Loved_it">Szeretem!</string>
-
-
     <!--分享-->
     <string name="share_happymod">Ossza meg a HappyMod-ot</string>
     <string name="share_subject">GetMod</string>
     <string name="share_text">Töltse le a 100% -ban könnyen használható mod-ot a @HappyMod segítségével \ t</string>
-
     <!--修改路径-->
     <string name="pref_location">Tárolási hely</string>
-
     <!--update -->
     <string name="force_des">100% könnyen használható mod</string>
     <string name="nvisrti">Az új verzió telepítésre kész.</string>
@@ -152,18 +132,13 @@
     <string name="initializing">inicializálás</string>
     <string name="Retrying">Próbálja újra</string>
     <string name="language">nyelv</string>
-
     <!--类别界面 -->
-
     <string name="Popular">népszerű</string>
     <string name="s_New">legutolsó</string>
     <string name="apps">kérelem</string>
-
-
     <!-- 大文件 -->
     <string name="mergering">Utolsó lépés</string>
     <string name="mergerwait">Végső kezelés (1-2 perc)</string>
-
     <!-- 验证 -->
     <string name="Startverification">Kezdje el az ellenőrzést</string>
     <string name="verificationShangXian">Hoppá! Elérte a napi letöltési korlátot. Kérjük, próbálja újra X óra után.</string>
@@ -171,11 +146,9 @@
     <string name="Morehelp">(további segítség)</string>
     <string name="uid">Felhasználói azonosító</string>
     <string name="copysuccess">A felhasználói azonosítót a vágólapra másolták.</string>
-
     <string name="watchnow">Nézd most!</string>
     <string name="ggdownloading">A hirdetés betöltődik, kérjük, várjon és tartsa nyitva a happymodot.</string>
     <string name="verificaing">Kérjük, várjon, amíg az ellenőrzés megtörténik.</string>
-
     <!-- 评价 -->
     <string name="Removeads">Hirdetés eltávolítása</string>
     <string name="Paidforfree">ingyenes</string>
@@ -203,8 +176,6 @@
     <string name="Unlimitedhints">Végtelen üzenet</string>
     <string name="Megamod">Több repedés</string>
     <string name="Full">Teljes verzió</string>
-
-
     <!-- 注册登录 -->
     <string name="Username">Felhasználónév</string>
     <string name="Usernameinit">4-50 karakter</string>
@@ -225,7 +196,6 @@
     <string name="Login">Belépés</string>
     <string name="Account">számla</string>
     <string name="forgotpassword">Forget password?</string>
-
     <string name="loginwithaccount">VAGY jelentkezzen be felhasználónevével</string>
     <string name="newur">Új felhasználó regisztráció</string>
     <string name="Usernameinitnew">Felhasználónév (4-50 karakter)</string>
@@ -236,7 +206,6 @@
     <string name="enteryEmail">Írd be az email címed</string>
     <string name="enteryPhone">Írja be a telefonszámát</string>
     <string name="signuptips">Amikor elfelejti a jelszavát, a letöltéshez "Telefonszámra" vagy "E-mailre" lesz szüksége. Javasoljuk, hogy töltse ki őket.</string>
-
     <string name="confirmusername">Felhasználónév megerősítése</string>
     <string name="next">Következő</string>
     <string name="fblogdes">Kérjük, adjon meg egy felhasználónevet. A felhasználónév nagyon fontos azonosító a jelszó lekéréséhez, kérjük, vegye figyelembe.</string>
@@ -265,7 +234,6 @@
     <string name="logout">Kijelentkezés</string>
     <string name="passwordsame">A megadott két jelszó következetlen</string>
     <string name="PopularComments">Népszerű megjegyzések</string>
-
     <!--my request -->
     <string name="Request">Kérés</string>
     <string name="Youarerequesting">Ön kér:</string>
@@ -298,14 +266,11 @@
     <string name="messages">üzenetek</string>
     <string name="RecommendMods">Modulok ajánlása</string>
     <string name="requestdetailserror">(50-4000 karakter)</string>
-
-    <string name="Changetheimage">A kép módosítása >></string>
+    <string name="Changetheimage">A kép módosítása &gt;&gt;</string>
     <string name="Typethecodeinthebox">Írja be a kódot a mezőbe</string>
     <string name="Verificationerror">Azonosítás sikertelen! Kérem, próbálja újra.</string>
     <string name="Verifing">Ellenőrzés …</string>
-
     <!--补偿下载-->
-
     <string name="fix_tips_title">Próbálja ki más kiszolgálókat a törlés előtt</string>
     <string name="fix_tips_content">Szeretne csatlakozni egy másik szerverhez, hogy törlése előtt megpróbálja letölteni?</string>
     <string name="fix_progress_title">Beolvasó szerverek</string>
@@ -313,14 +278,11 @@
     <string name="fix_failed_content">Jelenleg nincs elérhető szerver. Kérjük, próbálkozzon később újra.</string>
     <string name="fix_tips_failtitle">Nincs több szerver</string>
     <string name="fix_ok">Próbáld ki</string>
-
-
     <!--社区 -->
     <string name="please_loginanddownload">Először töltse le ezt a modot.</string>
     <string name="myvoted">A szavazatom</string>
     <string name="working">Dolgozó</string>
     <string name="inanhour">Kérjük, szavazzon újra egy óra múlva.</string>
-
     <string name="Review">Felülvizsgálat</string>
     <string name="myreply">Válaszom</string>
     <string name="Post">posta</string>
@@ -353,15 +315,12 @@
     <string name="tapandholdptodelete">Érintse meg hosszan a képet a törléshez.</string>
     <string name="addvideofaild">A videó hozzáadása sikertelen！ Ellenőrizze, hogy hálózata képes-e böngészni a Youtube videót, és újból hozzáadni.</string>
     <string name="Video">Videó</string>
-
     <string name="Hotsearches">Forró keresések</string>
     <string name="Hothashtags">Forró hashtagek</string>
     <string name="history">Történelem</string>
     <string name="aboutthisgame">A játékról</string>
     <string name="details">Részletek</string>
     <string name="sellallreviews">Az összes vélemény megtekintése</string>
-
-
     <string name="hfivetitle">Gyors játékok</string>
     <string name="Recommended">Ajánlott</string>
     <string name="exit_tips">Nyomja meg ismét a gombot, hogy kilépjen a játékból</string>
@@ -369,19 +328,15 @@
     <string name="h5_menu_share">Ossza meg</string>
     <string name="h5_menu_shortcut">Hozzáadás a kezdőképernyőhöz</string>
     <string name="installplaywitouthti">Azonnali játék telepítés nélkül</string>
-
     <!--全局rty-->
     <string name="crash_dialog_title">Hoppá ...</string>
     <string name="crash_toast_message">Sajnos az APP kivételével kilépünk ， kérjük, küldje el hibajelentését e-mailben.</string>
     <string name="crash_dialog_message">Sajnáljuk, az APP kivételével, kérjük, küldje el hibajelentését e-mailben.</string>
     <string name="crash_dialog_feedback">Hibabejelentés</string>
     <string name="crash_dialog_restart">Újrakezd</string>
-
     <string name="init_fail">Az inicializálás sikertelen, kérjük, használja a VPN-t, vagy váltson más hálózatokra.</string>
     <string name="error_file_des">Ezt a fájlt törölték, és most újra letöltik.</string>
-
     <string name="sdpermission">Hozzá kell férnünk a külső tárhelyhez. Kérjük, ellenőrizze, hogy megadták-e az engedélyt.</string>
-
     <string name="Night_Mode">Éjszakai mód</string>
     <string name="thisty">Ezt a felhasználónevet elvették. Próbálj egy másikat. Elérhető:</string>
     <!--home_feature-->
@@ -390,34 +345,26 @@
     <string name="PopularInlast">Népszerű az elmúlt 24 órában</string>
     <string name="Latestupdated">Utolsó frissítés</string>
     <string name="paidforfree">Ingyenes</string>
-
     <string name="ToadyRecommend">Toady ajánlata</string>
     <string name="hotmods">Forró modok</string>
     <string name="hotrecommended">Forró ajánlott</string>
-
-
-
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Keressen a feltölteni kívánt alkalmazásban:</string>
     <string name="addapost">Adj hozzá egy bejegyzést</string>
     <string name="launch_des">Keresse meg a 100% -ban működő modult \ nTöltött felhasználók által; A felhasználók ellenőrizték!</string>
     <string name="requestamod">Kérjen mod</string>
     <string name="uploadamod">Tölts fel mod</string>
-
     <!--boundle 新增-->
     <string name="Installing">telepítése</string>
     <string name="bundleneedsfive">Sajnáljuk, de a Bundle Android 5.0-s és újabb verziót igényel.</string>
     <string name="parsingerror">Hiba történt az apk elemzésében, vagy törölve.</string>
     <string name="tipsinstallok">A telepítés sikeres volt.</string>
     <string name="tipsinstallfail">A telepítés sikertelen, próbáld újra.</string>
-
     <!--图片上传表达-->
     <string name="maxmbperimage">Képenként legfeljebb 10 MB.</string>
     <string name="Imagesmustbelessthan">A képeknek 10 MB-nál kevesebbnek kell lenniük. Kérjük, csökkentse a kép méretét, mentse újra vagy exportálja újra a fájlt, és próbálja újra feltölteni.</string>
-
     <string name="installfailed">Sikertelen telepítés.</string>
     <string name="miuides">Kérjük, kapcsolja be a Fejlesztői beállításokat, kapcsolja ki a MIUI optimalizálást, és próbálja újra.</string>
-
     <string name="playdes">Játék</string>
     <string name="todayhotgame">Ma meleg van</string>
     <string name="newcoming">Új bejövő</string>
@@ -426,10 +373,8 @@
     <string name="finditin">Keresse meg az X-ben</string>
     <string name="needhelp">Kell segítség?</string>
     <string name="peoplealsoplaygames">Az emberek ezt a játékot is játszották:</string>
-
     <string name="opencommunitydes">Ha felnőttnek vagy rossz posztot talál, kérjük, kattintson a bejegyzés jobb felső sarkában található Jelentés gombra, és mi első alkalommal töröljük a posztot és blokkoljuk a posztert! Kérem, beszéljen civilizáltan!</string>
     <string name="myreviews">Saját vélemények</string>
-
     <string name="tagthisapp">Jelölje meg ezt az alkalmazást</string>
     <string name="appuploader">Az alkalmazást feltöltötte</string>
     <string name="votedresult">Már szavazott erre az alkalmazásra.</string>
@@ -438,7 +383,6 @@
     <string name="safetitle">App apk garantált</string>
     <string name="safedes">Ez az apk sikeresen teljesítette a vírusok és a rosszindulatú programok biztonsági tesztjét. Megbízható és ellenőrzött digitális aláírást használt.</string>
     <string name="bereported">Ön jelentette.</string>
-
     <string name="pleasefinishyourdownloadingqueu">Kérjük, először fejezze be a letöltési sort.</string>
     <string name="adduploadvideo">Videó hozzáadása: (nem kötelező)</string>
     <string name="uploadscreenshots">Képernyőképek feltöltése (160 * 90)</string>
@@ -452,7 +396,6 @@
     <string name="uploadbanner">Szalaghirdetés feltöltése (720 * 406)</string>
     <string name="noedituploadtips">Nem adhatja be változtatások nélkül.</string>
     <string name="addexcusiveaddressixit">Ez az apk már létezik.</string>
-
     <string name="itisworkingonyourdevice">Működik a készülékén?</string>
     <string name="no_working">Nem működik</string>
     <string name="vote_it">Szavazz rá</string>
@@ -460,9 +403,7 @@
     <string name="nomalware">Nincs rosszindulatú program</string>
     <string name="nospyware">Nincs kémprogram</string>
     <string name="less">Kevésbé</string>
-
     <string name="votedandfail">Már áttekintette, ellenőrizze a „Saját vélemények” listát.</string>
-
     <string name="fastdownloader">Gyorsabb letöltés</string>
     <string name="usehtgetspeed">Használja a HyperTorrent alkalmazást 200% + sebesség eléréséhez.</string>
     <string name="cleanfdft">tiszta &amp; gyors letöltő a torrentekhez</string>
@@ -474,13 +415,9 @@
     <string name="Cdnoadfree">Tiszta kialakítás, nincs hirdetés &amp; 100% ingyenes!</string>
     <string name="wrhtdbf">Nagy fájlok letöltéséhez javasoljuk a HyperTorrent alkalmazást.</string>
     <string name="nothanks">Nem köszönöm</string>
-
     <string name="Checkthenetwork">Ellenőrizze a hálózatot</string>
     <string name="Configuringip">A rendelkezésre álló IP beállítása az Ön számára</string>
     <string name="Configuringipfailed">A konfigurálás sikertelen, 8 IP-t észleltünk, hogy nem érhetők el. Kérjük, próbálja meg használni a VPN-t.</string>
-
     <string name="Donatedes">A HappyMod teljesen ingyenes, és ugyanúgy utáljuk a hirdetéseket is.！ \ N \ nA gyorsabb és biztonságosabb letöltés érdekében szükségünk van adományára. \ N \ nKérjük, legyen türelmes, és az adomány teljesítéséhez próbálja meg megnézni a teljes hirdetéseket. \ N \ nKöszönöm！</string>
-
     <string name="viewstepdeti">A lépés részleteinek megtekintése</string>
-
 </resources>
