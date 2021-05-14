@@ -65,7 +65,7 @@
     <string name="Version">Versi</string>
     <string name="Ratingsreviews">Penilaian</string>
     <string name="Tryitlater">Cuba kemudian</string>
-    <string name="Serviceisbusy">Menyambung ...</string>
+    <string name="Serviceisbusy">Menyambung …</string>
     <string name="Notice">Notis</string>
     <string name="deletethistask">Padam fail ini</string>
     <string name="Cancel">Batalkan</string>
@@ -83,7 +83,7 @@
     <string name="Downloadboundle">Muat Turun BUNDLE</string>
     <string name="Downloaded">Dikemaskini</string>
     <string name="Install">Pasang</string>
-    <string name="Connecting">Menyambung ...</string>
+    <string name="Connecting">Menyambung …</string>
     <string name="readmore">Baca Lebih Lanjut</string>
     <string name="modfeature">Maklumat mod:</string>
     <string name="Moreversion">Lebih Banyak Versi</string>
