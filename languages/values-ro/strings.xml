@@ -23,16 +23,16 @@
     <!--首页-->
     <string name="Paid">Plătit</string>
     <string name="GAME">Joc</string>
-    <string name="APP">App</string>
+    <string name="APP">Aplicație</string>
     <string name="NEW">Nou</string>
     <string name="Categories">Categorii</string>
     <string name="games">Jocuri</string>
-    <string name="REFRESH">Reîmprospăta</string>
+    <string name="REFRESH">Reîmprospătare</string>
     <string name="Unable_to_connect_to_the_network">Nu se poate accesa internetul.</string>
     <string name="Recommended_Game_Mods">Moduri de joc recomandate</string>
-    <string name="Hot_Game_Mods">Moduri de joc hot</string>
+    <string name="Hot_Game_Mods">Top moduri de joc</string>
     <string name="Recommended_App_Mods">Moduri recomandate pentru aplicații</string>
-    <string name="Hot_App_Mods">Aplicații Hot App</string>
+    <string name="Hot_App_Mods">Top moduri</string>
     <string name="Recommended_New_Mods">Moduri noi recomandate</string>
     <string name="Last_Update_Mods">Ultimele actualizări</string>
     <string name="SearchHint">Căutare..</string>
@@ -42,7 +42,7 @@
     <string name="Settings">Setări</string>
     <string name="Feedback">Parere</string>
     <string name="Translation">Traducere</string>
-    <string name="Share">Acțiune</string>
+    <string name="Share">Distribuire</string>
     <string name="Checkforupdate">Verifica pentru actualizare</string>
     <string name="FollowusonTwitter">Urmați-ne pe Twitter</string>
     <string name="FollowusonFacebook">Urmariți-ne pe Facebook</string>
@@ -50,38 +50,38 @@
     <string name="settings_network_remind">Rețeaua de alertă mobilă</string>
     <string name="settings_auto_install">Instalare automată</string>
     <string name="Download_Directory">Descărcați directorul</string>
-    <string name="settings_other">Alte</string>
+    <string name="settings_other">Altele</string>
     <string name="settings_clear_cache">Ștergeți memoria cache</string>
     <string name="Clean_up_the_complete">Cache-ul este șters.</string>
     <!--空数据页-->
     <string name="des_no_serach_result"> Hopa! Niciun rezultat găsit.</string>
     <!--下载管理页-->
     <string name="Downloads">Descărcări</string>
-    <string name="Downloading">Descărcarea</string>
+    <string name="Downloading">Descărcări</string>
     <string name="Finished">Terminat</string>
     <string name="No_Download">Nu a fost găsit niciun fișier.</string>
     <string name="Pause">Pauză</string>
     <string name="Waiting_in_queue">Așteptare în coadă</string>
-    <string name="Completed">terminat</string>
-    <string name="UnZiping">Extracting</string>
-    <string name="UnZip_succeed">Finalizarea extragerii</string>
+    <string name="Completed">terminate</string>
+    <string name="UnZiping">Extragere</string>
+    <string name="UnZip_succeed">Extragere finalizată</string>
     <string name="Rate">Rată</string>
     <string name="Rated">Evaluat</string>
     <string name="Version">Versiune</string>
     <string name="Ratingsreviews">Evaluări &amp; opinii</string>
     <string name="Tryitlater">Încercați mai târziu</string>
-    <string name="Serviceisbusy">conectarea...</string>
+    <string name="Serviceisbusy">Conectare</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Înștiințare</string>
     <string name="deletethistask">Ștergeți acest fișier</string>
-    <string name="Cancel">Anulare</string>
+    <string name="Cancel">Anulează</string>
     <string name="Delete">Șterge</string>
     <string name="Whydeletethisdownload">De ce să ștergeți această descărcare?</string>
-    <string name="NotwhatIwant">Nu ceea ce vreau</string>
-    <string name="Downloadfailed">Descarcare esuata</string>
+    <string name="NotwhatIwant">Nu e cea ce vreau</string>
+    <string name="Downloadfailed">Descarcare eșuata</string>
     <string name="Downloadistooslow">Descărcarea este prea lentă</string>
     <!--APP详情页-->
-    <string name="Mods">mods</string>
+    <string name="Mods">Moduri</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Versiunea anterioara</string>
     <string name="Download">Descarca</string>
@@ -89,7 +89,7 @@
     <string name="Downloaddata">Descarca(APK+DATA)</string>
     <string name="Downloadboundle">Descarca BUNDLE</string>
     <string name="Downloaded">Descarcat</string>
-    <string name="Install">Instalare</string>
+    <string name="Install">Instalează</string>
     <string name="Connecting">conectarea...</string>
     <string name="readmore">Citeste mai mult</string>
     <string name="modfeature">Mod info:</string>
