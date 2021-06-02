@@ -332,16 +332,16 @@
     <string name="h5_menu_shortcut">Aggiungi alla schermata Home</string>
     <string name="installplaywitouthti">Gioca instantaneamente a questo gioco senza installarlo</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Spiacenti ...</string>
-    <string name="crash_toast_message">Siamo spiacenti, eccezione APP, uscirà ， si prega di inviare la segnalazione di bug via e-mail.</string>
-    <string name="crash_dialog_message">Siamo spiacenti, eccezione APP, si prega di inviare la segnalazione di bug via e-mail.</string>
-    <string name="crash_dialog_feedback">Segnala bug</string>
+    <string name="crash_dialog_title">Siamo spiacenti...</string>
+    <string name="crash_toast_message">Siamo spiacenti, è accaduto un errore, l\'app si chiuderà da sola, si prega di inviare la segnalazione di bug via e-mail.</string>
+    <string name="crash_dialog_message">Siamo spiacenti, un errore è accaduto, si prega di inviare la segnalazione di bug via e-mail.</string>
+    <string name="crash_dialog_feedback">Segnala un bug</string>
     <string name="crash_dialog_restart">Ricomincia</string>
-    <string name="init_fail">Inizializzazione non riuscita, utilizzare VPN o passare ad altre reti.</string>
-    <string name="error_file_des">Questo file è stato eliminato e viene scaricato nuovamente.</string>
+    <string name="init_fail">Inizializzazione non riuscita, prova di nuovo utilizzando una VPN o altre reti.</string>
+    <string name="error_file_des">Questo file è stato eliminato e sta venendo scaricato nuovamente.</string>
     <string name="sdpermission">Dobbiamo accedere al tuo archivio esterno. Assicurati che l\'autorizzazione sia concessa.</string>
-    <string name="Night_Mode">Modalità notturna</string>
-    <string name="thisty">Quel nome utente è già utilizzato. Prova un altro. A disposizione:</string>
+    <string name="Night_Mode">Modalità Notte</string>
+    <string name="thisty">Questo nome utente è già utilizzato. Utilizzane un altro. Ti diamo un aiutino:</string>
     <!--home_feature-->
     <string name="Feature">In primo piano</string>
     <string name="editorpick">Scelti dagli editori</string>
