@@ -66,7 +66,7 @@
     <string name="Version">الإصدار</string>
     <string name="Ratingsreviews">التقييمات والمراجعات</string>
     <string name="Tryitlater">اعادة المحاولة لاحقا</string>
-    <string name="Serviceisbusy">الخادم مشغول</string>
+    <string name="Serviceisbusy">جارى الإتصال</string>
     <string name="Notice">تنويه</string>
     <string name="deletethistask">حذف هذا الملف؟</string>
     <string name="Cancel">إلغاء</string>
