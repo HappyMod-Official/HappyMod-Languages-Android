@@ -29,52 +29,52 @@
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisierung</string>
     <string name="Unable_to_connect_to_the_network">Kein Zugriff auf das Internet.</string>
-    <string name="Recommended_Game_Mods">Empfohlene Spielmods</string>
-    <string name="Hot_Game_Mods">Hot Game Mods</string>
+    <string name="Recommended_Game_Mods">Empfohlene Spiele Mods</string>
+    <string name="Hot_Game_Mods">Heiße Spiele Mods</string>
     <string name="Recommended_App_Mods">Empfohlene App Mods</string>
-    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Hot_App_Mods">Heiße App Mods</string>
     <string name="Recommended_New_Mods">Empfohlene neue Mods</string>
-    <string name="Last_Update_Mods">Letzte Aktualisierung</string>
+    <string name="Last_Update_Mods">Letzte Aktualisierungen</string>
     <string name="SearchHint">Suche..</string>
     <!-- 侧滑-->
     <string name="Homeweb">Offizielle Website</string>
     <string name="Management">Verwaltung</string>
     <string name="Settings">die Einstellungen</string>
-    <string name="Feedback">Feedback</string>
+    <string name="Feedback">Rückmeldung</string>
     <string name="Translation">Übersetzung</string>
     <string name="Share">Aktie</string>
     <string name="Checkforupdate">Überprüfe auf Updates</string>
     <string name="FollowusonTwitter">Folge uns auf Twitter</string>
     <string name="FollowusonFacebook">Folge uns auf Facebook</string>
     <!--设置页-->
-    <string name="settings_network_remind">Mobile Network Alert</string>
+    <string name="settings_network_remind">Mobiles Netzwerk Warnung</string>
     <string name="settings_auto_install">Automatisch installieren</string>
     <string name="Download_Directory">Verzeichnis herunterladen</string>
     <string name="settings_other">Andere</string>
     <string name="settings_clear_cache">Cache leeren</string>
-    <string name="Clean_up_the_complete">Der Cache wird gelöscht.</string>
+    <string name="Clean_up_the_complete">Der Cache ist gelöscht.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result"> Hoppla! Keine Einträge gefunden.</string>
+    <string name="des_no_serach_result">Hoppla! Kein Eintrag gefunden.</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">wird heruntergeladen</string>
     <string name="Finished">Fertig</string>
     <string name="No_Download">Keine Datei gefunden.</string>
-    <string name="Pause">Pause</string>
-    <string name="Waiting_in_queue">In der Schlange warten</string>
+    <string name="Pause">Anhalten</string>
+    <string name="Waiting_in_queue">Angereiht</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="UnZiping">Extrahieren</string>
-    <string name="UnZip_succeed">Beendetes Extrahieren</string>
+    <string name="UnZip_succeed">Extrahieren beendet</string>
     <string name="Rate">Bewertung</string>
     <string name="Rated">Bewertet</string>
-    <string name="Version">Ausführung</string>
-    <string name="Ratingsreviews">Bewertungen &amp; Bewertungen</string>
+    <string name="Version">Version</string>
+    <string name="Ratingsreviews">Bewertungen &amp; Rückmeldungen</string>
     <string name="Tryitlater">Versuchen Sie es später noch einmal</string>
-    <string name="Serviceisbusy">Anschließen...</string>
+    <string name="Serviceisbusy">Verbinden…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Beachten</string>
     <string name="deletethistask">Löschen Sie diese Datei</string>
-    <string name="Cancel">Stornieren</string>
+    <string name="Cancel">Abbrechen</string>
     <string name="Delete">Löschen</string>
     <string name="Whydeletethisdownload">Warum diesen Download löschen?</string>
     <string name="NotwhatIwant">Nicht was ich will</string>
@@ -83,7 +83,7 @@
     <!--APP详情页-->
     <string name="Mods">Modifikationen</string>
     <string name="Original">Original</string>
-    <string name="Previousversion">Vorherige Ausführung</string>
+    <string name="Previousversion">Vorherige Version</string>
     <string name="Download">Herunterladen</string>
     <string name="Downloadobb">Herunterladen(APK+OBB)</string>
     <string name="Downloaddata">Herunterladen(APK+DATA)</string>
