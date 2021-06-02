@@ -23,7 +23,7 @@
     <!--首页-->
     <string name="Paid">Pagata</string>
     <string name="GAME">Giochi</string>
-    <string name="APP">App</string>
+    <string name="APP">Applicazione</string>
     <string name="NEW">Nuovo</string>
     <string name="Categories">Categorie</string>
     <string name="games">Giochi</string>
@@ -57,7 +57,7 @@
     <string name="des_no_serach_result"> Oops! Nessun risultato trovato.</string>
     <!--下载管理页-->
     <string name="Downloads">Download</string>
-    <string name="Downloading">Scaricando...</string>
+    <string name="Downloading">In fase di Download...</string>
     <string name="Finished">Finito</string>
     <string name="No_Download">Nessun file trovato.</string>
     <string name="Pause">Pausa</string>
@@ -107,7 +107,8 @@
     <!--分享-->
     <string name="share_happymod">Condividi \"HappyMod\" via</string>
     <string name="share_subject">Ottieni HappyMod</string>
-    <string name="share_text">Scarica mods funzionanti al 100% con @HappyMod https: //www.happymod.com/</string>
+    <string name="share_text">Scarica Mod funzionanti al 100% con @HappyMod! 
+\nhttps: //www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Posizione di Archiviazione</string>
     <!--update -->
@@ -120,7 +121,7 @@
     <string name="xzzb">Si prega di scaricare HappyMod dal sito ufficiale.</string>
     <string name="Continue">Continua</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Non rimane più memoria sul dispositivo.</string>
+    <string name="No_space_left_on_device">Memoria del dispositivo piena.</string>
     <string name="Is_this_app_you_need">Stai cercando questa app?</string>
     <string name="No">No</string>
     <string name="Yes">Sì</string>
@@ -184,7 +185,7 @@
     <string name="Enteryourpassword">6-8 caratteri</string>
     <string name="passwordtip">Solo lettere A-Z, a-z, numeri (senza spazi o caratteri speciali). 6-8 caratteri.</string>
     <string name="nicknametip">Questo nickname è stato preso da un ladro. È stato molto cattivo.</string>
-    <string name="Nickname">Nickname</string>
+    <string name="Nickname">Nome Utente</string>
     <string name="Emailaddress">Indirizzo email</string>
     <string name="Enteryouremail">Inserisci il tuo indirizzo email</string>
     <string name="Telephonenumber">Numero di telefono</string>
@@ -210,7 +211,9 @@
     <string name="next">Successivo</string>
     <string name="fblogdes">Per favore inserisci un nome utente. Il nome utente è un identificatore molto importante per il recupero della password, ricordatelo.</string>
     <string name="selectusername">Seleziona il nome utente</string>
-    <string name="reselpass_desone">Inserisci il nome utente del tuo account per reimpostare la password. Hai qualche problema riguardante la reimpostazione della password\?&lt;u&gt;Contattaci.&lt;u&gt;</string>
+    <string name="reselpass_desone">Inserisci il nome utente del tuo account per reimpostare la password.
+\nHai qualche problema riguardante la reimpostazione della password\?
+\n&lt;u&gt;Contattaci.&lt;u&gt;</string>
     <string name="reselpass_destwo">Inserisci l\'email o il numero di telefono. Hai qualche problema riguardante la reimpostazione della password\?<u>Contattaci.</u>.</string>
     <string name="forgetgosingup">Non ricordi nessuno di loro\? per favore<u>crea un altro account.</u>.</string>
     <string name="Resetpassword">Resetta la password</string>
@@ -341,7 +344,7 @@
     <string name="thisty">Quel nome utente è già utilizzato. Prova un altro. A disposizione:</string>
     <!--home_feature-->
     <string name="Feature">In primo piano</string>
-    <string name="editorpick">Editor\'s Pick</string>
+    <string name="editorpick">Scelti dagli editori</string>
     <string name="PopularInlast">Popolare nelle ultime 24 ore</string>
     <string name="Latestupdated">Ultimo aggiornamento</string>
     <string name="paidforfree">Pagato gratuitamente</string>
@@ -351,7 +354,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Cerca l\'app che desideri caricare:</string>
     <string name="addapost">Aggiungi un post</string>
-    <string name="launch_des">Trova mod funzionanti al 100% \ nCaricato dagli utenti; Verificato dagli utenti!</string>
+    <string name="launch_des">Trova mod funzionanti al 100%! 
+\nCaricate dagli utenti e verificate dagli utenti!</string>
     <string name="requestamod">Richiedi un mod</string>
     <string name="uploadamod">Carica una mod</string>
     <!--boundle 新增-->
@@ -372,7 +376,7 @@
     <string name="toopenitquickntime">Per aprirlo rapidamente la prossima volta, per favore:</string>
     <string name="finditin">Trovalo in X</string>
     <string name="needhelp">Ho bisogno di aiuto?</string>
-    <string name="peoplealsoplaygames">Le persone hanno giocato a questo gioco anche:</string>
+    <string name="peoplealsoplaygames">Le persone hanno giocato anche a:</string>
     <string name="opencommunitydes">Se trovi un post per adulti o un cattivo post, fai clic sul pulsante di segnalazione nell\'angolo in alto a destra del post, elimineremo il post e bloccheremo il poster per la prima volta! Per favore, parla in modo civile!</string>
     <string name="myreviews">Le mie recensioni</string>
     <string name="tagthisapp">Segnala questa app</string>
