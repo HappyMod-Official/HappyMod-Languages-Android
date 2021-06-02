@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Vider le cache</string>
     <string name="Clean_up_the_complete">Le cache est effacé.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result"> Oops! Aucun résultat trouvé.</string>
+    <string name="des_no_serach_result">Oops! Aucun résultat trouvé.</string>
     <!--下载管理页-->
     <string name="Downloads">Téléchargements</string>
     <string name="Downloading">Téléchargement</string>
@@ -76,7 +76,7 @@
     <string name="deletethistask">Supprimer ce fichier</string>
     <string name="Cancel">Annuler</string>
     <string name="Delete">Effacer</string>
-    <string name="Whydeletethisdownload">Pourquoi supprimer ce téléchargement?</string>
+    <string name="Whydeletethisdownload">Pourquoi supprimer ce téléchargement\?</string>
     <string name="NotwhatIwant">Pas ce que je veux</string>
     <string name="Downloadfailed">Échec du téléchargement</string>
     <string name="Downloadistooslow">Le téléchargement est trop lent</string>
@@ -107,7 +107,8 @@
     <!--分享-->
     <string name="share_happymod">Partager \'HappyMod\' via</string>
     <string name="share_subject">Obtenez HappyMod</string>
-    <string name="share_text">Télécharger 100% de mods de travail avec @HappyMod\nhttps://www.happymod.com/</string>
+    <string name="share_text">Télécharger 100% de mods de travail avec @HappyMod
+\nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Emplacement de stockage</string>
     <!--update -->
@@ -121,7 +122,7 @@
     <string name="Continue">Continuer</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">Pas d\'espace disponible sur le périphérique</string>
-    <string name="Is_this_app_you_need">Cherchez-vous cette application?</string>
+    <string name="Is_this_app_you_need">Cherchez-vous cette application\?</string>
     <string name="No">Non</string>
     <string name="Yes">Oui</string>
     <string name="bcdes">. Libérez de l\'espace de stockage et réessayez.</string>
@@ -195,7 +196,7 @@
     <string name="tuiat">Ce nom d\'utilisateur est déjà pris.</string>
     <string name="Login">S\'identifier</string>
     <string name="Account">Compte</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Forget password\?</string>
     <string name="loginwithaccount">OU connectez-vous avec votre nom d\'utilisateur</string>
     <string name="newur">Enregistrement d\'un nouvel utilisateur</string>
     <string name="Usernameinitnew">Nom d\'utilisateur (4 à 50 caractères)</string>
@@ -212,7 +213,7 @@
     <string name="selectusername">Sélectionnez un nom d\'utilisateur</string>
     <string name="reselpass_desone">Entrez le nom d\'utilisateur de votre compte pour réinitialiser le mot de passe. Vous avez un problème avec la réinitialisation du mot de passe<u>contact us</u>.</string>
     <string name="reselpass_destwo">S\'il vous plaît entrez l\'email ou le numéro de téléphone. Vous avez un problème avec la réinitialisation du mot de passe<u>contact us</u>.</string>
-    <string name="forgetgosingup">Vous ne vous en souvenez pas? S\'il vous plaît<u>sign up a new account</u>.</string>
+    <string name="forgetgosingup">Vous ne vous en souvenez pas\? S\'il vous plaît<u>sign up a new account</u>.</string>
     <string name="Resetpassword">Réinitialiser le mot de passe</string>
     <string name="NewPassword">Nouveau mot de passe</string>
     <string name="Enterthepasswordagain">Confirmer le mot de passe</string>
@@ -248,7 +249,7 @@
     <string name="requesterror">Échec de la soumission, veuillez réessayer ultérieurement.</string>
     <string name="detailserror">(100–4000 caractères)</string>
     <string name="view">Vue</string>
-    <string name="isthiswork">Est-ce que ça marche?</string>
+    <string name="isthiswork">Est-ce que ça marche\?</string>
     <string name="edit">modifier</string>
     <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL:</string>
     <string name="OBBDataurl">URL de Zippyshare/Mediafire OBB / Data: (facultatif)</string>
@@ -272,7 +273,7 @@
     <string name="Verifing">Vérification…</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Essayez d\'autres serveurs avant de supprimer</string>
-    <string name="fix_tips_content">Voulez-vous vous connecter à un autre serveur pour essayer de le télécharger avant de le supprimer?</string>
+    <string name="fix_tips_content">Voulez-vous vous connecter à un autre serveur pour essayer de le télécharger avant de le supprimer\?</string>
     <string name="fix_progress_title">Serveurs d\'analyse</string>
     <string name="fix_progress_content">Cela peut prendre quelques minutes pour rechercher le serveur le plus rapide pour vous, veuillez patienter.</string>
     <string name="fix_failed_content">Il n\'y a actuellement aucun serveur disponible pour vous, veuillez réessayer plus tard.</string>
@@ -351,7 +352,7 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Recherchez l\'application que vous souhaitez télécharger:</string>
     <string name="addapost">Ajouter un article</string>
-    <string name="launch_des">Trouver des modules 100% fonctionnels \ nMis en ligne par les utilisateurs; Vérifié par les utilisateurs!</string>
+    <string name="launch_des">"Trouver des modules 100% fonctionnels  nMis en ligne par les utilisateurs; Vérifié par les utilisateurs!"</string>
     <string name="requestamod">Demander un mod</string>
     <string name="uploadamod">Téléchargez un mod</string>
     <!--boundle 新增-->
@@ -418,6 +419,6 @@
     <string name="Checkthenetwork">Vérifiez le réseau</string>
     <string name="Configuringip">Configurer l\'adresse IP disponible pour vous</string>
     <string name="Configuringipfailed">La configuration a échoué, 8 adresses IP sont détectées comme indisponibles, veuillez essayer d\'utiliser le VPN.</string>
-    <string name="Donatedes">HappyMod est entièrement gratuit et nous détestons les publicités autant que vous！ \ n \ nNous avons besoin de votre don pour fournir des téléchargements plus rapides et plus sûrs. \ N \ nVeuillez patienter et essayez de regarder l\'intégralité des publicités pour compléter le don. \ N \ nMerci！</string>
+    <string name="Donatedes">"HappyMod est entièrement gratuit et nous détestons les publicités autant que vous！  n  nNous avons besoin de votre don pour fournir des téléchargements plus rapides et plus sûrs.  N  nVeuillez patienter et essayez de regarder l\'intégralité des publicités pour compléter le don.  N  nMerci！"</string>
     <string name="viewstepdeti">Afficher les détails de l\'étape</string>
 </resources>
