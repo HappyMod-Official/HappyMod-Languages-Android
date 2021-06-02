@@ -32,7 +32,7 @@
     <string name="Recommended_Game_Mods">Moduri de joc recomandate</string>
     <string name="Hot_Game_Mods">Top moduri de joc</string>
     <string name="Recommended_App_Mods">Moduri recomandate pentru aplicații</string>
-    <string name="Hot_App_Mods">Top moduri</string>
+    <string name="Hot_App_Mods">Top moduri de aplicație</string>
     <string name="Recommended_New_Mods">Moduri noi recomandate</string>
     <string name="Last_Update_Mods">Ultimele actualizări</string>
     <string name="SearchHint">Căutare..</string>
@@ -62,7 +62,7 @@
     <string name="No_Download">Nu a fost găsit niciun fișier.</string>
     <string name="Pause">Pauză</string>
     <string name="Waiting_in_queue">Așteptare în coadă</string>
-    <string name="Completed">terminate</string>
+    <string name="Completed">Terminate</string>
     <string name="UnZiping">Extragere</string>
     <string name="UnZip_succeed">Extragere finalizată</string>
     <string name="Rate">Rată</string>
@@ -70,15 +70,15 @@
     <string name="Version">Versiune</string>
     <string name="Ratingsreviews">Evaluări &amp; opinii</string>
     <string name="Tryitlater">Încercați mai târziu</string>
-    <string name="Serviceisbusy">Conectare</string>
+    <string name="Serviceisbusy">Conectare…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Înștiințare</string>
     <string name="deletethistask">Ștergeți acest fișier</string>
     <string name="Cancel">Anulează</string>
     <string name="Delete">Șterge</string>
     <string name="Whydeletethisdownload">De ce să ștergeți această descărcare?</string>
-    <string name="NotwhatIwant">Nu e cea ce vreau</string>
-    <string name="Downloadfailed">Descarcare eșuata</string>
+    <string name="NotwhatIwant">Nu este cea ce vreau</string>
+    <string name="Downloadfailed">Descărcare eșuată</string>
     <string name="Downloadistooslow">Descărcarea este prea lentă</string>
     <!--APP详情页-->
     <string name="Mods">Moduri</string>
@@ -115,7 +115,7 @@
     <string name="nvisrti">noua versiune este gata pentru instalare.</string>
     <string name="OPEN">DESCHIS</string>
     <string name="OK">O.K</string>
-    <string name="Loading">se incarca......</string>
+    <string name="Loading">Se încarcă...</string>
     <string name="updata_tip">Utilizați ultima versiune stabilă a HappyMod</string>
     <string name="xzzb">Descărcați oficialul HappyMod.</string>
     <string name="Continue">Continua</string>
