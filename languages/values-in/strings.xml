@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Bersihkan Cache</string>
     <string name="Clean_up_the_complete">Cache dihapus.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result"> Ups! Tidak ditemukan hasil.</string>
+    <string name="des_no_serach_result">Ups! Tidak ditemukan hasil.</string>
     <!--下载管理页-->
     <string name="Downloads">Unduhan</string>
     <string name="Downloading">Mengunduh</string>
@@ -76,7 +76,7 @@
     <string name="deletethistask">Hapus file ini</string>
     <string name="Cancel">Membatalkan</string>
     <string name="Delete">Menghapus</string>
-    <string name="Whydeletethisdownload">Mengapa menghapus unduhan ini?</string>
+    <string name="Whydeletethisdownload">Mengapa menghapus unduhan ini\?</string>
     <string name="NotwhatIwant">Bukan yang saya inginkan</string>
     <string name="Downloadfailed">Pengunduhan gagal</string>
     <string name="Downloadistooslow">Pengunduhan terlalu lambat</string>
