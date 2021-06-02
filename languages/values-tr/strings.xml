@@ -71,7 +71,7 @@
     <string name="deletethistask">Bu Dosyayı Sil</string>
     <string name="Cancel">İptal Et</string>
     <string name="Delete">Sil</string>
-    <string name="Whydeletethisdownload">İndirdiğiniz Şeyi Neden Siliyorsunuz?</string>
+    <string name="Whydeletethisdownload">İndirdiğiniz Şeyi Neden Siliyorsunuz\?</string>
     <string name="NotwhatIwant">İstediğim Değil</string>
     <string name="Downloadfailed">Yükleme Başarısız</string>
     <string name="Downloadistooslow">İndirme Çok Yavaş</string>
@@ -99,7 +99,8 @@
     <string name="Loved_it">Çok Sevdim!</string>
     <string name="share_happymod">‘HappyMod’ üzerinden paylaş</string>
     <string name="share_subject">Konuyu Paylaş</string>
-    <string name="share_text">% 100 çalışan modu indir @HappyMod\nhttps://www.happymod.com/</string>
+    <string name="share_text">% 100 çalışan modu indir @HappyMod
+\nhttps://www.happymod.com/</string>
     <string name="pref_location">Depolama yeri</string>
     <string name="force_des">% 100 Çalışan Modlar</string>
     <string name="nvisrti">Yeni sürüm kuruluma hazır.</string>
@@ -395,6 +396,6 @@
     <string name="Checkthenetwork">Ağı kontrol edin</string>
     <string name="Configuringip">Mevcut IP\'yi sizin için yapılandırma</string>
     <string name="Configuringipfailed">Yapılandırma başarısız oldu, 8 IP\'nin kullanılamadığı tespit edildi, lütfen VPN kullanmayı deneyin.</string>
-    <string name="Donatedes">HappyMod tamamen ücretsizdir ve biz de sizin kadar reklamlardan nefret ediyoruz！ \ n \ nDaha hızlı ve daha güvenli indirme sağlamak için bağışınıza ihtiyacımız var. \ N \ nLütfen sabırlı olun ve bağışı tamamlamak için tüm reklamları izlemeye çalışın. \ N \ nTeşekkür ederim！</string>
+    <string name="Donatedes">"HappyMod tamamen ücretsizdir ve biz de sizin kadar reklamlardan nefret ediyoruz！  n  nDaha hızlı ve daha güvenli indirme sağlamak için bağışınıza ihtiyacımız var.  N  nLütfen sabırlı olun ve bağışı tamamlamak için tüm reklamları izlemeye çalışın.  N  nTeşekkür ederim！"</string>
     <string name="viewstepdeti">Adım ayrıntılarını görüntüleyin</string>
 </resources>
