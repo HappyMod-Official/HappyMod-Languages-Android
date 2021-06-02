@@ -38,9 +38,9 @@
     <string name="SearchHint">Căutare..</string>
     <!-- 侧滑-->
     <string name="Homeweb">Site oficial</string>
-    <string name="Management">administrare</string>
+    <string name="Management">Administrare</string>
     <string name="Settings">Setări</string>
-    <string name="Feedback">Parere</string>
+    <string name="Feedback">Părere</string>
     <string name="Translation">Traducere</string>
     <string name="Share">Distribuire</string>
     <string name="Checkforupdate">Verifica pentru actualizare</string>
