@@ -29,8 +29,8 @@
     <string name="REFRESH">verversen</string>
     <string name="Unable_to_connect_to_the_network">Geen toegang tot internet.</string>
     <string name="Recommended_Game_Mods">Aanbevolen spelmodi</string>
-    <string name="Hot_Game_Mods">Hot Game Mods</string>
-    <string name="Recommended_App_Mods">Aanbevolen app-modi</string>
+    <string name="Hot_Game_Mods">Populaire game mods</string>
+    <string name="Recommended_App_Mods">Aanbevolen app mods</string>
     <string name="Hot_App_Mods">Hot App Mods</string>
     <string name="Recommended_New_Mods">Aanbevolen nieuwe mods</string>
     <string name="Last_Update_Mods">Laatste updates</string>
@@ -98,7 +98,7 @@
     <string name="Loved_it">Hou ervan!</string>
     <string name="share_happymod">Deel \'HappyMod\' via</string>
     <string name="share_subject">Krijg HappyMod</string>
-    <string name="share_text">Download 100% werkende mods met @HappyMod \ nhttps: //www.happymod.com/</string>
+    <string name="share_text">"Download 100% werkende mods met @HappyMod  nhttps: //www.happymod.com/"</string>
     <string name="pref_location">Opslaglocatie</string>
     <string name="force_des">100% werkmodi</string>
     <string name="nvisrti">nieuwe versie is klaar om te installeren.</string>
@@ -179,7 +179,7 @@
     <string name="tuiat">Deze gebruikersnaam is al in gebruik.</string>
     <string name="Login">Log in</string>
     <string name="Account">Account</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Forget password\?</string>
     <string name="loginwithaccount">OF log in met uw gebruikersnaam</string>
     <string name="newur">Nieuwe gebruiker registratie</string>
     <string name="Usernameinitnew">Gebruikersnaam (4-50 tekens)</string>
@@ -401,6 +401,6 @@
     <string name="Checkthenetwork">Controleer het netwerk</string>
     <string name="Configuringip">Beschikbare IP voor u configureren</string>
     <string name="Configuringipfailed">Configuratie mislukt, 8 IP\'s zijn niet beschikbaar, probeer VPN te gebruiken.</string>
-    <string name="Donatedes">HappyMod is volledig gratis en we haten advertenties net zo erg als jij！ \ n \ nWe hebben je donatie nodig om snellere en veiligere downloads te bieden. \ N \ nWees geduldig en probeer de volledige advertenties te bekijken om de donatie te voltooien. \ N \ nDank je！</string>
+    <string name="Donatedes">"HappyMod is volledig gratis en we haten advertenties net zo erg als jij！  n  nWe hebben je donatie nodig om snellere en veiligere downloads te bieden.  N  nWees geduldig en probeer de volledige advertenties te bekijken om de donatie te voltooien.  N  nDank je！"</string>
     <string name="viewstepdeti">Bekijk stapdetails</string>
 </resources>
