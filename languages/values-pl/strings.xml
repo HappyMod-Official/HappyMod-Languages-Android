@@ -179,7 +179,7 @@
     <string name="tuiat">Ta nazwa użytkownika jest już zajęta.</string>
     <string name="Login">Zaloguj Się</string>
     <string name="Account">Konto</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Forget password\?</string>
     <string name="loginwithaccount">LUB zaloguj się przy użyciu swojej nazwy użytkownika</string>
     <string name="newur">Rejestracja nowego użytkownika</string>
     <string name="Usernameinitnew">Nazwa użytkownika (4-50 znaków)</string>
