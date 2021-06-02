@@ -21,17 +21,17 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Pagata</string>
+    <string name="Paid">Pagato</string>
     <string name="GAME">Giochi</string>
-    <string name="APP">Applicazione</string>
-    <string name="NEW">Nuovo</string>
+    <string name="APP">Applicazioni</string>
+    <string name="NEW">Nuovi</string>
     <string name="Categories">Categorie</string>
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
-    <string name="Unable_to_connect_to_the_network">Impossibile accedere a Internet.</string>
+    <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet.</string>
     <string name="Recommended_Game_Mods">MOD Consigliate</string>
     <string name="Hot_Game_Mods">MOD Popolari</string>
-    <string name="Recommended_App_Mods">MOD Consigliate</string>
+    <string name="Recommended_App_Mods">Applicazioni Consigliate</string>
     <string name="Hot_App_Mods">MOD di App Popolari</string>
     <string name="Recommended_New_Mods">MOD Raccomandate</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
@@ -40,32 +40,32 @@
     <string name="Homeweb">Sito ufficiale</string>
     <string name="Management">Gestione</string>
     <string name="Settings">Impostazioni</string>
-    <string name="Feedback">Risposta</string>
+    <string name="Feedback">Dacci un consiglio</string>
     <string name="Translation">Traduzione</string>
     <string name="Share">Condividi</string>
-    <string name="Checkforupdate">Ricerca aggiornamenti</string>
+    <string name="Checkforupdate">Ricerca di aggiornamenti</string>
     <string name="FollowusonTwitter">Seguici su Twitter</string>
     <string name="FollowusonFacebook">Seguici su Facebook</string>
     <!--设置页-->
-    <string name="settings_network_remind">Avviso di rete mobile</string>
-    <string name="settings_auto_install">Installa automaticamente</string>
+    <string name="settings_network_remind">Avviso di Rete Mobile</string>
+    <string name="settings_auto_install">Installa Automaticamente</string>
     <string name="Download_Directory">Scarica la directory</string>
     <string name="settings_other">Altro</string>
-    <string name="settings_clear_cache">Cancella cache</string>
-    <string name="Clean_up_the_complete">La cache è cancellata.</string>
+    <string name="settings_clear_cache">Cancella la Cache</string>
+    <string name="Clean_up_the_complete">La cache è stata cancellata.</string>
     <!--空数据页-->
     <string name="des_no_serach_result"> Oops! Nessun risultato trovato.</string>
     <!--下载管理页-->
     <string name="Downloads">Download</string>
     <string name="Downloading">In fase di Download...</string>
-    <string name="Finished">Finito</string>
+    <string name="Finished">Terminato</string>
     <string name="No_Download">Nessun file trovato.</string>
-    <string name="Pause">Pausa</string>
-    <string name="Waiting_in_queue">In attesa in coda</string>
+    <string name="Pause">Metti in Pausa</string>
+    <string name="Waiting_in_queue">In attesa nella coda</string>
     <string name="Completed">Completato</string>
-    <string name="UnZiping">Estraendo</string>
-    <string name="UnZip_succeed">Estratto finito</string>
-    <string name="Rate">Vota</string>
+    <string name="UnZiping">Estrazione...</string>
+    <string name="UnZip_succeed">Finito di Estrarre</string>
+    <string name="Rate">Dai un Voto</string>
     <string name="Rated">Votato</string>
     <string name="Version">Versione</string>
     <string name="Ratingsreviews">Giudizi &amp; Recensioni</string>
