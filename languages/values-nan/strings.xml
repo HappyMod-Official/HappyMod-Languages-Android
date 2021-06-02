@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="Paid"></string>
+    <string name="GAME"></string>
+    <string name="APP"></string>
+    <string name="NEW"></string>
+    <string name="Categories"></string>
+    <string name="games"></string>
+    <string name="REFRESH"></string>
+    <string name="app_name"></string>
+</resources>
