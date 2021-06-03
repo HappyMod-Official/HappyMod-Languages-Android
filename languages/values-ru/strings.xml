@@ -99,11 +99,11 @@
     <string name="Moremods">Больше модов</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
-    <string name="Hated_it">Ненавидеть это!</string>
-    <string name="Disliked_it">Не нравится это.</string>
+    <string name="Hated_it">Ненавижу это!</string>
+    <string name="Disliked_it">Не нравится.</string>
     <string name="Its_ok">Все нормально.</string>
     <string name="Liked_it">Нравится.</string>
-    <string name="Loved_it">Любить это!</string>
+    <string name="Loved_it">Люблю это!</string>
     <!--分享-->
     <string name="share_happymod">Поделиться "HappyMod" через</string>
     <string name="share_subject">Получить HappyMod</string>
@@ -112,29 +112,29 @@
     <string name="pref_location">Место хранения</string>
     <!--update -->
     <string name="force_des">100% рабочие моды</string>
-    <string name="nvisrti">новая версия готова к установке.</string>
+    <string name="nvisrti">Новая версия готова к установке.</string>
     <string name="OPEN">ОТКРЫТЬ</string>
     <string name="OK">Хорошо</string>
     <string name="Loading">Загрузка ......</string>
     <string name="updata_tip">Вы используете последнюю стабильную версию HappyMod</string>
     <string name="xzzb">Пожалуйста, скачайте официальный HappyMod.</string>
     <string name="Continue">Продолжить</string>
-    <string name="appobb">APK + ФЖДА</string>
+    <string name="appobb">APK + OBB</string>
     <string name="No_space_left_on_device">Не осталось свободного места на устройстве</string>
     <string name="Is_this_app_you_need">Вы ищете это приложение?</string>
-    <string name="No">нет</string>
-    <string name="Yes">да</string>
-    <string name="bcdes">, Освободите хранилище и попробуйте снова.</string>
+    <string name="No">Нет</string>
+    <string name="Yes">Да</string>
+    <string name="bcdes">, Освободите место и попробуйте снова.</string>
     <string name="need">; Доступный:</string>
-    <string name="No_enough_space_left_on_device">Недостаточно места. Необходимость:</string>
+    <string name="No_enough_space_left_on_device">Недостаточно места. Необходимо:</string>
     <string name="updatenow">Обновить сейчас</string>
-    <string name="updateFail">Ошибка загрузки. Пожалуйста, закройте и снова откройте</string>
+    <string name="updateFail">Ошибка загрузки. Пожалуйста, закройте и откройте снова</string>
     <string name="initializing">Инициализация</string>
-    <string name="Retrying">Повторная</string>
-    <string name="language">язык</string>
+    <string name="Retrying">Повторить</string>
+    <string name="language">Язык</string>
     <!--类别界面 -->
-    <string name="Popular">Популярный</string>
-    <string name="s_New">новый</string>
+    <string name="Popular">Популярное</string>
+    <string name="s_New">Новое</string>
     <string name="apps">Приложения</string>
     <!--大文件-->
     <string name="mergering">Окончательная обработка</string>
