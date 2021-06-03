@@ -23,17 +23,17 @@
     <!--首页-->
     <string name="Paid">지불</string>
     <string name="GAME">게임</string>
-    <string name="APP">신청서</string>
+    <string name="APP">앱</string>
     <string name="NEW">최신</string>
     <string name="Categories">분류</string>
     <string name="games">게임</string>
     <string name="REFRESH">새로 고침</string>
     <string name="Unable_to_connect_to_the_network">인터넷에 액세스 할 수 없습니다.</string>
-    <string name="Recommended_Game_Mods">추천 게임 개조</string>
-    <string name="Hot_Game_Mods">인기 게임 개조</string>
-    <string name="Recommended_App_Mods">권장 응용 프로그램 개조</string>
-    <string name="Hot_App_Mods">인기있는 앱 개조</string>
-    <string name="Recommended_New_Mods">추천 된 새로운 개조</string>
+    <string name="Recommended_Game_Mods">추천 게임 모드</string>
+    <string name="Hot_Game_Mods">인기 게임 모드</string>
+    <string name="Recommended_App_Mods">추천 앱 모드</string>
+    <string name="Hot_App_Mods">인기있는 앱 모드</string>
+    <string name="Recommended_New_Mods">최신 모드 추천</string>
     <string name="Last_Update_Mods">최신 업데이트</string>
     <string name="SearchHint">검색 :</string>
     <!-- 侧滑-->
@@ -45,7 +45,7 @@
     <string name="Share">공유</string>
     <string name="Checkforupdate">업데이트 확인</string>
     <string name="FollowusonTwitter">Twitter에서 팔로우하기</string>
-    <string name="FollowusonFacebook">페이스 북에서 우리를 따라 가라.</string>
+    <string name="FollowusonFacebook">페이스북에서 팔로우하기</string>
     <!--设置页-->
     <string name="settings_network_remind">모바일 네트워크 경고</string>
     <string name="settings_auto_install">자동 설치</string>
@@ -61,14 +61,14 @@
     <string name="Finished">다운로드 됨</string>
     <string name="No_Download">파일을 찾을 수 없습니다.</string>
     <string name="Pause">중단하다</string>
-    <string name="Waiting_in_queue">줄을 서서 기다리고있다.</string>
+    <string name="Waiting_in_queue">대기 중</string>
     <string name="Completed">완료 됨</string>
-    <string name="UnZiping">추출</string>
+    <string name="UnZiping">추출 중</string>
     <string name="UnZip_succeed">추출 완료</string>
     <string name="Rate">등급</string>
     <string name="Rated">정격</string>
-    <string name="Version">에디션</string>
-    <string name="Ratingsreviews">등급 및 등급</string>
+    <string name="Version">버전</string>
+    <string name="Ratingsreviews">등급 및 리뷰</string>
     <string name="Tryitlater">나중에 다시 시도하십시오.</string>
     <string name="Serviceisbusy">연결 ...</string>
     <!-- 下载删除的文字 -->
@@ -77,21 +77,21 @@
     <string name="Cancel">취소</string>
     <string name="Delete">삭제</string>
     <string name="Whydeletethisdownload">다운로드 속도가 너무 느림</string>
-    <string name="NotwhatIwant">내가 원하는 것이 아니다.</string>
+    <string name="NotwhatIwant">내가 원하는게 아님</string>
     <string name="Downloadfailed">다운로드 실패</string>
     <string name="Downloadistooslow">다운로드 속도가 너무 느림</string>
     <!--APP详情页-->
-    <string name="Mods">MODS</string>
+    <string name="Mods">모드</string>
     <string name="Original">원본</string>
-    <string name="Previousversion">역사 버전</string>
+    <string name="Previousversion">이전 버전</string>
     <string name="Download">다운로드</string>
     <string name="Downloadobb">(APK+OBB) 다운로드</string>
     <string name="Downloaddata">다운로드 (APK+DATA)</string>
     <string name="Downloadboundle">다운로드 BUNDLE</string>
     <string name="Downloaded">다운로드 됨</string>
     <string name="Install">설치</string>
-    <string name="Connecting">연결 ...</string>
-    <string name="readmore">더 많은 것을 읽으십시오</string>
+    <string name="Connecting">연결중…</string>
+    <string name="readmore">더보기</string>
     <string name="modfeature">수정 정보 :</string>
     <string name="Moreversion">더 많은 버전</string>
     <string name="Recommend">추천</string>
