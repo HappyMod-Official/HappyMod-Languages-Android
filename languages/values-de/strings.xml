@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--德国-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">HappyMods</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -24,11 +24,11 @@
     <string name="Paid">Bezahlt</string>
     <string name="GAME">Spiel</string>
     <string name="APP">App</string>
-    <string name="NEW">Neu</string>
+    <string name="NEW">Neue</string>
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
-    <string name="REFRESH">Aktualisierung</string>
-    <string name="Unable_to_connect_to_the_network">Kein Zugriff auf das Internet.</string>
+    <string name="REFRESH">Neu Laden</string>
+    <string name="Unable_to_connect_to_the_network">Schlechte Internetverbindung</string>
     <string name="Recommended_Game_Mods">Empfohlene Spiele Mods</string>
     <string name="Hot_Game_Mods">Heiße Spiele Mods</string>
     <string name="Recommended_App_Mods">Empfohlene App Mods</string>
@@ -115,7 +115,7 @@
     <string name="nvisrti">Die neue Version kann installiert werden.</string>
     <string name="OPEN">ÖFFNEN</string>
     <string name="OK">OK</string>
-    <string name="Loading">Wird geladen......</string>
+    <string name="Loading">Wird geladen...</string>
     <string name="updata_tip">Sie verwenden die neueste stabile Version von HappyMod</string>
     <string name="xzzb">Bitte laden Sie das offizielle HappyMod herunter.</string>
     <string name="Continue">Fortsetzen</string>
@@ -412,7 +412,7 @@
     <string name="nolimits">Keine Grenzen</string>
     <string name="nslnfsl">Keine Geschwindigkeitsbegrenzung. Keine Dateigrößenbeschränkung.</string>
     <string name="Clean">Reinigen</string>
-    <string name="Cdnoadfree">Sauberes Design, keine Werbung &amp; 100% kostenlos!</string>
+    <string name="Cdnoadfree">Gut aussehend, keine Werbung &amp; 100% kostenlos!</string>
     <string name="wrhtdbf">Wir empfehlen HyperTorrent zum Herunterladen großer Dateien.</string>
     <string name="nothanks">Nein Danke</string>
     <string name="Checkthenetwork">Überprüfen Sie das Netzwerk</string>
