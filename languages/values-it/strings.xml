@@ -63,7 +63,7 @@
     <string name="Pause">Metti in Pausa</string>
     <string name="Waiting_in_queue">In attesa nella coda</string>
     <string name="Completed">Completato</string>
-    <string name="UnZiping">Estrazione...</string>
+    <string name="UnZiping">Estrazione</string>
     <string name="UnZip_succeed">Finito di Estrarre</string>
     <string name="Rate">Dai un Voto</string>
     <string name="Rated">Votato</string>
@@ -121,7 +121,7 @@
     <string name="xzzb">Si prega di scaricare HappyMod dal sito ufficiale.</string>
     <string name="Continue">Continua</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Memoria del dispositivo piena.</string>
+    <string name="No_space_left_on_device">Memoria del dispositivo piena</string>
     <string name="Is_this_app_you_need">Stai cercando questa app?</string>
     <string name="No">No</string>
     <string name="Yes">Sì</string>
@@ -129,7 +129,7 @@
     <string name="need">Disponibile:</string>
     <string name="No_enough_space_left_on_device">Non c\'è abbastanza spazio. Hai bisogno di:</string>
     <string name="updatenow">Aggiorna Ora</string>
-    <string name="updateFail">Scaricamento fallito. Si prega di chiudere e riaprire l\'app.</string>
+    <string name="updateFail">Scaricamento fallito. Si prega di chiudere e riaprire l\'app</string>
     <string name="initializing">Inizializzando</string>
     <string name="Retrying">Riprovando</string>
     <string name="language">Lingua</string>
@@ -211,9 +211,7 @@
     <string name="next">Successivo</string>
     <string name="fblogdes">Per favore inserisci un nome utente. Il nome utente è un identificatore molto importante per il recupero della password, ricordatelo.</string>
     <string name="selectusername">Seleziona il nome utente</string>
-    <string name="reselpass_desone">Inserisci il nome utente del tuo account per reimpostare la password.
-\nHai qualche problema riguardante la reimpostazione della password\?
-\n&lt;u&gt;Contattaci.&lt;u&gt;</string>
+    <string name="reselpass_desone">Inserisci il nome utente del tuo account per resettare la password. Hai qualche problema sulla reimpostazione della password<u>contattaci</u>.</string>
     <string name="reselpass_destwo">Inserisci l\'email o il numero di telefono. Hai qualche problema riguardante la reimpostazione della password\?<u>Contattaci.</u>.</string>
     <string name="forgetgosingup">Non ricordi nessuno di loro\? per favore<u>crea un altro account.</u>.</string>
     <string name="Resetpassword">Resetta la password</string>
@@ -376,7 +374,7 @@
     <string name="toopenitquickntime">Per aprirlo rapidamente la prossima volta, puoi:</string>
     <string name="finditin">Trovalo in X</string>
     <string name="needhelp">Hai bisogno di aiuto\?</string>
-    <string name="peoplealsoplaygames">Le persone che hanno giocato a questo gioco piace anche:</string>
+    <string name="peoplealsoplaygames">Le persone che hanno giocato a questo gioco piace anche</string>
     <string name="opencommunitydes">Se trovi un post per adulti o un post illecito, fai clic sul pulsante di segnalazione nell\'angolo in alto a destra del post, elimineremo il post e bloccheremo il autore dell\'immagine per la prima volta! Per favore, parla rispettosamente!</string>
     <string name="myreviews">Le mie recensioni</string>
     <string name="tagthisapp">Segnala quest\'app</string>
