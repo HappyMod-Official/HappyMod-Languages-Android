@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--homepage-->
-    <string name="Paid">De Paga</string>
+    <string name="Paid">De pago</string>
     <string name="GAME">Juegos</string>
     <string name="APP">Apps</string>
     <string name="NEW">Nuevos</string>
@@ -40,7 +40,7 @@
     <string name="Homeweb">Sitio web oficial</string>
     <string name="Management">Administrador de descargas</string>
     <string name="Settings">Ajustes</string>
-    <string name="Feedback">Retroalimentación</string>
+    <string name="Feedback">Sugerencias</string>
     <string name="Translation">Traducción</string>
     <string name="Share">Compartir</string>
     <string name="Checkforupdate">Buscar actualizaciones</string>
@@ -52,7 +52,7 @@
     <string name="Download_Directory">Directorio de descarga</string>
     <string name="settings_other">Otros</string>
     <string name="settings_clear_cache">Limpiar caché</string>
-    <string name="Clean_up_the_complete">Caché eliminado</string>
+    <string name="Clean_up_the_complete">El caché ha quedado limpio.</string>
     <!--nodata-->
     <string name="des_no_serach_result"> ¡Oops! No se encontraron resultados.</string>
     <!--download manage-->
@@ -70,10 +70,10 @@
     <string name="Version">Versión</string>
     <string name="Ratingsreviews">Calificaciones &amp; Opiniones</string>
     <string name="Tryitlater">Inténtalo más tarde</string>
-    <string name="Serviceisbusy">Conectando ...</string>
+    <string name="Serviceisbusy">Conectando. . .</string>
     <!-- delete words -->
     <string name="Notice">Aviso</string>
-    <string name="deletethistask">¿Deseas borrar este archivo?</string>
+    <string name="deletethistask">Borrar archivo</string>
     <string name="Cancel">Cancelar</string>
     <string name="Delete">Borrar</string>
     <string name="Whydeletethisdownload">¿Por qué eliminar esta descarga?</string>
@@ -90,7 +90,7 @@
     <string name="Downloadboundle">Descargar BUNDLE</string>
     <string name="Downloaded">Descargado</string>
     <string name="Install">Instalar</string>
-    <string name="Connecting">Conectando ...</string>
+    <string name="Connecting">Conectando …</string>
     <string name="readmore">Leer más</string>
     <string name="modfeature">Información del mod:</string>
     <string name="Moreversion">Más versiones</string>
@@ -100,7 +100,7 @@
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">¡Lo odio!</string>
-    <string name="Disliked_it">No me gusta</string>
+    <string name="Disliked_it">Dejar de gustar.</string>
     <string name="Its_ok">Está bien.</string>
     <string name="Liked_it">Me gusta.</string>
     <string name="Loved_it">¡Lo amo!</string>
@@ -135,7 +135,7 @@
     <!--category -->
     <string name="Popular">Popular</string>
     <string name="s_New">Nuevos</string>
-    <string name="apps">Apps</string>
+    <string name="apps">Aplicaciones</string>
     <!-- big file -->
     <string name="mergering">Instalación final</string>
     <string name="mergerwait">Instalación final (Se necesitan 1-2 minutos)</string>
@@ -195,14 +195,14 @@
     <string name="tuiat">Este nombre de usuario ya está en uso.</string>
     <string name="Login">Iniciar sesión</string>
     <string name="Account">Cuenta</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">¿Ha olvidado su contraseña\?</string>
     <string name="loginwithaccount">O inicie sesión con su nombre de usuario</string>
     <string name="newur">Registro de nuevo usuario</string>
     <string name="Usernameinitnew">Nombre de usuario (4-50 caracteres)</string>
     <string name="Passwordnew">Contraseña (6-8 caracteres)</string>
     <string name="Emailnew">Email</string>
     <string name="PhoneNumber">Número de teléfono</string>
-    <string name="Unknown">Unknown</string>
+    <string name="Unknown">Desconocido</string>
     <string name="enteryEmail">Introduce tu correo electrónico</string>
     <string name="enteryPhone">Ingrese su número telefónico</string>
     <string name="signuptips">Cuando olvide su contraseña, necesitará "Número de teléfono" o "Correo electrónico" para recuperarla. Recomendamos que los complete.</string>
@@ -212,7 +212,7 @@
     <string name="selectusername">Elija un nombre de usuario</string>
     <string name="reselpass_desone">Ingrese el nombre de usuario de su cuenta para restablecer la contraseña. Tienes algún problema con la contraseña de restablecimiento<u>contact us</u>.</string>
     <string name="reselpass_destwo">Por favor, introduzca el correo electrónico o el número de teléfono. Tienes algún problema con la contraseña de restablecimiento<u>contact us</u>.</string>
-    <string name="forgetgosingup">¿No puedes recordar alguno de ellos? Por favor<u>sign up a new account</u>.</string>
+    <string name="forgetgosingup">¿No puedes recordar alguno de ellos\? Por favor<u>registre ahora una cuenta nueva</u>.</string>
     <string name="Resetpassword">Restablecer la contraseña</string>
     <string name="NewPassword">Nueva contraseña</string>
     <string name="Enterthepasswordagain">Confirmar la contraseña</string>
@@ -227,7 +227,7 @@
     <string name="fbrfail">El registro de Facebook falló.</string>
     <string name="Registerfailed">Error de registro, confirme que su conexión de red es normal, haga clic en el botón de registro para volver a intentarlo.</string>
     <string name="Loginfailed">Error de inicio de sesion.</string>
-    <string name="me">Me</string>
+    <string name="me">Yo</string>
     <string name="Avatar">Avatar</string>
     <string name="Myposts">mis publicaciones</string>
     <string name="passowrduploadok">Contraseña cambiada con éxito</string>
@@ -323,7 +323,7 @@
     <string name="sellallreviews">Ver todas las opiniones</string>
     <string name="hfivetitle">Juegos rápidos</string>
     <string name="Recommended">Recomendado</string>
-    <string name="exit_tips">Presione de nuevo para salir del juego.</string>
+    <string name="exit_tips">Presione atrás de nuevo para salir del juego.</string>
     <string name="h5_menu_reload">Recargar</string>
     <string name="h5_menu_share">Compartir</string>
     <string name="h5_menu_shortcut">Añadir a la pantalla principal</string>
