@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--俄羅斯-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">HappyMods</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -135,7 +135,7 @@
     <!--类别界面 -->
     <string name="Popular">Популярный</string>
     <string name="s_New">новый</string>
-    <string name="apps">Apps</string>
+    <string name="apps">Приложения</string>
     <!--大文件-->
     <string name="mergering">Окончательная обработка</string>
     <string name="mergerwait">Финальная обработка (требуется 1-2 минуты)</string>
@@ -195,7 +195,7 @@
     <string name="tuiat">Это имя пользователя уже занято.</string>
     <string name="Login">Авторизоваться</string>
     <string name="Account">учетная запись</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Забыли пароль\?</string>
     <string name="loginwithaccount">ИЛИ войдите под своим именем пользователя</string>
     <string name="newur">Регистрация нового пользователя</string>
     <string name="Usernameinitnew">Имя пользователя (4-50 символов)</string>
