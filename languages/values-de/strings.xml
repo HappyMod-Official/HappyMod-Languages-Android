@@ -29,46 +29,46 @@
     <string name="games">Spiele</string>
     <string name="REFRESH">Neu Laden</string>
     <string name="Unable_to_connect_to_the_network">Schlechte Internetverbindung</string>
-    <string name="Recommended_Game_Mods">Empfohlene Spiele Mods</string>
-    <string name="Hot_Game_Mods">Heiße Spiele Mods</string>
-    <string name="Recommended_App_Mods">Empfohlene App Mods</string>
-    <string name="Hot_App_Mods">Heiße App Mods</string>
-    <string name="Recommended_New_Mods">Empfohlene neue Mods</string>
-    <string name="Last_Update_Mods">Letzte Aktualisierungen</string>
-    <string name="SearchHint">Suche..</string>
+    <string name="Recommended_Game_Mods">Empfohlene Mods</string>
+    <string name="Hot_Game_Mods">Beliebte Mods</string>
+    <string name="Recommended_App_Mods">Empfohlene Mods</string>
+    <string name="Hot_App_Mods">Beliebte Mods</string>
+    <string name="Recommended_New_Mods">Neue Empfohlene Mods</string>
+    <string name="Last_Update_Mods">Neueste updates</string>
+    <string name="SearchHint">Suchen...</string>
     <!-- 侧滑-->
     <string name="Homeweb">Offizielle Website</string>
     <string name="Management">Verwaltung</string>
-    <string name="Settings">die Einstellungen</string>
+    <string name="Settings">Einstellungen</string>
     <string name="Feedback">Rückmeldung</string>
     <string name="Translation">Übersetzung</string>
-    <string name="Share">Aktie</string>
-    <string name="Checkforupdate">Überprüfe auf Updates</string>
+    <string name="Share">Teilen</string>
+    <string name="Checkforupdate">Update Überprüfung</string>
     <string name="FollowusonTwitter">Folge uns auf Twitter</string>
     <string name="FollowusonFacebook">Folge uns auf Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobiles Netzwerk Warnung</string>
-    <string name="settings_auto_install">Automatisch installieren</string>
+    <string name="settings_auto_install">Automatische Installation</string>
     <string name="Download_Directory">Verzeichnis herunterladen</string>
-    <string name="settings_other">Andere</string>
+    <string name="settings_other">Weitere</string>
     <string name="settings_clear_cache">Cache leeren</string>
-    <string name="Clean_up_the_complete">Der Cache ist gelöscht.</string>
+    <string name="Clean_up_the_complete">Der Cache wurde geleert.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Hoppla! Kein Eintrag gefunden.</string>
+    <string name="des_no_serach_result">Hoppla! Kein passendes Ergebnis für deine suchanfrage gefunden.</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">wird heruntergeladen</string>
-    <string name="Finished">Fertig</string>
-    <string name="No_Download">Keine Datei gefunden.</string>
-    <string name="Pause">Anhalten</string>
-    <string name="Waiting_in_queue">Angereiht</string>
+    <string name="Finished">Beendet</string>
+    <string name="No_Download">Keine Dateien gefunden.</string>
+    <string name="Pause">Pausieren</string>
+    <string name="Waiting_in_queue">Warten auf download</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="UnZiping">Extrahieren</string>
-    <string name="UnZip_succeed">Extrahieren beendet</string>
-    <string name="Rate">Bewertung</string>
+    <string name="UnZip_succeed">Extrahierung beendet</string>
+    <string name="Rate">Bewerten</string>
     <string name="Rated">Bewertet</string>
     <string name="Version">Version</string>
-    <string name="Ratingsreviews">Bewertungen &amp; Rückmeldungen</string>
+    <string name="Ratingsreviews">Bewertungen</string>
     <string name="Tryitlater">Versuchen Sie es später noch einmal</string>
     <string name="Serviceisbusy">Verbinden…</string>
     <!-- 下载删除的文字 -->
@@ -76,59 +76,60 @@
     <string name="deletethistask">Löschen Sie diese Datei</string>
     <string name="Cancel">Abbrechen</string>
     <string name="Delete">Löschen</string>
-    <string name="Whydeletethisdownload">Warum diesen Download löschen?</string>
-    <string name="NotwhatIwant">Nicht was ich will</string>
-    <string name="Downloadfailed">Herunterladen fehlgeschlagen</string>
+    <string name="Whydeletethisdownload">Warum löschen Sie diesen Download\?</string>
+    <string name="NotwhatIwant">Nicht das was ich wollte</string>
+    <string name="Downloadfailed">Download fehlgeschlagen</string>
     <string name="Downloadistooslow">Download ist zu langsam</string>
     <!--APP详情页-->
-    <string name="Mods">Modifikationen</string>
+    <string name="Mods">Mods</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Vorherige Version</string>
     <string name="Download">Herunterladen</string>
-    <string name="Downloadobb">Herunterladen(APK+OBB)</string>
+    <string name="Downloadobb">Herunterladen (APK+OBB)</string>
     <string name="Downloaddata">Herunterladen(APK+DATA)</string>
-    <string name="Downloadboundle">Herunterladen BUNDLE</string>
+    <string name="Downloadboundle">Herunterladen (BUNDLE)</string>
     <string name="Downloaded">Heruntergeladen</string>
     <string name="Install">Installieren</string>
-    <string name="Connecting">Anschließen...</string>
+    <string name="Connecting">Verbinden…</string>
     <string name="readmore">Weiterlesen</string>
     <string name="modfeature">Mod info:</string>
-    <string name="Moreversion">Mehr Version</string>
-    <string name="Recommend">Empfehlen</string>
+    <string name="Moreversion">Mehr Versionen</string>
+    <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
     <string name="Moremods">Weitere Mods</string>
     <!--评分-->
-    <string name="Submit">einreichen</string>
-    <string name="Hated_it">Hasse es!</string>
-    <string name="Disliked_it">Gefällt nicht.</string>
+    <string name="Submit">Einreichen</string>
+    <string name="Hated_it">Ich hasse es!</string>
+    <string name="Disliked_it">Mir gefällt es nicht.</string>
     <string name="Its_ok">Es ist in Ordnung.</string>
-    <string name="Liked_it">Mag ich.</string>
-    <string name="Loved_it">Liebe es!</string>
+    <string name="Liked_it">Gefällt mir.</string>
+    <string name="Loved_it">Ich liebe es!</string>
     <!--分享-->
     <string name="share_happymod">Teilen Sie \'HappyMod\' über</string>
     <string name="share_subject">Holen Sie sich HappyMod</string>
-    <string name="share_text">Lade 100% funktionierende Mods mit herunter @HappyMod\nhttps://www.happymod.com/</string>
+    <string name="share_text">Laden sie 100% funktionierende Mods mit ‘HappyMod‘ herunter
+\nhttps://www.happymod.com/</string>
     <!--修改路径-->
-    <string name="pref_location">Lagerraum</string>
+    <string name="pref_location">Speicher Ort</string>
     <!--update -->
-    <string name="force_des">100% arbeitsmods</string>
-    <string name="nvisrti">Die neue Version kann installiert werden.</string>
+    <string name="force_des">100% Funktionierende Mods</string>
+    <string name="nvisrti">Die neue Version kann Installations bereit.</string>
     <string name="OPEN">ÖFFNEN</string>
     <string name="OK">OK</string>
-    <string name="Loading">Wird geladen...</string>
+    <string name="Loading">Wird geladen…</string>
     <string name="updata_tip">Sie verwenden die neueste stabile Version von HappyMod</string>
     <string name="xzzb">Bitte laden Sie das offizielle HappyMod herunter.</string>
-    <string name="Continue">Fortsetzen</string>
+    <string name="Continue">Fortfahren</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Kein Speicherplatz auf Gerät</string>
-    <string name="Is_this_app_you_need">Suchen Sie nach dieser App?</string>
+    <string name="No_space_left_on_device">Nicht Genug Speicherplatz auf ihrem Gerät</string>
+    <string name="Is_this_app_you_need">Ist dies die App nach der Sie suchen\?</string>
     <string name="No">Nein</string>
     <string name="Yes">Ja</string>
-    <string name="bcdes">. Geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
-    <string name="need">;; Verfügbar:</string>
-    <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. Brauchen:</string>
+    <string name="bcdes">. Entfernen Sie paar Dateien von Ihrem Gerät und versuchen Sie es daraufhin erneut .</string>
+    <string name="need">; Verfügbar:</string>
+    <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. Sie brauchen:</string>
     <string name="updatenow">Jetzt aktualisieren</string>
-    <string name="updateFail">Herunterladen fehlgeschlagen. Bitte schließen und wieder öffnen</string>
+    <string name="updateFail">Download fehlgeschlagen. Bitte schließen und wieder öffnen</string>
     <string name="initializing">Initialisierung</string>
     <string name="Retrying">Wiederholen</string>
     <string name="language">Sprache</string>
@@ -138,16 +139,16 @@
     <string name="apps">Apps</string>
     <!-- 大文件 -->
     <string name="mergering">Endbearbeitung</string>
-    <string name="mergerwait">Endverarbeitung (benötigt 1-2 Minuten)</string>
+    <string name="mergerwait">Endverarbeitung (Ca. 1-2 Minuten)</string>
     <!-- 验证 -->
-    <string name="Startverification">Bestätigung starten</string>
+    <string name="Startverification">Verifizierung starten</string>
     <string name="verificationShangXian">Hoppla! Sie haben das tägliche Downloadlimit erreicht. Versuchen Sie es nach X Stunden erneut.</string>
     <string name="verificationFail">Verifizierung fehl geschlagen. Bitte versuchen Sie es erneut!</string>
     <string name="Morehelp">(Mehr Hilfe)</string>
     <string name="uid">Benutzeridentifikation</string>
     <string name="copysuccess">Userid wurde in die Zwischenablage kopiert.</string>
     <string name="watchnow">Jetzt ansehen</string>
-    <string name="ggdownloading">Anzeigen werden geladen. Bitte warten Sie und halten Sie happymod offen.</string>
+    <string name="ggdownloading">Werbung wird geladen. Bitte warten Sie und halten Sie happymod offen.</string>
     <string name="verificaing">Bitte warten Sie während der Bestätigung.</string>
     <!-- 评价 -->
     <string name="Removeads">Anzeige entfernen</string>
