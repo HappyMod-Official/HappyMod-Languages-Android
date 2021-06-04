@@ -23,23 +23,23 @@
     <!--首页-->
     <string name="Paid">Payé</string>
     <string name="GAME">Jeu</string>
-    <string name="APP">App</string>
+    <string name="APP">Application</string>
     <string name="NEW">Nouveau</string>
-    <string name="Categories">Les catégories</string>
+    <string name="Categories">Catégories</string>
     <string name="games">Jeux</string>
     <string name="REFRESH">Rafraîchir</string>
-    <string name="Unable_to_connect_to_the_network">Impossible d\'accéder à internet.</string>
-    <string name="Recommended_Game_Mods">Jeu recommandé Mods</string>
-    <string name="Hot_Game_Mods">Jeu Mods Chaud</string>
-    <string name="Recommended_App_Mods">Recommandé Mods App</string>
-    <string name="Hot_App_Mods">Hot App Mods</string>
-    <string name="Recommended_New_Mods">Nouveau Mods Recommandé</string>
+    <string name="Unable_to_connect_to_the_network">Impossible d\'accéder à Internet.</string>
+    <string name="Recommended_Game_Mods">Mods de jeu recomman dés</string>
+    <string name="Hot_Game_Mods">Mods de jeu chauds</string>
+    <string name="Recommended_App_Mods">Mods d\'application recommandés</string>
+    <string name="Hot_App_Mods">Mods d\'applications chauds</string>
+    <string name="Recommended_New_Mods">Nouveaux Mods Recommandés</string>
     <string name="Last_Update_Mods">Dernières mises à jour</string>
-    <string name="SearchHint">Chercher..</string>
+    <string name="SearchHint">Rechercher..</string>
     <!-- 侧滑-->
     <string name="Homeweb">Site officiel</string>
     <string name="Management">La gestion</string>
-    <string name="Settings">Réglages</string>
+    <string name="Settings">Paramètres</string>
     <string name="Feedback">Retour d\'information</string>
     <string name="Translation">Traduction</string>
     <string name="Share">Partager</string>
@@ -61,14 +61,14 @@
     <string name="Finished">Fini</string>
     <string name="No_Download">Aucun fichier trouvé.</string>
     <string name="Pause">Pause</string>
-    <string name="Waiting_in_queue">En attente dans la file d\'attente</string>
-    <string name="Completed">Terminé</string>
-    <string name="UnZiping">Extraire</string>
+    <string name="Waiting_in_queue">Attente dans la file d\'attente</string>
+    <string name="Completed">Complété</string>
+    <string name="UnZiping">Extraction</string>
     <string name="UnZip_succeed">Extraction terminée</string>
     <string name="Rate">Taux</string>
-    <string name="Rated">Classé</string>
+    <string name="Rated">Évalué</string>
     <string name="Version">Version</string>
-    <string name="Ratingsreviews">Évaluations &amp; Avis</string>
+    <string name="Ratingsreviews">Évaluations et commentaires</string>
     <string name="Tryitlater">Essayez plus tard</string>
     <string name="Serviceisbusy">De liaison…</string>
     <!-- 下载删除的文字 -->
@@ -76,7 +76,7 @@
     <string name="deletethistask">Supprimer ce fichier</string>
     <string name="Cancel">Annuler</string>
     <string name="Delete">Effacer</string>
-    <string name="Whydeletethisdownload">Pourquoi supprimer ce téléchargement\?</string>
+    <string name="Whydeletethisdownload">Pourquoi supprimer ce téléchargement \?</string>
     <string name="NotwhatIwant">Pas ce que je veux</string>
     <string name="Downloadfailed">Échec du téléchargement</string>
     <string name="Downloadistooslow">Le téléchargement est trop lent</string>
@@ -85,9 +85,9 @@
     <string name="Original">Original</string>
     <string name="Previousversion">La version précédente</string>
     <string name="Download">Télécharger</string>
-    <string name="Downloadobb">Télécharger(APK+OBB)</string>
-    <string name="Downloaddata">Télécharger(APK+DATA)</string>
-    <string name="Downloadboundle">Télécharger BUNDLE</string>
+    <string name="Downloadobb">Télécharger (APK+OBB)</string>
+    <string name="Downloaddata">Télécharger (APK + DONNÉES)</string>
+    <string name="Downloadboundle">Télécharger le PACK</string>
     <string name="Downloaded">Téléchargé</string>
     <string name="Install">Installer</string>
     <string name="Connecting">De liaison…</string>
@@ -280,7 +280,7 @@
     <string name="fix_tips_failtitle">Plus de serveurs</string>
     <string name="fix_ok">L\'essayer</string>
     <!--社区 -->
-    <string name="please_loginanddownload">Veuillez d\'abord télécharger ce mod avant d\'envoyer un avis.</string>
+    <string name="please_loginanddownload">Veuillez d\'abord télécharger ce module.</string>
     <string name="myvoted">Mon vote</string>
     <string name="working">Travail</string>
     <string name="inanhour">Veuillez voter à nouveau dans une heure.</string>
