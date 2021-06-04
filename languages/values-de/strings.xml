@@ -24,10 +24,10 @@
     <string name="Paid">Bezahlt</string>
     <string name="GAME">Spiel</string>
     <string name="APP">App</string>
-    <string name="NEW">Neue</string>
+    <string name="NEW">Neu</string>
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
-    <string name="REFRESH">Neu Laden</string>
+    <string name="REFRESH">Neuladen</string>
     <string name="Unable_to_connect_to_the_network">Schlechte Internetverbindung</string>
     <string name="Recommended_Game_Mods">Empfohlene Mods</string>
     <string name="Hot_Game_Mods">Beliebte Mods</string>
