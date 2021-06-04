@@ -222,4 +222,10 @@
 \nZippyshare/Mediafire url:</string>
     <string name="Upload">Envio</string>
     <string name="Uploadfail">O download falhou.</string>
+    <string name="OBBDataurl">OBB/DataZipptshare/Mediafire url: (opicional)</string>
+    <string name="Youarereupload">Você está atualizando</string>
+    <string name="obbfail">Por favor entre o obb file\'s
+\nZippyshare/Mediafire URL.</string>
+    <string name="Uploadsuccess">Enviado com sucesso</string>
+    <string name="Requestsuccess">Solicitado com sucesso</string>
 </resources>
