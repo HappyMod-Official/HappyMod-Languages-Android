@@ -191,7 +191,7 @@
     <string name="Register">Registrar</string>
     <string name="eyun">Digite seu nome de usuário</string>
     <string name="eypsw">Digite sua senha</string>
-    <string name="loginerrortips">Por favor, digite um usuário e senha corretos. No campo \"senha\" há diferenciação entre maiúsculo e minúsculo</string>
+    <string name="loginerrortips">Por favor, digite um nome usuário e senha corretos. No campo \"senha\" há diferenciação entre maiúsculo e minúsculo</string>
     <string name="Resetpasswordfailed">Falha ao trocar de senha</string>
     <string name="Theusernamewasnotregistered">O nome de usuário não foi registrado</string>
     <string name="fbrfail">Falha ao registrar com Facebook</string>
