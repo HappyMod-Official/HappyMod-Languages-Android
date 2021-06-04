@@ -280,7 +280,7 @@
     <string name="fix_tips_failtitle">Plus de serveurs</string>
     <string name="fix_ok">L\'essayer</string>
     <!--社区 -->
-    <string name="please_loginanddownload">S\'il vous plaît télécharger ce mod en premier.</string>
+    <string name="please_loginanddownload">Veuillez d\'abord télécharger ce mod avant d\'envoyer un avis.</string>
     <string name="myvoted">Mon vote</string>
     <string name="working">Travail</string>
     <string name="inanhour">Veuillez voter à nouveau dans une heure.</string>
