@@ -183,7 +183,7 @@
     <string name="Usernametip">Nur Buchstaben a-z, Zahlen, @. - _ bitte (keine Leerzeichen oder anderen Sonderzeichen). 4-50 Zeichen.</string>
     <string name="Password">Passwort</string>
     <string name="Enteryourpassword">6-8 Zeichen</string>
-    <string name="passwordtip">Nur Buchstaben A-Z, A-Z, Zahlen (keine Leerzeichen oder Sonderzeichen). 6-8 Zeichen.</string>
+    <string name="passwordtip">Nur Buchstaben A-Z, a-z, Zahlen (keine Leerzeichen oder Sonderzeichen). 6-8 Zeichen.</string>
     <string name="nicknametip">Dieser Benutzername wird bereits benutzt.</string>
     <string name="Nickname">Spitzname</string>
     <string name="Emailaddress">E-Mail-Addresse</string>
@@ -196,7 +196,7 @@
     <string name="tuiat">Dieser Benutzername ist bereits vergeben.</string>
     <string name="Login">Log in</string>
     <string name="Account">Konto</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Passwort vergessen\?</string>
     <string name="loginwithaccount">ODER melden Sie sich mit Ihrem Benutzernamen an</string>
     <string name="newur">Neue Benutzerregistrierung</string>
     <string name="Usernameinitnew">Benutzername (4-50 Zeichen)</string>
@@ -352,7 +352,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Suchen Sie die App, die Sie hochladen möchten:</string>
     <string name="addapost">Fügen Sie einen Beitrag hinzu</string>
-    <string name="launch_des">Find 100% Working Mods \ nUmgeladen von Benutzern; Von Benutzern verifiziert!</string>
+    <string name="launch_des">100% funktionierende Mods
+\nVon Benutzern hochgeladen und von Benutzern verifiziert!</string>
     <string name="requestamod">Fordern Sie einen Mod an</string>
     <string name="uploadamod">Lade einen Mod hoch</string>
     <!--boundle 新增-->
@@ -373,7 +374,7 @@
     <string name="toopenitquickntime">Um es beim nächsten Mal schnell zu öffnen, bitte:</string>
     <string name="finditin">Finde es in X.</string>
     <string name="needhelp">Brauchen Sie Hilfe?</string>
-    <string name="peoplealsoplaygames">Leute spielten dieses Spiel auch gespielt:</string>
+    <string name="peoplealsoplaygames">Leute die dieses Spiel spielten mochten ebenfalls:</string>
     <string name="opencommunitydes">Wenn Sie einen Erwachsenen oder einen schlechten Beitrag finden, klicken Sie bitte auf die Schaltfläche "Bericht" in der oberen rechten Ecke des Beitrags. Wir werden den Beitrag löschen und das Poster beim ersten Mal blockieren! Bitte sprechen Sie zivilisiert!</string>
     <string name="myreviews">Meine Bewertungen</string>
     <string name="tagthisapp">Kennzeichne diese App</string>
@@ -414,11 +415,14 @@
     <string name="nslnfsl">Keine Geschwindigkeitsbegrenzung. Keine Dateigrößenbeschränkung.</string>
     <string name="Clean">Reinigen</string>
     <string name="Cdnoadfree">Gut aussehend, keine Werbung &amp; 100% kostenlos!</string>
-    <string name="wrhtdbf">Wir empfehlen HyperTorrent zum Herunterladen großer Dateien.</string>
+    <string name="wrhtdbf">Wie benutzt man HyperTorrent</string>
     <string name="nothanks">Nein Danke</string>
     <string name="Checkthenetwork">Überprüfen Sie das Netzwerk</string>
     <string name="Configuringip">Konfigurieren der verfügbaren IP für Sie</string>
     <string name="Configuringipfailed">Konfiguration fehlgeschlagen, 8 IPs wurden als nicht verfügbar erkannt. Bitte versuchen Sie, VPN zu verwenden.</string>
-    <string name="Donatedes">HappyMod ist völlig kostenlos und wir hassen Anzeigen genauso wie Sie. \ N \ nWir benötigen Ihre Spende, um schnellere und sicherere Downloads zu ermöglichen. \ N \ nBitte haben Sie etwas Geduld und versuchen Sie, die vollständigen Anzeigen zu sehen, um die Spende abzuschließen. \ N \ nDanke！</string>
+    <string name="Donatedes">HappyMod ist vollkommen kostenlos und wir hassen Werbungen genauso wie Sie.
+\nJedoch benötigen wir Ihre Spende, um schnellere und sicherere Downloads zu ermöglichen.
+\nBitte haben Sie etwas Geduld und versuchen Sie, die vollständige Werbung zu sehen, um die „Spende“ abzuschließen.
+\nDanke！</string>
     <string name="viewstepdeti">Schrittdetails anzeigen</string>
 </resources>
