@@ -15,18 +15,18 @@
     <string name="SearchHint">Procurar..</string>
     <string name="Homeweb">Website oficial</string>
     <string name="Management">Gestão</string>
-    <string name="Settings">Definições</string>
+    <string name="Settings">Configuração</string>
     <string name="Feedback">Comentários</string>
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
-    <string name="Checkforupdate">Verificar por atualizações</string>
+    <string name="Checkforupdate">Verifique as atualizações</string>
     <string name="FollowusonTwitter">Siga-nos no Twitter</string>
     <string name="settings_network_remind">Alerta de rede móvel</string>
     <string name="settings_auto_install">Instalar Automaticamente</string>
     <string name="Download_Directory">Baixar diretório</string>
     <string name="settings_other">Outros</string>
     <string name="settings_clear_cache">Limpar cache</string>
-    <string name="Clean_up_the_complete">O cache foi limpo</string>
+    <string name="Clean_up_the_complete">O cache está limpo.</string>
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Baixando</string>
     <string name="Finished">Finalizado</string>
@@ -58,7 +58,7 @@
     <string name="Downloaded">Baixado</string>
     <string name="Install">Instalar</string>
     <string name="readmore">Ler mais</string>
-    <string name="Hot_App_Mods">Novos Mods</string>
+    <string name="Hot_App_Mods">Mods de apps quentes</string>
     <string name="Moreversion">Mais versões</string>
     <string name="Recommend">Recomendado</string>
     <string name="Recommendmod">Mod Recomendado</string>
@@ -67,7 +67,7 @@
     <string name="Hated_it">Odeio!</string>
     <string name="Its_ok">Tudo bem.</string>
     <string name="Liked_it">Gosto disso.</string>
-    <string name="Loved_it">Amei isso</string>
+    <string name="Loved_it">Adoro!</string>
     <string name="share_happymod">Compartilhe ‘HappyMod’ via</string>
     <string name="share_subject">Obtenha HappyMod</string>
     <string name="pref_location">Local de armazenamento</string>
@@ -84,7 +84,7 @@
     <string name="No">Não</string>
     <string name="Yes">Sim</string>
     <string name="bcdes">. Libere espaço de armazenamento e tente novamente.</string>
-    <string name="need">Disponível</string>
+    <string name="need">; Disponível:</string>
     <string name="updatenow">Atualize agora</string>
     <string name="updateFail">Download falhou. Por favor feche e abra o aplicativo</string>
     <string name="initializing">Inicializando</string>
@@ -109,7 +109,7 @@
     <string name="Unlocked">Desbloqueado</string>
     <string name="Premium">Premium</string>
     <string name="Pro">Vip</string>
-    <string name="ModLite">Mod Lite</string>
+    <string name="ModLite">mod lite</string>
     <string name="Subscribed">Inscrito</string>
     <string name="Prime">Prime</string>
     <string name="VIP">VIP</string>
@@ -162,7 +162,7 @@
     <string name="Tryitlater">Tente mais tarde</string>
     <string name="Downloadistooslow">O Download está muito lento</string>
     <string name="Connecting">Conectando…</string>
-    <string name="modfeature">Informações sobre o mod</string>
+    <string name="modfeature">Informações sobre o mod:</string>
     <string name="Disliked_it">Não goste disso.</string>
     <string name="share_text">Baixe mods 100% funcionais com @HappyMod
 \nhttps://www.happymod.com/</string>
@@ -182,7 +182,7 @@
     <string name="reselpass_desone">Digite o nome de usuário da sua conta para redefinir a senha. Você tem algum problema com a redefinição de senha <u> entre em contato conosco </u>.</string>
     <string name="forgetgosingup">Não consegue se lembrar de nenhum deles\? <u> inscreva-se em uma nova conta </u>.</string>
     <string name="signuplimitdes">Seu aparelho alcançou o número máximo de usuários registrados. Por favor, selecione o usuário abaixo para logar.</string>
-    <string name="petceotn">Por favor, digite o email ou número de telefone corretos</string>
+    <string name="petceotn">Por favor, digite o e-mail ou número de telefone corretos</string>
     <string name="Registerfailed">Falha ao registrar, por favor, confirme que sua conexão a internet está funcionando e clique o botão de registro novamente.</string>
     <string name="requestdetailhint">Mostre mais sobre seu pedido. (Mínimo de 50 caracteres)</string>
     <string name="Enteryouremail">Digite seu email</string>
@@ -191,10 +191,10 @@
     <string name="Register">Registrar</string>
     <string name="eyun">Digite seu nome de usuário</string>
     <string name="eypsw">Digite sua senha</string>
-    <string name="loginerrortips">Por favor, digite um nome usuário e senha corretos. No campo \"senha\" há diferenciação entre maiúsculo e minúsculo</string>
-    <string name="Resetpasswordfailed">Falha ao trocar de senha</string>
+    <string name="loginerrortips">Por favor, digite um nome usuário e senha corretos. No campo senha há diferenciação entre maiúsculo e minúsculo</string>
+    <string name="Resetpasswordfailed">Falha ao redefinir a senha</string>
     <string name="Theusernamewasnotregistered">O nome de usuário não foi registrado</string>
-    <string name="fbrfail">Falha ao registrar com Facebook</string>
+    <string name="fbrfail">Registro com Facebook falhou.</string>
     <string name="Loginfailed">Falha ao logar.</string>
     <string name="me">Eu</string>
     <string name="Avatar">Avatar</string>
@@ -211,5 +211,15 @@
     <string name="Updated">Atualizado</string>
     <string name="Comingsoon">Em breve</string>
     <string name="searchappyouwanttorequest">Pesquise o app que você quer pedir:</string>
-    <string name="Addupload">Upload de app</string>
+    <string name="Addupload">Adicionar upload</string>
+    <string name="requesterror">O envio falhou.Tente
+\nnovamente mais tarde.</string>
+    <string name="detailserror">(100-4000 caracteres)</string>
+    <string name="view">Visão</string>
+    <string name="isthiswork">Funciona\?</string>
+    <string name="edit">Editar</string>
+    <string name="APKZippyshareurl">APK
+\nZippyshare/Mediafire url:</string>
+    <string name="Upload">Envio</string>
+    <string name="Uploadfail">O download falhou.</string>
 </resources>
