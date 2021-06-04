@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">المود السعيد</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -198,7 +198,7 @@ https://www.happymod.com</string>
     <string name="selectusername">حدد اسم المستخدم</string>
     <string name="reselpass_desone">أدخل اسم المستخدم الخاص بحسابك لإعادة تعيين كلمة المرور. اذا كان لديك أي مشكلة حول إعادة تعيين كلمة المرور <u>اتصل بنا</u>.</string>
     <string name="reselpass_destwo">أدخل البريد الالكتروني او رقم الهاتف الخاص بحسابك لإعادة تعيين كلمة المرور. اذا كان لديك أي مشكلة حول إعادة تعيين كلمة المرور <u>اتصل بنا</u>.</string>
-    <string name="forgetgosingup">ألا يمكنك تذكر أي مهما؟ أنشئ حساب جديد.</string>
+    <string name="forgetgosingup">ألا يمكنك تذكر أي شيء؟ أنشئ حساب جديد.</string>
     <string name="Resetpassword">إعادة تعيين كلمة المرور</string>
     <string name="NewPassword">كلمة السر الجديدة</string>
     <string name="Enterthepasswordagain">تأكيد كلمة المرور</string>
@@ -402,6 +402,6 @@ https://www.happymod.com</string>
     <string name="Checkthenetwork">تحقق من الشبكة</string>
     <string name="Configuringip">تكوين IP المتاح لك</string>
     <string name="Configuringipfailed">فشل التكوين ، تم اكتشاف 8 عناوين IP غير متوفرة ، يرجى محاولة استخدام VPN.</string>
-    <string name="Donatedes">HappyMod مجاني تمامًا ، ونحن نكره الإعلانات بقدر ما تفعله！ \ n \ n نحتاج إلى تبرعك لتوفير تنزيلات أسرع وأكثر أمانًا. \ n \ n يُرجى التحلي بالصبر ومحاولة مشاهدة الإعلانات الكاملة لإكمال التبرع. \ n \ n شكرا لك！</string>
+    <string name="Donatedes">HappyMod مجاني تمامًا ، ونحن نكره الإعلانات بقدر ما تفعله！ نحتاج إلى تبرعك لتوفير تنزيلات أسرع وأكثر أمانًا. يُرجى التحلي بالصبر ومحاولة مشاهدة الإعلانات الكاملة لإكمال التبرع. شكرا لك！</string>
     <string name="viewstepdeti">عرض تفاصيل الخطوة</string>
 </resources>
