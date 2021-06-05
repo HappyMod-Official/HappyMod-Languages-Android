@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--日本-->
-    <string name="app_name">はっぴ もづ</string>
+    <string name="app_name">HappyMods</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -50,7 +50,7 @@
     <string name="settings_network_remind">モバイルネットワークアラート</string>
     <string name="settings_auto_install">自動インストール</string>
     <string name="Download_Directory">ダウンロードディレクトリ</string>
-    <string name="settings_other">その他の</string>
+    <string name="settings_other">その他</string>
     <string name="settings_clear_cache">キャッシュをクリア</string>
     <string name="Clean_up_the_complete">キャッシュクリア</string>
     <!--空数据页-->
@@ -99,13 +99,13 @@
     <string name="Moremods">より多くの改造</string>
     <!--评分-->
     <string name="Submit">提出する</string>
-    <string name="Hated_it">それが嫌い！</string>
+    <string name="Hated_it">嫌い！</string>
     <string name="Disliked_it">好きじゃない。</string>
-    <string name="Its_ok">関係ありません。</string>
-    <string name="Liked_it">それが好きです。</string>
-    <string name="Loved_it">それを愛しなさい！</string>
+    <string name="Its_ok">普通</string>
+    <string name="Liked_it">好き。</string>
+    <string name="Loved_it">大好き！</string>
     <!--分享-->
-    <string name="share_happymod">からの「HappyMod」を共有</string>
+    <string name="share_happymod">「HappyMod」を共有:</string>
     <string name="share_subject">HappyModを入手</string>
     <string name="share_text">100％使いやすいmodを@HappyModでダウンロードする\ nhttps：//www.happymod.com/</string>
     <!--修改路径-->
@@ -114,7 +114,7 @@
     <string name="force_des">100％好用的Mod</string>
     <string name="nvisrti">新しいバージョンをインストールする準備が整いました。</string>
     <string name="OPEN">開く</string>
-    <string name="OK">良い</string>
+    <string name="OK">OK</string>
     <string name="Loading">データ読み込み中...</string>
     <string name="updata_tip">HappyModの最新バージョンを使用しています</string>
     <string name="xzzb">公式HappyModをダウンロードしてください。</string>
@@ -227,7 +227,7 @@
     <string name="fbrfail">Facebookの登録に失敗しました。</string>
     <string name="Registerfailed">登録に失敗しました。ネットワーク接続が正常であることを確認し、登録ボタンをクリックしてもう一度やり直してください。</string>
     <string name="Loginfailed">ログインに失敗しました。</string>
-    <string name="me">私</string>
+    <string name="me">自分</string>
     <string name="Avatar">アバター</string>
     <string name="Myposts">私の投稿</string>
     <string name="passowrduploadok">パスワードは正常に変更されました</string>
@@ -238,7 +238,7 @@
     <string name="Youarerequesting">あなたが要求している：</string>
     <string name="Addrequest">リクエストを追加</string>
     <string name="Myrequests">私の要求</string>
-    <string name="Myuploads">私のアップロード</string>
+    <string name="Myuploads">自分のアップロード</string>
     <string name="Updated">更新しました</string>
     <string name="Comingsoon">近日公開</string>
     <string name="searchappyouwanttorequest">要求したいアプリを検索します。</string>
@@ -280,7 +280,7 @@
     <!--社区 -->
     <string name="please_loginanddownload">最初にこのmodをダウンロードしてください。</string>
     <string name="myvoted">私の投票</string>
-    <string name="working">ワーキング</string>
+    <string name="working">動作</string>
     <string name="inanhour">1時間後にもう一度投票してください。</string>
     <string name="Review">レビュー</string>
     <string name="myreply">私の返信</string>
@@ -350,7 +350,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">アップロードするアプリを検索します。</string>
     <string name="addapost">投稿を追加</string>
-    <string name="launch_des">100％動作しているModを検索\ nユーザーがアップロード。 ユーザーによって確認されました！</string>
+    <string name="launch_des">100%動作するMODを探す
+\nユーザーによってアップロードされ、ユーザーによって検証されています！</string>
     <string name="requestamod">MODをリクエストする</string>
     <string name="uploadamod">MODをアップロードする</string>
     <!--boundle 新增-->
@@ -417,6 +418,12 @@
     <string name="Checkthenetwork">ネットワークを確認してください</string>
     <string name="Configuringip">利用可能なIPを構成する</string>
     <string name="Configuringipfailed">構成に失敗しました。8つのIPが使用できないことが検出されました。VPNを使用してみてください。</string>
-    <string name="Donatedes">HappyModは完全に無料で、広告は大嫌いです！\ n \ nより速く、より安全なダウンロードを提供するには、寄付が必要です。\ n \ nしばらくお待ちください。広告全体を見て、寄付を完了してください。\ n \ nありがとうございます！</string>
+    <string name="Donatedes">HappyModは完全に無料で、私たちはあなたと同じように広告が嫌いです。
+\n
+\n私たちは、より速く、より安全なダウンロードを提供するために、あなたの寄付を必要としています。
+\n
+\n寄付を完了するには、我慢して広告を完全に見るようにしてください。
+\n
+\nありがとうございました。</string>
     <string name="viewstepdeti">ステップの詳細を表示する</string>
 </resources>
