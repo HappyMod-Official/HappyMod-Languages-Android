@@ -255,7 +255,7 @@
     <string name="fix_tips_title">Tente outros servidores antes de deletar</string>
     <string name="fix_progress_title">Procurando servidores</string>
     <string name="fix_progress_content">Pode demorar alguns minutos para achar o melhor servidor para você, por favor aguarde.</string>
-    <string name="fix_failed_content">Não há servidores disponiveis para você no momento, por favor tente novamente mais tarde</string>
+    <string name="fix_failed_content">Não há servidores disponíveis para você,por favor tente novamente mais tarde.</string>
     <string name="fix_tips_failtitle">Sem mais servidores</string>
     <string name="fix_ok">Tente-o</string>
     <string name="myvoted">Meus votos</string>
