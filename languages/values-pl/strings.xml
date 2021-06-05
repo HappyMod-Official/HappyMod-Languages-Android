@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--波兰语-->
-    <string name="app_name">Szczęśliwemodyfikowanie</string>
+    <string name="app_name">HappyMods</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -83,7 +83,7 @@
     <string name="Downloadboundle">Pobierz BUNDLE</string>
     <string name="Downloaded">Pobrane</string>
     <string name="Install">zainstalować</string>
-    <string name="Connecting">Złączony...</string>
+    <string name="Connecting">Łączenie…</string>
     <string name="readmore">Czytaj więcej</string>
     <string name="modfeature">Informacje o modyfikacji:</string>
     <string name="Moreversion">Więcej wersji</string>
@@ -98,7 +98,7 @@
     <string name="Loved_it">Kocham to!</string>
     <string name="share_happymod">Udostępnij „HappyMod” za pośrednictwem</string>
     <string name="share_subject">Uzyskaj HappyMod</string>
-    <string name="share_text">Pobierz 100% działające mody z @HappyMod https://www.happymod.com/</string>
+    <string name="share_text">Pobierz mody działające na 100% z @HappyMod https://www.happymod.com/</string>
     <string name="pref_location">Miejsce przechowywania</string>
     <string name="force_des">100% modów roboczych</string>
     <string name="nvisrti">nowa wersja jest gotowa do instalacji.</string>
@@ -179,7 +179,7 @@
     <string name="tuiat">Ta nazwa użytkownika jest już zajęta.</string>
     <string name="Login">Zaloguj Się</string>
     <string name="Account">Konto</string>
-    <string name="forgotpassword">Forget password\?</string>
+    <string name="forgotpassword">Zapomniałeś hasła\?</string>
     <string name="loginwithaccount">LUB zaloguj się przy użyciu swojej nazwy użytkownika</string>
     <string name="newur">Rejestracja nowego użytkownika</string>
     <string name="Usernameinitnew">Nazwa użytkownika (4-50 znaków)</string>
@@ -355,7 +355,7 @@
     <string name="toopenitquickntime">Aby następnym razem szybko je otworzyć:</string>
     <string name="finditin">Znajdź w X</string>
     <string name="needhelp">Potrzebuję pomocy?</string>
-    <string name="peoplealsoplaygames">Ludzie grali w tę grę także:</string>
+    <string name="peoplealsoplaygames">Ludzie którzy grali w tą grę, też lubią</string>
     <string name="opencommunitydes">Jeśli znajdziesz dorosłego lub zły post, kliknij przycisk zgłoś w prawym górnym rogu postu, a my usuniemy post i zablokujemy plakat po raz pierwszy! Proszę, mów po cywilizacji!</string>
     <string name="myreviews">Moje recenzje</string>
     <string name="tagthisapp">Zgłoś tę aplikację</string>
