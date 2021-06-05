@@ -374,7 +374,7 @@
     <string name="toopenitquickntime">Um es beim nächsten Mal schnell zu öffnen, bitte:</string>
     <string name="finditin">Finde es in X.</string>
     <string name="needhelp">Brauchen Sie Hilfe?</string>
-    <string name="peoplealsoplaygames">Leute die dieses Spiel spielten mochten ebenfalls:</string>
+    <string name="peoplealsoplaygames">Leute, die dieses Spiel spielten, mochten ebenfalls:</string>
     <string name="opencommunitydes">Wenn Sie einen Erwachsenen oder einen schlechten Beitrag finden, klicken Sie bitte auf die Schaltfläche "Bericht" in der oberen rechten Ecke des Beitrags. Wir werden den Beitrag löschen und das Poster beim ersten Mal blockieren! Bitte sprechen Sie zivilisiert!</string>
     <string name="myreviews">Meine Bewertungen</string>
     <string name="tagthisapp">Kennzeichne diese App</string>
@@ -415,14 +415,14 @@
     <string name="nslnfsl">Keine Geschwindigkeitsbegrenzung. Keine Dateigrößenbeschränkung.</string>
     <string name="Clean">Reinigen</string>
     <string name="Cdnoadfree">Gut aussehend, keine Werbung &amp; 100% kostenlos!</string>
-    <string name="wrhtdbf">Wie benutzt man HyperTorrent</string>
+    <string name="wrhtdbf">Wie benutzt man HyperTorrent\?</string>
     <string name="nothanks">Nein Danke</string>
     <string name="Checkthenetwork">Überprüfen Sie das Netzwerk</string>
     <string name="Configuringip">Konfigurieren der verfügbaren IP für Sie</string>
     <string name="Configuringipfailed">Konfiguration fehlgeschlagen, 8 IPs wurden als nicht verfügbar erkannt. Bitte versuchen Sie, VPN zu verwenden.</string>
     <string name="Donatedes">HappyMod ist vollkommen kostenlos und wir hassen Werbungen genauso wie Sie.
 \nJedoch benötigen wir Ihre Spende, um schnellere und sicherere Downloads zu ermöglichen.
-\nBitte haben Sie etwas Geduld und versuchen Sie, die vollständige Werbung zu sehen, um die „Spende“ abzuschließen.
+\nBitte haben Sie etwas Geduld und versuchen Sie, die komplette Werbung zu anzusehen, um die „Spende“ abzuschließen.
 \nDanke！</string>
     <string name="viewstepdeti">Schrittdetails anzeigen</string>
 </resources>
