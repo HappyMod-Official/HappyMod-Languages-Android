@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Whydeletethisdownload"/>
-    <string name="Management"/>
+    <string name="Management">စီမံခန့်ခွဲခြင်း</string>
     <string name="Cancel"/>
     <string name="NotwhatIwant"/>
-    <string name="facebook_app_id"/>
-    <string name="Paid"/>
-    <string name="GAME"/>
-    <string name="APP"/>
-    <string name="NEW"/>
-    <string name="Categories"/>
-    <string name="games"/>
-    <string name="REFRESH"/>
+    <string name="facebook_app_id">658182831284939</string>
+    <string name="Paid">ပိုက်ဆံဖြင့်</string>
+    <string name="GAME">ဂိမ်း</string>
+    <string name="APP">အက်ပ်</string>
+    <string name="NEW">အသစ်</string>
+    <string name="Categories">ဂဏ္ဏ</string>
+    <string name="games">ဂိမ်းများ</string>
+    <string name="REFRESH">ဆွဲတင်</string>
     <string name="Unable_to_connect_to_the_network">အင္တာနက္ခ်ိတ္ဆက္၍မရနိုင္ပါ</string>
     <string name="Recommended_Game_Mods">အျကံျပုေသာ ဂိမ္းမုဒ္မ်ား</string>
     <string name="Hot_Game_Mods">လူျကိုက္မ်ားေသာ ဂိမ္းမုဒ္မ်ား</string>
@@ -22,9 +22,9 @@
     <string name="SearchHint">ရွာရန္</string>
     <string name="Homeweb">တရားဝင္ဝဘ္ဆိုက္</string>
     <string name="app_name">ဟက္ပီးမုဒ္</string>
-    <string name="Settings"/>
-    <string name="Feedback"/>
-    <string name="Translation"/>
+    <string name="Settings">ဆက်တင်</string>
+    <string name="Feedback">အကြုံပြုခြင်း</string>
+    <string name="Translation">ဘာသာပြန်</string>
     <string name="Share"/>
     <string name="Checkforupdate"/>
     <string name="FollowusonTwitter"/>
@@ -78,4 +78,5 @@
     <string name="Its_ok"/>
     <string name="Liked_it"/>
     <string name="Loved_it"/>
+    <string name="Homecom">minchithu.com</string>
 </resources>
