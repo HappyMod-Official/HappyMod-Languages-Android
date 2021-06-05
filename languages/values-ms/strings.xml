@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--马来语-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">HappyMods</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -26,19 +26,19 @@
     <string name="NEW">Baru</string>
     <string name="Categories">Kategori</string>
     <string name="games">Permainan</string>
-    <string name="REFRESH">Refresh</string>
+    <string name="REFRESH">Segarkan</string>
     <string name="Unable_to_connect_to_the_network">Tidak dapat mengakses internet.</string>
-    <string name="Recommended_Game_Mods">Mod Game yang disyorkan</string>
-    <string name="Hot_Game_Mods">Mod permainan panas</string>
-    <string name="Recommended_App_Mods">Mod App yang Disyorkan</string>
-    <string name="Hot_App_Mods">Mod aplikasi panas</string>
-    <string name="Recommended_New_Mods">Mod baru yang disyorkan</string>
-    <string name="Last_Update_Mods">Kemas Kini Terkini</string>
-    <string name="SearchHint">Cari ..</string>
-    <string name="Homeweb">Laman web rasmi</string>
+    <string name="Recommended_Game_Mods">Mod Permainan yang Disyorkan</string>
+    <string name="Hot_Game_Mods">Mod Permainan Panas</string>
+    <string name="Recommended_App_Mods">Mod Aplikasi yang Disyorkan</string>
+    <string name="Hot_App_Mods">Mod Aplikasi Panas</string>
+    <string name="Recommended_New_Mods">Mod Baru yang Disyorkan</string>
+    <string name="Last_Update_Mods">Kemas kini Terkini</string>
+    <string name="SearchHint">Cari..</string>
+    <string name="Homeweb">Laman Web Rasmi</string>
     <string name="Management">Pengurusan</string>
     <string name="Settings">Tetapan</string>
-    <string name="Feedback">Maklumbalas</string>
+    <string name="Feedback">Maklum balas</string>
     <string name="Translation">Terjemahan</string>
     <string name="Share">Kongsi</string>
     <string name="Checkforupdate">Semak Kemas Kini</string>
@@ -104,7 +104,7 @@
     <string name="nvisrti">versi baru siap dipasang.</string>
     <string name="OPEN">BUKA</string>
     <string name="OK">okey</string>
-    <string name="Loading">Memuatkan ......</string>
+    <string name="Loading">Memuatkan...</string>
     <string name="updata_tip">Anda menggunakan versi terbaru HappyMod yang stabil</string>
     <string name="xzzb">Sila muat turun HappyMod rasmi.</string>
     <string name="Continue">Teruskan</string>
@@ -395,7 +395,7 @@
     <string name="nolimits">Tiada had</string>
     <string name="nslnfsl">Tiada had kelajuan. Tiada had saiz fail.</string>
     <string name="Clean">Bersih</string>
-    <string name="Cdnoadfree">Reka bentuk yang bersih, tanpa iklan &amp; 100% percuma!</string>
+    <string name="Cdnoadfree">Reka bentuk bersih, tanpa iklan &amp; 100% percuma!</string>
     <string name="wrhtdbf">Kami mengesyorkan HyperTorrent memuat turun fail besar.</string>
     <string name="nothanks">Tidak Terima kasih</string>
     <string name="Checkthenetwork">Periksa rangkaian</string>
