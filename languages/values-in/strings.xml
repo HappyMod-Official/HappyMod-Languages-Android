@@ -30,10 +30,10 @@
     <string name="REFRESH">Menyegarkan</string>
     <string name="Unable_to_connect_to_the_network">Tidak dapat mengakses internet.</string>
     <string name="Recommended_Game_Mods">Moda Game yang Disarankan</string>
-    <string name="Hot_Game_Mods">Mod Game Panas</string>
+    <string name="Hot_Game_Mods">Mod Game Paling Panas</string>
     <string name="Recommended_App_Mods">Mod Aplikasi Yang Disarankan</string>
     <string name="Hot_App_Mods">Mod Aplikasi Panas</string>
-    <string name="Recommended_New_Mods">Mods Baru yang Disarankan</string>
+    <string name="Recommended_New_Mods">Mod Baru yang Disarankan</string>
     <string name="Last_Update_Mods">Pembaruan Terbaru</string>
     <string name="SearchHint">Pencarian..</string>
     <!-- 侧滑-->
