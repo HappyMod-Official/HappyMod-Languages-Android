@@ -224,7 +224,7 @@
     <string name="Youarereupload">Você está enviando:</string>
     <string name="obbfail">Por favor insira o URL Zippyshare/Mediafire do arquivo obb.</string>
     <string name="Uploadsuccess">Enviado com sucesso</string>
-    <string name="Requestsuccess">Solicitado com sucesso</string>
+    <string name="Requestsuccess">"Pedido  confirmado"</string>
     <string name="crash_toast_message">Desculpe, excessão APP, será saida, por favor envie seu relátorio de erro via email.</string>
     <string name="error_file_des">Este arquivo foi deletado e está sendo re-instalado agora.</string>
     <string name="PopularInlast">Popular Nas Últimas 24 Horas</string>
