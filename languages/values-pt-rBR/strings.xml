@@ -214,12 +214,12 @@
     <string name="Addupload">Adicionar upload</string>
     <string name="requesterror">Falha no envio, por favor tente novamente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
-    <string name="view">Visão</string>
-    <string name="isthiswork">Funciona\?</string>
+    <string name="view">Ver</string>
+    <string name="isthiswork">Ele funciona\?</string>
     <string name="edit">Editar</string>
     <string name="APKZippyshareurl">URL do APK Zippyshare/Mediafire:</string>
-    <string name="Upload">Envio</string>
-    <string name="Uploadfail">O download falhou.</string>
+    <string name="Upload">Enviar</string>
+    <string name="Uploadfail">Falha no envio</string>
     <string name="OBBDataurl">OBB/Data Zippyshare/Mediafire url: (opicional)</string>
     <string name="Youarereupload">Você está enviando:</string>
     <string name="obbfail">Por favor insira o URL Zippyshare/Mediafire do arquivo obb.</string>
