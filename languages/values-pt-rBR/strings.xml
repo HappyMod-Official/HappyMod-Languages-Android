@@ -140,7 +140,7 @@
     <string name="Login">Entrar</string>
     <string name="Account">Conta</string>
     <string name="loginwithaccount">Ou faça login com seu nome de usuário</string>
-    <string name="newur">Registo de novo usuário</string>
+    <string name="newur">Registo de novo úsuario</string>
     <string name="Usernameinitnew">Nome de usuário(4-50 caracteres)</string>
     <string name="Passwordnew">Senha(6-8 caracteres)</string>
     <string name="Emailnew">Email</string>
@@ -181,7 +181,7 @@
     <string name="signuptips">Quando você esquecer sua senha, precisará do número de telefone ou e-mail para recuperá-la. Recomendamos que você os complete.</string>
     <string name="reselpass_desone">Digite o nome de usuário da sua conta para redefinir a senha. Você tem algum problema com a redefinição de senha <u> entre em contato conosco </u>.</string>
     <string name="forgetgosingup">Não consegue se lembrar de nenhum deles\? <u> inscreva-se em uma nova conta </u>.</string>
-    <string name="signuplimitdes">Seu aparelho alcançou o número máximo de usuários registrados. Por favor, selecione o usuário abaixo para logar.</string>
+    <string name="signuplimitdes">Seu dispositivo alcançou o número máximo de usuários registrados. Por favor, selecione o usuário abaixo para logar.</string>
     <string name="petceotn">Por favor digite o e-mail ou número de telefone corretos.</string>
     <string name="Registerfailed">Falha ao registrar, por favor, confirme que sua conexão a internet está funcionando e clique o botão de registro novamente.</string>
     <string name="requestdetailhint">Mostre mais sobre seu pedido. (Mínimo de 50 caracteres)</string>
@@ -212,19 +212,17 @@
     <string name="Comingsoon">Em breve</string>
     <string name="searchappyouwanttorequest">Pesquise o app que você quer pedir:</string>
     <string name="Addupload">Adicionar upload</string>
-    <string name="requesterror">Falha no envio , por favor tente novamente mais tarde.</string>
+    <string name="requesterror">Falha no envio, por favor tente novamente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
     <string name="view">Visão</string>
     <string name="isthiswork">Funciona\?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">APK
-\nZippyshare/Mediafire url:</string>
+    <string name="APKZippyshareurl">URL do APK Zippyshare/Mediafire:</string>
     <string name="Upload">Envio</string>
     <string name="Uploadfail">O download falhou.</string>
     <string name="OBBDataurl">OBB/Data Zippyshare/Mediafire url: (opicional)</string>
     <string name="Youarereupload">Você está enviando:</string>
-    <string name="obbfail">Por favor insira o URL
-\nZippyshare/Mediafire do arquivo obb.</string>
+    <string name="obbfail">Por favor insira o URL Zippyshare/Mediafire do arquivo obb.</string>
     <string name="Uploadsuccess">Enviado com sucesso</string>
     <string name="Requestsuccess">Solicitado com sucesso</string>
     <string name="crash_toast_message">Desculpe, excessão APP, será saida, por favor envie seu relátorio de erro via email.</string>
@@ -236,7 +234,7 @@
     <string name="Imagesmustbelessthan">Imagens devem ser menos de 10MB, por favor diminua as dimensões da imagem, salve novamente ou re-exporte seu arquivo, e tente enviar novamente.</string>
     <string name="opencommunitydes">Se você encontrar uma postagem adulta ou ruim de qualquer jeito, por favor pressione o botão reportar no canto superior direito, e nós vamos deletar a postagem! Por favor converse civilizadamente!</string>
     <string name="Changetheimage">Mudar a imagem&gt;&gt;</string>
-    <string name="Typethecodeinthebox">Escreva o código na caixa</string>
+    <string name="Typethecodeinthebox">Digite o código na caixa</string>
     <string name="fix_tips_content">Você gostaria de conectar a outro servidor para tentar baixa-lo antes de deleta-lo\?</string>
     <string name="please_loginanddownload">Por favor baixe este mod primeiro.</string>
     <string name="enterthevideourlhere">Por favor insira o url do vídeo do Youtube aqui.</string>
