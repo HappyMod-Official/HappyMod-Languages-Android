@@ -366,4 +366,5 @@
     <string name="fastdownloader">Download Rápido</string>
     <string name="exit_tips">Pressione voltar novamente para fechar o jogo</string>
     <string name="h5_menu_shortcut">Adicionar A Tela Inicial</string>
+    <string name="clickyes">Você pode editar e reenviar esse pedido da fila trabalhada</string>
 </resources>
