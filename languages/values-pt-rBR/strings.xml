@@ -250,7 +250,7 @@
     <string name="Verifing">Verificando…</string>
     <string name="fix_tips_title">Tente outros servidores antes de remover</string>
     <string name="fix_progress_title">Procurando servidores</string>
-    <string name="fix_progress_content">Pode demorar alguns minutos para achar o melhor servidor para você, por favor aguarde.</string>
+    <string name="fix_progress_content">Pode levar alguns minutos para achar o servidor mais rápido para você, aguarde.</string>
     <string name="fix_failed_content">Não há servidores disponíveis para você no momento, por favor tente novamente mais tarde.</string>
     <string name="fix_tips_failtitle">Sem mais servidores</string>
     <string name="fix_ok">Tente-o</string>
