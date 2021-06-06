@@ -219,7 +219,7 @@
     <string name="edit">Editar</string>
     <string name="APKZippyshareurl">URL do APK Zippyshare/Mediafire:</string>
     <string name="Upload">Enviar</string>
-    <string name="Uploadfail">Falha no envio</string>
+    <string name="Uploadfail">Falha no envio.</string>
     <string name="OBBDataurl">OBB/Data Zippyshare/Mediafire url: (opicional)</string>
     <string name="Youarereupload">Você está enviando:</string>
     <string name="obbfail">Por favor insira o URL Zippyshare/Mediafire do arquivo obb.</string>
