@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--希伯来语-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">מוד שמח</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -28,14 +28,14 @@
     <string name="Categories">קפה</string>
     <string name="games">משחק</string>
     <string name="REFRESH">רענן</string>
-    <string name="Unable_to_connect_to_the_network">אין אפשרות לגשת לאינטרנט</string>
+    <string name="Unable_to_connect_to_the_network">לא ניתן לגשת לאינטרנט</string>
     <string name="Recommended_Game_Mods">משחקים מומלצים Mods</string>
     <string name="Hot_Game_Mods">משחקים פופולריים</string>
     <string name="Recommended_App_Mods">אופציות מומלצות לאפליקציות</string>
     <string name="Hot_App_Mods">למעלה מודולים App</string>
     <string name="Recommended_New_Mods">מומלץ חדש Mods</string>
     <string name="Last_Update_Mods">עדכון אחרון</string>
-    <string name="SearchHint">חיפוש:</string>
+    <string name="SearchHint">חיפוש</string>
     <!-- 侧滑-->
     <string name="Homeweb">האתר הרשמי</string>
     <string name="Management">ניהול</string>
@@ -115,7 +115,7 @@
     <string name="nvisrti">הגרסה החדשה מוכנה להתקנה.</string>
     <string name="OPEN">פתח</string>
     <string name="OK">טוב</string>
-    <string name="Loading">טוען נתונים ...</string>
+    <string name="Loading">טוען...</string>
     <string name="updata_tip">אתה משתמש בגרסה האחרונה של HappyMod</string>
     <string name="xzzb">אנא הורד את HappyMod הרשמי.</string>
     <string name="Continue">המשך</string>
@@ -410,7 +410,7 @@
     <string name="nolimits">ללא גבולות</string>
     <string name="nslnfsl">ללא הגבלת מהירות. אין מגבלה על גודל הקובץ.</string>
     <string name="Clean">לְנַקוֹת</string>
-    <string name="Cdnoadfree">עיצוב נקי, ללא מודעה &amp; 100% חינם!</string>
+    <string name="Cdnoadfree">עיצוב נקי, ללא פרסומת &amp; 100% חינם!</string>
     <string name="wrhtdbf">אנו ממליצים על HyperTorrent להורדת קבצים גדולים.</string>
     <string name="nothanks">לא תודה</string>
     <string name="Checkthenetwork">בדוק את הרשת</string>
