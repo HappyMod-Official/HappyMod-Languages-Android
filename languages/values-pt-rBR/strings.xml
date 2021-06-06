@@ -114,7 +114,7 @@
     <string name="Prime">Prime</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Substratum</string>
-    <string name="Debloated">Debloated</string>
+    <string name="Debloated">Empanturrado</string>
     <string name="Donate">Doar</string>
     <string name="AOSPcompatible">Compatível com AOSP</string>
     <string name="Cracked">Crackeado</string>
@@ -182,7 +182,7 @@
     <string name="reselpass_desone">Digite o nome de usuário da sua conta para redefinir a senha. Você tem algum problema com a redefinição de senha <u> entre em contato conosco </u>.</string>
     <string name="forgetgosingup">Não consegue se lembrar de nenhum deles\? <u> inscreva-se em uma nova conta </u>.</string>
     <string name="signuplimitdes">Seu aparelho alcançou o número máximo de usuários registrados. Por favor, selecione o usuário abaixo para logar.</string>
-    <string name="petceotn">Por favor, digite o e-mail ou número de telefone corretos</string>
+    <string name="petceotn">Por favor digite o e-mail ou número de telefone corretos.</string>
     <string name="Registerfailed">Falha ao registrar, por favor, confirme que sua conexão a internet está funcionando e clique o botão de registro novamente.</string>
     <string name="requestdetailhint">Mostre mais sobre seu pedido. (Mínimo de 50 caracteres)</string>
     <string name="Enteryouremail">Digite seu e-mail</string>
@@ -191,9 +191,9 @@
     <string name="Register">Registrar</string>
     <string name="eyun">Digite seu nome de usuário</string>
     <string name="eypsw">Digite sua senha</string>
-    <string name="loginerrortips">Por favor, digite um nome usuário e senha corretos. No campo senha há diferenciação entre maiúsculo e minúsculo</string>
-    <string name="Resetpasswordfailed">Falha ao redefinir a senha</string>
-    <string name="Theusernamewasnotregistered">O nome de usuário não foi registrado</string>
+    <string name="loginerrortips">Por favor digite um nome de usuário e senha corretos. Note que a senha precisa ter a capitalização correta.</string>
+    <string name="Resetpasswordfailed">Falha ao redefinir a senha.</string>
+    <string name="Theusernamewasnotregistered">O nome de usuário não foi registrado.</string>
     <string name="fbrfail">Registro com Facebook falhou.</string>
     <string name="Loginfailed">Falha ao logar.</string>
     <string name="me">Eu</string>
@@ -229,13 +229,12 @@
     <string name="Uploadsuccess">Enviado com sucesso</string>
     <string name="Requestsuccess">Solicitado com sucesso</string>
     <string name="crash_toast_message">Desculpe, excessão APP, será saida, por favor envie seu relátorio de erro via email.</string>
-    <string name="error_file_des">Este arquivo foi deletado e está sendo 
-\nre-instalado agora.</string>
+    <string name="error_file_des">Este arquivo foi deletado e está sendo re-instalado agora.</string>
     <string name="PopularInlast">Popular Nas Últimas 24 Horas</string>
     <string name="launch_des">Encontre Mods 100% Funcionando
 \nEnviados por úsuarios; Verificados por úsuarios!</string>
     <string name="tipsinstallok">A instalação foi bem-sucedida.</string>
-    <string name="Imagesmustbelessthan">Imagens devem ser menos de 10MB, por favor diminua as dimensões da imagem, salve novamente, re-exporte, e tente enviar novamente.</string>
+    <string name="Imagesmustbelessthan">Imagens devem ser menos de 10MB, por favor diminua as dimensões da imagem, salve novamente ou re-exporte seu arquivo, e tente enviar novamente.</string>
     <string name="opencommunitydes">Se você encontrar uma postagem adulta ou ruim de qualquer jeito, por favor pressione o botão reportar no canto superior direito, e nós vamos deletar a postagem! Por favor converse civilizadamente!</string>
     <string name="Changetheimage">Mudar a imagem&gt;&gt;</string>
     <string name="Typethecodeinthebox">Escreva o código na caixa</string>
@@ -268,7 +267,7 @@
     <string name="searchorcreate">Procurar ou criar</string>
     <string name="featuredhash">Hashtags em destaque</string>
     <string name="newhshstag">Nova hashtag</string>
-    <string name="hot">Popular</string>
+    <string name="hot">Em Alta</string>
     <string name="Comments">Comentários</string>
     <string name="replies">Respostas</string>
     <string name="community">Comunidade</string>
@@ -304,21 +303,21 @@
     <string name="crash_dialog_feedback">Reportar erros</string>
     <string name="crash_dialog_restart">Reiniciar</string>
     <string name="init_fail">Inicialização falhou, por favor use uma VPN ou conecte a outra rede.</string>
-    <string name="sdpermission">Nós precisamos de acesso a seu armazenamento externo. Por favor tenha certeza que essa permissão foi dada.</string>
+    <string name="sdpermission">Nós precisamos de acesso a seu armazenamento externo. Por favor tenha certeza que essa permissão foi consedida.</string>
     <string name="Night_Mode">Modo Noturno</string>
     <string name="thisty">Esse nome de usuário já está sendo usado. Tente outro. Disponível:</string>
-    <string name="Feature">Em destaque</string>
+    <string name="Feature">Em Destaque</string>
     <string name="editorpick">Escolha do Editor</string>
     <string name="Latestupdated">Atualizados Recentemente</string>
     <string name="paidforfree">Pago de Graça</string>
     <string name="hotmods">Mods em Alta</string>
     <string name="hotrecommended">Recomendados em Alta</string>
-    <string name="searchappyouwanttoupload">Procure o app que você quer publicar:</string>
+    <string name="searchappyouwanttoupload">Procure o aplicativo que você quer publicar:</string>
     <string name="addapost">Adicionar uma postagem</string>
     <string name="requestamod">Solicitar um mod</string>
     <string name="uploadamod">Publicar um mod</string>
     <string name="Installing">Instalando</string>
-    <string name="bundleneedsfive">Desculpe, o Pacote necessita versão Andoid 5.0 e acima.</string>
+    <string name="bundleneedsfive">Desculpe, o Pacote necessita versão Android 5.0 e acima.</string>
     <string name="parsingerror">Erro analisando apk ou cancelado.</string>
     <string name="tipsinstallfail">Instalação falhou, por favor tente novamente.</string>
     <string name="maxmbperimage">Máximo de 10MB por imagem.</string>
@@ -327,7 +326,7 @@
     <string name="newcoming">Novo chegando</string>
     <string name="playdes">Jogar</string>
     <string name="recentlyplayed">Jogado recentemente</string>
-    <string name="finditin">Encontre no X</string>
+    <string name="finditin">Encontre-o no X</string>
     <string name="needhelp">Precisa de ajuda\?</string>
     <string name="myreviews">Minhas avaliações</string>
     <string name="todayhotgame">Em Alta de hoje</string>
@@ -341,8 +340,8 @@
     <string name="please_downlaodthisapp">Por favor instale este aplicativo primeiro.</string>
     <string name="safetitle">Aplicativo apk Garantido</string>
     <string name="safedes">Este apk passou o teste de segurança para vírus, malware. Foi usado uma assinatura virtual confiada e verificada.</string>
-    <string name="bereported">Você o reportou</string>
-    <string name="pleasefinishyourdownloadingqueu">Por favor termine sua fila de downloads primeiro</string>
+    <string name="bereported">Você o reportou.</string>
+    <string name="pleasefinishyourdownloadingqueu">Por favor finalize sua fila de downloads primeiro.</string>
     <string name="adduploadvideo">Inserir vídeo: (opcional)</string>
     <string name="uploadscreenshots">Inserir imagens (160*90)</string>
     <string name="scerrnshoteserror">Imagens são obrigatórias.</string>
@@ -353,7 +352,7 @@
     <string name="oagputc">Ou insira URL da Google Play para continuar</string>
     <string name="description">Descrição:</string>
     <string name="uploadbanner">Inserir banner (720*406)</string>
-    <string name="noedituploadtips">Você não pode enviar sem fazer nenhuma mudança</string>
+    <string name="noedituploadtips">Você não pode enviar sem fazer nenhuma mudança.</string>
     <string name="addexcusiveaddressixit">Esse apk já é existente.</string>
     <string name="itisworkingonyourdevice">Esta funcionando em seu dispositivo\?</string>
     <string name="no_working">Não Funcionando</string>
@@ -366,5 +365,29 @@
     <string name="fastdownloader">Download Rápido</string>
     <string name="exit_tips">Pressione voltar novamente para fechar o jogo</string>
     <string name="h5_menu_shortcut">Adicionar A Tela Inicial</string>
-    <string name="clickyes">Você pode editar e reenviar esse pedido da fila trabalhada</string>
+    <string name="clickyes">Você pode editar e reenviar esta solicitação da fila de trabalho.</string>
+    <string name="usehtgetspeed">Use HyperTorrent para conseguir 200%+ de velocidade de download.</string>
+    <string name="speedfordownloading">200%~1,000%+ velocidade para baixar arquivos grandes do HappyMod.</string>
+    <string name="Configuringip">Configurando IP disponível para você</string>
+    <string name="Donatedes">HappyMod é completamente grátis, e nós odiamos anúncios tanto quanto você！
+\n
+\nPrecisamos de sua doação para fornecer downloads rápidos e seguros.
+\n
+\nPor favor seja paciênte e tente assistir o anúncio inteiro para completar a doação.
+\n
+\nMuito Obrigado！</string>
+    <string name="clickno">Esse pedido será adicionado a fila de em breve novamente.</string>
+    <string name="hashtags">Histórico de hashtags</string>
+    <string name="ToadyRecommend">Recomendado do Toady</string>
+    <string name="cleanfdft">ótimo e rápido baixador para torrents</string>
+    <string name="fasterspeed">Velocidade superior</string>
+    <string name="nolimits">Sem limites</string>
+    <string name="nslnfsl">Sem limite de velocidade. Sem limite de tamanho do arquivo.</string>
+    <string name="Clean">Ótimo</string>
+    <string name="Cdnoadfree">Ótimo design, sem anúncios e 100% grátis!</string>
+    <string name="wrhtdbf">Como usar HyperTorrent\?</string>
+    <string name="nothanks">Não obrigado</string>
+    <string name="Checkthenetwork">Verifique a rede</string>
+    <string name="Configuringipfailed">Configuração falhou, 8 IPs foram detectados como indisponíveis, por favor tente usar uma VPN.</string>
+    <string name="viewstepdeti">Ver detalhes da etapa</string>
 </resources>
