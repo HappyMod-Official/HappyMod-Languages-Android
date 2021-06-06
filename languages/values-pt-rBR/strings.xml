@@ -246,7 +246,7 @@
     <string name="RecommendMods">Recomendar Mods</string>
     <string name="requestdetailserror">(50-4000 caracteres)</string>
     <string name="speaksomething">Por favor insira ao menos 20 caracteres</string>
-    <string name="Verificationerror">Falha na verificação , por favor,tente novamente</string>
+    <string name="Verificationerror">Falha na verificação, por favor tente novamente.</string>
     <string name="Verifing">Verificando…</string>
     <string name="fix_tips_title">Tente outros servidores antes de remover</string>
     <string name="fix_progress_title">Procurando servidores</string>
