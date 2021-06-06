@@ -185,7 +185,7 @@
     <string name="petceotn">Por favor, digite o e-mail ou número de telefone corretos</string>
     <string name="Registerfailed">Falha ao registrar, por favor, confirme que sua conexão a internet está funcionando e clique o botão de registro novamente.</string>
     <string name="requestdetailhint">Mostre mais sobre seu pedido. (Mínimo de 50 caracteres)</string>
-    <string name="Enteryouremail">Digite seu email</string>
+    <string name="Enteryouremail">Digite seu e-mail</string>
     <string name="NewPassword">Nova senha</string>
     <string name="Enterthepasswordagain">Confirme a senha</string>
     <string name="Register">Registrar</string>
