@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Cancella la Cache</string>
     <string name="Clean_up_the_complete">La cache è stata cancellata.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Cazzo! Nessun risultato trovato.</string>
+    <string name="des_no_serach_result">Woops! Nessun risultato trovato.</string>
     <!--下载管理页-->
     <string name="Downloads">Download</string>
     <string name="Downloading">In fase di Download</string>
