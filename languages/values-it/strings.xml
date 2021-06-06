@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Cancella la Cache</string>
     <string name="Clean_up_the_complete">La cache è stata cancellata.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Woops! Nessun risultato trovato.</string>
+    <string name="des_no_serach_result">Cazzo! Nessun risultato trovato.</string>
     <!--下载管理页-->
     <string name="Downloads">Download</string>
     <string name="Downloading">In fase di Download</string>
@@ -76,14 +76,14 @@
     <string name="deletethistask">Elimina questo file</string>
     <string name="Cancel">Annulla</string>
     <string name="Delete">Elimina</string>
-    <string name="Whydeletethisdownload">Perché cancellare questo download?</string>
-    <string name="NotwhatIwant">Non è quello che voglio</string>
+    <string name="Whydeletethisdownload">Perché vuoi cancellare il download\?</string>
+    <string name="NotwhatIwant">Non è cosa voglio</string>
     <string name="Downloadfailed">Scaricamento fallito</string>
     <string name="Downloadistooslow">Il download è troppo lento</string>
     <!--APP详情页-->
     <string name="Mods">Mod</string>
     <string name="Original">Originale</string>
-    <string name="Previousversion">Versione Precedente</string>
+    <string name="Previousversion">Versioni Precedenti</string>
     <string name="Download">Scarica</string>
     <string name="Downloadobb">Scarica(APK+OBB)</string>
     <string name="Downloaddata">Scarica(APK+DATA)</string>
@@ -94,18 +94,18 @@
     <string name="readmore">Leggi di più</string>
     <string name="modfeature">Informazioni sulla mod:</string>
     <string name="Moreversion">Più Versioni</string>
-    <string name="Recommend">Raccomanda</string>
+    <string name="Recommend">Consiglia</string>
     <string name="Recommendmod">Mod Consigliata</string>
     <string name="Moremods">Ultime Versioni</string>
     <!--评分-->
     <string name="Submit">Invia</string>
     <string name="Hated_it">Lo Odio!</string>
     <string name="Disliked_it">Non mi piace.</string>
-    <string name="Its_ok">Va bene.</string>
+    <string name="Its_ok">Ci sta.</string>
     <string name="Liked_it">Mi piace.</string>
     <string name="Loved_it">Lo adoro!</string>
     <!--分享-->
-    <string name="share_happymod">Condividi \"HappyMod\" via</string>
+    <string name="share_happymod">Condividi \"HappyMod\" con</string>
     <string name="share_subject">Ottieni HappyMod</string>
     <string name="share_text">Scarica Mod funzionanti al 100% con @HappyMod! 
 \nhttps: //www.happymod.com/</string>
@@ -116,8 +116,8 @@
     <string name="nvisrti">La nuova versione è pronta per l\'installazione.</string>
     <string name="OPEN">Aperto</string>
     <string name="OK">OK</string>
-    <string name="Loading">Caricamento in corso......</string>
-    <string name="updata_tip">Stai utilizzando l\'ultima versione stabile di HappyMod</string>
+    <string name="Loading">Caricamento in corso...</string>
+    <string name="updata_tip">Stai utilizzando l\'ultima versione stable di HappyMod</string>
     <string name="xzzb">Si prega di scaricare HappyMod dal sito ufficiale.</string>
     <string name="Continue">Continua</string>
     <string name="appobb">APK+OBB</string>
@@ -125,9 +125,9 @@
     <string name="Is_this_app_you_need">Stai cercando questa app?</string>
     <string name="No">No</string>
     <string name="Yes">Sì</string>
-    <string name="bcdes">Libera spazio di archiviazione e riprova.</string>
+    <string name="bcdes">Libera lo spazio di archiviazione e riprova.</string>
     <string name="need">Disponibile:</string>
-    <string name="No_enough_space_left_on_device">Non c\'è abbastanza spazio. Hai bisogno di:</string>
+    <string name="No_enough_space_left_on_device">Non c\'è abbastanza spazio. Bisogni di:</string>
     <string name="updatenow">Aggiorna Ora</string>
     <string name="updateFail">Scaricamento fallito. Si prega di chiudere e riaprire l\'app</string>
     <string name="initializing">Inizializzando</string>
@@ -142,14 +142,14 @@
     <string name="mergerwait">Elaborazione finale (richiede 1-2 minuti)</string>
     <!-- 验证 -->
     <string name="Startverification">Avvia la Verifica</string>
-    <string name="verificationShangXian">Oops! Hai raggiunto il limite di download giornaliero, riprova dopo X ore.</string>
+    <string name="verificationShangXian">Cazzo! Hai raggiunto il limite di download giornaliero, riprova dopo X ore.</string>
     <string name="verificationFail">Verifica fallita. Per favore riprova!</string>
     <string name="Morehelp">(Più Aiuto)</string>
     <string name="uid">ID utente</string>
     <string name="copysuccess">L\'ID utente è stato copiato negli appunti.</string>
     <string name="watchnow">Visualizza Adesso</string>
-    <string name="ggdownloading">Caricamento dell\'annuncio, per favore attendi mentre tieni aperto HappyMod.</string>
-    <string name="verificaing">Aspetta un momento, stiamo verificando.</string>
+    <string name="ggdownloading">Caricamento dell\'annuncio, per favore attendi e tieni aperto HappyMod.</string>
+    <string name="verificaing">Aspetta un istante, stiamo verificando.</string>
     <!-- 评价 -->
     <string name="Removeads">Rimuovi gli Annunci</string>
     <string name="Paidforfree">Gratis</string>
@@ -158,42 +158,42 @@
     <string name="Freeshopping">Acquisti in-game gratuiti</string>
     <string name="Unlocked">Sbloccato</string>
     <string name="Patched">Riparato</string>
-    <string name="Premium">Gratuito</string>
-    <string name="Pro">Versione Professionale</string>
+    <string name="Premium">Premium No-need-to-pay</string>
+    <string name="Pro">Versione Pro</string>
     <string name="ModLite">MOD Leggera</string>
     <string name="Subscribed">Iscritto/Abbonato</string>
-    <string name="Prime">Primario</string>
+    <string name="Prime">Prime</string>
     <string name="Plus">Versione Plus</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Strato Inferiore</string>
     <string name="Debloated">Elimina Parti Inutili</string>
     <string name="Donate">Dona</string>
     <string name="AOSPcompatible">Compatibile con AOSP</string>
-    <string name="Cracked">Crackato</string>
-    <string name="NoAds">Nessuna Pubblicità/Annuncio</string>
-    <string name="Infinite">Infinito</string>
-    <string name="Endless">Senza una Fine/Infinito</string>
-    <string name="Invincible">Invincibile</string>
+    <string name="Cracked">Craccato</string>
+    <string name="NoAds">Nessuna Pubblicità</string>
+    <string name="Infinite">Infinit*</string>
+    <string name="Endless">A non finire</string>
+    <string name="Invincible">Invincibilita\'</string>
     <string name="Unlimitedhints">Aiuti Infiniti</string>
-    <string name="Megamod">MOD Giganti</string>
+    <string name="Megamod">MOD gigaenorme</string>
     <string name="Full">Versione Completa</string>
     <!-- 注册登录 -->
     <string name="Username">Nome utente</string>
     <string name="Usernameinit">4-50 caratteri</string>
-    <string name="Usernametip">Solo lettere a-z, numeri, @. - _ per favore (senza spazi o altri caratteri speciali). 4-50 caratteri.</string>
+    <string name="Usernametip">Solo lettere dall\'a alla z, numeri, @. - _ per favore (senza spazi o altri caratteri speciali). 4-50 caratteri.</string>
     <string name="Password">Password</string>
     <string name="Enteryourpassword">6-8 caratteri</string>
-    <string name="passwordtip">Solo lettere A-Z, a-z, numeri (senza spazi o caratteri speciali). 6-8 caratteri.</string>
-    <string name="nicknametip">Questo nickname è stato preso da un ladro. È stato molto cattivo.</string>
-    <string name="Nickname">Nome Utente</string>
+    <string name="passwordtip">Solo lettere A-Z, numeri (senza spazi o caratteri speciali). 6-8 caratteri.</string>
+    <string name="nicknametip">Questo nickname è già stato usato</string>
+    <string name="Nickname">Nickname (come vorresti essere vist*)</string>
     <string name="Emailaddress">Indirizzo email</string>
     <string name="Enteryouremail">Inserisci il tuo indirizzo email</string>
     <string name="Telephonenumber">Numero di telefono</string>
     <string name="Enteryourtelephonenumber">Inserisci il tuo numero di telefono</string>
     <string name="phonetip">Inserisci un numero di telefono valido.</string>
     <string name="emailtip">Inserire un indirizzo email valido.</string>
-    <string name="Signup">Iscriviti</string>
-    <string name="tuiat">Questo nome utente è già in uso. Che peccato.</string>
+    <string name="Signup">Crea un account</string>
+    <string name="tuiat">Questo nome utente è già in uso. Ci dispiace :(.</string>
     <string name="Login">Accedi</string>
     <string name="Account">Il tuo Account</string>
     <string name="forgotpassword">Password dimenticata\?</string>
@@ -206,14 +206,14 @@
     <string name="Unknown">Sconosciuto</string>
     <string name="enteryEmail">Inserisci la tua email</string>
     <string name="enteryPhone">Inserisci il tuo numero di telefono</string>
-    <string name="signuptips">Quando dimentichi la password, avrai bisogno di un numero di telefono o un email per recuperare. Ti consigliamo di completarli.</string>
+    <string name="signuptips">Quando dimentichi la password, avrai bisogno di un numero di telefono o un\'e-mail per recuperarla.</string>
     <string name="confirmusername">Conferma il tuo nome utente</string>
     <string name="next">Successivo</string>
-    <string name="fblogdes">Per favore inserisci un nome utente. Il nome utente è un identificatore molto importante per il recupero della password, ricordatelo.</string>
+    <string name="fblogdes">Per favore inserisci un nome utente. Il nome utente è un identificatore molto importante per il recupero della password, tienilo presente.</string>
     <string name="selectusername">Seleziona il nome utente</string>
-    <string name="reselpass_desone">Inserisci il nome utente del tuo account per resettare la password. Hai qualche problema sulla reimpostazione della password<u>contattaci</u>.</string>
+    <string name="reselpass_desone">Inserisci il nome utente del tuo account per resettare la password. Se hai qualche problema sulla reimpostazione della password<u>contattaci</u>.</string>
     <string name="reselpass_destwo">Inserisci l\'email o il numero di telefono. Hai qualche problema riguardante la reimpostazione della password\?<u>Contattaci.</u>.</string>
-    <string name="forgetgosingup">Non ricordi nessuno di loro\? per favore<u>crea un altro account.</u>.</string>
+    <string name="forgetgosingup">Non ricordi nessuno dei citati\? per favore<u>crea un altro account.</u>.</string>
     <string name="Resetpassword">Resetta la password</string>
     <string name="NewPassword">Nuova password</string>
     <string name="Enterthepasswordagain">Conferma la password</string>
@@ -221,9 +221,9 @@
     <string name="Register">Registrare</string>
     <string name="eyun">Inserisci il tuo nome utente</string>
     <string name="eypsw">Inserisci la tua password</string>
-    <string name="loginerrortips">Si prega di inserire un nome utente e una password corretta. Si noti che il campo della password è sensibile al maiuscolo / minuscolo.</string>
+    <string name="loginerrortips">Si prega di inserire un nome utente e una password corretta. Il campo della password è sensibile al maiuscolo / minuscolo.</string>
     <string name="Resetpasswordfailed">Reimpostazione della password fallita.</string>
-    <string name="Theusernamewasnotregistered">Il nome utente non è/era registrato.</string>
+    <string name="Theusernamewasnotregistered">Il nome utente non è stato registrato.</string>
     <string name="petceotn">Si prega di inserire l\'e-mail o il numero di telefono corretto.</string>
     <string name="fbrfail">Registrazione con Facebook fallita.</string>
     <string name="Registerfailed">Registrazione fallita, si prega di confermare che la connessione di rete è normale, fare clic sul pulsante di registrazione per riprovare.</string>
