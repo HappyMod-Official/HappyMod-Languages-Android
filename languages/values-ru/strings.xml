@@ -45,7 +45,7 @@
     <string name="Share">Поделиться</string>
     <string name="Checkforupdate">Проверить обновления</string>
     <string name="FollowusonTwitter">Следите за нами в Твиттере</string>
-    <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
+    <string name="FollowusonFacebook"> Следите за нами в Фейсбуке</string>
     <!--设置页-->
     <string name="settings_network_remind">Оповещение об отсутствии мобильной сети</string>
     <string name="settings_auto_install">Автоматически устанавливать</string>
@@ -66,7 +66,7 @@
     <string name="UnZiping">Распаковка</string>
     <string name="UnZip_succeed">Распаковка завершена</string>
     <string name="Rate">Оценить</string>
-    <string name="Rated">Номинальный</string>
+    <string name="Rated">Оценённый</string>
     <string name="Version">Версия</string>
     <string name="Ratingsreviews">Рейтинги и отзывы</string>
     <string name="Tryitlater">Попробуйте позже</string>
@@ -76,7 +76,7 @@
     <string name="deletethistask">Удалить этот файл</string>
     <string name="Cancel">Отмена</string>
     <string name="Delete">Удалить</string>
-    <string name="Whydeletethisdownload">Зачем удалять эту загрузку?</string>
+    <string name="Whydeletethisdownload">Зачем вы хотите удалить эту загрузку\?</string>
     <string name="NotwhatIwant">Не то, что я хочу</string>
     <string name="Downloadfailed">Ошибка загрузки</string>
     <string name="Downloadistooslow">Загрузка идет слишком медленно</string>
