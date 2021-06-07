@@ -38,7 +38,7 @@
     <string name="SearchHint">Buscar..</string>
     <!-- slide-->
     <string name="Homeweb">Sitio web oficial</string>
-    <string name="Management">Administrador de descargas</string>
+    <string name="Management">Administrar descargas</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
     <string name="Translation">Traducción</string>
@@ -78,7 +78,7 @@
     <string name="Delete">Borrar</string>
     <string name="Whydeletethisdownload">¿Por qué eliminar esta descarga?</string>
     <string name="NotwhatIwant">No es lo que quiero</string>
-    <string name="Downloadfailed">Descarga fracasó</string>
+    <string name="Downloadfailed">La Descarga ha fallado</string>
     <string name="Downloadistooslow">La descarga es muy lenta</string>
     <!--APP details-->
     <string name="Mods">Mods/Hacks</string>
@@ -100,7 +100,7 @@
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">¡Lo odio!</string>
-    <string name="Disliked_it">Dejar de gustar.</string>
+    <string name="Disliked_it">Ya no me gusta.</string>
     <string name="Its_ok">Está bien.</string>
     <string name="Liked_it">Me gusta.</string>
     <string name="Loved_it">¡Lo amo!</string>
@@ -133,7 +133,7 @@
     <string name="Retrying">Reintentando</string>
     <string name="language">Idioma</string>
     <!--category -->
-    <string name="Popular">Famoso</string>
+    <string name="Popular">Lo más Popular</string>
     <string name="s_New">Nuevos</string>
     <string name="apps">Aplicaciones</string>
     <!-- big file -->
@@ -148,7 +148,7 @@
     <string name="copysuccess">ID de usuario copiado al portapapeles.</string>
     <string name="watchnow">Ver ahora</string>
     <string name="ggdownloading">Los anuncios se están cargando, por favor, espere y mantenga happymod abierto.</string>
-    <string name="verificaing">Por favor espere mientras se verifica.</string>
+    <string name="verificaing">En Verificación, por favor espere mientras se verifica.</string>
     <!-- comments-->
     <string name="Removeads">Elimina anuncios</string>
     <string name="Paidforfree">Gratis</string>
@@ -205,7 +205,7 @@
     <string name="Unknown">Desconocido</string>
     <string name="enteryEmail">Introduce tu correo electrónico</string>
     <string name="enteryPhone">Ingrese su número telefónico</string>
-    <string name="signuptips">Cuando olvide su contraseña, necesitará "Número de teléfono" o "Correo electrónico" para recuperarla. Recomendamos que los complete.</string>
+    <string name="signuptips">Cuándo olvide su contraseña, necesitará Número de teléfono o Correo electrónico para recuperarla. Recomendamos que los complete.</string>
     <string name="confirmusername">Confirme nombre de usuario</string>
     <string name="next">Siguiente</string>
     <string name="fblogdes">Por favor, ingrese un nombre de usuario. El nombre de usuario es un identificador muy importante para recuperar la contraseña, por favor tenga en cuenta.</string>
@@ -229,7 +229,7 @@
     <string name="Loginfailed">Error de inicio de sesion.</string>
     <string name="me">Yo</string>
     <string name="Avatar">Avatar</string>
-    <string name="Myposts">mis publicaciones</string>
+    <string name="Myposts">Mis publicaciones</string>
     <string name="passowrduploadok">Contraseña cambiada con éxito</string>
     <string name="logout">Cerrar sesión</string>
     <string name="passwordsame">Las dos contraseñas que ingresaste son inconsistentes</string>
@@ -259,7 +259,7 @@
     <string name="obbfail">Por favor, introduzca la URL de Zippyshare/Mediafire del archivo obb.</string>
     <string name="worked">Trabajó</string>
     <string name="Uploadsuccess">Subida exitosa</string>
-    <string name="Requestsuccess">Solicitar éxito</string>
+    <string name="Requestsuccess">Solicitud Exitosa</string>
     <string name="clickyes">Puede editar y volver a enviar esta solicitud desde la cola trabajada.</string>
     <string name="clickno">Esta solicitud se agregará a la cola próximamente.</string>
     <string name="downloadpush_remind">Mostrar notificación después de la instalación</string>
@@ -283,7 +283,7 @@
     <string name="myvoted">Mi voto</string>
     <string name="working">Trabajando</string>
     <string name="inanhour">Vuelve a votar en una hora.</string>
-    <string name="Review">revisión</string>
+    <string name="Review">Revisión</string>
     <string name="myreply">Mis respuestas</string>
     <string name="Post">Enviar</string>
     <string name="addavideo">Agrega un video</string>
