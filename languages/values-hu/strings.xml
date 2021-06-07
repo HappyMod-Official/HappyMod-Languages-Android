@@ -28,7 +28,7 @@
     <string name="Categories">besorolás</string>
     <string name="games">játék</string>
     <string name="REFRESH">felfrissít</string>
-    <string name="Unable_to_connect_to_the_network">Nem lehet hozzáférni az internethez</string>
+    <string name="Unable_to_connect_to_the_network">Nem lehet hozzáférni az internethez.</string>
     <string name="Recommended_Game_Mods">Ajánlott játékok Mods</string>
     <string name="Hot_Game_Mods">Népszerű játékok Mods</string>
     <string name="Recommended_App_Mods">Ajánlott alkalmazási módok</string>
@@ -52,7 +52,7 @@
     <string name="Download_Directory">Könyvtár letöltése</string>
     <string name="settings_other">más</string>
     <string name="settings_clear_cache">Gyorsítótár törlése</string>
-    <string name="Clean_up_the_complete">A gyorsítótár törölve</string>
+    <string name="Clean_up_the_complete">A gyorsítótár törölve.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Hoppá! Nincs találat.</string>
     <!--下载管理页-->
@@ -70,7 +70,7 @@
     <string name="Version">kiadás</string>
     <string name="Ratingsreviews">Értékelés és értékelés</string>
     <string name="Tryitlater">Próbálkozzon később</string>
-    <string name="Serviceisbusy">Connected ...</string>
+    <string name="Serviceisbusy">Csatlakozás…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">figyel</string>
     <string name="deletethistask">Törölje ezt a fájlt</string>
@@ -90,7 +90,7 @@
     <string name="Downloadboundle">Letöltés BUNDLE</string>
     <string name="Downloaded">letöltve</string>
     <string name="Install">felszerel</string>
-    <string name="Connecting">Connected ...</string>
+    <string name="Connecting">Csatlakozás…</string>
     <string name="readmore">További információ</string>
     <string name="modfeature">Mod információk:</string>
     <string name="Moreversion">További verziók</string>
