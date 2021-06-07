@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--匈牙利-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">HappyMods</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -107,7 +107,8 @@
     <!--分享-->
     <string name="share_happymod">Ossza meg a HappyMod-ot</string>
     <string name="share_subject">GetMod</string>
-    <string name="share_text">Töltse le a 100% -ban könnyen használható mod-ot a @HappyMod segítségével \ t</string>
+    <string name="share_text">Tölts le 100%-ban működő modokat a @HappyMod segítségével
+\nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Tárolási hely</string>
     <!--update -->
@@ -146,7 +147,7 @@
     <string name="Morehelp">(további segítség)</string>
     <string name="uid">Felhasználói azonosító</string>
     <string name="copysuccess">A felhasználói azonosítót a vágólapra másolták.</string>
-    <string name="watchnow">Nézd most!</string>
+    <string name="watchnow">Nézd most</string>
     <string name="ggdownloading">A hirdetés betöltődik, kérjük, várjon és tartsa nyitva a happymodot.</string>
     <string name="verificaing">Kérjük, várjon, amíg az ellenőrzés megtörténik.</string>
     <!-- 评价 -->
@@ -195,7 +196,7 @@
     <string name="tuiat">Ez a felhasználónév már foglalt.</string>
     <string name="Login">Belépés</string>
     <string name="Account">számla</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Elfelejtett jelszó\?</string>
     <string name="loginwithaccount">VAGY jelentkezzen be felhasználónevével</string>
     <string name="newur">Új felhasználó regisztráció</string>
     <string name="Usernameinitnew">Felhasználónév (4-50 karakter)</string>
@@ -250,7 +251,7 @@
     <string name="view">Kilátás</string>
     <string name="isthiswork">Működik?</string>
     <string name="edit">szerkesztése</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire link:</string>
     <string name="OBBDataurl">OBB / adat Zippyshare/Mediafire URL: (nem kötelező)</string>
     <string name="Youarereupload">Feltölti:</string>
     <string name="Upload">Feltöltés</string>
@@ -324,7 +325,7 @@
     <string name="hfivetitle">Gyors játékok</string>
     <string name="Recommended">Ajánlott</string>
     <string name="exit_tips">Nyomja meg ismét a gombot, hogy kilépjen a játékból</string>
-    <string name="h5_menu_reload">Reload</string>
+    <string name="h5_menu_reload">Újratölt</string>
     <string name="h5_menu_share">Ossza meg</string>
     <string name="h5_menu_shortcut">Hozzáadás a kezdőképernyőhöz</string>
     <string name="installplaywitouthti">Azonnali játék telepítés nélkül</string>
@@ -351,7 +352,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Keressen a feltölteni kívánt alkalmazásban:</string>
     <string name="addapost">Adj hozzá egy bejegyzést</string>
-    <string name="launch_des">Keresse meg a 100% -ban működő modult \ nTöltött felhasználók által; A felhasználók ellenőrizték!</string>
+    <string name="launch_des">100%-ban működő modokat találsz.
+\nFelhasználók által feltöltve; Ellenörzőtt felhasználók!</string>
     <string name="requestamod">Kérjen mod</string>
     <string name="uploadamod">Tölts fel mod</string>
     <!--boundle 新增-->
@@ -372,7 +374,7 @@
     <string name="toopenitquickntime">A következő alkalommal történő gyors megnyitáshoz kérjük, hogy:</string>
     <string name="finditin">Keresse meg az X-ben</string>
     <string name="needhelp">Kell segítség?</string>
-    <string name="peoplealsoplaygames">Az emberek ezt a játékot is játszották:</string>
+    <string name="peoplealsoplaygames">Mások ezeket a játékokat kedvelik</string>
     <string name="opencommunitydes">Ha felnőttnek vagy rossz posztot talál, kérjük, kattintson a bejegyzés jobb felső sarkában található Jelentés gombra, és mi első alkalommal töröljük a posztot és blokkoljuk a posztert! Kérem, beszéljen civilizáltan!</string>
     <string name="myreviews">Saját vélemények</string>
     <string name="tagthisapp">Jelölje meg ezt az alkalmazást</string>
@@ -413,11 +415,11 @@
     <string name="nslnfsl">Nincs sebességkorlátozás. Nincs fájlméret korlát.</string>
     <string name="Clean">Tiszta</string>
     <string name="Cdnoadfree">Tiszta kialakítás, nincs hirdetés &amp; 100% ingyenes!</string>
-    <string name="wrhtdbf">Nagy fájlok letöltéséhez javasoljuk a HyperTorrent alkalmazást.</string>
+    <string name="wrhtdbf">Hogyan kell használni a HyperTorrent alkalmazást\?</string>
     <string name="nothanks">Nem köszönöm</string>
     <string name="Checkthenetwork">Ellenőrizze a hálózatot</string>
     <string name="Configuringip">A rendelkezésre álló IP beállítása az Ön számára</string>
     <string name="Configuringipfailed">A konfigurálás sikertelen, 8 IP-t észleltünk, hogy nem érhetők el. Kérjük, próbálja meg használni a VPN-t.</string>
-    <string name="Donatedes">A HappyMod teljesen ingyenes, és ugyanúgy utáljuk a hirdetéseket is.！ \ N \ nA gyorsabb és biztonságosabb letöltés érdekében szükségünk van adományára. \ N \ nKérjük, legyen türelmes, és az adomány teljesítéséhez próbálja meg megnézni a teljes hirdetéseket. \ N \ nKöszönöm！</string>
+    <string name="Donatedes">A HappyMod teljesen ingyenes, és ugyanúgy utáljuk a hirdetéseket is mint Te! Támogass minket a gyorsabb és biztonságosabb letöltés érdekében. Kérlek legyél türelmes, és az adomány teljesítéséhez próbáld megnézni a teljes hirdetéseket. Köszönöm！</string>
     <string name="viewstepdeti">A lépés részleteinek megtekintése</string>
 </resources>
