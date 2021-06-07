@@ -70,7 +70,7 @@
     <string name="Version">Versión</string>
     <string name="Ratingsreviews">Calificaciones &amp; Opiniones</string>
     <string name="Tryitlater">Inténtalo más tarde</string>
-    <string name="Serviceisbusy">Conectando. . .</string>
+    <string name="Serviceisbusy">Conectando…</string>
     <!-- delete words -->
     <string name="Notice">Aviso</string>
     <string name="deletethistask">Borrar archivo</string>
@@ -81,7 +81,7 @@
     <string name="Downloadfailed">Descarga fracasó</string>
     <string name="Downloadistooslow">La descarga es muy lenta</string>
     <!--APP details-->
-    <string name="Mods">Mods</string>
+    <string name="Mods">Mods/Hacks</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Versión previa</string>
     <string name="Download">Descargar</string>
@@ -133,7 +133,7 @@
     <string name="Retrying">Reintentando</string>
     <string name="language">Idioma</string>
     <!--category -->
-    <string name="Popular">Popular</string>
+    <string name="Popular">Famoso</string>
     <string name="s_New">Nuevos</string>
     <string name="apps">Aplicaciones</string>
     <!-- big file -->
@@ -195,7 +195,7 @@
     <string name="tuiat">Este nombre de usuario ya está en uso.</string>
     <string name="Login">Iniciar sesión</string>
     <string name="Account">Cuenta</string>
-    <string name="forgotpassword">¿Ha olvidado su contraseña\?</string>
+    <string name="forgotpassword">¿Olvidaste tu contraseña\?</string>
     <string name="loginwithaccount">O inicie sesión con su nombre de usuario</string>
     <string name="newur">Registro de nuevo usuario</string>
     <string name="Usernameinitnew">Nombre de usuario (4-50 caracteres)</string>
@@ -250,7 +250,7 @@
     <string name="view">Ver</string>
     <string name="isthiswork">¿Funciona?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="APKZippyshareurl">URL de los APK de Zippyshare/Mediafire:</string>
     <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire url: (opcional)</string>
     <string name="Youarereupload">Estás subiendo:</string>
     <string name="Upload">Subir</string>
@@ -323,7 +323,7 @@
     <string name="sellallreviews">Ver todas las opiniones</string>
     <string name="hfivetitle">Juegos rápidos</string>
     <string name="Recommended">Recomendado</string>
-    <string name="exit_tips">Presione atrás de nuevo para salir del juego.</string>
+    <string name="exit_tips">Presione atrás de nuevo para salir del juego</string>
     <string name="h5_menu_reload">Recargar</string>
     <string name="h5_menu_share">Compartir</string>
     <string name="h5_menu_shortcut">Añadir a la pantalla principal</string>
@@ -351,7 +351,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Busque la aplicación que desea cargar:</string>
     <string name="addapost">Agregar una publicación</string>
-    <string name="launch_des">Encuentra Mods 100% de trabajo \ nSubido por usuarios Verificado por los usuarios!</string>
+    <string name="launch_des">!Encuentra Mods 100% funcionales
+\nSubido por los usuarios; ¡Verificado por los usuarios!</string>
     <string name="requestamod">Solicitar un mod</string>
     <string name="uploadamod">Sube un mod</string>
     <!--boundle 新增-->
@@ -372,7 +373,7 @@
     <string name="toopenitquickntime">Para abrirlo rápidamente la próxima vez, por favor:</string>
     <string name="finditin">Encuéntralo en X</string>
     <string name="needhelp">¿Necesitas ayuda?</string>
-    <string name="peoplealsoplaygames">La gente que jugó a este juego también jugó:</string>
+    <string name="peoplealsoplaygames">A las personas que han jugado este juego también les ha gustado</string>
     <string name="opencommunitydes">Si encuentra un adulto o una publicación incorrecta, haga clic en el botón de informe en la esquina superior derecha de la publicación, y eliminaremos la publicación y bloquearemos el póster la primera vez. ¡Habla civilizado!</string>
     <string name="myreviews">Mis críticas</string>
     <string name="tagthisapp">Marcar esta aplicación</string>
@@ -413,11 +414,17 @@
     <string name="nslnfsl">Sin limite de velocidad. Sin límite de tamaño de archivo.</string>
     <string name="Clean">Limpio</string>
     <string name="Cdnoadfree">Diseño limpio, sin publicidad y amp; ¡100% gratis!</string>
-    <string name="wrhtdbf">Recomendamos HyperTorrent para descargar archivos grandes.</string>
+    <string name="wrhtdbf">¿Cómo utilizar HyperTorrent\?</string>
     <string name="nothanks">No gracias</string>
     <string name="Checkthenetwork">Verifica la red</string>
     <string name="Configuringip">Configurando la IP disponible para usted</string>
     <string name="Configuringipfailed">La configuración falló, se detectó que 8 direcciones IP no están disponibles, intente usar VPN.</string>
-    <string name="Donatedes">HappyMod es completamente gratuito y odiamos los anuncios tanto como usted！ \ n \ nNecesitamos su donación para proporcionar descargas más rápidas y seguras. \ N \ nTenga paciencia e intente ver los anuncios completos para completar la donación. \ N \ nGracias！</string>
+    <string name="Donatedes">HappyMod es completamente gratuito y odiamos los anuncios tanto como usted !
+\n
+\nNecesitamos su donación para proporcionar descargas más rápidas y seguras.
+\n
+\nTenga paciencia e intente ver los anuncios completos para completar la donación.
+\n
+\nGracias！</string>
     <string name="viewstepdeti">Ver detalles del paso</string>
 </resources>
