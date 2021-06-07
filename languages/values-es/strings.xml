@@ -29,11 +29,11 @@
     <string name="games">Juegos</string>
     <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se puede acceder a internet.</string>
-    <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
-    <string name="Hot_Game_Mods">Mods de juegos destacados</string>
-    <string name="Recommended_App_Mods">Mods de apps recomendados</string>
-    <string name="Hot_App_Mods">Mods de apps destacados</string>
-    <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
+    <string name="Recommended_Game_Mods">Mods recomendados</string>
+    <string name="Hot_Game_Mods">Mods destacados</string>
+    <string name="Recommended_App_Mods">Mods recomendados</string>
+    <string name="Hot_App_Mods">Mods destacados</string>
+    <string name="Recommended_New_Mods">Nuevos mods interesantes</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar..</string>
     <!-- slide-->
@@ -48,7 +48,7 @@
     <string name="FollowusonFacebook">Síguenos en Facebook</string>
     <!--settings-->
     <string name="settings_network_remind">Alerta de red móvil</string>
-    <string name="settings_auto_install">Instalación automática</string>
+    <string name="settings_auto_install">Instalar automaticamente</string>
     <string name="Download_Directory">Directorio de descarga</string>
     <string name="settings_other">Otros</string>
     <string name="settings_clear_cache">Limpiar caché</string>
