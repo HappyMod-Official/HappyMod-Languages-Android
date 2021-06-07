@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">المود السعيد</string>
+    <string name="app_name">المود السعيد (هابي مود)</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -22,40 +22,40 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">مدفوعة</string>
-    <string name="GAME">العاب</string>
-    <string name="APP">تطبيقات</string>
-    <string name="NEW">جديدة</string>
+    <string name="GAME">لعبة</string>
+    <string name="APP">تطبيق</string>
+    <string name="NEW">جديد/جديدة</string>
     <string name="Categories">الفئات</string>
     <string name="games">العاب</string>
-    <string name="REFRESH">اعادة المحاولة</string>
+    <string name="REFRESH">إعادة المحاولة</string>
     <string name="Unable_to_connect_to_the_network">غير قادر على الوصول إلى الإنترنت.</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
     <string name="Hot_Game_Mods">اشهر الالعاب المعدلة</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى بها</string>
     <string name="Hot_App_Mods">اشهر التطبيقات المعدلة</string>
     <string name="Recommended_New_Mods">تطبيقات والعاب معدلة موصى بها</string>
-    <string name="Last_Update_Mods">اخر التطبيقات المعدلة المضافة</string>
+    <string name="Last_Update_Mods">آخر التحديثات</string>
     <string name="SearchHint">بحث..</string>
     <string name="Homeweb">الموقع الرسمي</string>
     <string name="Management">إدارة</string>
     <string name="Settings">الإعدادات</string>
-    <string name="Feedback">الملاحظات</string>
+    <string name="Feedback">الملاحظة</string>
     <string name="Translation">ترجمة</string>
-    <string name="Share">شارك التطبيق</string>
+    <string name="Share">شارك</string>
     <string name="Checkforupdate">التحقق من وجود تحديثات</string>
     <string name="FollowusonTwitter">تابعنا على تويتر</string>
-    <string name="FollowusonFacebook">تابعنا على Facebook</string>
+    <string name="FollowusonFacebook"> تابعنا على فيسبوك</string>
     <string name="settings_network_remind">التذكير بشأن بيانات الهاتف</string>
-    <string name="settings_auto_install">التثبيت تلقائيا</string>
+    <string name="settings_auto_install">تثبيت تلقائي</string>
     <string name="Download_Directory">مسار التنزيلات</string>
     <string name="settings_other">اخرى</string>
     <string name="settings_clear_cache">مسح ذاكرة التخزين المؤقت</string>
     <string name="Clean_up_the_complete">تم مسح ذاكرة التخزين المؤقت.</string>
     <string name="des_no_serach_result">لم يتم العثور على نتائج.</string>
     <string name="Downloads">التنزيلات</string>
-    <string name="Downloading">التنزيلات الحالية</string>
-    <string name="Finished">التنزيلات المكتملة</string>
-    <string name="No_Download">لا توجد تنزيلات</string>
+    <string name="Downloading">جاري التنزيل</string>
+    <string name="Finished">اكتمل</string>
+    <string name="No_Download">ملف غير موجود</string>
     <string name="Pause">ايقاف مؤقت</string>
     <string name="Waiting_in_queue">في قائمة الانتظار</string>
     <string name="Completed">مكتمل</string>
@@ -65,8 +65,8 @@
     <string name="Rated">تم التقييم</string>
     <string name="Version">الإصدار</string>
     <string name="Ratingsreviews">التقييمات والمراجعات</string>
-    <string name="Tryitlater">syedezzra</string>
-    <string name="Serviceisbusy">جاري الاتصال…</string>
+    <string name="Tryitlater">جرب في وقت لاحق</string>
+    <string name="Serviceisbusy">جارٍ الاتصال…</string>
     <string name="Notice">تنويه</string>
     <string name="deletethistask">حذف هذا الملف؟</string>
     <string name="Cancel">إلغاء</string>
@@ -84,23 +84,22 @@
     <string name="Downloadboundle">تنزيل BUNDLE</string>
     <string name="Downloaded">تم التنزيل</string>
     <string name="Install">التثبيت</string>
-    <string name="Connecting">جار الاتصال ...</string>
+    <string name="Connecting">جار الاتصال …</string>
     <string name="readmore">قراءة المزيد</string>
     <string name="modfeature">مميزات التعديل</string>
     <string name="Moreversion">المزيد من الإصدارات</string>
     <string name="Recommend">موصى به</string>
     <string name="Recommendmod">تعديل موصى به</string>
-    <string name="Moremods">المزيد من التعديلات</string>
+    <string name="Moremods">آخر الاصدارات</string>
     <string name="Submit">تأكيد</string>
     <string name="Hated_it">اكرهه!</string>
     <string name="Disliked_it">لم يعجبني</string>
-    <string name="Its_ok">أنه جيد</string>
-    <string name="Liked_it">اعجبني</string>
+    <string name="Its_ok">أنه جيد.</string>
+    <string name="Liked_it">اعجبني.</string>
     <string name="Loved_it">احببته!</string>
     <string name="share_happymod">مشاركة "HappyMod" عبر</string>
     <string name="share_subject">احصل على HappyMod</string>
-    <string name="share_text">نزل تطبيقات والعاب معدلة ومهكرة 100% مع HappyMod@
-https://www.happymod.com</string>
+    <string name="share_text">نزل تطبيقات والعاب معدلة تعمل 100% مع HappyMod@ https://www.happymod.com</string>
     <string name="pref_location">مكان التخزين</string>
     <string name="force_des">تطبيقات معدلة تعمل 100%</string>
     <string name="nvisrti">الإصدار الجديد جاهز للتثبيت.</string>
