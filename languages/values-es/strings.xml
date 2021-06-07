@@ -195,7 +195,7 @@
     <string name="tuiat">Este nombre de usuario ya está en uso.</string>
     <string name="Login">Iniciar sesión</string>
     <string name="Account">Cuenta</string>
-    <string name="forgotpassword">¿Olvidaste tu contraseña\?</string>
+    <string name="forgotpassword">¿Olvido su contraseña\?</string>
     <string name="loginwithaccount">O inicie sesión con su nombre de usuario</string>
     <string name="newur">Registro de nuevo usuario</string>
     <string name="Usernameinitnew">Nombre de usuario (4-50 caracteres)</string>
