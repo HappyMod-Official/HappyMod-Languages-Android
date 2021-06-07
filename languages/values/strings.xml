@@ -43,11 +43,11 @@
     <string name="Translation">Translation</string>
     <string name="Share">Share</string>
     <string name="Checkforupdate">Check for Update</string>
-    <string name="FollowusonTwitter">Follow us on Twitter</string>
-    <string name="FollowusonFacebook">Follow us on Facebook</string>
+    <string name="FollowusonTwitter">Twitter တွင်ကျွန်ုပ်တို့နောက်သို့လိုက်ပါ</string>
+    <string name="FollowusonFacebook"> ဖေ့စ်ဘွတ်ခ်ပေါ်မှာငါတို့လိုက်နာပါ</string>
     <!--设置页-->
-    <string name="settings_network_remind">Mobile Network Alert</string>
-    <string name="settings_auto_install">Automatically Install</string>
+    <string name="settings_network_remind">မိုဘိုင်းကွန်ယက်သတိပေးချက်</string>
+    <string name="settings_auto_install">အလိုအလျောက် install လုပ်ပါ</string>
     <string name="Download_Directory">Download Directory</string>
     <string name="settings_other">Other</string>
     <string name="settings_clear_cache">Clear Cache</string>
