@@ -202,7 +202,7 @@
     <string name="Passwordnew">Пароль (6-8 символов)</string>
     <string name="Emailnew">Эл. адрес</string>
     <string name="PhoneNumber">Номер телефона</string>
-    <string name="Unknown">Неизвестно</string>
+    <string name="Unknown">Неизвестный</string>
     <string name="enteryEmail">Введите адрес электронной почты</string>
     <string name="enteryPhone">Введите свой номер телефона</string>
     <string name="signuptips">Если вы забудете пароль, вам потребуется «Номер телефона» или «Электронная почта» для восстановления. Мы рекомендуем вам ввести их.</string>
@@ -239,12 +239,12 @@
     <string name="Addrequest">Добавить запрос</string>
     <string name="Myrequests">Мои запросы</string>
     <string name="Myuploads">Мои загрузки</string>
-    <string name="Updated">Обновление</string>
+    <string name="Updated">Обновлённый</string>
     <string name="Comingsoon">Скоро</string>
     <string name="searchappyouwanttorequest">Найдите приложение, которое хотите запросить:</string>
     <string name="Addupload">Добавить загрузку</string>
     <string name="requestdetailhint">Скажите больше о вашем запросе. (Не менее 50 символов)</string>
-    <string name="requesterror">Ошибка отправки, повторите попытку позже.</string>
+    <string name="requesterror">Опубликовать не удалось, повторите попытку позже.</string>
     <string name="detailserror">(100-4000 знаков)</string>
     <string name="view">Посмотреть</string>
     <string name="isthiswork">Это работает?</string>
@@ -260,7 +260,7 @@
     <string name="Uploadsuccess">Успешная загрузка</string>
     <string name="Requestsuccess">Запрос одобрен</string>
     <string name="clickyes">Вы можете отредактировать и повторно отправить этот запрос из обработанной очереди.</string>
-    <string name="clickno">Этот запрос будет снова добавлен к очередь в ближайшее время.</string>
+    <string name="clickno">Этот запрос будет добавлен в очередь в ближайшее время.</string>
     <string name="downloadpush_remind">Показать уведомление после установки</string>
     <string name="messages">Сообщения</string>
     <string name="RecommendMods">Рекомендовать моды</string>
@@ -274,11 +274,11 @@
     <string name="fix_tips_content">Вы хотите подключиться к другому серверу, чтобы попытаться загрузить его перед удалением?</string>
     <string name="fix_progress_title">Сканирование серверов</string>
     <string name="fix_progress_content">Чтобы найти самый быстрый сервер, может потребоваться несколько минут, подождите.</string>
-    <string name="fix_failed_content">В настоящее время нет доступных серверов для вас, повторите попытку позже.</string>
+    <string name="fix_failed_content">В настоящее время нет доступных серверов, повторите попытку позже.</string>
     <string name="fix_tips_failtitle">Нет больше серверов</string>
     <string name="fix_ok">Попытаться</string>
     <!--社区 -->
-    <string name="please_loginanddownload">Сначала скачайте этот мод, пожалуйста.</string>
+    <string name="please_loginanddownload">Пожалуйста, сначала скачайте этот мод.</string>
     <string name="myvoted">Мои оценивания</string>
     <string name="working">Работает</string>
     <string name="inanhour">Пожалуйста, проголосуйте снова через час.</string>
@@ -286,7 +286,7 @@
     <string name="myreply">Мои ответы</string>
     <string name="Post">Пост</string>
     <string name="addavideo">Добавить видео</string>
-    <string name="enterthevideourlhere">Пожалуйста, введите URL-адрес видео на Youtube здесь.</string>
+    <string name="enterthevideourlhere">Пожалуйста, введите URL-адрес видео с Youtube в поле.</string>
     <string name="onlysupportyoutube">Поддерживаются только видео с Youtube</string>
     <string name="searchorcreate">Найти или создать</string>
     <string name="hashtags">История хэштегов</string>
@@ -308,7 +308,7 @@
     <string name="deletesuccess">Успешно удален</string>
     <string name="deletefailed">Не удалось удалить</string>
     <string name="Group">Группа</string>
-    <string name="repliedtouser">ответил на</string>
+    <string name="repliedtouser">ответил</string>
     <string name="speaksomething">Пожалуйста, введите не менее 20 символов</string>
     <string name="speaktoolong">Количество символов превышает лимит, можно ввести до 4000 символов.</string>
     <string name="tapandholdptodelete">Нажмите и удерживайте картинку, чтобы удалить ее.</string>
@@ -330,11 +330,11 @@
     <!--全局rty-->
     <string name="crash_dialog_title">Упс ...</string>
     <string name="crash_toast_message">К сожалению, приложение будет закрыто, пожалуйста, отправьте свой отчет об ошибке по электронной почте.</string>
-    <string name="crash_dialog_message">Ошибка приложения, пожалуйста, отправьте ваш отчет об ошибке по электронной почте.</string>
+    <string name="crash_dialog_message">Произошла ошибка, пожалуйста, отправьте ваш отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_feedback">Сообщить об ошибках</string>
     <string name="crash_dialog_restart">Перезапустить</string>
-    <string name="init_fail">Инициализация не удалась, используйте VPN или измените на другую сеть.</string>
-    <string name="error_file_des">Этот файл был удален и сейчас будет заново скачан.</string>
+    <string name="init_fail">Инициализация не удалась, используйте VPN или подключитесь к другой сети.</string>
+    <string name="error_file_des">Этот файл был удален и сейчас будет загружен снова.</string>
     <string name="sdpermission">Нам нужен доступ к вашему внешнему хранилищу. Убедитесь, что разрешение предоставлено.</string>
     <string name="Night_Mode">Ночной режим</string>
     <string name="thisty">Это имя уже занято. Попробуйте другое. Доступно:</string>
@@ -350,13 +350,13 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Поиск приложения, которое вы хотите загрузить:</string>
     <string name="addapost">Добавить пост</string>
-    <string name="launch_des">Найдите 100% рабочие моды!
+    <string name="launch_des">Найди тут 100% рабочие моды!
 \nЗагружено пользователями - проверено пользователями!</string>
     <string name="requestamod">Запросить мод</string>
     <string name="uploadamod">Загрузить мод</string>
     <!--boundle 新增-->
     <string name="Installing">Установка</string>
-    <string name="bundleneedsfive">Извините, для сборки требуется Android 5.0 и выше.</string>
+    <string name="bundleneedsfive">Извините, этой сборке требуется Android версии 5.0 и выше.</string>
     <string name="parsingerror">Ошибка синтаксического анализа apk или установка была отменена.</string>
     <string name="tipsinstallok">Установка прошла успешно.</string>
     <string name="tipsinstallfail">Установка не удалась, пожалуйста, попробуйте еще раз.</string>
@@ -368,7 +368,7 @@
     <string name="playdes">Играть</string>
     <string name="todayhotgame">Горячее на сегодня</string>
     <string name="newcoming">Новое входящее</string>
-    <string name="recentlyplayed">Недавно играли</string>
+    <string name="recentlyplayed">Недавно сыгранные</string>
     <string name="toopenitquickntime">Чтобы найти его быстрее в следующий раз, пожалуйста:</string>
     <string name="finditin">Найдите это в X</string>
     <string name="needhelp">Нужна помощь?</string>
@@ -396,7 +396,7 @@
     <string name="uploadbanner">Загрузить обложку (720 * 406)</string>
     <string name="noedituploadtips">Вы не можете отправить это без каких-либо изменений.</string>
     <string name="addexcusiveaddressixit">Этот apk уже существует.</string>
-    <string name="itisworkingonyourdevice">Это работает на вашем устройстве\?</string>
+    <string name="itisworkingonyourdevice">Приложение работает на вашем устройстве\?</string>
     <string name="no_working">Не работает</string>
     <string name="vote_it">Проголосовать за это</string>
     <string name="novirus">Без вирусов</string>
