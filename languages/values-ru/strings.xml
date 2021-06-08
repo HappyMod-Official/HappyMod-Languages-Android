@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--俄羅斯-->
-    <string name="app_name">HарруМоds</string>
+    <string name="app_name">HарруМоd</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -45,10 +45,10 @@
     <string name="Share">Поделиться</string>
     <string name="Checkforupdate">Проверить обновления</string>
     <string name="FollowusonTwitter">Следите за нами в Твиттере</string>
-    <string name="FollowusonFacebook"> Следите за нами в Фейсбуке</string>
+    <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
     <string name="settings_network_remind">Оповещение об отсутствии мобильной сети</string>
-    <string name="settings_auto_install">Автоматически устанавливать</string>
+    <string name="settings_auto_install">Автоматическая устанановка</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другое</string>
     <string name="settings_clear_cache">Очистить кэш</string>
@@ -239,7 +239,7 @@
     <string name="Addrequest">Добавить запрос</string>
     <string name="Myrequests">Мои запросы</string>
     <string name="Myuploads">Мои загрузки</string>
-    <string name="Updated">Обновлённый</string>
+    <string name="Updated">Обновление</string>
     <string name="Comingsoon">Скоро</string>
     <string name="searchappyouwanttorequest">Найдите приложение, которое хотите запросить:</string>
     <string name="Addupload">Добавить загрузку</string>
