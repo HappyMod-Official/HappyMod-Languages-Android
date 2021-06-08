@@ -98,4 +98,6 @@
     <string name="share_happymod">Bendrinti \'HappyMod\' per</string>
     <string name="share_text">Atsiūskite 100% veikenčius modus su @HappyMod https://www.happymod.com/</string>
     <string name="Is_this_app_you_need">Ar tu ieškai šitos programos\?</string>
+    <string name="No_enough_space_left_on_device">Nepakanka saugyklos vietos. reikėti:</string>
+    <string name="updateFail">Atsisiųsti nepavyko. Uždarykite ir atidarykite iš naujo</string>
 </resources>
