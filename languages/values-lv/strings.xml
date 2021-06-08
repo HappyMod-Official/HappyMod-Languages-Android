@@ -83,9 +83,9 @@
     <string name="Downloadboundle">Lejupielādēt BUNDLE</string>
     <string name="Downloaded">Lejupielādēts</string>
     <string name="Install">Uzstādīt</string>
-    <string name="Connecting">Savieno ...</string>
+    <string name="Connecting">Pievieno…</string>
     <string name="readmore">Lasīt vairāk</string>
-    <string name="modfeature">Mod info:</string>
+    <string name="modfeature">Moda informācija:</string>
     <string name="Moreversion">Vairāk versiju</string>
     <string name="Recommend">Ieteikt</string>
     <string name="Recommendmod">Ieteicamais Mod</string>
@@ -98,13 +98,14 @@
     <string name="Loved_it">Mīlu to!</string>
     <string name="share_happymod">Kopīgojiet “HappyMod”, izmantojot</string>
     <string name="share_subject">Get HappyMod</string>
-    <string name="share_text">Lejupielādējiet 100% darba modus ar @HappyMod \ t</string>
+    <string name="share_text">Lejupielādējiet 100% strādājošos modus ar @HappyMod
+\nhttps://www.happymod.com/</string>
     <string name="pref_location">Uzglabāšanas vieta</string>
     <string name="force_des">100% darba moduļi</string>
     <string name="nvisrti">jauna versija ir gatava instalēšanai.</string>
     <string name="OPEN">OPEN</string>
     <string name="OK">labi</string>
-    <string name="Loading">Notiek ielāde ......</string>
+    <string name="Loading">Lādējas...</string>
     <string name="updata_tip">Jūs izmantojat jaunāko stabilo HappyMod versiju</string>
     <string name="xzzb">Lūdzu, lejupielādējiet oficiālo HappyMod.</string>
     <string name="Continue">Turpināt</string>
