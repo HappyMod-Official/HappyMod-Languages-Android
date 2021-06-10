@@ -100,4 +100,7 @@
     <string name="Is_this_app_you_need">Ar tu ieškai šitos programos\?</string>
     <string name="No_enough_space_left_on_device">Nepakanka saugyklos vietos. reikėti:</string>
     <string name="updateFail">Atsisiųsti nepavyko. Uždarykite ir atidarykite iš naujo</string>
+    <string name="Recommendmod">Rekomenduojama modifikacija</string>
+    <string name="initializing">Paleidžiama</string>
+    <string name="Retrying">Bandoma iš naujo</string>
 </resources>
