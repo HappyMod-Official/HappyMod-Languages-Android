@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">FelizMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
@@ -16,7 +16,7 @@
     <string name="Homeweb">Website Oficial</string>
     <string name="Management">Gestão</string>
     <string name="Settings">Configurações</string>
-    <string name="Feedback">Feedback</string>
+    <string name="Feedback">Comentários</string>
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
     <string name="Checkforupdate">Checar por Atualização</string>
@@ -108,10 +108,10 @@
     <string name="Freeshopping">Compras grátis</string>
     <string name="Unlocked">Desbloqueado</string>
     <string name="Premium">Premium</string>
-    <string name="Pro">Pro</string>
-    <string name="ModLite">Mod Lite</string>
+    <string name="Pro">pró</string>
+    <string name="ModLite">ModoLeve</string>
     <string name="Subscribed">Inscrito</string>
-    <string name="Prime">Prime</string>
+    <string name="Prime">Melhor</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Substrato</string>
     <string name="Debloated">Debloat</string>
@@ -122,7 +122,7 @@
     <string name="Endless">Sem fim</string>
     <string name="Invincible">Invencível</string>
     <string name="Unlimitedhints">Dicas ilimitadas</string>
-    <string name="Megamod">Mega mod</string>
+    <string name="Megamod">Mega modo</string>
     <string name="Full">Completo</string>
     <string name="Username">Nome do usuário</string>
     <string name="Usernameinit">4-50 caracteres</string>
@@ -153,11 +153,11 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor, insira o e-mail ou número de telefone. Você tem algum problema com a redefinição de senha <u> entre em contato conosco </u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">FelizMod</string>
     <string name="REFRESH">Recarregar</string>
     <string name="Recommended_Game_Mods">Mods de jogo recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
-    <string name="FollowusonFacebook"> Siga-nos no Facebook</string>
+    <string name="FollowusonFacebook">Siaga-nos no Facebook</string>
     <string name="des_no_serach_result">Oops! Nenhum resultado encontrado.</string>
     <string name="Tryitlater">Tente mais tarde</string>
     <string name="Downloadistooslow">O Download está muito lento</string>
