@@ -28,14 +28,14 @@
     <string name="Categories">קפה</string>
     <string name="games">משחק</string>
     <string name="REFRESH">רענן</string>
-    <string name="Unable_to_connect_to_the_network">לא ניתן לגשת לאינטרנט</string>
+    <string name="Unable_to_connect_to_the_network">לא ניתן לגשת לאינטרנט.</string>
     <string name="Recommended_Game_Mods">משחקים מומלצים Mods</string>
     <string name="Hot_Game_Mods">משחקים פופולריים</string>
     <string name="Recommended_App_Mods">אופציות מומלצות לאפליקציות</string>
     <string name="Hot_App_Mods">למעלה מודולים App</string>
     <string name="Recommended_New_Mods">מומלץ חדש Mods</string>
     <string name="Last_Update_Mods">עדכון אחרון</string>
-    <string name="SearchHint">חיפוש</string>
+    <string name="SearchHint">חיפוש..</string>
     <!-- 侧滑-->
     <string name="Homeweb">האתר הרשמי</string>
     <string name="Management">ניהול</string>
@@ -52,7 +52,7 @@
     <string name="Download_Directory">הורד את המדריך</string>
     <string name="settings_other">אחר</string>
     <string name="settings_clear_cache">נקה מטמון</string>
-    <string name="Clean_up_the_complete">המטמון נמחק</string>
+    <string name="Clean_up_the_complete">המטמון נמחק.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">אופס! לא נמצאו תוצאות.</string>
     <!--下载管理页-->
@@ -70,7 +70,7 @@
     <string name="Version">מהדורה</string>
     <string name="Ratingsreviews">דירוג ודירוג</string>
     <string name="Tryitlater">נסה שוב מאוחר יותר</string>
-    <string name="Serviceisbusy">התחבר ...</string>
+    <string name="Serviceisbusy">מתחבר…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">תשומת לב</string>
     <string name="deletethistask">מחק את הקובץ הזה</string>
@@ -90,7 +90,7 @@
     <string name="Downloadboundle">הורדה BUNDLE</string>
     <string name="Downloaded">הורד</string>
     <string name="Install">התקנה</string>
-    <string name="Connecting">התחבר ...</string>
+    <string name="Connecting">מתחבר…</string>
     <string name="readmore">קרא עוד</string>
     <string name="modfeature">פרטי Mod:</string>
     <string name="Moreversion">גרסאות נוספות</string>
@@ -107,7 +107,8 @@
     <!--分享-->
     <string name="share_happymod">שתף HappyMod מ</string>
     <string name="share_subject">קבל HappyMod</string>
-    <string name="share_text">הורד 100% קל לשימוש עם mod @ HappyMod \ nhttps: //www.happymod.com/</string>
+    <string name="share_text">הורד מודים 100% עובדים עם @HappyMod 
+\nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">מיקום אחסון</string>
     <!--update -->
@@ -195,17 +196,17 @@
     <string name="tuiat">שם המשתמש הזה כבר תפוס.</string>
     <string name="Login">התחברות</string>
     <string name="Account">חשבון</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">שכחת סיסמה\?</string>
     <string name="loginwithaccount">או התחבר עם שם המשתמש שלך</string>
     <string name="newur">רישום משתמש חדש</string>
-    <string name="Usernameinitnew">Username(4-50 characters)</string>
-    <string name="Passwordnew">Password(6-8 characters)</string>
+    <string name="Usernameinitnew">שם משתמש (4-50 אותיות)</string>
+    <string name="Passwordnew">סיסמה (6-8 אותיות)</string>
     <string name="Emailnew">Email</string>
-    <string name="PhoneNumber">Phone number</string>
-    <string name="Unknown">Unknown</string>
-    <string name="enteryEmail">Enter your email</string>
-    <string name="enteryPhone">Enter your phone number</string>
-    <string name="signuptips">When you forget your password, you will need "Phone number" or "Email" to retrieve. We recommend that you complete them.</string>
+    <string name="PhoneNumber">מספר טלפון</string>
+    <string name="Unknown">לא ידוע</string>
+    <string name="enteryEmail">הכנס את האי-מייל שלך</string>
+    <string name="enteryPhone">הכנס את מספר הטלפון שלך</string>
+    <string name="signuptips">מתי ששכחת את הסיסמה שלך, תצטרך מספר אימייל או טלפון כדי לשחזר אותה. אנחנו ממליצים לך להקליד אותם.</string>
     <string name="confirmusername">אשר את שם המשתמש</string>
     <string name="next">הבא</string>
     <string name="fblogdes">אנא הכנס שם משתמש. שם המשתמש הוא מזהה חשוב מאוד לאחזור הסיסמה, זכור.</string>
@@ -349,7 +350,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">חפש באפליקציה שתרצה להעלות:</string>
     <string name="addapost">הוסף פוסט</string>
-    <string name="launch_des">מצא 100% מצבי עבודה \ n שהועלה על ידי משתמשים; מאומת על ידי משתמשים!</string>
+    <string name="launch_des">מצא מודים 100% עובדים.
+\nהועלה על ידי משתמשים; אושר על ידי משתמשים!</string>
     <string name="requestamod">בקש מוד</string>
     <string name="uploadamod">העלה מוד</string>
     <!--boundle 新增-->
@@ -370,7 +372,7 @@
     <string name="toopenitquickntime">לפתיחתו במהירות בפעם הבאה, אנא:</string>
     <string name="finditin">מצא אותו ב- X</string>
     <string name="needhelp">זקוק לעזרה?</string>
-    <string name="peoplealsoplaygames">אנשים שיחקו במשחק הזה שיחקו גם:</string>
+    <string name="peoplealsoplaygames">אנשים ששחקו במשחק הזה אוהבים גם</string>
     <string name="opencommunitydes">אם אתה מוצא מבוגר או כל הודעה גרועה, אנא לחץ על כפתור הדוח בפינה הימנית העליונה של ההודעה, ונמחק את הפוסט ונחסום את הפוסטר בפעם הראשונה! אנא דבר תרבותי!</string>
     <string name="myreviews">הביקורות שלי</string>
     <string name="tagthisapp">סמן את האפליקציה הזו</string>
@@ -411,11 +413,15 @@
     <string name="nslnfsl">ללא הגבלת מהירות. אין מגבלה על גודל הקובץ.</string>
     <string name="Clean">לְנַקוֹת</string>
     <string name="Cdnoadfree">עיצוב נקי, ללא פרסומת &amp; 100% חינם!</string>
-    <string name="wrhtdbf">אנו ממליצים על HyperTorrent להורדת קבצים גדולים.</string>
+    <string name="wrhtdbf">כיצד להשתמש ב-HyperTorrent\?</string>
     <string name="nothanks">לא תודה</string>
     <string name="Checkthenetwork">בדוק את הרשת</string>
     <string name="Configuringip">הגדרת IP זמין עבורך</string>
     <string name="Configuringipfailed">התצורה נכשלה, 8 כתובות IP מזוהות כבלתי זמינות, נסה להשתמש ב- VPN.</string>
-    <string name="Donatedes">HappyMod הוא לגמרי בחינם, ואנחנו שונאים מודעות באותה מידה שאתה עושה！ \ n \ n אנו זקוקים לתרומתך בכדי לספק הורדות מהירות ובטוחות יותר. \ N \ n אנא התאזר בסבלנות ונסה לצפות במודעות המלאות כדי להשלים את התרומה. \ N \ תודה！</string>
+    <string name="Donatedes">HappyMod הוא לגמרי בחינם, ואנחנו שונאים מודעות באותה מידה שאתה שונא！
+\n
+\nאנו זקוקים לתרומתך בכדי לספק הורדות מהירות ובטוחות יותר.
+\n
+\nבבקשה המתן בסבלנות ונסה לצפות במודעות המלאות כדי להשלים את התרומה. תודה！</string>
     <string name="viewstepdeti">צפו בפרטי שלב</string>
 </resources>
