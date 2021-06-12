@@ -21,8 +21,9 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Paid</string>
-    <string name="GAME">Game</string>
-    <string name="APP">App</string>
+    <string name="GAME">GAME</string>
+    <string name="APP">APP
+\n</string>
     <string name="NEW">New</string>
     <string name="Categories">Categories</string>
     <string name="games">Games</string>
@@ -95,7 +96,8 @@
     <string name="Moreversion">More Version(s)</string>
     <string name="Recommend">Recommend</string>
     <string name="Recommendmod">Recommended Mod</string>
-    <string name="Moremods">Latest Version(s)</string>
+    <string name="Moremods">Moremods
+\n</string>
     <!--评分-->
     <string name="Submit">Submit</string>
     <string name="Hated_it">Hate it!</string>
