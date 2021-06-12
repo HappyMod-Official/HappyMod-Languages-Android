@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--意大利-->
-    <string name="app_name">HappyMods</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -184,7 +184,7 @@
     <string name="Password">Password</string>
     <string name="Enteryourpassword">6-8 caratteri</string>
     <string name="passwordtip">Solo lettere A-Z, numeri (senza spazi o caratteri speciali). 6-8 caratteri.</string>
-    <string name="nicknametip">Questo nickname è già stato usato</string>
+    <string name="nicknametip">Questo pseudo è già stato usato.</string>
     <string name="Nickname">Nickname (come vorresti essere vist*)</string>
     <string name="Emailaddress">Indirizzo email</string>
     <string name="Enteryouremail">Inserisci il tuo indirizzo email</string>
@@ -352,8 +352,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Cerca l\'app che desideri caricare:</string>
     <string name="addapost">Aggiungi un post</string>
-    <string name="launch_des">Trova mod funzionanti al 100%!
-\nCaricate dagli utenti e verificate dagli utenti!</string>
+    <string name="launch_des">Trova mod funzionanti al 100%
+\nCaricate dagli utenti; Verificate dagli utenti!</string>
     <string name="requestamod">Richiedi una mod</string>
     <string name="uploadamod">Carica una mod</string>
     <!--boundle 新增-->
