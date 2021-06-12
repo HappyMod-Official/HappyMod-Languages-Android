@@ -202,7 +202,7 @@
     <string name="Passwordnew">Пароль (6-8 символов)</string>
     <string name="Emailnew">Эл. адрес</string>
     <string name="PhoneNumber">Номер телефона</string>
-    <string name="Unknown">Неизвестный</string>
+    <string name="Unknown">Неизвестно</string>
     <string name="enteryEmail">Введите адрес электронной почты</string>
     <string name="enteryPhone">Введите свой номер телефона</string>
     <string name="signuptips">Если вы забудете пароль, вам потребуется «Номер телефона» или «Электронная почта» для восстановления. Мы рекомендуем вам ввести их.</string>
