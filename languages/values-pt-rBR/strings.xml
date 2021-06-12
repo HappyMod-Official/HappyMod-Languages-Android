@@ -4,7 +4,8 @@
     <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
-    <string name="APP">Aplicativo</string>
+    <string name="APP">Aplicativo
+\n</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
@@ -62,7 +63,8 @@
     <string name="Moreversion">Mais Versões</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Versões Mais Recentes</string>
+    <string name="Moremods">Versões Mais Recentes
+\n</string>
     <string name="Submit">Enviar</string>
     <string name="Hated_it">Odeio!</string>
     <string name="Its_ok">Esta OK.</string>
@@ -212,20 +214,20 @@
     <string name="Comingsoon">Em breve</string>
     <string name="searchappyouwanttorequest">Pesquise o app que você quer pedir:</string>
     <string name="Addupload">Adicionar upload</string>
-    <string name="requesterror">Falha no envio, por favor tente novamente mais tarde.</string>
+    <string name="requesterror">Falha no envio, por favor tente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
     <string name="view">Ver</string>
     <string name="isthiswork">Ele funciona\?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">URL do APK Zippyshare/Mediafire:</string>
+    <string name="APKZippyshareurl">Link do APK Zippyshare/Mediafire:</string>
     <string name="Upload">Enviar</string>
     <string name="Uploadfail">Falha no envio.</string>
-    <string name="OBBDataurl">OBB/Data Zippyshare/Mediafire url: (opicional)</string>
+    <string name="OBBDataurl">Link OBB/Data Zippyshare/Mediafire: (opcional)</string>
     <string name="Youarereupload">Você está enviando:</string>
-    <string name="obbfail">Por favor insira o URL Zippyshare/Mediafire do arquivo obb.</string>
+    <string name="obbfail">Por favor insira o Link Zippyshare/Mediafire do arquivo obb.</string>
     <string name="Uploadsuccess">Enviado com sucesso</string>
     <string name="Requestsuccess">Solicitação bem-sucedida</string>
-    <string name="crash_toast_message">Desculpe, excessão APP, será saida, por favor envie seu relátorio de erro via email.</string>
+    <string name="crash_toast_message">Desculpe, a exceção do APP será encerrada, por favor, envie seu relatório de bug por e-mail.</string>
     <string name="error_file_des">Este arquivo foi deletado e está sendo re-instalado agora.</string>
     <string name="PopularInlast">Popular Nas Últimas 24 Horas</string>
     <string name="launch_des">Encontre Mods 100% Funcionando
@@ -233,17 +235,17 @@
     <string name="tipsinstallok">A instalação foi bem-sucedida.</string>
     <string name="Imagesmustbelessthan">Imagens devem ser menos de 10MB, por favor diminua as dimensões da imagem, salve novamente ou re-exporte seu arquivo, e tente enviar novamente.</string>
     <string name="opencommunitydes">Se você encontrar uma postagem adulta ou ruim de qualquer jeito, por favor pressione o botão reportar no canto superior direito, e nós vamos deletar a postagem! Por favor converse civilizadamente!</string>
-    <string name="Changetheimage">Mudar imagem&gt;&gt;</string>
+    <string name="Changetheimage">Mudar a imagem&gt;&gt;</string>
     <string name="Typethecodeinthebox">Digite o código na caixa</string>
     <string name="fix_tips_content">Você gostaria de se conectar a outro servidor para baixa-lo antes de remove-lo\?</string>
     <string name="please_loginanddownload">Por favor baixe este mod primeiro.</string>
-    <string name="enterthevideourlhere">Por favor insira o URL do vídeo do youtube aqui.</string>
+    <string name="enterthevideourlhere">Por favor insira o Link do vídeo do youtube aqui.</string>
     <string name="reportsuccess">Sua denuncia foi enviada com sucesso.</string>
-    <string name="apkfail">Por favor insira o URL Zippyshare/Mediafire do arquivo apk.</string>
-    <string name="worked">Funcionou</string>
-    <string name="downloadpush_remind">Mostrar Notificação Após Instalação</string>
+    <string name="apkfail">Por favor insira o Link Zippyshare/Mediafire do arquivo apk.</string>
+    <string name="worked">Funcionando</string>
+    <string name="downloadpush_remind">Mostrar Notificação depois da Instalação</string>
     <string name="messages">Mensagens</string>
-    <string name="RecommendMods">Recomendar Mods</string>
+    <string name="RecommendMods">Mods Recomendados</string>
     <string name="requestdetailserror">(50-4000 caracteres)</string>
     <string name="speaksomething">Por favor insira ao menos 20 caracteres</string>
     <string name="Verificationerror">Falha na verificação, por favor tente novamente.</string>
@@ -252,13 +254,13 @@
     <string name="fix_progress_title">Procurando servidores</string>
     <string name="fix_progress_content">Pode levar alguns minutos para achar o servidor mais rápido para você, por favor aguarde.</string>
     <string name="fix_failed_content">Não há servidores disponíveis para você no momento, por favor tente novamente mais tarde.</string>
-    <string name="fix_tips_failtitle">Sem mais servidores</string>
-    <string name="fix_ok">Tente-o</string>
+    <string name="fix_tips_failtitle">Não há mais servidores</string>
+    <string name="fix_ok">Tente</string>
     <string name="myvoted">Meus votos</string>
     <string name="inanhour">Por favor vote novamente em uma hora.</string>
     <string name="Review">Avaliar</string>
     <string name="myreply">Minhas respostas</string>
-    <string name="Post">Postar</string>
+    <string name="Post">Publicar</string>
     <string name="addavideo">Adicionar um vídeo</string>
     <string name="onlysupportyoutube">Somente vídeos do Youtube são suportados</string>
     <string name="searchorcreate">Procurar ou criar</string>
@@ -271,13 +273,13 @@
     <string name="report">Reportar</string>
     <string name="reply">Responder</string>
     <string name="reportfail">Sua denuncia falhou para ser enviada.</string>
-    <string name="replytowho">Responder X :</string>
+    <string name="replytowho">Responder a X :</string>
     <string name="replyfail">Resposta falhou</string>
     <string name="Reviews">Avaliações</string>
     <string name="success">Sucesso</string>
     <string name="sendfailed">Falhou</string>
     <string name="deletesuccess">Deletado com sucesso</string>
-    <string name="deletefailed">Falhou em deletar</string>
+    <string name="deletefailed">Falha ao deletar</string>
     <string name="Group">Grupo</string>
     <string name="repliedtouser">respondeu a</string>
     <string name="speaktoolong">O número de caracteres excede o limite, um máximo de 4000 caracteres podem ser inseridos.</string>
@@ -296,7 +298,7 @@
     <string name="h5_menu_share">Compartilhar</string>
     <string name="installplaywitouthti">Jogue instantâniamente sem precisar instalar</string>
     <string name="crash_dialog_title">Oops...</string>
-    <string name="crash_dialog_message">Desculpe, excessão APP, por favor envie seu relátorio de erro via email.</string>
+    <string name="crash_dialog_message">Desculpe, a exceção do APP será encerrada, por favor, envie seu relatório de bug por e-mail.</string>
     <string name="crash_dialog_feedback">Reportar erros</string>
     <string name="crash_dialog_restart">Reiniciar</string>
     <string name="init_fail">Inicialização falhou, por favor use uma VPN ou conecte a outra rede.</string>
@@ -309,18 +311,18 @@
     <string name="paidforfree">Pago de Graça</string>
     <string name="hotmods">Mods em Alta</string>
     <string name="hotrecommended">Recomendados em Alta</string>
-    <string name="searchappyouwanttoupload">Procure o aplicativo que você quer publicar:</string>
+    <string name="searchappyouwanttoupload">Procure o aplicativo que você quer publicar o mod:</string>
     <string name="addapost">Adicionar uma postagem</string>
     <string name="requestamod">Solicitar um mod</string>
     <string name="uploadamod">Publicar um mod</string>
     <string name="Installing">Instalando</string>
     <string name="bundleneedsfive">Desculpe, o Pacote necessita versão Android 5.0 e acima.</string>
-    <string name="parsingerror">Erro analisando apk ou cancelado.</string>
+    <string name="parsingerror">Erro ao analisar apk ou cancelado.</string>
     <string name="tipsinstallfail">Instalação falhou, por favor tente novamente.</string>
     <string name="maxmbperimage">Máximo de 10MB por imagem.</string>
     <string name="installfailed">Instalação Falhou.</string>
     <string name="miuides">Por favor ligue as Opçōes de Desenvolvedor, desligue optimização MIUI e tente novamente.</string>
-    <string name="newcoming">Novo chegando</string>
+    <string name="newcoming">Nova entrada</string>
     <string name="playdes">Jogar</string>
     <string name="recentlyplayed">Jogado recentemente</string>
     <string name="finditin">Encontre-o no X</string>
@@ -330,35 +332,35 @@
     <string name="toopenitquickntime">Para acha-lo fácil na próxima vez, você pode:</string>
     <string name="peoplealsoplaygames">Pessoas que jogam este jogo também gostam de</string>
     <string name="tagthisapp">Reportar este aplicativo</string>
-    <string name="appuploader">Applicativo publicado por</string>
-    <string name="votedresult">Você já votou para este aplicativo.</string>
+    <string name="appuploader">Aplicativo postado por</string>
+    <string name="votedresult">Você já votou neste app.</string>
     <string name="votedokok">Seu voto foi enviado com sucesso.</string>
-    <string name="addvideofaild">Inserir vídeo falhou! Por favor tenha certeza que sua rede é forte o suficiente para usar o Youtube e tente novamente.</string>
+    <string name="addvideofaild">Inserir vídeo falhou! Por favor tenha certeza que sua internet é boa o suficiente para usar o Youtube e tente novamente.</string>
     <string name="please_downlaodthisapp">Por favor instale este aplicativo primeiro.</string>
     <string name="safetitle">Aplicativo apk Garantido</string>
     <string name="safedes">Este apk passou o teste de segurança para vírus, malware. Foi usado uma assinatura virtual confiada e verificada.</string>
     <string name="bereported">Você o reportou.</string>
     <string name="pleasefinishyourdownloadingqueu">Por favor finalize sua fila de downloads primeiro.</string>
     <string name="adduploadvideo">Inserir vídeo: (opcional)</string>
-    <string name="uploadscreenshots">Inserir imagens (160*90)</string>
+    <string name="uploadscreenshots">Carregar capturas de tela (160 * 90)</string>
     <string name="scerrnshoteserror">Imagens são obrigatórias.</string>
     <string name="bannererror">Banner é obrigatório.</string>
-    <string name="pleaseentergoogleaddress">Por favor insira um id de aplicativo ou URL da Google Play.</string>
+    <string name="pleaseentergoogleaddress">Por favor insira um id de aplicativo ou Link da Google Play.</string>
     <string name="thisposthasbeendeleted">Essa postagem foi deletada.</string>
     <string name="add">Adicionar</string>
-    <string name="oagputc">Ou insira URL da Google Play para continuar</string>
+    <string name="oagputc">Ou insira Link da Google Play para continuar</string>
     <string name="description">Descrição:</string>
     <string name="uploadbanner">Inserir banner (720*406)</string>
     <string name="noedituploadtips">Você não pode enviar sem fazer nenhuma mudança.</string>
-    <string name="addexcusiveaddressixit">Esse apk já é existente.</string>
+    <string name="addexcusiveaddressixit">Esse apk já existe.</string>
     <string name="itisworkingonyourdevice">Esta funcionando em seu dispositivo\?</string>
-    <string name="no_working">Não Funcionando</string>
+    <string name="no_working">Não está funcionando</string>
     <string name="vote_it">Vote</string>
     <string name="novirus">Sem Vírus</string>
     <string name="nomalware">Sem Malware</string>
     <string name="nospyware">Sem Spyware</string>
     <string name="less">Menos</string>
-    <string name="votedandfail">Você ja avaliou, por favor cheque Minhas avaliações.</string>
+    <string name="votedandfail">Você ja avaliou, por favor cheque Minha lista de avaliações.</string>
     <string name="fastdownloader">Download Rápido</string>
     <string name="exit_tips">Pressione voltar novamente para fechar o jogo</string>
     <string name="h5_menu_shortcut">Adicionar A Tela Inicial</string>
@@ -366,16 +368,16 @@
     <string name="usehtgetspeed">Use HyperTorrent para conseguir 200%+ de velocidade de download.</string>
     <string name="speedfordownloading">200%~1,000%+ velocidade para baixar arquivos grandes do HappyMod.</string>
     <string name="Configuringip">Configurando IP disponível para você</string>
-    <string name="Donatedes">HappyMod é completamente grátis, e nós odiamos anúncios tanto quanto você！
+    <string name="Donatedes">HappyMod é totalmente gratuito e odiamos anúncios, tanto quanto você！
 \n
-\nPrecisamos de sua doação para fornecer downloads rápidos e seguros.
+\nPrecisamos da sua doação para fornecer downloads mais rápidos e seguros.
 \n
-\nPor favor seja paciênte e tente assistir o anúncio inteiro para completar a doação.
+\nPor favor, seja paciente e tente assistir os anúncios até o final, para concluir a doação.
 \n
-\nMuito Obrigado！</string>
-    <string name="clickno">Esse pedido será adicionado a fila de em breve novamente.</string>
+\nMuito Obrigado!</string>
+    <string name="clickno">Esta solicitação será adicionada à fila em breve novamente.</string>
     <string name="hashtags">Histórico de hashtags</string>
-    <string name="ToadyRecommend">Recomendado do Toady</string>
+    <string name="ToadyRecommend">Recomendação de hoje</string>
     <string name="cleanfdft">ótimo e rápido baixador para torrents</string>
     <string name="fasterspeed">Velocidade superior</string>
     <string name="nolimits">Sem limites</string>
@@ -383,8 +385,8 @@
     <string name="Clean">Ótimo</string>
     <string name="Cdnoadfree">Ótimo design, sem anúncios e 100% grátis!</string>
     <string name="wrhtdbf">Como usar HyperTorrent\?</string>
-    <string name="nothanks">Não obrigado</string>
-    <string name="Checkthenetwork">Verifique a rede</string>
+    <string name="nothanks">Não, obrigado</string>
+    <string name="Checkthenetwork">Verifique sua internet</string>
     <string name="Configuringipfailed">Configuração falhou, 8 IPs foram detectados como indisponíveis, por favor tente usar uma VPN.</string>
     <string name="viewstepdeti">Ver detalhes da etapa</string>
 </resources>
