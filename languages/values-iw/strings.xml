@@ -23,7 +23,8 @@
     <!--首页-->
     <string name="Paid">שלם</string>
     <string name="GAME">משחק</string>
-    <string name="APP">יישום</string>
+    <string name="APP">יישום
+\n</string>
     <string name="NEW">האחרונה</string>
     <string name="Categories">קפה</string>
     <string name="games">משחק</string>
@@ -96,7 +97,8 @@
     <string name="Moreversion">גרסאות נוספות</string>
     <string name="Recommend">מומלץ</string>
     <string name="Recommendmod">Mod מומלץ</string>
-    <string name="Moremods">עוד אופנות</string>
+    <string name="Moremods">ايهم
+\n</string>
     <!--评分-->
     <string name="Submit">שלח</string>
     <string name="Hated_it">שונא את זה!</string>
