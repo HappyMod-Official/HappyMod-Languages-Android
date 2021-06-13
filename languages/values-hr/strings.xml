@@ -21,8 +21,9 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">plaćen</string>
-    <string name="GAME">igra</string>
-    <string name="APP">Aplikacija</string>
+    <string name="GAME">IGRA</string>
+    <string name="APP">APLIKACIJA
+\n</string>
     <string name="NEW">Novi</string>
     <string name="Categories">Kategorije</string>
     <string name="games">Igre</string>
@@ -89,7 +90,8 @@
     <string name="Moreversion">Više inačice</string>
     <string name="Recommend">Preporuči</string>
     <string name="Recommendmod">Preporučeni mod</string>
-    <string name="Moremods">Najnovije verzije</string>
+    <string name="Moremods">NAJNOVIJE VERZIJE
+\n</string>
     <string name="Submit">podnijeti</string>
     <string name="Hated_it">Mrziti!</string>
     <string name="Disliked_it">Ne sviđa mi se.</string>
@@ -104,7 +106,7 @@
     <string name="nvisrti">nova verzija je spremna za instalaciju.</string>
     <string name="OPEN">OTVORENA</string>
     <string name="OK">u redu</string>
-    <string name="Loading">Učitavam......</string>
+    <string name="Loading">Učitavanje......</string>
     <string name="updata_tip">Koristite najnoviju stabilnu verziju aplikacije HappyMod</string>
     <string name="xzzb">Preuzmite službeni HappyMod.</string>
     <string name="Continue">Nastaviti</string>
@@ -144,13 +146,13 @@
     <string name="Patched">skrpan</string>
     <string name="Premium">Premija</string>
     <string name="Pro">profesionalac</string>
-    <string name="ModLite">Mod Lite</string>
+    <string name="ModLite">Lajt mod</string>
     <string name="Subscribed">pretplaćen</string>
     <string name="Prime">glavni</string>
     <string name="Plus">Plus</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Supstrat</string>
-    <string name="Debloated">Debloated</string>
+    <string name="Debloated">Debloiran</string>
     <string name="Donate">darovati</string>
     <string name="AOSPcompatible">AOSP kompatibilan</string>
     <string name="Cracked">napuknut</string>
@@ -159,7 +161,7 @@
     <string name="Endless">beskrajan</string>
     <string name="Invincible">Nepobjediv</string>
     <string name="Unlimitedhints">Neograničeni savjeti</string>
-    <string name="Megamod">Mega mod</string>
+    <string name="Megamod">Veliki mod</string>
     <string name="Full">puni</string>
     <string name="Username">Korisničko ime</string>
     <string name="Usernameinit">4-50 znakova</string>
@@ -179,7 +181,7 @@
     <string name="tuiat">Ovo korisničko ime je već zauzeto.</string>
     <string name="Login">Prijaviti se</string>
     <string name="Account">Račun</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Zaboravljena lozinka\?</string>
     <string name="loginwithaccount">ILI prijavite se sa svojim korisničkim imenom</string>
     <string name="newur">Registracija nove korisnice</string>
     <string name="Usernameinitnew">Korisničko ime (4-50 znakova)</string>
@@ -223,8 +225,8 @@
     <string name="Addrequest">Dodaj zahtjev</string>
     <string name="Myrequests">Moji zahtjevi</string>
     <string name="Myuploads">Moji prijenosi</string>
-    <string name="Updated">obnovljeno</string>
-    <string name="Comingsoon">Dolazi uskoro</string>
+    <string name="Updated">Ažurirano</string>
+    <string name="Comingsoon">Uskoro</string>
     <string name="searchappyouwanttorequest">Pretražite aplikaciju koju želite zatražiti:</string>
     <string name="Addupload">Dodaj prijenos</string>
     <string name="requestdetailhint">Prikaži više o svom zahtjevu. (Najmanje 50 znakova)</string>
@@ -233,7 +235,7 @@
     <string name="view">Pogled</string>
     <string name="isthiswork">Radi li to?</string>
     <string name="edit">Uredi</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="APKZippyshareurl">Url za APK Zippyshare/Mediafire url:</string>
     <string name="OBBDataurl">URL za OBB / podatke Zippyshare/Mediafire: (izborno)</string>
     <string name="Youarereupload">Prenosite:</string>
     <string name="Upload">Učitaj</string>
@@ -329,12 +331,12 @@
     <string name="Latestupdated">Najnovije ažurirano</string>
     <string name="paidforfree">Plaćeno besplatno</string>
     <string name="ToadyRecommend">Toady \'s preporuka</string>
-    <string name="hotmods">Hot Mods</string>
+    <string name="hotmods">Vrući modovi</string>
     <string name="hotrecommended">Preporučuje se vruće</string>
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Pretražite aplikaciju koju želite prenijeti:</string>
     <string name="addapost">Dodajte post</string>
-    <string name="launch_des">Pronađite 100% radne modove \ nPrebavljeni od strane korisnika; Provjerili korisnici!</string>
+    <string name="launch_des">Pronađite 100% radne modove.Pribavljeni i isprobani od strane korisnika</string>
     <string name="requestamod">Zatraži mod</string>
     <string name="uploadamod">Prenesite mod</string>
     <!--boundle 新增-->
@@ -355,7 +357,7 @@
     <string name="toopenitquickntime">Da biste ga sljedeći put brzo otvorili, molimo:</string>
     <string name="finditin">Pronađite ga u X</string>
     <string name="needhelp">Trebate pomoć?</string>
-    <string name="peoplealsoplaygames">Ljudi su igrali ovu igru također igrali:</string>
+    <string name="peoplealsoplaygames">Ljudi koji igraju ovu igru vole i</string>
     <string name="opencommunitydes">Ako pronađete odraslu osobu ili bilo kakav loš post, kliknite gumb za prijavu u gornjem desnom kutu posta, a mi ćemo prvi put izbrisati post i blokirati poster! Molim vas, govorite civilizirano!</string>
     <string name="myreviews">Moje kritike</string>
     <string name="tagthisapp">Označi ovu aplikaciju</string>
@@ -395,12 +397,12 @@
     <string name="nolimits">Bez granica</string>
     <string name="nslnfsl">Bez ograničenja brzine. Nema ograničenja veličine datoteke.</string>
     <string name="Clean">Čist</string>
-    <string name="Cdnoadfree">Čist dizajn, bez oglasa &amp; 100% besplatno!</string>
-    <string name="wrhtdbf">HyperTorrent preporučujemo za preuzimanje velikih datoteka.</string>
+    <string name="Cdnoadfree">Lijep dizajn, bez oglasa &amp; 100% besplatno!</string>
+    <string name="wrhtdbf">Kako koristiti HyperTorrent</string>
     <string name="nothanks">Ne hvala</string>
     <string name="Checkthenetwork">Provjerite mrežu</string>
     <string name="Configuringip">Konfiguriranje dostupne IP adrese za vas</string>
     <string name="Configuringipfailed">Konfiguracija nije uspjela, otkriveno je da 8 IP-ova nije dostupno, pokušajte koristiti VPN.</string>
-    <string name="Donatedes">HappyMod je potpuno besplatan, a mi mrzimo oglase koliko i vi！ \ n \ nTreba nam vaša donacija za brže i sigurnije preuzimanje. \ N \ nMolimo vas budite strpljivi i pokušajte pogledati cjelovite oglase kako biste dovršili donaciju. \ N \ nHvala vam！</string>
+    <string name="Donatedes">HappyMod je potpuno besplatan, a mi mrzimo oglase koliko i vi. Treba nam vaša donacija za brže i sigurnije preuzimanje.Molimo vas budite strpljivi i pokušajte pogledati cjelovite oglase kako biste dovršili donaciju. Hvala vam！</string>
     <string name="viewstepdeti">Pogledajte detalje koraka</string>
 </resources>
