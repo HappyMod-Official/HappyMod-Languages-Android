@@ -23,7 +23,7 @@
     <!--首页-->
     <string name="Paid">Pagato</string>
     <string name="GAME">Gioco</string>
-    <string name="APP">Applicazioni
+    <string name="APP">APP
 \n</string>
     <string name="NEW">Nuovi</string>
     <string name="Categories">Categorie</string>
@@ -164,7 +164,7 @@
     <string name="Pro">Versione Pro</string>
     <string name="ModLite">MOD Leggera</string>
     <string name="Subscribed">Iscritto/Abbonato</string>
-    <string name="Prime">Prime</string>
+    <string name="Prime">Primario</string>
     <string name="Plus">Versione Plus</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Strato Inferiore</string>
