@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Homecom">FelizMod.com</string>
+    <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
@@ -15,12 +15,12 @@
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
     <string name="SearchHint">Procurar..</string>
     <string name="Homeweb">Website Oficial</string>
-    <string name="Management">Gestão</string>
+    <string name="Management">Gerênciar</string>
     <string name="Settings">Configurações</string>
-    <string name="Feedback">Comentários</string>
+    <string name="Feedback">Feedback</string>
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
-    <string name="Checkforupdate">Checar por Atualização</string>
+    <string name="Checkforupdate">Procurar por Atualização</string>
     <string name="FollowusonTwitter">Siga-nos no Twitter</string>
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
     <string name="settings_auto_install">Instalar Automaticamente</string>
@@ -67,7 +67,7 @@
 \n</string>
     <string name="Submit">Enviar</string>
     <string name="Hated_it">Odeio!</string>
-    <string name="Its_ok">Esta OK.</string>
+    <string name="Its_ok">Está OK.</string>
     <string name="Liked_it">Gostei.</string>
     <string name="Loved_it">Amei!</string>
     <string name="share_happymod">Compartilhar ‘HappyMod’ via</string>
@@ -155,11 +155,11 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor, insira o e-mail ou número de telefone. Você tem algum problema com a redefinição de senha <u> entre em contato conosco </u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">FelizMod</string>
+    <string name="app_name">HappyMod</string>
     <string name="REFRESH">Recarregar</string>
     <string name="Recommended_Game_Mods">Mods de jogo recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
-    <string name="FollowusonFacebook">Nos siga no Facebook</string>
+    <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <string name="des_no_serach_result">Oops! Nenhum resultado encontrado.</string>
     <string name="Tryitlater">Tente mais tarde</string>
     <string name="Downloadistooslow">O Download está muito lento</string>
@@ -204,17 +204,17 @@
     <string name="passowrduploadok">Senha trocada com sucesso</string>
     <string name="logout">Sair</string>
     <string name="passwordsame">As duas senhas digitadas são diferentes</string>
-    <string name="PopularComments">Comentários populares</string>
-    <string name="Request">Pedir</string>
-    <string name="Youarerequesting">Você está pedindo:</string>
-    <string name="Addrequest">Adicionar pedido</string>
-    <string name="Myrequests">Meus pedidos</string>
+    <string name="PopularComments">Comentários Populares</string>
+    <string name="Request">Solicitar</string>
+    <string name="Youarerequesting">Você está solicitando:</string>
+    <string name="Addrequest">Adicionar solicitação</string>
+    <string name="Myrequests">Minhas solicitações</string>
     <string name="Myuploads">Meus uploads</string>
     <string name="Updated">Atualizado</string>
     <string name="Comingsoon">Em breve</string>
-    <string name="searchappyouwanttorequest">Pesquise o app que você quer pedir:</string>
+    <string name="searchappyouwanttorequest">Procure o app que você quer solicitar:</string>
     <string name="Addupload">Adicionar upload</string>
-    <string name="requesterror">Falha no envio, por favor tente mais tarde.</string>
+    <string name="requesterror">Falha no envio, por favor tente novamente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
     <string name="view">Ver</string>
     <string name="isthiswork">Ele funciona\?</string>
