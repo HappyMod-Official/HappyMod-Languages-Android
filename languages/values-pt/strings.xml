@@ -22,8 +22,9 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Pago</string>
-    <string name="GAME">JOGOS</string>
-    <string name="APP">APLICATIVO</string>
+    <string name="GAME">JOGO</string>
+    <string name="APP">APLICATIVO
+\n</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
@@ -32,7 +33,7 @@
     <string name="Recommended_Game_Mods">Mods de jogo recomendados</string>
     <string name="Hot_Game_Mods">Modos de jogo quente</string>
     <string name="Recommended_App_Mods">Modificações Recomendadas de Aplicativos</string>
-    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Hot_App_Mods">Mods de Aplicativos em Alta</string>
     <string name="Recommended_New_Mods">Novas Modificações Recomendadas</string>
     <string name="Last_Update_Mods">Ultimas atualizações</string>
     <string name="SearchHint">Procurar..</string>
@@ -57,7 +58,7 @@
     <string name="des_no_serach_result"> Opa! Nenhum resultado encontrado.</string>
     <!--下载管理页-->
     <string name="Downloads">Transferências</string>
-    <string name="Downloading">Downloading</string>
+    <string name="Downloading">Baixando</string>
     <string name="Finished">Acabado</string>
     <string name="No_Download">Nenhum arquivo encontrado.</string>
     <string name="Pause">Pausa</string>
@@ -70,7 +71,7 @@
     <string name="Version">Versão</string>
     <string name="Ratingsreviews">Classificações e amp; Rever</string>
     <string name="Tryitlater">Tente mais tarde</string>
-    <string name="Serviceisbusy">Conectando...</string>
+    <string name="Serviceisbusy">Conectando…</string>
     <!-- 下载删除的文字= -->
     <string name="Notice">Aviso prévio</string>
     <string name="deletethistask">Excluir este arquivo</string>
@@ -90,13 +91,14 @@
     <string name="Downloadboundle">Baixar BUNDLE</string>
     <string name="Downloaded">Baixado</string>
     <string name="Install">Instalar</string>
-    <string name="Connecting">Conectando ...</string>
+    <string name="Connecting">Conectando…</string>
     <string name="readmore">consulte Mais informação</string>
     <string name="modfeature">Informações de modificação:</string>
-    <string name="Moreversion">Mais versão</string>
+    <string name="Moreversion">Mais Versões</string>
     <string name="Recommend">Recomende</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Mais Mods</string>
+    <string name="Moremods">Mais Mods
+\n</string>
     <!--评分-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">Odeio!</string>
@@ -115,7 +117,7 @@
     <string name="nvisrti">nova versão está pronta para instalar.</string>
     <string name="OPEN">ABRIR</string>
     <string name="OK">Está bem</string>
-    <string name="Loading">Carregando......</string>
+    <string name="Loading">Carregando</string>
     <string name="updata_tip">Você está usando a última versão estável do HappyMod</string>
     <string name="xzzb">Faça o download oficial do HappyMod.</string>
     <string name="Continue">Continuar</string>
@@ -135,7 +137,7 @@
     <!--类别界面 -->
     <string name="Popular">Popular</string>
     <string name="s_New">Novo</string>
-    <string name="apps">Apps</string>
+    <string name="apps">Aplicativos</string>
     <!--大文件-->
     <string name="mergering">Processamento final</string>
     <string name="mergerwait">Processamento final (precisa de 1-2 minutos)</string>
@@ -195,7 +197,7 @@
     <string name="tuiat">Este nome de usuário já está sendo usado.</string>
     <string name="Login">Entrar</string>
     <string name="Account">Conta</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Esqueceu tua senha\?</string>
     <string name="loginwithaccount">OU faça login com seu nome de usuário</string>
     <string name="newur">Registo de novo utilizador</string>
     <string name="Usernameinitnew">Nome de usuário (4-50 caracteres)</string>
@@ -249,7 +251,7 @@
     <string name="view">Visão</string>
     <string name="isthiswork">Funciona?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="APKZippyshareurl">Link do APK Zippyshare/Mediafire:</string>
     <string name="OBBDataurl">URL de Zippyshare/Mediafire de OBB / Dados: (opcional)</string>
     <string name="Youarereupload">Você está fazendo o upload:</string>
     <string name="Upload">Envio</string>
@@ -328,7 +330,7 @@
     <string name="h5_menu_shortcut">Adicionar à tela inicial</string>
     <string name="installplaywitouthti">Reprodução instantânea sem precisar instalar</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Opa ...</string>
+    <string name="crash_dialog_title">Opa...</string>
     <string name="crash_toast_message">Desculpe, a exceção do APP será encerrada. Envie seu relatório de erro por e-mail.</string>
     <string name="crash_dialog_message">Desculpe, exceção APP, envie seu relatório de erro por e-mail.</string>
     <string name="crash_dialog_feedback">Reportar bugs</string>
@@ -345,7 +347,7 @@
     <string name="Latestupdated">Atualizado mais recentemente</string>
     <string name="paidforfree">Pago gratuitamente</string>
     <string name="ToadyRecommend">Toady recomenda</string>
-    <string name="hotmods">Hot Mods</string>
+    <string name="hotmods">Mods em Alta</string>
     <string name="hotrecommended">Hot Recomendado</string>
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Pesquise no aplicativo que você deseja enviar:</string>
@@ -371,7 +373,7 @@
     <string name="toopenitquickntime">Para abri-lo rapidamente da próxima vez, por favor:</string>
     <string name="finditin">Encontre no X</string>
     <string name="needhelp">Preciso de ajuda?</string>
-    <string name="peoplealsoplaygames">As pessoas jogaram este jogo também jogaram:</string>
+    <string name="peoplealsoplaygames">As pessoas que jogaram este jogo também jogaram</string>
     <string name="opencommunitydes">Se você encontrar um adulto ou qualquer postagem ruim, clique no botão denunciar no canto superior direito da postagem e iremos deletar a postagem e bloquear o postador na primeira vez! Por favor, fale civilizado!</string>
     <string name="myreviews">Meus comentários</string>
     <string name="tagthisapp">Sinalizar este aplicativo</string>
@@ -412,11 +414,17 @@
     <string name="nslnfsl">Sem limite de velocidade. Sem limite de tamanho de arquivo.</string>
     <string name="Clean">Limpar / limpo</string>
     <string name="Cdnoadfree">Design limpo, sem anúncios &amp; 100% grátis!</string>
-    <string name="wrhtdbf">Recomendamos o HyperTorrent para baixar arquivos grandes.</string>
+    <string name="wrhtdbf">Como usar HyperTorrent\?</string>
     <string name="nothanks">Não obrigado</string>
     <string name="Checkthenetwork">Verifique a rede</string>
     <string name="Configuringip">Configurando o IP disponível para você</string>
     <string name="Configuringipfailed">Falha na configuração, 8 IPs foram detectados como indisponíveis, tente usar VPN.</string>
-    <string name="Donatedes">HappyMod é totalmente gratuito, e odiamos anúncios tanto quanto você！ \ n \ nPrecisamos da sua doação para fornecer downloads mais rápidos e seguros. \ N \ nSeja paciente e tente assistir os anúncios completos para concluir a doação. \ N \ nObrigado！</string>
+    <string name="Donatedes">HappyMod é totalmente gratuito, e odiamos anúncios tanto quanto tu！
+\n
+\nPrecisamos da tua doação para fornecer downloads mais rápidos e seguros.
+\n
+\nSeja paciente e tente assistir os anúncios completos para concluir a doação. 
+\n
+\nObrigado！</string>
     <string name="viewstepdeti">Ver detalhes da etapa</string>
 </resources>
