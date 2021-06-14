@@ -77,7 +77,7 @@
     <string name="nvisrti">A nova versão está pronta para instalar.</string>
     <string name="OPEN">ABRIR</string>
     <string name="OK">OK</string>
-    <string name="Loading">Carregando...</string>
+    <string name="Loading">Carregando</string>
     <string name="xzzb">Por favor faça o download oficial do HappyMod.</string>
     <string name="Continue">Continuar</string>
     <string name="appobb">APK+OBB</string>
@@ -297,7 +297,7 @@
     <string name="h5_menu_reload">Recarregar</string>
     <string name="h5_menu_share">Compartilhar</string>
     <string name="installplaywitouthti">Jogue instantâniamente sem precisar instalar</string>
-    <string name="crash_dialog_title">Oops...</string>
+    <string name="crash_dialog_title">Oops.</string>
     <string name="crash_dialog_message">Desculpe, a exceção do APP será encerrada, por favor, envie seu relatório de bug por e-mail.</string>
     <string name="crash_dialog_feedback">Reportar erros</string>
     <string name="crash_dialog_restart">Reiniciar</string>
