@@ -23,7 +23,8 @@
     <!--首页-->
     <string name="Paid">Платное</string>
     <string name="GAME">Игра</string>
-    <string name="APP">Приложение</string>
+    <string name="APP">Приложение
+\n</string>
     <string name="NEW">Новый</string>
     <string name="Categories">Категории</string>
     <string name="games">Игры</string>
@@ -96,7 +97,8 @@
     <string name="Moreversion">Больше версий</string>
     <string name="Recommend">Рекомендовать</string>
     <string name="Recommendmod">Рекомендуемый мод</string>
-    <string name="Moremods">Последние версии</string>
+    <string name="Moremods">Больше модов
+\n</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
     <string name="Hated_it">Ненавижу это!</string>
@@ -115,7 +117,7 @@
     <string name="nvisrti">Новая версия готова к установке.</string>
     <string name="OPEN">ОТКРЫТЬ</string>
     <string name="OK">Хорошо</string>
-    <string name="Loading">Загрузка...</string>
+    <string name="Loading">Загрузка</string>
     <string name="updata_tip">Вы используете последнюю стабильную версию HappyMod</string>
     <string name="xzzb">Пожалуйста, скачайте официальный HappyMod.</string>
     <string name="Continue">Продолжить</string>
@@ -328,7 +330,7 @@
     <string name="h5_menu_shortcut">Добавить на домашний экран</string>
     <string name="installplaywitouthti">Мгновенная игра без необходимости установки</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Упс ...</string>
+    <string name="crash_dialog_title">Упс.</string>
     <string name="crash_toast_message">К сожалению, приложение будет закрыто, пожалуйста, отправьте свой отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_message">Произошла ошибка, пожалуйста, отправьте ваш отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_feedback">Сообщить об ошибках</string>
