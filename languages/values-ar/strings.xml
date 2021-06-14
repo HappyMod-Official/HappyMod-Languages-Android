@@ -23,7 +23,8 @@
     <!--首页-->
     <string name="Paid">مدفوعة</string>
     <string name="GAME">لعبة</string>
-    <string name="APP">تطبيق</string>
+    <string name="APP">تطبيق
+\n</string>
     <string name="NEW">جديد/جديدة</string>
     <string name="Categories">الفئات</string>
     <string name="games">العاب</string>
@@ -90,7 +91,8 @@
     <string name="Moreversion">المزيد من الإصدارات</string>
     <string name="Recommend">موصى به</string>
     <string name="Recommendmod">تعديل موصى به</string>
-    <string name="Moremods">آخر الاصدارات</string>
+    <string name="Moremods">آخر الاصدارات
+\n</string>
     <string name="Submit">تأكيد</string>
     <string name="Hated_it">اكرهه!</string>
     <string name="Disliked_it">لم يعجبني</string>
