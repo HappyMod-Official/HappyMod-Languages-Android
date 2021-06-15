@@ -16,7 +16,7 @@
     <string name="NEW">ახალი</string>
     <string name="games">თამაშები</string>
     <string name="REFRESH">განახლება</string>
-    <string name="Unable_to_connect_to_the_network">ვერ ვუკავშირდებით.</string>
+    <string name="Unable_to_connect_to_the_network">ვერ ვუკავშირდებით ინტერნეტს</string>
     <string name="Hot_Game_Mods">პოპულალური თამაშის მოდები</string>
     <string name="Recommended_App_Mods">რეკომენდირებული აპლიკაციის მოდები</string>
     <string name="Recommended_New_Mods">რეკომენდირებული ახალი მოდები</string>
@@ -57,8 +57,8 @@
     <string name="Downloadboundle">გადმოწერეთ შეკვრა</string>
     <string name="readmore">წაიკითხეთ მეტი</string>
     <string name="modfeature">მოდის ინფორმაცია:</string>
-    <string name="Moreversion">მეტი ვერსია(ები)</string>
-    <string name="Moremods">მეტი მოდი
+    <string name="Moreversion">მეტი ვერსიები)</string>
+    <string name="Moremods">მეტი მოდები
 \n</string>
     <string name="Disliked_it">არმომწონს.</string>
     <string name="Its_ok">კარგია.</string>
