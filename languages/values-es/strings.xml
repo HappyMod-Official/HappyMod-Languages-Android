@@ -22,8 +22,9 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--homepage-->
     <string name="Paid">De pago</string>
-    <string name="GAME">GTA V</string>
-    <string name="APP">Apps</string>
+    <string name="GAME">Juego</string>
+    <string name="APP">Apps
+\n</string>
     <string name="NEW">Nuevos</string>
     <string name="Categories">Categorías</string>
     <string name="games">Juegos</string>
@@ -96,7 +97,8 @@
     <string name="Moreversion">Más versiones</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Más mods</string>
+    <string name="Moremods">Más mods
+\n</string>
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">¡Lo odio!</string>
@@ -115,7 +117,7 @@
     <string name="nvisrti">La nueva versión está lista para instalar.</string>
     <string name="OPEN">ABIERTO</string>
     <string name="OK">DE ACUERDO</string>
-    <string name="Loading">Cargando......</string>
+    <string name="Loading">Cargando</string>
     <string name="updata_tip">Estás utilizando la última versión de HappyMod</string>
     <string name="xzzb">Por favor descargue HappyMod oficial.</string>
     <string name="Continue">Continuar</string>
@@ -329,7 +331,7 @@
     <string name="h5_menu_shortcut">Añadir a la pantalla principal</string>
     <string name="installplaywitouthti">Juego instantáneo sin tener que instalar</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Ups ...</string>
+    <string name="crash_dialog_title">Ups..</string>
     <string name="crash_toast_message">Lo sentimos, la excepción de la aplicación se cerrará, envíe su informe de error por correo electrónico.</string>
     <string name="crash_dialog_message">Lo sentimos, excepción de la aplicación, envíe su informe de error por correo electrónico.</string>
     <string name="crash_dialog_feedback">Informar errores</string>
