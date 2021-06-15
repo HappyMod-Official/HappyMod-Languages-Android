@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">Паид</string>
-    <string name="GAME">Гаме</string>
+    <string name="GAME">Igrica</string>
     <string name="APP">Апликација</string>
     <string name="NEW">Нев</string>
     <string name="Categories">Категорије</string>
@@ -42,10 +42,10 @@
     <string name="Translation">Транслатион</string>
     <string name="Share">Објави</string>
     <string name="Checkforupdate">Проверити ажурирање</string>
-    <string name="FollowusonTwitter">Пратите нас на Твиттер-у</string>
-    <string name="FollowusonFacebook"> Пратите нас на фејзбуку</string>
-    <string name="settings_network_remind">Упозорење мобилне мреже</string>
-    <string name="settings_auto_install">Аутоматски инсталирај</string>
+    <string name="FollowusonTwitter">Zapratite nas na Twitter-u</string>
+    <string name="FollowusonFacebook">Zapratite nas na Facebook-u</string>
+    <string name="settings_network_remind">Upozorenje za mobilnu mrežu</string>
+    <string name="settings_auto_install">Automatski instaliraj</string>
     <string name="Download_Directory">Довнлоад Дирецтори</string>
     <string name="settings_other">Друго</string>
     <string name="settings_clear_cache">Цлеар Цацхе</string>
@@ -86,10 +86,11 @@
     <string name="Connecting">Повезивање ...</string>
     <string name="readmore">Опширније</string>
     <string name="modfeature">Мод инфо:</string>
-    <string name="Moreversion">Море Версион</string>
+    <string name="Moreversion">Još verzija</string>
     <string name="Recommend">Рецомменд</string>
     <string name="Recommendmod">Препоручени мод</string>
-    <string name="Moremods">Најновије верзије</string>
+    <string name="Moremods">Najnovije verzije
+\n</string>
     <string name="Submit">прихвати</string>
     <string name="Hated_it">Мрзи то!</string>
     <string name="Disliked_it">Не свиђа ми се.</string>
@@ -104,7 +105,7 @@
     <string name="nvisrti">нова верзија је спремна за инсталацију.</string>
     <string name="OPEN">ОПЕН</string>
     <string name="OK">У реду</string>
-    <string name="Loading">Учитавање ......</string>
+    <string name="Loading">Učitavanje...</string>
     <string name="updata_tip">Користите најновију стабилну верзију апликације ХаппиМод</string>
     <string name="xzzb">Молимо преузмите званични ХаппиМод.</string>
     <string name="Continue">Настави</string>
