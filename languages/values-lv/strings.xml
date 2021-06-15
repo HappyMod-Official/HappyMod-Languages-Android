@@ -21,8 +21,9 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">Apmaksātais</string>
-    <string name="GAME">Spēle</string>
-    <string name="APP">App</string>
+    <string name="GAME">SPĒLE</string>
+    <string name="APP">APP
+\n</string>
     <string name="NEW">Jauns</string>
     <string name="Categories">Kategorijas</string>
     <string name="games">Spēles</string>
@@ -31,7 +32,7 @@
     <string name="Recommended_Game_Mods">Ieteicamie spēļu moduļi</string>
     <string name="Hot_Game_Mods">Karstā spēles modi</string>
     <string name="Recommended_App_Mods">Ieteicamie lietotņu moduļi</string>
-    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Hot_App_Mods">Karsti App Moduļi</string>
     <string name="Recommended_New_Mods">Ieteicamie jaunie moduļi</string>
     <string name="Last_Update_Mods">Jaunākie atjauninājumi</string>
     <string name="SearchHint">Meklēt..</string>
@@ -46,7 +47,7 @@
     <string name="FollowusonFacebook">Sekojiet mums Facebook</string>
     <string name="settings_network_remind">Mobilā tīkla brīdinājums</string>
     <string name="settings_auto_install">Automātiski instalēt</string>
-    <string name="Download_Directory">Lejupielādēt direktoriju</string>
+    <string name="Download_Directory">Lejupielādēs direktorija</string>
     <string name="settings_other">Citi</string>
     <string name="settings_clear_cache">Iztīrīt kešatmiņu</string>
     <string name="Clean_up_the_complete">Kešatmiņa ir notīrīta.</string>
@@ -58,14 +59,14 @@
     <string name="Pause">Pauze</string>
     <string name="Waiting_in_queue">Gaida rindā</string>
     <string name="Completed">Pabeigts</string>
-    <string name="UnZiping">Ekstrahēšana</string>
+    <string name="UnZiping">Izpakošana</string>
     <string name="UnZip_succeed">Pabeigta ieguve</string>
     <string name="Rate">Likme</string>
     <string name="Rated">Novērtēts</string>
     <string name="Version">Versija</string>
     <string name="Ratingsreviews">Reitingi</string>
     <string name="Tryitlater">Izmēģiniet vēlāk</string>
-    <string name="Serviceisbusy">Savieno ...</string>
+    <string name="Serviceisbusy">Savieno…</string>
     <string name="Notice">Paziņojums</string>
     <string name="deletethistask">Dzēst šo failu</string>
     <string name="Cancel">Atcelt</string>
@@ -86,10 +87,11 @@
     <string name="Connecting">Pievieno…</string>
     <string name="readmore">Lasīt vairāk</string>
     <string name="modfeature">Moda informācija:</string>
-    <string name="Moreversion">Vairāk versiju</string>
+    <string name="Moreversion">Vairāk versijas</string>
     <string name="Recommend">Ieteikt</string>
     <string name="Recommendmod">Ieteicamais Mod</string>
-    <string name="Moremods">Jaunākā versija</string>
+    <string name="Moremods">Vēl moduļu
+\n</string>
     <string name="Submit">Iesniegt</string>
     <string name="Hated_it">Ienīstu to!</string>
     <string name="Disliked_it">Nepatīk.</string>
@@ -105,7 +107,7 @@
     <string name="nvisrti">jauna versija ir gatava instalēšanai.</string>
     <string name="OPEN">OPEN</string>
     <string name="OK">labi</string>
-    <string name="Loading">Lādējas...</string>
+    <string name="Loading">Ielādējas</string>
     <string name="updata_tip">Jūs izmantojat jaunāko stabilo HappyMod versiju</string>
     <string name="xzzb">Lūdzu, lejupielādējiet oficiālo HappyMod.</string>
     <string name="Continue">Turpināt</string>
@@ -144,8 +146,8 @@
     <string name="Unlocked">Atslēgts</string>
     <string name="Patched">Patch</string>
     <string name="Premium">Premium</string>
-    <string name="Pro">Pro</string>
-    <string name="ModLite">Mod Lite</string>
+    <string name="Pro">Profesionālās</string>
+    <string name="ModLite">Vieglie moduļi</string>
     <string name="Subscribed">Abonēts</string>
     <string name="Prime">Galvenais</string>
     <string name="Plus">Plus</string>
@@ -160,7 +162,7 @@
     <string name="Endless">Bezgalīgs</string>
     <string name="Invincible">Neuzvarams</string>
     <string name="Unlimitedhints">Neierobežots padoms</string>
-    <string name="Megamod">Mega mod</string>
+    <string name="Megamod">Mega moduļi</string>
     <string name="Full">Pilna</string>
     <string name="Username">Lietotājvārds</string>
     <string name="Usernameinit">4-50 rakstzīmes</string>
@@ -180,7 +182,7 @@
     <string name="tuiat">Šis lietotājvārds jau ir aizņemts.</string>
     <string name="Login">Pieslēgties</string>
     <string name="Account">Konts</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Aizmirsi paroli\?</string>
     <string name="loginwithaccount">VAI piesakieties ar savu lietotājvārdu</string>
     <string name="newur">Jauna lietotāja reģistrācija</string>
     <string name="Usernameinitnew">Lietotājvārds (4–50 rakstzīmes)</string>
@@ -214,7 +216,7 @@
     <string name="Loginfailed">Pieslēgšanās neizdevās.</string>
     <string name="me">Es</string>
     <string name="Avatar">Avatar</string>
-    <string name="Myposts">manas ziņas</string>
+    <string name="Myposts">Manas ziņas</string>
     <string name="passowrduploadok">Parole ir veiksmīgi mainīta</string>
     <string name="logout">Izlogoties</string>
     <string name="passwordsame">Divas ievadītās paroles ir pretrunīgas</string>
@@ -313,7 +315,7 @@
     <string name="h5_menu_shortcut">Pievienojiet sākuma ekrānam</string>
     <string name="installplaywitouthti">Tūlītēja atskaņošana bez instalēšanas</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Hmm ...</string>
+    <string name="crash_dialog_title">Hmm.</string>
     <string name="crash_toast_message">Diemžēl no APP izņēmuma tiks izbeigts. Lūdzu, iesniedziet ziņojumu par kļūdu pa e-pastu.</string>
     <string name="crash_dialog_message">Atvainojiet, APP izņēmums. Lūdzu, iesniedziet ziņojumu par kļūdu pa e-pastu.</string>
     <string name="crash_dialog_feedback">Ziņot par kļūdām</string>
@@ -353,10 +355,10 @@
     <string name="todayhotgame">Šodien ir karsts</string>
     <string name="newcoming">Jauns ienākošais</string>
     <string name="recentlyplayed">Nesen spēlēju</string>
-    <string name="toopenitquickntime">Lai ātri atvērtu nākamreiz, lūdzu, veiciet tālāk norādītās darbības.</string>
+    <string name="toopenitquickntime">Lai ātri atvērtu nākamreiz, lūdzu, veiciet tālāk norādītās darbības:</string>
     <string name="finditin">Atrodiet to X</string>
     <string name="needhelp">Vajadzīga palīdzība?</string>
-    <string name="peoplealsoplaygames">Cilvēki spēlēja šo spēli arī spēlēja:</string>
+    <string name="peoplealsoplaygames">Cilvēki spēlēja šo spēli arī spēlēja</string>
     <string name="opencommunitydes">Ja atrodat pieaugušo vai kādu sliktu ziņu, lūdzu, noklikšķiniet uz ziņojuma pogas ziņas augšējā labajā stūrī, un mēs pirmo reizi izdzēsīsim ziņu un bloķēsim plakātu! Lūdzu, runājiet civilizēti!</string>
     <string name="myreviews">Manas atsauksmes</string>
     <string name="tagthisapp">Atzīmēt šo lietotni</string>
@@ -397,11 +399,17 @@
     <string name="nslnfsl">Ātruma ierobežojuma nav. Nav faila lieluma ierobežojuma.</string>
     <string name="Clean">Tīrs</string>
     <string name="Cdnoadfree">Tīrs dizains, bez reklāmas &amp; 100% bez maksas!</string>
-    <string name="wrhtdbf">Lielu failu lejupielādei iesakām HyperTorrent.</string>
+    <string name="wrhtdbf">Kā izmantot HyperTorrent\?</string>
     <string name="nothanks">Nē paldies</string>
     <string name="Checkthenetwork">Pārbaudiet tīklu</string>
     <string name="Configuringip">Pieejamā IP konfigurēšana</string>
     <string name="Configuringipfailed">Konfigurēšana neizdevās, tiek konstatēts, ka 8 IP nav pieejami. Lūdzu, mēģiniet izmantot VPN.</string>
-    <string name="Donatedes">HappyMod ir pilnīgi bez maksas, un mēs tikpat ļoti ienīstam reklāmas kā jūs.！ \ N \ nMums ir nepieciešams jūsu ziedojums, lai nodrošinātu ātrāku un drošāku lejupielādi. \ N \ nLūdzu, esiet pacietīgs un mēģiniet noskatīties visas reklāmas, lai pabeigtu ziedojumu. \ N \ nPaldies！</string>
+    <string name="Donatedes">HappyMod ir pilnīgi bez maksas un mēs tikpat ļoti ienīstam reklāmas kā jūs.
+\n
+\nMums ir nepieciešams jūsu ziedojums, lai nodrošinātu ātrāku un drošāku lejupielādi.
+\n
+\nLūdzu, esiet pacietīgs un mēģiniet noskatīties visas reklāmas, lai pabeigtu ziedojumu.
+\n
+\nPaldies！</string>
     <string name="viewstepdeti">Skatīt detalizētu informāciju par darbību</string>
 </resources>
