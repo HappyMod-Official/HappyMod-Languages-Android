@@ -22,7 +22,7 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Pagato</string>
-    <string name="GAME">Gioco</string>
+    <string name="GAME">GIOCO</string>
     <string name="APP">APP
 \n</string>
     <string name="NEW">Nuovi</string>
@@ -50,7 +50,7 @@
     <!--设置页-->
     <string name="settings_network_remind">Avviso di Rete Mobile</string>
     <string name="settings_auto_install">Installa Automaticamente</string>
-    <string name="Download_Directory">Scarica la directory</string>
+    <string name="Download_Directory">Percorso di Download</string>
     <string name="settings_other">Altro</string>
     <string name="settings_clear_cache">Cancella la Cache</string>
     <string name="Clean_up_the_complete">La cache è stata cancellata.</string>
@@ -67,7 +67,7 @@
     <string name="UnZiping">Estrazione</string>
     <string name="UnZip_succeed">Estrazione terminata</string>
     <string name="Rate">Dai un Voto</string>
-    <string name="Rated">Fatto con successo</string>
+    <string name="Rated">Valutato</string>
     <string name="Version">Versione</string>
     <string name="Ratingsreviews">Giudizi &amp; Recensioni</string>
     <string name="Tryitlater">Riprova più tardi</string>
@@ -90,12 +90,12 @@
     <string name="Downloaddata">Scarica(APK+DATA)</string>
     <string name="Downloadboundle">Scaricare il BUNDLE</string>
     <string name="Downloaded">File Scaricati</string>
-    <string name="Install">Installare</string>
+    <string name="Install">Installa</string>
     <string name="Connecting">Collegamento…</string>
     <string name="readmore">Leggi di più</string>
     <string name="modfeature">Informazioni sulla mod:</string>
     <string name="Moreversion">Più Versioni</string>
-    <string name="Recommend">Consiglia</string>
+    <string name="Recommend">Consigliato</string>
     <string name="Recommendmod">Mod Consigliata</string>
     <string name="Moremods">Altre mods
 \n</string>
@@ -112,14 +112,14 @@
     <string name="share_text">Scarica Mod funzionanti al 100% con @HappyMod! 
 \nhttps: //www.happymod.com/</string>
     <!--修改路径-->
-    <string name="pref_location">Posizione di Archiviazione</string>
+    <string name="pref_location">Percorso di Archiviazione</string>
     <!--update -->
     <string name="force_des">MOD Funzionanti al 100%</string>
     <string name="nvisrti">La nuova versione è pronta per l\'installazione.</string>
-    <string name="OPEN">Aperto</string>
+    <string name="OPEN">APRI</string>
     <string name="OK">OK</string>
     <string name="Loading">Caricamento in corso...</string>
-    <string name="updata_tip">Stai utilizzando l\'ultima versione stable di HappyMod</string>
+    <string name="updata_tip">Stai utilizzando l\'ultima versione stabile di HappyMod</string>
     <string name="xzzb">Si prega di scaricare HappyMod dal sito ufficiale.</string>
     <string name="Continue">Continua</string>
     <string name="appobb">APK+OBB</string>
@@ -129,10 +129,10 @@
     <string name="Yes">Sì</string>
     <string name="bcdes">Libera lo spazio di archiviazione e riprova.</string>
     <string name="need">Disponibile:</string>
-    <string name="No_enough_space_left_on_device">Non c\'è abbastanza spazio. Bisogni di:</string>
+    <string name="No_enough_space_left_on_device">Non c\'è abbastanza spazio. Sono necessari:</string>
     <string name="updatenow">Aggiorna Ora</string>
     <string name="updateFail">Scaricamento fallito. Si prega di chiudere e riaprire l\'app</string>
-    <string name="initializing">Inizializzando</string>
+    <string name="initializing">Inizializzazione</string>
     <string name="Retrying">Riprovando</string>
     <string name="language">Lingua</string>
     <!--类别界面 -->
@@ -348,7 +348,7 @@
     <string name="PopularInlast">Popolare nelle ultime 24 ore</string>
     <string name="Latestupdated">Aggiornata l\'ultima volta il</string>
     <string name="paidforfree">App a Pagamento-Gratis</string>
-    <string name="ToadyRecommend">Toady\'s consiglia</string>
+    <string name="ToadyRecommend">Consigliati di oggi</string>
     <string name="hotmods">Mod Popolari</string>
     <string name="hotrecommended">Molto Consigliato</string>
     <!--upload 新增-->
@@ -359,7 +359,7 @@
     <string name="requestamod">Richiedi una mod</string>
     <string name="uploadamod">Carica una mod</string>
     <!--boundle 新增-->
-    <string name="Installing">Installando</string>
+    <string name="Installing">Installazione</string>
     <string name="bundleneedsfive">Siamo spiacenti, il pacchetto richiede Android 5.0 o superiore.</string>
     <string name="parsingerror">Errore durante l\'analisi dell\'apk o annullato.</string>
     <string name="tipsinstallok">L\'installazione è andata a buon fine.</string>
@@ -371,13 +371,13 @@
     <string name="miuides">Attiva le Opzioni sviluppatore, disattiva l\'ottimizzazione MIUI e riprova.</string>
     <string name="playdes">Gioca</string>
     <string name="todayhotgame">Popolari oggi</string>
-    <string name="newcoming">Nuovo arrivo</string>
+    <string name="newcoming">Nuovi in arrivo</string>
     <string name="recentlyplayed">Giocato recentemente</string>
     <string name="toopenitquickntime">Per aprirlo rapidamente la prossima volta, puoi:</string>
     <string name="finditin">Trovalo in X</string>
     <string name="needhelp">Hai bisogno di aiuto\?</string>
-    <string name="peoplealsoplaygames">Le persone che hanno giocato a questo gioco piace anche</string>
-    <string name="opencommunitydes">Se trovi un post per adulti o un post illecito, fai clic sul pulsante di segnalazione nell\'angolo in alto a destra del post, elimineremo il post e bloccheremo il autore dell\'immagine per la prima volta! Per favore, parla rispettosamente!</string>
+    <string name="peoplealsoplaygames">Alle persone che hanno giocato questo gioco piace anche</string>
+    <string name="opencommunitydes">Se trovi un post per adulti o un post illecito, fai clic sul pulsante di segnalazione nell\'angolo in alto a destra del post, elimineremo il post e bloccheremo il autore dell\'immagine in un primo momento! Per favore, parla rispettosamente!</string>
     <string name="myreviews">Le mie recensioni</string>
     <string name="tagthisapp">Segnala quest\'app</string>
     <string name="appuploader">App caricata da</string>
