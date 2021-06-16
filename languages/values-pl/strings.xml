@@ -22,7 +22,8 @@
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">Płatny</string>
     <string name="GAME">Gra</string>
-    <string name="APP">Aplikacja</string>
+    <string name="APP">Aplikacja
+\n</string>
     <string name="NEW">Nowy</string>
     <string name="Categories">Kategorie</string>
     <string name="games">Gry</string>
@@ -82,14 +83,15 @@
     <string name="Downloaddata">Pobierz (APK+DATA)</string>
     <string name="Downloadboundle">Pobierz BUNDLE</string>
     <string name="Downloaded">Pobrane</string>
-    <string name="Install">zainstalować</string>
+    <string name="Install">Zainstalować aplikacje</string>
     <string name="Connecting">Łączenie…</string>
     <string name="readmore">Czytaj więcej</string>
     <string name="modfeature">Informacje o modyfikacji:</string>
     <string name="Moreversion">Więcej wersji</string>
     <string name="Recommend">Polecane</string>
     <string name="Recommendmod">Zalecany mod</string>
-    <string name="Moremods">Najnowsze wersje</string>
+    <string name="Moremods">Więcej modyfikacji
+\n</string>
     <string name="Submit">Zatwierdź</string>
     <string name="Hated_it">Nienawidzę tego!</string>
     <string name="Disliked_it">Nie lubię tego.</string>
@@ -100,11 +102,11 @@
     <string name="share_subject">Uzyskaj HappyMod</string>
     <string name="share_text">Pobierz mody działające na 100% z @HappyMod https://www.happymod.com/</string>
     <string name="pref_location">Miejsce przechowywania</string>
-    <string name="force_des">100% modów roboczych</string>
+    <string name="force_des">100% działających modów</string>
     <string name="nvisrti">nowa wersja jest gotowa do instalacji.</string>
     <string name="OPEN">OTWARTY</string>
     <string name="OK">dobrze</string>
-    <string name="Loading">Ładuję......</string>
+    <string name="Loading">Ładuję...</string>
     <string name="updata_tip">Używasz najnowszej stabilnej wersji HappyMod</string>
     <string name="xzzb">Pobierz oficjalny HappyMod.</string>
     <string name="Continue">dalej</string>
@@ -334,7 +336,7 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Wyszukaj aplikację, którą chcesz przesłać:</string>
     <string name="addapost">Dodaj post</string>
-    <string name="launch_des">Znajdź 100% działających modów \ nPrzesłane przez użytkowników; Zweryfikowane przez użytkowników!</string>
+    <string name="launch_des">Znajdź 100% działających modyfikacji. Przesłane przez użytkowników; Zweryfikowane przez użytkowników!</string>
     <string name="requestamod">Poproś o mod</string>
     <string name="uploadamod">Prześlij mod</string>
     <!--boundle 新增-->
@@ -401,6 +403,6 @@
     <string name="Checkthenetwork">Sprawdź sieć</string>
     <string name="Configuringip">Konfigurowanie dostępnego adresu IP dla Ciebie</string>
     <string name="Configuringipfailed">Konfiguracja nie powiodła się, wykryto 8 adresów IP, które są niedostępne, spróbuj użyć VPN.</string>
-    <string name="Donatedes">HappyMod jest całkowicie darmowy i nienawidzimy reklam tak samo jak Ty！ \ n \ nPotrzebujemy Twojej darowizny, aby zapewnić szybsze i bezpieczniejsze pobieranie. \ N \ nProsimy o cierpliwość i spróbuj obejrzeć pełne reklamy, aby przekazać darowiznę. \ N \ dziękuję！</string>
+    <string name="Donatedes">HappyMod jest całkowicie darmowy i nienawidzimy reklam tak samo jak Ty！Potrzebujemy Twojej darowizny, aby zapewnić szybsze i bezpieczniejsze pobieranie. Prosimy o cierpliwość i spróbuj obejrzeć całe reklamy, aby przekazać darowiznę. Dziękuję！</string>
     <string name="viewstepdeti">Zobacz szczegóły kroku</string>
 </resources>
