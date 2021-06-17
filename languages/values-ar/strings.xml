@@ -45,8 +45,8 @@
     <string name="Share">شارك</string>
     <string name="Checkforupdate">التحقق من وجود تحديثات</string>
     <string name="FollowusonTwitter">تابعنا على تويتر</string>
-    <string name="FollowusonFacebook"> تابعنا على فيسبوك</string>
-    <string name="settings_network_remind">التذكير بشأن بيانات الهاتف</string>
+    <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
+    <string name="settings_network_remind">تنيه شبكةالجوال</string>
     <string name="settings_auto_install">تثبيت تلقائي</string>
     <string name="Download_Directory">مسار التنزيلات</string>
     <string name="settings_other">اخرى</string>
