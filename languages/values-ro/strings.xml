@@ -23,7 +23,8 @@
     <!--首页-->
     <string name="Paid">Plătit</string>
     <string name="GAME">Joc</string>
-    <string name="APP">Aplicație</string>
+    <string name="APP">Aplicație
+\n</string>
     <string name="NEW">Nou</string>
     <string name="Categories">Categorii</string>
     <string name="games">Jocuri</string>
