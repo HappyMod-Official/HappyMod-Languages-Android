@@ -22,7 +22,8 @@
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">Паид</string>
     <string name="GAME">Igrica</string>
-    <string name="APP">Апликација</string>
+    <string name="APP">Апликација
+\n</string>
     <string name="NEW">Нев</string>
     <string name="Categories">Категорије</string>
     <string name="games">Игре</string>
