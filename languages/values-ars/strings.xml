@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ماين كرافت</string>
+    <string name="Paid">مدفوع</string>
+    <string name="GAME">لعبة</string>
+    <string name="APP">برنامج
+\n</string>
+    <string name="Categories">فئات مال كس امك</string>
 </resources>
