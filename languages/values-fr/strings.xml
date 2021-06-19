@@ -23,7 +23,8 @@
     <!--首页-->
     <string name="Paid">Payé</string>
     <string name="GAME">Jeu</string>
-    <string name="APP">Application</string>
+    <string name="APP">Application
+\n</string>
     <string name="NEW">Nouveau</string>
     <string name="Categories">Catégories</string>
     <string name="games">Jeux</string>
@@ -96,7 +97,8 @@
     <string name="Moreversion">Plus de version(s)</string>
     <string name="Recommend">Recommander</string>
     <string name="Recommendmod">Mod recommandé</string>
-    <string name="Moremods">Plus de mods</string>
+    <string name="Moremods">Plus de mods
+\n</string>
     <!--评分-->
     <string name="Submit">Soumettre</string>
     <string name="Hated_it">Je déteste!</string>
