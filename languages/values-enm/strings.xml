@@ -1,2 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Happy Mood</string>
+    <string name="Homecom">HappyMod.com</string>
+    <string name="facebook_app_id">658182831284939</string>
+    <string name="Paid">Paid</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Translation">Translation</string>
+    <string name="Share">Share</string>
+    <string name="NEW">New🌈</string>
+    <string name="APP">Application
+\n</string>
+    <string name="Categories">Categorizes</string>
+    <string name="games">Games</string>
+    <string name="REFRESH">Refresh🌞</string>
+    <string name="Recommended_Game_Mods">Recommended Game Mods.🤷‍♂️</string>
+    <string name="Hot_Game_Mods">Hot Game Mods¿</string>
+    <string name="Recommended_App_Mods">Recommended App Mods</string>
+    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Recommended_New_Mods">Recommended New Mods</string>
+    <string name="Last_Update_Mods">Latest Updates</string>
+    <string name="SearchHint">Search..</string>
+    <string name="Homeweb">Official Website</string>
+    <string name="Management">Management</string>
+    <string name="Settings">Settings</string>
+    <string name="GAME">GAME🎮</string>
+    <string name="Unable_to_connect_to_the_network">Unable to access internet.</string>
+</resources>
