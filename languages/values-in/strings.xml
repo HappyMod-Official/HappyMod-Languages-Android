@@ -23,7 +23,8 @@
     <!--首页-->
     <string name="Paid">Dibayar</string>
     <string name="GAME">PERMAINAN</string>
-    <string name="APP">APLIKASI</string>
+    <string name="APP">APLIKASI
+\n</string>
     <string name="NEW">BARU</string>
     <string name="Categories">Kategori</string>
     <string name="games">Pertandingan</string>
