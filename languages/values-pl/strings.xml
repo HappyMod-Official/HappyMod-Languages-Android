@@ -102,7 +102,7 @@
     <string name="share_subject">Uzyskaj HappyMod</string>
     <string name="share_text">Pobierz mody działające na 100% z @HappyMod https://www.happymod.com/</string>
     <string name="pref_location">Miejsce przechowywania</string>
-    <string name="force_des">100% działających modów</string>
+    <string name="force_des">100% Działających Aplikacji</string>
     <string name="nvisrti">nowa wersja jest gotowa do instalacji.</string>
     <string name="OPEN">OTWARTY</string>
     <string name="OK">dobrze</string>
@@ -314,7 +314,7 @@
     <string name="h5_menu_shortcut">Dodaj do ekranu głównego</string>
     <string name="installplaywitouthti">Natychmiastowa gra bez konieczności instalacji</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Ups ...</string>
+    <string name="crash_dialog_title">Ups . . .</string>
     <string name="crash_toast_message">Przepraszamy, wyjątek APP zostanie zamknięty, prześlij zgłoszenie błędu e-mailem.</string>
     <string name="crash_dialog_message">Przepraszamy, wyjątek APP, prześlij zgłoszenie błędu przez e-mail.</string>
     <string name="crash_dialog_feedback">Zgłoś błędy</string>
@@ -336,7 +336,9 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Wyszukaj aplikację, którą chcesz przesłać:</string>
     <string name="addapost">Dodaj post</string>
-    <string name="launch_des">Znajdź 100% działających modyfikacji. Przesłane przez użytkowników; Zweryfikowane przez użytkowników!</string>
+    <string name="launch_des">Możesz znaleźć w 100% działajacych aplikacji.
+\nUpublikowanych przez użytkowników,
+\noraz zweryfikowanych przez użytkowników!</string>
     <string name="requestamod">Poproś o mod</string>
     <string name="uploadamod">Prześlij mod</string>
     <!--boundle 新增-->
