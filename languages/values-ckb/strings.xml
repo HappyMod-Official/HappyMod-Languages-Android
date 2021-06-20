@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="NEW">نوێ</string>
+    <string name="Homecom">Happymod.com</string>
+    <string name="GAME">یاری</string>
+    <string name="REFRESH">نوێکردنەوە</string>
+    <string name="Recommended_Game_Mods">یارییە کڕدراوە پێشنیارکراوەکان</string>
+    <string name="app_name">دڵخۆشی</string>
+    <string name="facebook_app_id">658182831284939</string>
+    <string name="Paid">کڕدراو</string>
+    <string name="Categories">ژانەرەکان</string>
+    <string name="games">یارییەکان</string>
+    <string name="Hot_Game_Mods">گرنگترین یارییە کڕدراوەکان</string>
+    <string name="APP">ئەپڵیکەیشن
+\n</string>
+    <string name="Unable_to_connect_to_the_network">نەتوانرا پەیوەندی بکرێت بە ئینتەرنێتەوە.</string>
+</resources>
