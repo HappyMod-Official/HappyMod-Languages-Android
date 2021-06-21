@@ -24,7 +24,7 @@
     <string name="GAME">JUEGOS</string>
     <string name="APP">APLICACIÓN
 \n</string>
-    <string name="NEW">NUEVO</string>
+    <string name="NEW">"NUEVO "</string>
     <string name="Categories">Categorias</string>
     <string name="games">juegos</string>
     <string name="REFRESH">RECARGAR</string>
