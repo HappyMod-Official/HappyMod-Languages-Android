@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HappyMood</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -20,17 +20,16 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">De pago</string>
-    <string name="GAME">JUEGOS</string>
-    <string name="APP">APLICACIÓN
-\n</string>
-    <string name="NEW">"NUEVO "</string>
-    <string name="Categories">Categorias</string>
-    <string name="games">juegos</string>
-    <string name="REFRESH">RECARGAR</string>
-    <string name="Unable_to_connect_to_the_network">Incapaz de conectarse a la red</string>
-    <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
-    <string name="Hot_Game_Mods">Mods de juegos populares</string>
+    <string name="Paid">Paid</string>
+    <string name="GAME">Game</string>
+    <string name="APP">App</string>
+    <string name="NEW">New</string>
+    <string name="Categories">Categories</string>
+    <string name="games">Games</string>
+    <string name="REFRESH">Refresh</string>
+    <string name="Unable_to_connect_to_the_network">Unable to connect to the network</string>
+    <string name="Recommended_Game_Mods">Recommended mods for games</string>
+    <string name="Hot_Game_Mods">Popular mods for games</string>
     <string name="Recommended_App_Mods">Mods de aplicaciones recomendadas</string>
     <string name="Hot_App_Mods">Mods de aplicaciones populares</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
