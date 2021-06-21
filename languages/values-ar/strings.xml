@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">مدفوعة</string>
+    <string name="Paid">مدفوع</string>
     <string name="GAME">لعبة</string>
     <string name="APP">تطبيق
 \n</string>
