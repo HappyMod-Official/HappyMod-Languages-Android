@@ -36,7 +36,7 @@
     <string name="Hot_App_Mods">Горячие моды приложений</string>
     <string name="Recommended_New_Mods">Рекомендуемые новые моды</string>
     <string name="Last_Update_Mods">Последние обновления</string>
-    <string name="SearchHint">Поиск..</string>
+    <string name="SearchHint">Поиск</string>
     <!-- 侧滑-->
     <string name="Homeweb">Официальный веб-сайт</string>
     <string name="Management">Управление</string>
@@ -53,14 +53,14 @@
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другое</string>
     <string name="settings_clear_cache">Очистить кэш</string>
-    <string name="Clean_up_the_complete">Кеш очищен.</string>
+    <string name="Clean_up_the_complete">Кеш очищен</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Упс! Результатов не найдено.</string>
+    <string name="des_no_serach_result">Упс! Результатов не найдено</string>
     <!--下载管理页-->
     <string name="Downloads">Загрузки</string>
     <string name="Downloading">Загрузка</string>
     <string name="Finished">Завершенный</string>
-    <string name="No_Download">Файл не найден.</string>
+    <string name="No_Download">Файл не найден</string>
     <string name="Pause">Пауза</string>
     <string name="Waiting_in_queue">Ожидание в очереди</string>
     <string name="Completed">Завершенный</string>
