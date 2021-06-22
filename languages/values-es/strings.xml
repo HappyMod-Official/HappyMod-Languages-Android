@@ -36,9 +36,9 @@
     <string name="Hot_App_Mods">Mods destacados</string>
     <string name="Recommended_New_Mods">Nuevos mods interesantes</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
-    <string name="SearchHint">Buscar..</string>
+    <string name="SearchHint">Buscar pistas</string>
     <!-- slide-->
-    <string name="Homeweb">Sitio web oficial</string>
+    <string name="Homeweb">Sitio web</string>
     <string name="Management">Administrar descargas</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
@@ -50,17 +50,17 @@
     <!--settings-->
     <string name="settings_network_remind">Alerta de red móvil</string>
     <string name="settings_auto_install">Instalar automaticamente</string>
-    <string name="Download_Directory">Directorio de descarga</string>
-    <string name="settings_other">Otros</string>
+    <string name="Download_Directory">Carpeta de descargas</string>
+    <string name="settings_other">Otros ajustes</string>
     <string name="settings_clear_cache">Limpiar caché</string>
-    <string name="Clean_up_the_complete">El caché ha quedado limpio.</string>
+    <string name="Clean_up_the_complete">Caché limpio completado</string>
     <!--nodata-->
-    <string name="des_no_serach_result"> ¡Oops! No se encontraron resultados.</string>
+    <string name="des_no_serach_result">Oops! No se encontraron resultados.</string>
     <!--download manage-->
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
     <string name="Finished">Finalizados</string>
-    <string name="No_Download">Archivo no descargado.</string>
+    <string name="No_Download">No descargado</string>
     <string name="Pause">Pausa</string>
     <string name="Waiting_in_queue">Esperando en la cola</string>
     <string name="Completed">Terminado</string>
