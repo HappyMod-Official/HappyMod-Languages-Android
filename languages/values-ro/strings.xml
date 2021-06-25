@@ -34,9 +34,9 @@
     <string name="Hot_Game_Mods">Top moduri de joc</string>
     <string name="Recommended_App_Mods">Moduri recomandate pentru aplicații</string>
     <string name="Hot_App_Mods">Top moduri de aplicație</string>
-    <string name="Recommended_New_Mods">Moduri noi recomandate</string>
+    <string name="Recommended_New_Mods">"Modurile recomandate  de  noi"</string>
     <string name="Last_Update_Mods">Ultimele actualizări</string>
-    <string name="SearchHint">Căutare..</string>
+    <string name="SearchHint">Căutați indicii</string>
     <!-- 侧滑-->
     <string name="Homeweb">Site oficial</string>
     <string name="Management">Administrare</string>
@@ -97,7 +97,8 @@
     <string name="Moreversion">Mai multe versiuni</string>
     <string name="Recommend">Recomanda</string>
     <string name="Recommendmod">Mod recomandat</string>
-    <string name="Moremods">Ultimele moduri</string>
+    <string name="Moremods">Mai multe moduri
+\n</string>
     <!--评分-->
     <string name="Submit">Depune</string>
     <string name="Hated_it">Urăsc asta!</string>
@@ -108,7 +109,7 @@
     <!--分享-->
     <string name="share_happymod">Distribuiți "HappyMod" prin</string>
     <string name="share_subject">Obțineți HappyMod</string>
-    <string name="share_text">"Descărcați 100% moduri funcționale cu @HappyMod  https: //www.happymod.com/"</string>
+    <string name="share_text">"Descărcați moduri 100% funcționale cu @HappyMod  https: //www.happymod.com/"</string>
     <!--修改路径-->
     <string name="pref_location">Locație de stocare</string>
     <!--update -->
@@ -118,7 +119,7 @@
     <string name="OK">O.K</string>
     <string name="Loading">Se încarcă...</string>
     <string name="updata_tip">Utilizați ultima versiune stabilă a HappyMod</string>
-    <string name="xzzb">Te rog descarcă oficialul HappyMod.</string>
+    <string name="xzzb">Te rog descarcă aplicația oficiala HappyMod.</string>
     <string name="Continue">Continuă</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">Nu a mai rămas spațiu pe dispozitiv</string>
@@ -127,7 +128,7 @@
     <string name="Yes">Da</string>
     <string name="bcdes">. Eliberați stocarea și încercați din nou.</string>
     <string name="need">; Disponibil:</string>
-    <string name="No_enough_space_left_on_device">Spațiu stocare insuficient. Nevoie:</string>
+    <string name="No_enough_space_left_on_device">Spațiu de stocare insuficient. Necesar/i:</string>
     <string name="updatenow">Actualizează acum</string>
     <string name="updateFail">Descarcare esuata. Vă rugăm să închideți și să redeschideți</string>
     <string name="initializing">inițializează</string>
