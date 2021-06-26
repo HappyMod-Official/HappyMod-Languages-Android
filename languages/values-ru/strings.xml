@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Платное</string>
+    <string name="Paid">Куплено</string>
     <string name="GAME">Игра</string>
     <string name="APP">Приложение
 \n</string>
