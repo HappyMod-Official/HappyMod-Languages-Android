@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">المود السعيد (هابي مود)</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="app_name">مود السعيد</string>
+    <string name="Homecom">المود السعيد كوم</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">مدفوع</string>
+    <string name="Paid">تم الدفع</string>
     <string name="GAME">لعبة</string>
     <string name="APP">تطبيق
 \n</string>
