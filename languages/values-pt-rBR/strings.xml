@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Homecom">ModFeliz.com</string>
+    <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
@@ -12,16 +12,16 @@
     <string name="Hot_Game_Mods">Mods de Jogo em Alta</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
-    <string name="SearchHint">Procurar...</string>
-    <string name="Homeweb">Website Oficial</string>
-    <string name="Management">Gerênciar</string>
+    <string name="SearchHint">Procurar</string>
+    <string name="Homeweb">Início</string>
+    <string name="Management">Administração</string>
     <string name="Settings">Configurações</string>
-    <string name="Feedback">Feedback</string>
+    <string name="Feedback">Comentários</string>
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
     <string name="Checkforupdate">Procurar atualizações</string>
     <string name="FollowusonTwitter">Siga-nos no Twitter</string>
-    <string name="settings_network_remind">Alerta de Rede Móvel</string>
+    <string name="settings_network_remind">Alerta de rede móvel</string>
     <string name="settings_auto_install">Instalar Automaticamente</string>
     <string name="Download_Directory">Diretório de Downloads</string>
     <string name="settings_other">Outros</string>
@@ -157,7 +157,7 @@
     <string name="app_name">HappyMod</string>
     <string name="REFRESH">Recarregar</string>
     <string name="Recommended_Game_Mods">Mods de jogo recomendados</string>
-    <string name="Last_Update_Mods">Últimas Atualizações</string>
+    <string name="Last_Update_Mods">Modos públicados ultimamente</string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <string name="des_no_serach_result">Oops! Nenhum resultado encontrado.</string>
     <string name="Tryitlater">Tente mais tarde</string>
