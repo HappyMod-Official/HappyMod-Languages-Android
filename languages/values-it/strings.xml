@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--意大利-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">"HappyMod "</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -32,7 +32,7 @@
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet.</string>
     <string name="Recommended_Game_Mods">MOD Consigliate</string>
     <string name="Hot_Game_Mods">MOD Popolari</string>
-    <string name="Recommended_App_Mods">Applicazioni Consigliate</string>
+    <string name="Recommended_App_Mods">Mod di applicazioni consigliate</string>
     <string name="Hot_App_Mods">MOD di App Popolari</string>
     <string name="Recommended_New_Mods">MOD Nuove Consigliate</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
