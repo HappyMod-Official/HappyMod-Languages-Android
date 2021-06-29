@@ -22,13 +22,13 @@
     <!--首页-->
     <string name="Paid">Paid</string>
     <string name="GAME">Game</string>
-    <string name="APP">App</string>
+    <string name="APP">APP</string>
     <string name="NEW">New</string>
     <string name="Categories">Categories</string>
     <string name="games">Games</string>
     <string name="REFRESH">Refresh</string>
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network</string>
-    <string name="Recommended_Game_Mods">Recommended mods for games</string>
+    <string name="Recommended_Game_Mods">"Recommended  Gane mods"</string>
     <string name="Hot_Game_Mods">Popular mods for games</string>
     <string name="Recommended_App_Mods">Mods de aplicaciones recomendadas</string>
     <string name="Hot_App_Mods">Mods de aplicaciones populares</string>
