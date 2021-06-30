@@ -10,7 +10,7 @@
     <string name="games">Jogos</string>
     <string name="Unable_to_connect_to_the_network">Não foi possivel acessar a internet.</string>
     <string name="Hot_Game_Mods">Mods de Jogos em Alta</string>
-    <string name="Recommended_App_Mods">Mods recomendados</string>
+    <string name="Recommended_App_Mods">Mods de aplicativos recomendados</string>
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
     <string name="SearchHint">Procurar</string>
     <string name="Homeweb">Início</string>
@@ -156,7 +156,7 @@
     <string name="app_name">HappyMod</string>
     <string name="REFRESH">Recarregar</string>
     <string name="Recommended_Game_Mods">Mods de Jogos recomendados</string>
-    <string name="Last_Update_Mods">Modos públicados ultimamente</string>
+    <string name="Last_Update_Mods">Mods públicados recentemente</string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <string name="des_no_serach_result">Oops! Nenhum resultado encontrado.</string>
     <string name="Tryitlater">Tente mais tarde</string>
