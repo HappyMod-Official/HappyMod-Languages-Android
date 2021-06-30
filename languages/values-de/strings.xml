@@ -29,14 +29,14 @@
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisieren</string>
-    <string name="Unable_to_connect_to_the_network">Schlechte Internetverbindung.</string>
-    <string name="Recommended_Game_Mods">Empfohlene Spiel Mods</string>
-    <string name="Hot_Game_Mods">Beliebte Spiel Mods</string>
-    <string name="Recommended_App_Mods">Empfohlene App Mods</string>
+    <string name="Unable_to_connect_to_the_network">Konnte keine Verbindung zum Netzwerk herstellen.</string>
+    <string name="Recommended_Game_Mods">Empfohlene Spielmodifikationen</string>
+    <string name="Hot_Game_Mods">Beliebte Spielmodifikationen</string>
+    <string name="Recommended_App_Mods">Empfohlene Appmodifikationen</string>
     <string name="Hot_App_Mods">Beliebte App Mods</string>
-    <string name="Recommended_New_Mods">Neue Empfohlene Mods</string>
+    <string name="Recommended_New_Mods">Neue empfohlene Mods</string>
     <string name="Last_Update_Mods">Neueste Updates</string>
-    <string name="SearchHint">Suchen...</string>
+    <string name="SearchHint">Suchen</string>
     <!-- 侧滑-->
     <string name="Homeweb">Offizielle Webseite</string>
     <string name="Management">Verwaltung</string>
@@ -44,7 +44,7 @@
     <string name="Feedback">Rückmeldung</string>
     <string name="Translation">Übersetzung</string>
     <string name="Share">Teilen</string>
-    <string name="Checkforupdate">Update Überprüfung</string>
+    <string name="Checkforupdate">Nach Update Prüfen</string>
     <string name="FollowusonTwitter">Folge uns auf Twitter</string>
     <string name="FollowusonFacebook">Folge uns auf Facebook</string>
     <!--设置页-->
@@ -97,33 +97,32 @@
     <string name="Moreversion">Mehr Versionen</string>
     <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
-    <string name="Moremods">Mehrmods
-\n</string>
+    <string name="Moremods">Neuste Versionen</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
-    <string name="Hated_it">Ich hasse es!</string>
-    <string name="Disliked_it">Mir gefällt es nicht.</string>
+    <string name="Hated_it">Ich habe es gehasst!</string>
+    <string name="Disliked_it">Mir hat es nicht gefallen.</string>
     <string name="Its_ok">Es ist in Ordnung.</string>
-    <string name="Liked_it">Gefällt mir.</string>
+    <string name="Liked_it">Hat mir gefallen.</string>
     <string name="Loved_it">Ich liebe es!</string>
     <!--分享-->
     <string name="share_happymod">Teilen Sie \'HappyMod\' über</string>
     <string name="share_subject">Holen Sie sich HappyMod</string>
-    <string name="share_text">Laden sie 100% funktionierende Mods mit ‘HappyMod‘ herunter
+    <string name="share_text">Laden sie zu 100 % funktionierende Mods mit ‘HappyMod‘ herunter
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Speicherort</string>
     <!--update -->
     <string name="force_des">100% Funktionierende Mods</string>
-    <string name="nvisrti">Neue Version ist bereit zum installieren.</string>
+    <string name="nvisrti">Neue Version ist bereit zum Installieren.</string>
     <string name="OPEN">ÖFFNEN</string>
     <string name="OK">OK</string>
     <string name="Loading">Wird geladen…</string>
     <string name="updata_tip">Sie verwenden die neueste stabile Version von HappyMod</string>
-    <string name="xzzb">Bitte laden Sie das offizielle HappyMod herunter.</string>
+    <string name="xzzb">Bitte laden Sie die offizielle HappyMod App herunter.</string>
     <string name="Continue">Fortfahren</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Nicht genug Speicherplatz auf ihrem Gerät</string>
+    <string name="No_space_left_on_device">Nicht genug Speicherplatz auf ihrem Gerät frei</string>
     <string name="Is_this_app_you_need">Ist dies die App nach der Sie suchen\?</string>
     <string name="No">Nein</string>
     <string name="Yes">Ja</string>
@@ -148,10 +147,10 @@
     <string name="verificationFail">Verifizierung fehlgeschlagen. Bitte versuchen Sie es erneut!</string>
     <string name="Morehelp">(Mehr Hilfe)</string>
     <string name="uid">Benutzeridentifikation</string>
-    <string name="copysuccess">Userid wurde in die Zwischenablage kopiert.</string>
+    <string name="copysuccess">UserId wurde in die Zwischenablage kopiert.</string>
     <string name="watchnow">Jetzt ansehen</string>
-    <string name="ggdownloading">Werbung wird geladen. Bitte warten Sie und halten Sie HappyMod offen.</string>
-    <string name="verificaing">Bitte warten Sie während der Bestätigung.</string>
+    <string name="ggdownloading">Werbungen werden geladen. Bitte warten Sie und halten Sie HappyMod offen.</string>
+    <string name="verificaing">Bitte warten Sie bis zum Ende der Bestätigung.</string>
     <!-- 评价 -->
     <string name="Removeads">Anzeigen entfernen</string>
     <string name="Paidforfree">Kostenlos</string>
@@ -177,12 +176,12 @@
     <string name="Endless">Unendlichkeit</string>
     <string name="Invincible">Unbesiegbar</string>
     <string name="Unlimitedhints">Unendliche Hinweise</string>
-    <string name="Megamod">Mega Mod</string>
+    <string name="Megamod">Super Mod</string>
     <string name="Full">Vollversion</string>
     <!-- 注册登录 -->
     <string name="Username">Benutzername</string>
     <string name="Usernameinit">4-50 Zeichen</string>
-    <string name="Usernametip">Nur Buchstaben a-z, Zahlen, @. - _ bitte (keine Leerzeichen oder anderen Sonderzeichen). 4-50 Zeichen.</string>
+    <string name="Usernametip">Nur Buchstaben a-z, Zahlen und die Symbole: @. - _ bitte (keine Leerzeichen oder anderen Sonderzeichen). 4-50 Zeichen.</string>
     <string name="Password">Passwort</string>
     <string name="Enteryourpassword">6-8 Zeichen</string>
     <string name="passwordtip">Nur Buchstaben A-Z, a-z, Zahlen (keine Leerzeichen oder Sonderzeichen). 6-8 Zeichen.</string>
@@ -208,26 +207,26 @@
     <string name="Unknown">Unbekannt</string>
     <string name="enteryEmail">Geben Sie ihre E-Mail Adresse ein</string>
     <string name="enteryPhone">Trage deine Telefonnummer ein</string>
-    <string name="signuptips">Wenn Sie Ihr Passwort vergessen haben, benötigen Sie Telefonnummer oder E-Mail um einen Nachricht zu erhalten. Wir empfehlen Ihnen, diese auszufüllen.</string>
+    <string name="signuptips">Wenn Sie Ihr Passwort vergessen haben, benötigen Sie eine Telefonnummer oder eine E-Mail-Adresse um das Konto wiederherstellen zu können. Wir empfehlen Ihnen, diese auszufüllen.</string>
     <string name="confirmusername">Bestätige den Benutzernamen</string>
     <string name="next">Nächster</string>
-    <string name="fblogdes">Bitte geben Sie einen Benutzernamen ein. Der Benutzername ist eine sehr wichtige Kennung zum Abrufen des Passworts. Bitte beachten Sie.</string>
+    <string name="fblogdes">Bitte geben Sie einen Benutzernamen ein. Der Benutzername ist ein sehr wichtiges Kennzeichen zum Abrufen des Passworts. Bitte beachten Sie das.</string>
     <string name="selectusername">Benutzernamen auswählen</string>
-    <string name="reselpass_desone">Geben Sie den Benutzernamen Ihres Kontos ein, um das Kennwort zurückzusetzen. Sie haben ein Problem mit dem Zurücksetzen des Passworts<u>contact us</u>.</string>
-    <string name="reselpass_destwo">Bitte geben Sie die E-Mail oder die Telefonnummer ein. Sie haben ein Problem mit dem Zurücksetzen des Passworts<u>contact us</u>.</string>
-    <string name="forgetgosingup">Kann sich keiner an sie erinnern? Bitte<u>sign up a new account</u>.</string>
+    <string name="reselpass_desone">Geben Sie den Benutzernamen Ihres Kontos ein, um das Kennwort zurückzusetzen. Sie haben ein Problem mit dem Zurücksetzen des Passworts <u>Kontaktieren sie uns</u>.</string>
+    <string name="reselpass_destwo">Bitte geben Sie die E-Mail oder die Telefonnummer ein. Haben Sie ein Problem mit dem Zurücksetzen des Passworts <u>kontaktieren sie uns</u>.</string>
+    <string name="forgetgosingup">Kann sich keiner an sie erinnern\? Bitte <u>erstellen Sie ein neues Konto</u>.</string>
     <string name="Resetpassword">Passwort zurücksetzen</string>
     <string name="NewPassword">Neues Kennwort</string>
     <string name="Enterthepasswordagain">Bestätigen Sie das Passwort</string>
-    <string name="signuplimitdes">Ihr Gerät hat die maximale Anzahl registrierter Benutzernamen erreicht. Bitte wählen Sie den Benutzernamen aus, um sich anzumelden.</string>
+    <string name="signuplimitdes">Ihr Gerät hat die maximale Anzahl an registrierten Benutzernamen erreicht. Bitte wählen Sie den Benutzernamen aus, um sich anzumelden.</string>
     <string name="Register">Registrieren</string>
     <string name="eyun">Geben Sie Ihren Benutzernamen ein</string>
     <string name="eypsw">Geben Sie Ihr Passwort ein</string>
     <string name="loginerrortips">Bitte geben Sie einen korrekten Benutzernamen und ein Passwort ein. Beachten Sie, dass das Kennwortfeld die Groß- und Kleinschreibung berücksichtigt.</string>
     <string name="Resetpasswordfailed">Passwort zurücksetzen fehlgeschlagen.</string>
     <string name="Theusernamewasnotregistered">Der Benutzername wurde nicht registriert.</string>
-    <string name="petceotn">Bitte geben Sie die korrekte E-Mail oder Telefonnummer ein.</string>
-    <string name="fbrfail">Facebook-Registrierung fehlgeschlagen.</string>
+    <string name="petceotn">Bitte geben Sie eine korrekte E-Mail-Adresse oder Telefonnummer ein.</string>
+    <string name="fbrfail">Facebook-Registrierung ist fehlgeschlagen.</string>
     <string name="Registerfailed">Die Registrierung ist fehlgeschlagen. Vergewissern Sie sich, dass Ihre Netzwerkverbindung normal ist. Klicken Sie auf die Registrierungsschaltfläche, um es erneut zu versuchen.</string>
     <string name="Loginfailed">Anmeldung fehlgeschlagen.</string>
     <string name="me">Mir</string>
@@ -235,7 +234,7 @@
     <string name="Myposts">meine Posts</string>
     <string name="passowrduploadok">das Passwort wurde erfolgreich geändert</string>
     <string name="logout">Ausloggen</string>
-    <string name="passwordsame">Die beiden von Ihnen eingegebenen Kennwörter sind inkonsistent</string>
+    <string name="passwordsame">Die beiden von Ihnen eingegebenen Kennwörter sind verschieden</string>
     <string name="PopularComments">Beliebte Kommentare</string>
     <!--MyRequests-->
     <string name="Request">Anfordern</string>
@@ -245,9 +244,9 @@
     <string name="Myuploads">Meine Uploads</string>
     <string name="Updated">Aktualisierte</string>
     <string name="Comingsoon">Demnächst</string>
-    <string name="searchappyouwanttorequest">Suchen Sie die App, die Sie anfordern möchten:</string>
+    <string name="searchappyouwanttorequest">Suchen Sie nach einer App, die Sie anfordern möchten:</string>
     <string name="Addupload">Upload hinzufügen</string>
-    <string name="requestdetailhint">Zeigen Sie mehr über Ihre Anfrage. (Mindestens 50 Zeichen)</string>
+    <string name="requestdetailhint">Sagen Sie uns mehr über Ihre Anfrage. (Mindestens 50 Zeichen)</string>
     <string name="requesterror">Senden fehlgeschlagen. Bitte versuchen Sie es später erneut.</string>
     <string name="detailserror">(100-4000 Zeichen)</string>
     <string name="view">Aussicht</string>
@@ -262,7 +261,7 @@
     <string name="obbfail">Bitte geben Sie die Zippyshare/Mediafire-URL der obb-Datei ein.</string>
     <string name="worked">Hat funktioniert</string>
     <string name="Uploadsuccess">Erfolgreich hochgeladen</string>
-    <string name="Requestsuccess">Erfolg anfordern</string>
+    <string name="Requestsuccess">Erfolgreich angefordert</string>
     <string name="clickyes">Sie können diese Anforderung in der bearbeiteten Warteschlange bearbeiten und erneut senden.</string>
     <string name="clickno">Diese Anfrage wird in Kürze wieder in die Warteschlange aufgenommen.</string>
     <string name="downloadpush_remind">Benachrichtigung nach der Installation anzeigen</string>
@@ -275,9 +274,9 @@
     <string name="Verifing">Überprüfung läuft …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Probieren Sie andere Server aus, bevor Sie sie löschen</string>
-    <string name="fix_tips_content">Möchten Sie eine Verbindung zu einem anderen Server herstellen, um zu versuchen, ihn herunterzuladen, bevor Sie ihn löschen?</string>
+    <string name="fix_tips_content">Möchten sie den Download auf einen anderen Server erneut versuchen\?</string>
     <string name="fix_progress_title">Scannen von Servern</string>
-    <string name="fix_progress_content">Es kann einige Minuten dauern, bis der schnellste Server für Sie gefunden ist. Warten Sie bitte.</string>
+    <string name="fix_progress_content">Es kann einige Minuten dauern, bis der schnellste Server für Sie gefunden wurde. Warten Sie bitte.</string>
     <string name="fix_failed_content">Derzeit sind keine Server für Sie verfügbar. Versuchen Sie es später erneut.</string>
     <string name="fix_tips_failtitle">Keine Server mehr</string>
     <string name="fix_ok">Versuch es</string>
@@ -290,8 +289,8 @@
     <string name="myreply">Meine Antworten</string>
     <string name="Post">Post</string>
     <string name="addavideo">Fügen Sie ein Video hinzu</string>
-    <string name="enterthevideourlhere">Bitte geben Sie hier die Youtube-Video-URL ein.</string>
-    <string name="onlysupportyoutube">Unterstützt nur Youtube-Videos</string>
+    <string name="enterthevideourlhere">Bitte geben Sie hier die YouTube-Video-URL ein.</string>
+    <string name="onlysupportyoutube">Unterstützt nur YouTube-Videos</string>
     <string name="searchorcreate">Suchen oder erstellen</string>
     <string name="hashtags">Geschichte Hashtags</string>
     <string name="featuredhash">Empfohlene Hashtags</string>
