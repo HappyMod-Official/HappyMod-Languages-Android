@@ -23,15 +23,14 @@
     <!--首页-->
     <string name="Paid">Куплено</string>
     <string name="GAME">Игра</string>
-    <string name="APP">Приложение
-\n</string>
+    <string name="APP">Приложение</string>
     <string name="NEW">Новый</string>
     <string name="Categories">Категории</string>
     <string name="games">Игры</string>
     <string name="REFRESH">Обновить</string>
     <string name="Unable_to_connect_to_the_network">Невозможно получить доступ к интернету.</string>
     <string name="Recommended_Game_Mods">Рекомендуемые игровые моды</string>
-    <string name="Hot_Game_Mods">Горячие игровые моды</string>
+    <string name="Hot_Game_Mods">Популярные игровые моды</string>
     <string name="Recommended_App_Mods">Рекомендуемые моды приложений</string>
     <string name="Hot_App_Mods">Горячие моды приложений</string>
     <string name="Recommended_New_Mods">Рекомендуемые новые моды</string>
@@ -53,14 +52,14 @@
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другое</string>
     <string name="settings_clear_cache">Очистить кэш</string>
-    <string name="Clean_up_the_complete">Кеш очищен</string>
+    <string name="Clean_up_the_complete">Кеш очищен.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Упс! Результатов не найдено</string>
+    <string name="des_no_serach_result">Упс! Результатов не найдено.</string>
     <!--下载管理页-->
     <string name="Downloads">Загрузки</string>
     <string name="Downloading">Загрузка</string>
     <string name="Finished">Завершенный</string>
-    <string name="No_Download">Файл не найден</string>
+    <string name="No_Download">Файл не найден.</string>
     <string name="Pause">Пауза</string>
     <string name="Waiting_in_queue">Ожидание в очереди</string>
     <string name="Completed">Завершенный</string>
@@ -97,8 +96,7 @@
     <string name="Moreversion">Больше версий</string>
     <string name="Recommend">Рекомендовать</string>
     <string name="Recommendmod">Рекомендуемый мод</string>
-    <string name="Moremods">Больше модов
-\n</string>
+    <string name="Moremods">Больше модов</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
     <string name="Hated_it">Ненавижу это!</string>
@@ -149,7 +147,7 @@
     <string name="uid">Идентификатор пользователя</string>
     <string name="copysuccess">Идентификатор пользователя был скопирован в буфер обмена.</string>
     <string name="watchnow">Посмотреть сейчас</string>
-    <string name="ggdownloading">Реклама загружается, пожалуйста, подождите и держите happymod открытым.</string>
+    <string name="ggdownloading">Реклама загружается, пожалуйста, держите happymod открытым и подождите.</string>
     <string name="verificaing">Пожалуйста, дождитесь подтверждения.</string>
     <!-- 评价 -->
     <string name="Removeads">Убрать рекламу</string>
@@ -207,7 +205,7 @@
     <string name="Unknown">Неизвестно</string>
     <string name="enteryEmail">Введите адрес электронной почты</string>
     <string name="enteryPhone">Введите свой номер телефона</string>
-    <string name="signuptips">Если вы забудете пароль, вам потребуется «Номер телефона» или «Электронная почта» для восстановления. Мы рекомендуем вам ввести их.</string>
+    <string name="signuptips">Если вы забудете пароль, вам потребуется номер телефона или электронная почта для восстановления. Мы рекомендуем вам добавить их.</string>
     <string name="confirmusername">Подтвердите имя пользователя</string>
     <string name="next">Дальше</string>
     <string name="fblogdes">Пожалуйста введите имя пользователя. Имя пользователя является очень важным идентификатором для получения пароля, имейте в виду.</string>
@@ -226,7 +224,7 @@
     <string name="Resetpasswordfailed">Сброс пароля не выполнен.</string>
     <string name="Theusernamewasnotregistered">Имя пользователя не было зарегистрировано.</string>
     <string name="petceotn">Пожалуйста, введите правильный адрес электронной почты или номер телефона.</string>
-    <string name="fbrfail">Регистрация в Facebook не удалась.</string>
+    <string name="fbrfail">Регистрация через Facebook не удалась.</string>
     <string name="Registerfailed">Регистрация не удалась, пожалуйста, убедитесь, что ваше сетевое соединение стабильно, нажмите кнопку регистрации, чтобы повторить попытку.</string>
     <string name="Loginfailed">Ошибка входа.</string>
     <string name="me">Я</string>
@@ -273,7 +271,7 @@
     <string name="Verifing">Проверка …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Попробуйте другие сервера перед удалением</string>
-    <string name="fix_tips_content">Вы хотите подключиться к другому серверу, чтобы попытаться загрузить его перед удалением?</string>
+    <string name="fix_tips_content">Вы хотите подключиться к другому серверу, чтобы попытаться загрузить его перед удалением\?</string>
     <string name="fix_progress_title">Сканирование серверов</string>
     <string name="fix_progress_content">Чтобы найти самый быстрый сервер, может потребоваться несколько минут, подождите.</string>
     <string name="fix_failed_content">В настоящее время нет доступных серверов, повторите попытку позже.</string>
@@ -374,7 +372,7 @@
     <string name="toopenitquickntime">Чтобы найти его быстрее в следующий раз, пожалуйста:</string>
     <string name="finditin">Найдите это в X</string>
     <string name="needhelp">Нужна помощь?</string>
-    <string name="peoplealsoplaygames">Люди, игравшие в эту игру, играли также</string>
+    <string name="peoplealsoplaygames">Люди, игравшие в эту игру, играли также в</string>
     <string name="opencommunitydes">Если вы найдете пост, содержащий взрослый контент или ненормативную лексику, нажмите кнопку «Сообщить» в правом верхнем углу поста и мы удалим его, а автора заблокируем. Пожалуйста, общайтесь цивилизованно!</string>
     <string name="myreviews">Мои отзывы</string>
     <string name="tagthisapp">Отметить это приложение</string>
@@ -424,8 +422,8 @@
 \n
 \nМы нуждаемся в вашей поддержке, чтобы обеспечить более быструю и безопасную загрузку.
 \n
-\nПожалуйста, проявите терпение и посмотрите рекламу полностью, чтобы оказать нам поддержку.
+\nПожалуйста, проявите терпение и посмотрите рекламу полностью, чтобы поддержать нас.
 \n
-\nСпасибо！</string>
+\nСпасибо! :)</string>
     <string name="viewstepdeti">Просмотр сведений</string>
 </resources>
