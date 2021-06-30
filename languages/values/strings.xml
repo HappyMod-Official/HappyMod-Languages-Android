@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">"عربي "</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -22,23 +22,23 @@
     <!--首页-->
     <string name="Paid">Paid</string>
     <string name="GAME">Game</string>
-    <string name="APP">APP</string>
+    <string name="APP">App</string>
     <string name="NEW">New</string>
     <string name="Categories">Categories</string>
     <string name="games">Games</string>
     <string name="REFRESH">Refresh</string>
-    <string name="Unable_to_connect_to_the_network">Unable to connect to the network</string>
-    <string name="Recommended_Game_Mods">"Recommended  Gane mods"</string>
-    <string name="Hot_Game_Mods">Popular mods for games</string>
+    <string name="Unable_to_connect_to_the_network">Unable to connect to the network.</string>
+    <string name="Recommended_Game_Mods">Recommended Game mods</string>
+    <string name="Hot_Game_Mods">Popular Mods for Games</string>
     <string name="Recommended_App_Mods">Mods de aplicaciones recomendadas</string>
     <string name="Hot_App_Mods">Mods de aplicaciones populares</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Mods publicados últimamente</string>
-    <string name="SearchHint">Buscar pistas</string>
+    <string name="SearchHint">Search</string>
     <!-- 侧滑-->
     <string name="Homeweb">Página principal</string>
-    <string name="Management">Administración</string>
-    <string name="Settings">Ajustes</string>
+    <string name="Management">Management</string>
+    <string name="Settings">Settings</string>
     <string name="Feedback">Feedback</string>
     <string name="Translation">Translation</string>
     <string name="Share">Share</string>
@@ -51,16 +51,16 @@
     <string name="Download_Directory">Download directory</string>
     <string name="settings_other">Other settings</string>
     <string name="settings_clear_cache">Clear cache settings</string>
-    <string name="Clean_up_the_complete">Clean up the complete</string>
+    <string name="Clean_up_the_complete">The cache is cleared.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Oops! No results</string>
+    <string name="des_no_serach_result">Oops! No results found.</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Downloading</string>
     <string name="Finished">Finished</string>
-    <string name="No_Download">No download</string>
+    <string name="No_Download">No File Found.</string>
     <string name="Pause">Pause</string>
-    <string name="Waiting_in_queue">Waiting in</string>
+    <string name="Waiting_in_queue">Waiting in queue</string>
     <string name="Completed">Completed</string>
     <string name="UnZiping">Extracting</string>
     <string name="UnZip_succeed">Finished Extracting</string>
@@ -68,7 +68,7 @@
     <string name="Rated">Rated</string>
     <string name="Version">Version</string>
     <string name="Ratingsreviews">Ratings &amp; Reviews</string>
-    <string name="Tryitlater">Try it later</string>
+    <string name="Tryitlater">Try again later</string>
     <string name="Serviceisbusy">Connecting…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Notice</string>
@@ -95,15 +95,14 @@
     <string name="Moreversion">More Versions</string>
     <string name="Recommend">Recommend</string>
     <string name="Recommendmod">Recommended Mod</string>
-    <string name="Moremods">Moremods
-\n</string>
+    <string name="Moremods">Latest Versions</string>
     <!--评分-->
     <string name="Submit">Submit</string>
-    <string name="Hated_it">Hate it!</string>
-    <string name="Disliked_it">Dislike it.</string>
+    <string name="Hated_it">Hated it!</string>
+    <string name="Disliked_it">Disliked it.</string>
     <string name="Its_ok">It\'s OK.</string>
-    <string name="Liked_it">Like it.</string>
-    <string name="Loved_it">Love it!</string>
+    <string name="Liked_it">Liked it.</string>
+    <string name="Loved_it">Loved it!</string>
     <!--分享-->
     <string name="share_happymod">Share ‘HappyMod’ via</string>
     <string name="share_subject">Get HappyMod</string>
@@ -147,8 +146,8 @@
     <string name="uid">UserId</string>
     <string name="copysuccess">Userid has been copied to the clipboard.</string>
     <string name="watchnow">View now</string>
-    <string name="ggdownloading">Ads is loading, please wait and keep happymod open.</string>
-    <string name="verificaing">In verification, please wait a moment.</string>
+    <string name="ggdownloading">Ads are loading, please wait and keep HappyMod open.</string>
+    <string name="verificaing">Verificating, please wait.</string>
     <!-- 评价 -->
     <string name="Removeads">Remove ads</string>
     <string name="Paidforfree">Paid for free</string>
@@ -179,7 +178,7 @@
     <!-- 注册登录 -->
     <string name="Username">Username</string>
     <string name="Usernameinit">4–50 characters</string>
-    <string name="Usernametip">Only letters a–z, numbers, @ .  – _   please (no spaces or other special characters).  4–50 characters.</string>
+    <string name="Usernametip">Only letters a–z, numbers, and symbols: @ . – _ please (no spaces or other special characters). 4–50 characters.</string>
     <string name="Password">Password</string>
     <string name="Enteryourpassword">6–8 characters</string>
     <string name="passwordtip">Only letters A–Z, a–z, numbers（no spaces or special characters). 6–8 characters.</string>
@@ -189,13 +188,13 @@
     <string name="Enteryouremail">Enter your email</string>
     <string name="Telephonenumber">Telephone number</string>
     <string name="Enteryourtelephonenumber">Enter your telephone number</string>
-    <string name="phonetip">Enter a valid phone nubmer.</string>
+    <string name="phonetip">Enter a valid phone number.</string>
     <string name="emailtip">Enter a valid email address.</string>
     <string name="Signup">Sign up</string>
     <string name="tuiat">This username is already taken.</string>
     <string name="Login">Log in</string>
     <string name="Account">Account</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Forgot password\?</string>
     <string name="loginwithaccount">Or login with your username</string>
     <string name="newur">New user registration</string>
     <string name="Usernameinitnew">Username(4-50 characters)</string>
@@ -205,14 +204,14 @@
     <string name="Unknown">Unknown</string>
     <string name="enteryEmail">Enter your email</string>
     <string name="enteryPhone">Enter your phone number</string>
-    <string name="signuptips">When you forget your password, you will need "Phone number" or "Email" to retrieve. We recommend that you complete them.</string>
+    <string name="signuptips">If you forget your password, you will need a Phone number or an Email address to recuperate it. We recommend that you add them.</string>
     <string name="confirmusername">Confirm username</string>
     <string name="next">Next</string>
     <string name="fblogdes">Please enter a username. The username is a very important identifier for retrieving the password, please keep in mind.</string>
     <string name="selectusername">Select username</string>
     <string name="reselpass_desone">Enter the username of your account to reset password. You have any issue about reset password <u>contact us</u>.</string>
-    <string name="reselpass_destwo">Please enter the email or the phone number.  You have any issue about reset password <u>contact us</u>.</string>
-    <string name="forgetgosingup">Can\'t remember any of them? Please <u>sign up a new account</u>.</string>
+    <string name="reselpass_destwo">Please enter the email or the phone number. If you have any issue about reseting your password <u>contact us</u>.</string>
+    <string name="forgetgosingup">Can\'t remember any of them\? You can create a new account <u>here</u>.</string>
     <string name="Resetpassword">Reset password</string>
     <string name="NewPassword">New password</string>
     <string name="Enterthepasswordagain">Confirm the password</string>
@@ -224,8 +223,8 @@
     <string name="Resetpasswordfailed">Reset password failed.</string>
     <string name="Theusernamewasnotregistered">The username was not registered.</string>
     <string name="petceotn">Please enter the correct email or telephone number.</string>
-    <string name="fbrfail">Facebook register failed.</string>
-    <string name="Registerfailed">Registration failed, please confirm that your network connection is normal, click the registration button to try again.</string>
+    <string name="fbrfail">Facebook registration failed.</string>
+    <string name="Registerfailed">Registration failed, please confirm that your network connection is fine, click the registration button to try again.</string>
     <string name="Loginfailed">Login failed.</string>
     <string name="me">Me</string>
     <string name="Avatar">Avatar</string>
@@ -242,7 +241,7 @@
     <string name="Myuploads">My uploads</string>
     <string name="Updated">Updated</string>
     <string name="Comingsoon">Coming soon</string>
-    <string name="searchappyouwanttorequest">Search the app you want to request:</string>
+    <string name="searchappyouwanttorequest">Search for the app you want to request:</string>
     <string name="Addupload">Add upload</string>
     <string name="requestdetailhint">Show more about your request. (50 characters at least)</string>
     <string name="requesterror">Submit failed, please try again later.</string>
@@ -250,7 +249,7 @@
     <string name="view">View</string>
     <string name="isthiswork">Does it work?</string>
     <string name="edit">Edit</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire url:</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL:</string>
     <string name="OBBDataurl">OBB/Data Zippyshare/Mediafire url: (optional)</string>
     <string name="Youarereupload">You are uploading:</string>
     <string name="Upload">Upload</string>
@@ -272,9 +271,9 @@
     <string name="Verifing">Verifying…</string>
     <!--补偿下载 -->
     <string name="fix_tips_title">Try other servers before deleting</string>
-    <string name="fix_tips_content">Would you like to connect to another server to try to download it before deleting it?</string>
+    <string name="fix_tips_content">Would you like to retry your download on another server\?</string>
     <string name="fix_progress_title">Scanning servers</string>
-    <string name="fix_progress_content">It may take a few minutes to look for the fastest server for you, please wait.</string>
+    <string name="fix_progress_content">It may take a few minutes to find the best server for you, please wait.</string>
     <string name="fix_failed_content">There are currently no servers available to you, please try again later.</string>
     <string name="fix_tips_failtitle">No more servers</string>
     <string name="fix_ok">Try it</string>
@@ -339,7 +338,7 @@
     <string name="crash_dialog_restart">Restart</string>
     <string name="init_fail">Initialization failed, please use VPN or change to other networks.</string>
     <string name="error_file_des">This file has been deleted and is being re-downloaded now.</string>
-    <string name="sdpermission">We need to access your external storage. Please make sure the permission is granted.</string>
+    <string name="sdpermission">We need access to your external storage. Please make sure the permission is granted.</string>
     <string name="Night_Mode">Night Mode</string>
     <string name="thisty">That username is taken. Try another. Available:</string>
     <!--home_feature-->
@@ -352,7 +351,7 @@
     <string name="hotmods">Hot Mods</string>
     <string name="hotrecommended">Hot Recommended</string>
     <!--upload 新增-->
-    <string name="searchappyouwanttoupload">Search the app you want to upload:</string>
+    <string name="searchappyouwanttoupload">Search for the app you want to upload:</string>
     <string name="addapost">Add a post</string>
     <string name="launch_des">Find 100% Working Mods\nUploaded by users; Verified by users!</string>
     <string name="requestamod">Request a mod</string>
@@ -367,7 +366,7 @@
     <string name="maxmbperimage">Max 10MB per image.</string>
     <string name="Imagesmustbelessthan">Images must be less than 10MB, please reduce the image dimensions, re-save or re-export your file, and try uploading it again.</string>
     <string name="installfailed">Installation Failed.</string>
-    <string name="miuides">Please turn on Developer Options,ture off MIUI optimization and try again.</string>
+    <string name="miuides">Please turn on Developer Options, turn off MIUI optimization and try again.</string>
     <string name="playdes">Play</string>
     <string name="newcoming">New incoming</string>
     <string name="recentlyplayed">Recently played</string>
@@ -377,7 +376,7 @@
     <string name="myreviews">My reviews</string>
     <string name="todayhotgame">Today\'s hot</string>
     <string name="toopenitquickntime">To find it easy next time, you can:</string>
-    <string name="peoplealsoplaygames">People play this game also like</string>
+    <string name="peoplealsoplaygames">People that play this game also like</string>
     <string name="tagthisapp">Flag this app</string>
     <string name="appuploader">App uploaded by</string>
     <string name="votedresult">You have already voted for this app.</string>
@@ -394,7 +393,7 @@
     <string name="pleaseentergoogleaddress">Please input app id or URL on Google Play.</string>
     <string name="thisposthasbeendeleted">This post has been deleted.</string>
     <string name="add">Add</string>
-    <string name="oagputc">Or add Google play URL to continue</string>
+    <string name="oagputc">Or add Google Play URL to continue</string>
     <string name="description">Description:</string>
     <string name="uploadbanner">Upload banner (720*406)</string>
     <string name="noedituploadtips">You can\'t submit it without making any changes.</string>
@@ -421,6 +420,12 @@
     <string name="Checkthenetwork">Check the network</string>
     <string name="Configuringip">Configuring available IP for you</string>
     <string name="Configuringipfailed">Configuration failed, 8 IPs are detected to be unavailable, please try to use VPN.</string>
-    <string name="Donatedes">HappyMod is completely free, and we hate ads as much as you do！\n\nWe need your donation to provide faster and safer downloads.\n\nPlease be patient and try to watch the full ads to complete the donation.\n\nThank you！</string>
+    <string name="Donatedes">HappyMod is completely free, and we hate ads as much as you do!
+\n
+\nYour donation is much appreciated as we use it to provide you with faster and safer downloads.
+\n
+\nPlease be patient and try to watch the full ad to complete the donation.
+\n
+\nThank you! :)</string>
     <string name="viewstepdeti">View step details</string>
 </resources>
