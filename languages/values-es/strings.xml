@@ -36,10 +36,10 @@
     <string name="Hot_App_Mods">Mods destacados</string>
     <string name="Recommended_New_Mods">Nuevos mods interesantes</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
-    <string name="SearchHint">Buscar pistas</string>
+    <string name="SearchHint">Buscar</string>
     <!-- slide-->
     <string name="Homeweb">Sitio web</string>
-    <string name="Management">Administrar descargas</string>
+    <string name="Management">Descargas</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
     <string name="Translation">Traducción</string>
