@@ -8,15 +8,15 @@
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
-    <string name="Unable_to_connect_to_the_network">Incapaz de acessar a internet.</string>
-    <string name="Hot_Game_Mods">Mods de Jogo em Alta</string>
+    <string name="Unable_to_connect_to_the_network">Não foi possivel acessar a internet.</string>
+    <string name="Hot_Game_Mods">Mods de Jogos em Alta</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
     <string name="SearchHint">Procurar</string>
     <string name="Homeweb">Início</string>
-    <string name="Management">Administração</string>
+    <string name="Management">Gerênciar</string>
     <string name="Settings">Configurações</string>
-    <string name="Feedback">Comentários</string>
+    <string name="Feedback">Feedback</string>
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
     <string name="Checkforupdate">Procurar atualizações</string>
@@ -62,10 +62,9 @@
     <string name="Moreversion">Mais Versões</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Versões Mais Recentes
-\n</string>
+    <string name="Moremods">Versões Mais Recentes</string>
     <string name="Submit">Enviar</string>
-    <string name="Hated_it">Odeio!</string>
+    <string name="Hated_it">Odiei!</string>
     <string name="Its_ok">Está OK.</string>
     <string name="Liked_it">Gostei.</string>
     <string name="Loved_it">Amei!</string>
@@ -101,7 +100,7 @@
     <string name="uid">ID Do Usuário</string>
     <string name="copysuccess">O ID do usuário foi copiado para a área de transferência.</string>
     <string name="watchnow">Ver agora</string>
-    <string name="verificaing">Em verificação, por favor, espere um momento.</string>
+    <string name="verificaing">Verificando, por favor aguarde.</string>
     <string name="Removeads">Remover anúncios</string>
     <string name="Paidforfree">Pago de graça</string>
     <string name="Unlimitedmoney">Dinheiro ilimitado</string>
@@ -152,11 +151,11 @@
     <string name="next">Próximo</string>
     <string name="fblogdes">Por favor coloque um nome de usuário. O nome de usuário é um identificador muito importante para recuperar a senha, lembre-se disso.</string>
     <string name="selectusername">Selecione o nome de usuário</string>
-    <string name="reselpass_destwo">Por favor, insira o e-mail ou número de telefone. Você tem algum problema com a redefinição de senha <u> entre em contato conosco </u>.</string>
+    <string name="reselpass_destwo">Por favor, insira o e-mail ou número de telefone. Você tem algum problema com a redefinição de sua senha, <u>entre em contato conosco </u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
     <string name="app_name">HappyMod</string>
     <string name="REFRESH">Recarregar</string>
-    <string name="Recommended_Game_Mods">Mods de jogo recomendados</string>
+    <string name="Recommended_Game_Mods">Mods de Jogos recomendados</string>
     <string name="Last_Update_Mods">Modos públicados ultimamente</string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <string name="des_no_serach_result">Oops! Nenhum resultado encontrado.</string>
@@ -171,20 +170,20 @@
     <string name="No_enough_space_left_on_device">Sem espaço de armazenamento suficiente. Necessita:</string>
     <string name="mergerwait">Processamento final (Precisa de 1–2 minutos)</string>
     <string name="verificationFail">Falha na verificação, por favor tente novamente!</string>
-    <string name="ggdownloading">Os anúncios estão sendo carregados, por favor aguarde e mantenha o happymod aberto.</string>
+    <string name="ggdownloading">Os anúncios estão sendo carregados, por favor aguarde e mantenha o HappyMod aberto.</string>
     <string name="Patched">Consertado</string>
     <string name="Plus">Plus</string>
     <string name="Infinite">Infinito</string>
-    <string name="Usernametip">Apenas letras de a–z, números, @. - _ por favor (sem espaços ou outros caracteres especiais). 4-50 caracteres.</string>
+    <string name="Usernametip">Apenas letras de a–z, números, e os símbolos: @ . - _ por favor (sem espaços ou outros caracteres especiais). 4-50 caracteres.</string>
     <string name="Enteryourtelephonenumber">Digite seu número de telefone</string>
     <string name="forgotpassword">Esqueceu sua senha\?</string>
     <string name="PhoneNumber">Número de telefone</string>
-    <string name="signuptips">Quando você esquecer sua senha, precisará do número de telefone ou e-mail para recuperá-la. Recomendamos que você os complete.</string>
+    <string name="signuptips">Se você esquecer sua senha, precisará de um número de telefone ou endereço de e-mail para recuperá-la. Recomendamos que você os complete.</string>
     <string name="reselpass_desone">Digite o nome de usuário da sua conta para redefinir a senha. Você tem algum problema com a redefinição de senha <u> entre em contato conosco </u>.</string>
-    <string name="forgetgosingup">Não consegue se lembrar de nenhum deles\? <u> inscreva-se em uma nova conta </u>.</string>
+    <string name="forgetgosingup">Não consegue se lembrar de nenhum deles\? Crie uma nova conta <u>aqui</u>.</string>
     <string name="signuplimitdes">Seu dispositivo alcançou o número máximo de usuários registrados. Por favor, selecione o usuário abaixo para logar.</string>
     <string name="petceotn">Por favor digite o e-mail ou número de telefone corretos.</string>
-    <string name="Registerfailed">Falha ao registrar, por favor, confirme que sua conexão a internet está funcionando e clique o botão de registro novamente.</string>
+    <string name="Registerfailed">Falha ao registrar, por favor confirme que sua conexão a internet está funcionando normalmente e selecione o botão de registração para tentar novamente.</string>
     <string name="requestdetailhint">Mostre mais sobre seu pedido. (Mínimo de 50 caracteres)</string>
     <string name="Enteryouremail">Digite seu e-mail</string>
     <string name="NewPassword">Nova senha</string>
@@ -218,7 +217,7 @@
     <string name="view">Ver</string>
     <string name="isthiswork">Ele funciona\?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">Link do APK Zippyshare/Mediafire:</string>
+    <string name="APKZippyshareurl">URL do APK Zippyshare/Mediafire:</string>
     <string name="Upload">Enviar</string>
     <string name="Uploadfail">Falha no envio.</string>
     <string name="OBBDataurl">Link OBB/Data Zippyshare/Mediafire: (opcional)</string>
@@ -236,7 +235,7 @@
     <string name="opencommunitydes">Se você encontrar uma postagem adulta ou ruim de qualquer jeito, por favor pressione o botão reportar no canto superior direito, e nós vamos deletar a postagem! Por favor converse civilizadamente!</string>
     <string name="Changetheimage">Mudar a imagem&gt;&gt;</string>
     <string name="Typethecodeinthebox">Digite o código na caixa</string>
-    <string name="fix_tips_content">Você gostaria de se conectar a outro servidor para baixa-lo antes de remove-lo\?</string>
+    <string name="fix_tips_content">Você gostaria de tentar seu download novamente em outro servidor\?</string>
     <string name="please_loginanddownload">Por favor baixe este mod primeiro.</string>
     <string name="enterthevideourlhere">Por favor insira o Link do vídeo do youtube aqui.</string>
     <string name="reportsuccess">Sua denuncia foi enviada com sucesso.</string>
@@ -251,7 +250,7 @@
     <string name="Verifing">Verificando…</string>
     <string name="fix_tips_title">Tente outros servidores antes de remover</string>
     <string name="fix_progress_title">Procurando servidores</string>
-    <string name="fix_progress_content">Pode levar alguns minutos para achar o servidor mais rápido para você, por favor aguarde.</string>
+    <string name="fix_progress_content">Pode levar alguns minutos para achar o melhor servidor para você, por favor aguarde.</string>
     <string name="fix_failed_content">Não há servidores disponíveis para você no momento, por favor tente novamente mais tarde.</string>
     <string name="fix_tips_failtitle">Não há mais servidores</string>
     <string name="fix_ok">Tente</string>
@@ -310,7 +309,7 @@
     <string name="paidforfree">Pago de Graça</string>
     <string name="hotmods">Mods em Alta</string>
     <string name="hotrecommended">Recomendados em Alta</string>
-    <string name="searchappyouwanttoupload">Procure o aplicativo que você quer publicar o mod:</string>
+    <string name="searchappyouwanttoupload">Procure o aplicativo que você quer publicar:</string>
     <string name="addapost">Adicionar uma postagem</string>
     <string name="requestamod">Solicitar um mod</string>
     <string name="uploadamod">Publicar um mod</string>
@@ -347,7 +346,7 @@
     <string name="pleaseentergoogleaddress">Por favor insira um id de aplicativo ou Link da Google Play.</string>
     <string name="thisposthasbeendeleted">Essa postagem foi deletada.</string>
     <string name="add">Adicionar</string>
-    <string name="oagputc">Ou insira Link da Google Play para continuar</string>
+    <string name="oagputc">Ou insira URL da Google Play para continuar</string>
     <string name="description">Descrição:</string>
     <string name="uploadbanner">Inserir banner (720*406)</string>
     <string name="noedituploadtips">Você não pode enviar sem fazer nenhuma mudança.</string>
@@ -367,11 +366,13 @@
     <string name="usehtgetspeed">Use HyperTorrent para conseguir 200%+ de velocidade de download.</string>
     <string name="speedfordownloading">200%~1,000%+ velocidade para baixar arquivos grandes do HappyMod.</string>
     <string name="Configuringip">Configurando IP disponível para você</string>
-    <string name="Donatedes">HappyMod é totalmente gratuito e odiamos anúncios, tanto quanto você！
+    <string name="Donatedes">HappyMod é totalmente gratuito e odiamos anúncios tanto quanto você!
+\n
 \n
 \nPrecisamos da sua doação para fornecer downloads mais rápidos e seguros.
 \n
-\nPor favor, seja paciente e tente assistir os anúncios até o final, para concluir a doação.
+\nPor favor, seja paciente e tente assistir os anúncios até o final para concluir a doação.
+\n
 \n
 \nMuito Obrigado!</string>
     <string name="clickno">Esta solicitação será adicionada à fila em breve novamente.</string>
