@@ -115,7 +115,7 @@
     <string name="nvisrti">Новая версия готова к установке.</string>
     <string name="OPEN">ОТКРЫТЬ</string>
     <string name="OK">Хорошо</string>
-    <string name="Loading">Загрузка</string>
+    <string name="Loading">Загрузка…</string>
     <string name="updata_tip">Вы используете последнюю стабильную версию HappyMod</string>
     <string name="xzzb">Пожалуйста, скачайте официальный HappyMod.</string>
     <string name="Continue">Продолжить</string>
@@ -232,7 +232,7 @@
     <string name="Myposts">Мои сообщения</string>
     <string name="passowrduploadok">Пароль успешно изменен</string>
     <string name="logout">Выйти</string>
-    <string name="passwordsame">Два введенных вами пароля не совпадают</string>
+    <string name="passwordsame">Два введенных вами пароля не совпадают.</string>
     <string name="PopularComments">Популярные комментарии</string>
     <string name="Request">Запрос</string>
     <string name="Youarerequesting">Вы запрашиваете:</string>
@@ -312,7 +312,7 @@
     <string name="speaksomething">Пожалуйста, введите не менее 20 символов</string>
     <string name="speaktoolong">Количество символов превышает лимит, можно ввести до 4000 символов.</string>
     <string name="tapandholdptodelete">Нажмите и удерживайте картинку, чтобы удалить ее.</string>
-    <string name="addvideofaild">Не удалось добавить видео！ Убедитесь, что ваша сеть может просматривать видео Youtube и повторно добавьте его.</string>
+    <string name="addvideofaild">Не удалось добавить видео! Убедитесь, что ваша сеть может просматривать видео Youtube и повторно добавьте его.</string>
     <string name="Video">Видео</string>
     <string name="Hotsearches">Поиск горячего</string>
     <string name="Hothashtags">Горячие хэштеги</string>
@@ -341,7 +341,7 @@
     <!--home_feature-->
     <string name="Feature">Рекомендуемые</string>
     <string name="editorpick">Выбор редактора</string>
-    <string name="PopularInlast">Популярные за последние 24 часа</string>
+    <string name="PopularInlast">Популярное за последние 24 часа</string>
     <string name="Latestupdated">Недавно обновлённые</string>
     <string name="paidforfree">Бесплатные</string>
     <string name="ToadyRecommend">Сегодняшние рекомендации</string>
@@ -415,7 +415,7 @@
     <string name="Cdnoadfree">Чистый дизайн, без рекламы и 100% бесплатно!</string>
     <string name="wrhtdbf">Как пользоваться HyperTorrent\?</string>
     <string name="nothanks">Нет, спасибо</string>
-    <string name="Checkthenetwork">Проверьте сеть</string>
+    <string name="Checkthenetwork">Проверьте вашу сеть</string>
     <string name="Configuringip">Настройка доступного IP для вас</string>
     <string name="Configuringipfailed">Настройка не удалась, IP недоступны, пожалуйста, воспользуйтесь VPN.</string>
     <string name="Donatedes">HappyMod полностью бесплатен, и мы ненавидим рекламу так же сильно, как и вы!
