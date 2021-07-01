@@ -29,7 +29,7 @@
     <string name="Categories">Categorías</string>
     <string name="games">Juego</string>
     <string name="REFRESH">Refrescar</string>
-    <string name="Unable_to_connect_to_the_network">No se puede acceder a internet.</string>
+    <string name="Unable_to_connect_to_the_network">No se puede conectar a internet</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods destacados</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
