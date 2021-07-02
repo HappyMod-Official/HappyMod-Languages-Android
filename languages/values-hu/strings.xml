@@ -206,7 +206,7 @@
     <string name="Unknown">Ismeretlen</string>
     <string name="enteryEmail">Írd be az email címed</string>
     <string name="enteryPhone">Írja be a telefonszámát</string>
-    <string name="signuptips">Amikor elfelejti a jelszavát, a letöltéshez "Telefonszámra" vagy "E-mailre" lesz szüksége. Javasoljuk, hogy töltse ki őket.</string>
+    <string name="signuptips">Amikor elfelejti a jelszavát, a letöltéshez Telefonszámra vagy E-mailre lesz szüksége. Javasoljuk, hogy töltse ki őket.</string>
     <string name="confirmusername">Felhasználónév megerősítése</string>
     <string name="next">Következő</string>
     <string name="fblogdes">Kérjük, adjon meg egy felhasználónevet. A felhasználónév nagyon fontos azonosító a jelszó lekéréséhez, kérjük, vegye figyelembe.</string>
