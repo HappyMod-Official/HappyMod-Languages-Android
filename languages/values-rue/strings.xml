@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="GAME">Игра</string>
+    <string name="Homecom">HappyMod.com</string>
+    <string name="app_name">HappyMod</string>
+    <string name="Paid">Оплаченный</string>
+</resources>
