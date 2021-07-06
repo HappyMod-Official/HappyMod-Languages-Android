@@ -319,14 +319,14 @@
     <string name="init_fail">Başlatma başarısız oldu, lütfen VPN kullanın veya diğer ağlara geçin.</string>
     <string name="error_file_des">Bu dosya silinmiş ve artık yeniden indiriliyor.</string>
     <string name="sdpermission">Harici depolama alanınıza erişmemiz gerekiyor. Lütfen iznin verildiğinden emin olun.</string>
-    <string name="Night_Mode">Gece modu</string>
+    <string name="Night_Mode">Karanlık tema</string>
     <string name="thisty">Bu kullanıcı adı alındı. Başka bir tane deneyin. Mevcut:</string>
     <string name="Feature">Öne çıkan</string>
     <string name="editorpick">Editörün Seçimi</string>
     <string name="PopularInlast">Son 24 Saat İçinde Popüler</string>
     <string name="Latestupdated">En Son Güncelleme</string>
     <string name="paidforfree">Bedava Olanlar</string>
-    <string name="ToadyRecommend">Toady \'nin Tavsiyesi</string>
+    <string name="ToadyRecommend">Bugünün Tavsiyesi</string>
     <string name="hotmods">Popüler Modlar</string>
     <string name="hotrecommended">Popüler Tavsiye</string>
     <string name="searchappyouwanttoupload">Yüklemek istediğiniz uygulamada arama yapın:</string>
