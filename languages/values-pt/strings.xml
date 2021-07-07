@@ -29,7 +29,7 @@
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="REFRESH">Atualizar</string>
-    <string name="Unable_to_connect_to_the_network">Não é possível acessar a internet.</string>
+    <string name="Unable_to_connect_to_the_network">Não é possível acessar há internet.</string>
     <string name="Recommended_Game_Mods">Mods de Jogo recomendados</string>
     <string name="Hot_Game_Mods">Modos de Jogo em Alta</string>
     <string name="Recommended_App_Mods">Mods de aplicação recomendados</string>
@@ -176,7 +176,7 @@
     <string name="Endless">Infinito</string>
     <string name="Invincible">Invencível</string>
     <string name="Unlimitedhints">Prompt infinito</string>
-    <string name="Megamod">Várias rachaduras</string>
+    <string name="Megamod">Vários mods</string>
     <string name="Full">Versão completa</string>
     <!--注册登录-->
     <string name="Username">Nome de usuário</string>
@@ -197,7 +197,7 @@
     <string name="tuiat">Este nome de usuário já está sendo usado.</string>
     <string name="Login">Entrar</string>
     <string name="Account">Conta</string>
-    <string name="forgotpassword">Esqueceu tua senha\?</string>
+    <string name="forgotpassword">"Esqueceu da sua  senha\?"</string>
     <string name="loginwithaccount">OU faça login com seu nome de usuário</string>
     <string name="newur">Registo de novo utilizador</string>
     <string name="Usernameinitnew">Nome de usuário (4-50 caracteres)</string>
@@ -207,7 +207,7 @@
     <string name="Unknown">Desconhecido</string>
     <string name="enteryEmail">Digite seu e-mail</string>
     <string name="enteryPhone">Digite o seu número de telefone</string>
-    <string name="signuptips">Quando você esquecer sua senha, precisará de "Número de telefone" ou "E-mail" para recuperar. Recomendamos que você os complete.</string>
+    <string name="signuptips">"Quando você esquecer da sua  senha, precisará de Número de telefone ou E-mail para recuperar. Recomendamos que você os complete."</string>
     <string name="confirmusername">Confirme o nome de usuário</string>
     <string name="next">Próximo</string>
     <string name="fblogdes">Por favor coloque um nome de usuário. O nome de usuário é um identificador muito importante para recuperar a senha, lembre-se.</string>
