@@ -29,14 +29,14 @@
     <string name="Categories">分类</string>
     <string name="games">游戏</string>
     <string name="REFRESH">刷新</string>
-    <string name="Unable_to_connect_to_the_network">无法访问互联网</string>
+    <string name="Unable_to_connect_to_the_network">无法访问互联网。</string>
     <string name="Recommended_Game_Mods">推荐的游戏 Mods</string>
     <string name="Hot_Game_Mods">热门游戏 Mods</string>
-    <string name="Recommended_App_Mods">推荐的App Mods</string>
+    <string name="Recommended_App_Mods">推荐的 App Mods</string>
     <string name="Hot_App_Mods">热门App Mods</string>
     <string name="Recommended_New_Mods">推荐的新 Mods</string>
     <string name="Last_Update_Mods">最新更新</string>
-    <string name="SearchHint">搜索..</string>
+    <string name="SearchHint">搜索</string>
     <!-- 侧滑-->
     <string name="Homeweb">官方网站</string>
     <string name="Management">管理</string>
@@ -70,7 +70,7 @@
     <string name="Rated">已评级</string>
     <string name="Version">版</string>
     <string name="Ratingsreviews">评级 &amp; 评测</string>
-    <string name="Tryitlater">稍后再试</string>
+    <string name="Tryitlater">请稍后再试</string>
     <string name="Serviceisbusy">连接...</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">注意</string>
@@ -86,8 +86,8 @@
     <string name="Original">原版的</string>
     <string name="Previousversion">历史版本</string>
     <string name="Download">下载</string>
-    <string name="Downloadobb">下载APK+OBB</string>
-    <string name="Downloaddata">下载(APK+DATA)</string>
+    <string name="Downloadobb">下载 APK+OBB</string>
+    <string name="Downloaddata">下载 (APK+DATA)</string>
     <string name="Downloadboundle">下载 BUNDLE</string>
     <string name="Downloaded">已下载</string>
     <string name="Install">安装</string>
@@ -116,12 +116,12 @@
     <string name="nvisrti">新版本已准备好安装。</string>
     <string name="OPEN">打开</string>
     <string name="OK">好</string>
-    <string name="Loading">数据加载中......</string>
+    <string name="Loading">数据加载中…</string>
     <string name="updata_tip">您正在使用最新版本的HappyMod</string>
-    <string name="xzzb">请下载官方的HappyMod。</string>
+    <string name="xzzb">请下载官方的 HappyMod。</string>
     <string name="Continue">继续</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">设备上没有剩余空间</string>
+    <string name="No_space_left_on_device">设备上的存储空间不足</string>
     <string name="Is_this_app_you_need">你在找这个应用程序吗？</string>
     <string name="No">没有</string>
     <string name="Yes">是</string>
@@ -148,7 +148,7 @@
     <string name="uid">用户id</string>
     <string name="copysuccess">用户id已复制到剪贴板。</string>
     <string name="watchnow">现在看</string>
-    <string name="ggdownloading">广告正在加载，请等待并保持happymod打开。</string>
+    <string name="ggdownloading">广告正在加载，请等待并保持 HappyMod 打开。</string>
     <string name="verificaing">验证中，请稍候。</string>
     <!-- 评价 -->
     <string name="Removeads">移除广告</string>
@@ -221,12 +221,12 @@
     <string name="Register">注册</string>
     <string name="eyun">输入你的用户名</string>
     <string name="eypsw">输入您的密码</string>
-    <string name="loginerrortips">请输入正确的用户名和密码。请注意，密码字段区分大小写。</string>
+    <string name="loginerrortips">请输入有效的用户名和密码。请注意，密码字段区分大小写。</string>
     <string name="Resetpasswordfailed">重置密码失败。</string>
     <string name="Theusernamewasnotregistered">用户名未注册。</string>
-    <string name="petceotn">请输入正确的电子邮件或电话号码。</string>
-    <string name="fbrfail">Facebook注册失败。</string>
-    <string name="Registerfailed">注册失败，请确认您的网络连接正常，单击注册按钮再试一次。</string>
+    <string name="petceotn">请输入有效的电子邮件或电话号码。</string>
+    <string name="fbrfail">Facebook 注册失败。</string>
+    <string name="Registerfailed">注册失败，请确认您的网络连接正常。单击注册按钮再试一次。</string>
     <string name="Loginfailed">登录失败。</string>
     <string name="me">我</string>
     <string name="Avatar">头像</string>
@@ -250,8 +250,8 @@
     <string name="view">查看</string>
     <string name="isthiswork">它有用吗？</string>
     <string name="edit">编辑</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire网址：</string>
-    <string name="OBBDataurl">OBB /Data Zippyshare/Mediafire网址:(可选）</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire 网址：</string>
+    <string name="OBBDataurl">OBB /Data Zippyshare/Mediafire 网址（可选）</string>
     <string name="Youarereupload">您正在上传：</string>
     <string name="Upload">上传</string>
     <string name="Uploadfail">上传失败。</string>
@@ -267,7 +267,7 @@
     <string name="RecommendMods">推荐 Mods</string>
     <string name="requestdetailserror">(50-4000 字符)</string>
     <string name="Changetheimage">更改图像&gt;&gt;</string>
-    <string name="Typethecodeinthebox">在框中键入代码</string>
+    <string name="Typethecodeinthebox">在输入框中输入代码</string>
     <string name="Verificationerror">验证失败，请重试</string>
     <string name="Verifing">验证中…</string>
     <string name="fix_tips_title">删除前请尝试其他服务器</string>
@@ -414,9 +414,15 @@
     <string name="Cdnoadfree">简洁的设计，无广告100％免费！</string>
     <string name="wrhtdbf">我们建议HyperTorrent下载大文件。</string>
     <string name="nothanks">不 谢谢</string>
-    <string name="Checkthenetwork">检查网络</string>
+    <string name="Checkthenetwork">请检查您的网络</string>
     <string name="Configuringip">为您配置可用的IP</string>
     <string name="Configuringipfailed">配置失败，检测到8个IP不可用，请尝试使用VPN。</string>
-    <string name="Donatedes">HappyMod是完全免费的，我们和您一样讨厌广告！ \n\n我们需要您的捐赠来提供更快，更安全的下载。 \n\n请耐心等待，并观看完整的广告以完成捐赠。 \n\n谢谢你！</string>
+    <string name="Donatedes">HappyMod 是完全免费的，我们和您一样讨厌广告！
+\n
+\n我们依赖您的捐赠来提供更快、更安全的下载。
+\n
+\n请耐心等待，并观看完整的广告以完成捐赠。
+\n
+\n谢谢你！</string>
     <string name="viewstepdeti">查看步骤详细信息</string>
 </resources>
