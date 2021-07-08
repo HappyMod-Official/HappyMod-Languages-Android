@@ -2,7 +2,7 @@
 <resources>
     <!--西班牙-->
     <string name="app_name">juegos con mods</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -31,7 +31,7 @@
     <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se pudo conectar a internet</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
-    <string name="Hot_Game_Mods">Mods destacados</string>
+    <string name="Hot_Game_Mods">Mods destacados sobre juegos</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Hot_App_Mods">Mods destacados</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
