@@ -209,7 +209,7 @@
     <string name="signuptips">Dacă îți uiți parola, vei avea nevoie de un număr de telefon sau de o adresă email pentru a o recupera. Noi recomandăm să le adăugați.</string>
     <string name="confirmusername">Confirmați numele de utilizator</string>
     <string name="next">Următorul →</string>
-    <string name="fblogdes">Va rugam sa introduceti un nume de utilizator. Numele de utilizator este un identificator foarte important pentru recuperarea parolei, vă rugăm să rețineți.</string>
+    <string name="fblogdes">Va rugam sa introduceti un nume de utilizator. Numele de utilizator este un identificator foarte important pentru extragerea parolei, vă rugăm să rețineți.</string>
     <string name="selectusername">Selectați numele de utilizator</string>
     <string name="reselpass_desone">Introduceți numele de utilizator al contului pentru a reseta parola. Aveți probleme cu resetarea parolei<u>contact us</u>.</string>
     <string name="reselpass_destwo">Introduceți adresa de e-mail sau numărul de telefon. Aveți probleme cu resetarea parolei<u>contactează-ne</u>.</string>
