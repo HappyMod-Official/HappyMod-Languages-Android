@@ -29,14 +29,14 @@
     <string name="Categories">Categorii</string>
     <string name="games">Jocuri</string>
     <string name="REFRESH">Reîmprospătare</string>
-    <string name="Unable_to_connect_to_the_network">Nu se poate accesa internetul.</string>
-    <string name="Recommended_Game_Mods">Moduri de joc recomandate</string>
-    <string name="Hot_Game_Mods">Top moduri de joc</string>
-    <string name="Recommended_App_Mods">Moduri recomandate pentru aplicații</string>
+    <string name="Unable_to_connect_to_the_network">Nu ne putem conecta la internet.</string>
+    <string name="Recommended_Game_Mods">Jocuri modificate recomandate</string>
+    <string name="Hot_Game_Mods">Modificări populare pentru jocuri</string>
+    <string name="Recommended_App_Mods">Aplicații modificate recomandate</string>
     <string name="Hot_App_Mods">Top moduri de aplicație</string>
-    <string name="Recommended_New_Mods">"Modurile recomandate  de  noi"</string>
+    <string name="Recommended_New_Mods">Noi moduri recomandate</string>
     <string name="Last_Update_Mods">Ultimele actualizări</string>
-    <string name="SearchHint">Căutați indicii</string>
+    <string name="SearchHint">Căutare</string>
     <!-- 侧滑-->
     <string name="Homeweb">Site oficial</string>
     <string name="Management">Administrare</string>
@@ -55,7 +55,7 @@
     <string name="settings_clear_cache">Ștergeți memoria cache</string>
     <string name="Clean_up_the_complete">Cache-ul este șters.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result"> Hopa! Niciun rezultat găsit.</string>
+    <string name="des_no_serach_result">Hopa! Niciun rezultat găsit.</string>
     <!--下载管理页-->
     <string name="Downloads">Descărcări</string>
     <string name="Downloading">Descărcări</string>
@@ -87,7 +87,7 @@
     <string name="Previousversion">Versiunea anterioara</string>
     <string name="Download">Descarca</string>
     <string name="Downloadobb">Descarca (APK+OBB)</string>
-    <string name="Downloaddata">Descarca(APK+DATA)</string>
+    <string name="Downloaddata">Descarca (APK+DATA)</string>
     <string name="Downloadboundle">Descarca BUNDLE</string>
     <string name="Downloaded">Descarcat</string>
     <string name="Install">Instalează</string>
@@ -97,15 +97,14 @@
     <string name="Moreversion">Mai multe versiuni</string>
     <string name="Recommend">Recomanda</string>
     <string name="Recommendmod">Mod recomandat</string>
-    <string name="Moremods">Mai multe moduri
-\n</string>
+    <string name="Moremods">Ultimele versiuni</string>
     <!--评分-->
-    <string name="Submit">Depune</string>
+    <string name="Submit">Trimite</string>
     <string name="Hated_it">Urăsc asta!</string>
-    <string name="Disliked_it">Nu îmi place.</string>
+    <string name="Disliked_it">Nu îmi a plăcut.</string>
     <string name="Its_ok">E bine.</string>
-    <string name="Liked_it">Imi place.</string>
-    <string name="Loved_it">Iubesc!</string>
+    <string name="Liked_it">Mi-a plăcut.</string>
+    <string name="Loved_it">L-am iubit!</string>
     <!--分享-->
     <string name="share_happymod">Distribuiți "HappyMod" prin</string>
     <string name="share_subject">Obțineți HappyMod</string>
@@ -114,10 +113,10 @@
     <string name="pref_location">Locație de stocare</string>
     <!--update -->
     <string name="force_des">Moduri funcționale 100%</string>
-    <string name="nvisrti">Noua versiune este gata pentru instalare.</string>
+    <string name="nvisrti">O nouă versiune este gata pentru a fi instalată.</string>
     <string name="OPEN">DESCHIS</string>
     <string name="OK">O.K</string>
-    <string name="Loading">Se încarcă...</string>
+    <string name="Loading">Se încarcă…</string>
     <string name="updata_tip">Utilizați ultima versiune stabilă a HappyMod</string>
     <string name="xzzb">Te rog descarcă aplicația oficiala HappyMod.</string>
     <string name="Continue">Continuă</string>
@@ -140,24 +139,24 @@
     <string name="apps">Aplicații</string>
     <!-- 大文件 -->
     <string name="mergering">Procesarea finală</string>
-    <string name="mergerwait">Finalizarea procesării (nevoie 1-2 minute)</string>
+    <string name="mergerwait">Procesarea finală (nevoie 1-2 minute)</string>
     <!-- 验证 -->
     <string name="Startverification">Porniți verificarea</string>
-    <string name="verificationShangXian">Hopa! Ați atins limita de descărcare zilnică, încercați din nou după ora X.</string>
+    <string name="verificationShangXian">Hopa! Ați atins limita de descărcare zilnică, încercați din nou după X ore.</string>
     <string name="verificationFail">Verificare eșuată. Vă rugăm încercați din nou!</string>
     <string name="Morehelp">(Mai mult ajutor)</string>
     <string name="uid">Numele de utilizator</string>
     <string name="copysuccess">Userid a fost copiat în clipboard.</string>
     <string name="watchnow">Afișați acum</string>
-    <string name="ggdownloading">Anunțurile se încarcă, așteptați și păstrați happymod deschis.</string>
-    <string name="verificaing">În verificare, vă rugăm să așteptați un moment.</string>
+    <string name="ggdownloading">Anunțurile se încarcă, vă rugăm așteptați și păstrați HappyMod deschis.</string>
+    <string name="verificaing">Verificăm, vă rog așteptați.</string>
     <!-- 评价 -->
     <string name="Removeads">Eliminați anunțul</string>
     <string name="Paidforfree">gratuit</string>
     <string name="Unlimitedmoney">Bani nelimitați</string>
     <string name="Freepurchase">Achiziție gratuită</string>
     <string name="Freeshopping">Cumpărături gratuite</string>
-    <string name="Unlocked">Descuiat</string>
+    <string name="Unlocked">Deblocat</string>
     <string name="Patched">Reparare</string>
     <string name="Premium">Gratuit</string>
     <string name="Pro">Versiune profesională</string>
@@ -168,7 +167,7 @@
     <string name="VIP">VIP</string>
     <string name="Substratum">Strat inferior</string>
     <string name="Debloated">Șterge inutil</string>
-    <string name="Donate">Donare</string>
+    <string name="Donate">Donează</string>
     <string name="AOSPcompatible">AOSP compatibil</string>
     <string name="Cracked">Fisurat</string>
     <string name="NoAds">Nu există anunțuri</string>
@@ -181,11 +180,11 @@
     <!--注册登录-->
     <string name="Username">Nume de utilizator</string>
     <string name="Usernameinit">4-50 caractere</string>
-    <string name="Usernametip">Doar literele a-z, numere, @. - vă rugăm (fără spații sau alte caractere speciale). 4-50 caractere.</string>
+    <string name="Usernametip">Doar literele a-z, numere, și simboluri: @ . - vă rugăm (fără spații sau alte caractere speciale). 4-50 caractere.</string>
     <string name="Password">Parolă</string>
     <string name="Enteryourpassword">6-8 caractere</string>
     <string name="passwordtip">Doar literele A-Z, a-z, numere (fără spații sau caractere speciale). 6-8 caractere.</string>
-    <string name="nicknametip">Această poreclă este deja luată.</string>
+    <string name="nicknametip">Această poreclă este deja folosită.</string>
     <string name="Nickname">Poreclă</string>
     <string name="Emailaddress">Adresa de email</string>
     <string name="Enteryouremail">Introduceți adresa dvs. de email</string>
@@ -198,7 +197,7 @@
     <string name="Login">Logare</string>
     <string name="Account">Cont</string>
     <string name="forgotpassword">Ați uitat parola\?</string>
-    <string name="loginwithaccount">Sau autentificare cu numele de utilizator</string>
+    <string name="loginwithaccount">Sau autentificați-vă cu numele de utilizator</string>
     <string name="newur">Înregistrare utilizator nou</string>
     <string name="Usernameinitnew">Nume utilizator (4-50 caractere)</string>
     <string name="Passwordnew">Parolă (6-8 caractere)</string>
@@ -207,10 +206,10 @@
     <string name="Unknown">Necunoscut</string>
     <string name="enteryEmail">Introduceți adresa dvs. de email</string>
     <string name="enteryPhone">Introduceți numarul dumneavoastră de telefon</string>
-    <string name="signuptips">Când uitați parola, veți avea nevoie de „Număr de telefon” sau „E-mail” pentru a le primi. Vă recomandăm să le completați.</string>
+    <string name="signuptips">Dacă îți uiți parola, vei avea nevoie de un număr de telefon sau de o adresă email pentru a o recupera. Noi recomandăm să le adăugați.</string>
     <string name="confirmusername">Confirmați numele de utilizator</string>
     <string name="next">Următorul →</string>
-    <string name="fblogdes">Va rugam sa introduceti un nume de utilizator. Numele de utilizator este un identificator foarte important pentru extragerea parolei, vă rugăm să rețineți.</string>
+    <string name="fblogdes">Va rugam sa introduceti un nume de utilizator. Numele de utilizator este un identificator foarte important pentru recuperarea parolei, vă rugăm să rețineți.</string>
     <string name="selectusername">Selectați numele de utilizator</string>
     <string name="reselpass_desone">Introduceți numele de utilizator al contului pentru a reseta parola. Aveți probleme cu resetarea parolei<u>contact us</u>.</string>
     <string name="reselpass_destwo">Introduceți adresa de e-mail sau numărul de telefon. Aveți probleme cu resetarea parolei<u>contactează-ne</u>.</string>
