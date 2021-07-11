@@ -2,7 +2,7 @@
 <resources>
     <!--泰米尔语-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">கேப்பிமோட்</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
