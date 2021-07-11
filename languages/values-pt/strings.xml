@@ -23,22 +23,21 @@
     <!--首页-->
     <string name="Paid">Pago</string>
     <string name="GAME">JOGO</string>
-    <string name="APP">APLICATIVO
-\n</string>
+    <string name="APP">Aplicativo</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="REFRESH">Atualizar</string>
-    <string name="Unable_to_connect_to_the_network">Não é possível acessar há internet.</string>
+    <string name="Unable_to_connect_to_the_network">Não foi possível acessar à internet.</string>
     <string name="Recommended_Game_Mods">Mods de Jogo recomendados</string>
-    <string name="Hot_Game_Mods">Modos de Jogo em Alta</string>
-    <string name="Recommended_App_Mods">Mods de aplicação recomendados</string>
-    <string name="Hot_App_Mods">Mods de Aplicação em Alta</string>
+    <string name="Hot_Game_Mods">Mods populares para jogos</string>
+    <string name="Recommended_App_Mods">Mods recomendados</string>
+    <string name="Hot_App_Mods">Mods em alta</string>
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
-    <string name="Last_Update_Mods">Últimas Actualizações</string>
+    <string name="Last_Update_Mods">Últimas Atualizações</string>
     <string name="SearchHint">Procurar</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Sítio Oficial</string>
+    <string name="Homeweb">Site Oficial</string>
     <string name="Management">Gerenciamento</string>
     <string name="Settings">Definições</string>
     <string name="Feedback">Feedback</string>
