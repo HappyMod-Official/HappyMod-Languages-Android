@@ -7,24 +7,24 @@
     <string name="Plus">Плюс</string>
     <string name="VIP">VIP</string>
     <string name="Donate">Задонатити</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="GAME">ГРА</string>
     <string name="Recommended_Game_Mods">Рекомендовані Ігрові Моди</string>
     <string name="Recommended_App_Mods">Рекомендовані Моди для Програм</string>
     <string name="Hot_App_Mods">Новенькі Моди для Програм</string>
     <string name="Recommended_New_Mods">Рекомендовані Нові Моди</string>
-    <string name="SearchHint">Пошук...</string>
+    <string name="SearchHint">Пошук</string>
     <string name="Homeweb">Офіційний Вебсайт</string>
     <string name="Management">Керування</string>
     <string name="Settings">Налаштування</string>
     <string name="Feedback">Зворотній зв\'язок</string>
     <string name="Share">Поділитися</string>
-    <string name="Checkforupdate">Перевірити наявність оновлень</string>
+    <string name="Checkforupdate">Перевірити наявність оновлення</string>
     <string name="FollowusonFacebook">Слідкуйте за нами у Фейсбук</string>
     <string name="settings_network_remind">Помилка Мобільного Інтернету</string>
     <string name="settings_auto_install">Встановлювати Автоматично</string>
     <string name="settings_other">Інше</string>
-    <string name="settings_clear_cache">Очистити Кеш</string>
+    <string name="settings_clear_cache">Очистити кеш</string>
     <string name="Clean_up_the_complete">Кеш очищено.</string>
     <string name="des_no_serach_result">Упс! Пошук не дав результатів.</string>
     <string name="Downloads">Завантаження</string>
@@ -38,7 +38,7 @@
     <string name="Rated">Оцінено</string>
     <string name="Version">Версія</string>
     <string name="Ratingsreviews">Рейтинги і Відгуки</string>
-    <string name="Tryitlater">Спробуйте пізніше</string>
+    <string name="Tryitlater">Спробуйте заново пізніше</string>
     <string name="deletethistask">Видалити цей файл</string>
     <string name="Cancel">Скасувати</string>
     <string name="Delete">Видалити</string>
@@ -49,27 +49,26 @@
     <string name="Original">Оригінал</string>
     <string name="Previousversion">Попередня Версія</string>
     <string name="Download">Завантажити</string>
-    <string name="Downloaddata">Завантажити(APK+DATA)</string>
+    <string name="Downloaddata">Завантажити (APK+DATA)</string>
     <string name="Downloaded">Завантажено</string>
     <string name="Install">Встановити</string>
     <string name="Connecting">Підключення…</string>
     <string name="Recommend">Рекомендувати</string>
     <string name="Recommendmod">Рекомендований Мод</string>
-    <string name="Moremods">Більше Модів
-\n</string>
+    <string name="Moremods">Останні Версії</string>
     <string name="Hated_it">Ненавиджу!</string>
-    <string name="Disliked_it">Не подобається.</string>
+    <string name="Disliked_it">Не сподобалося.</string>
     <string name="Its_ok">Непогано.</string>
-    <string name="Liked_it">Подобається.</string>
-    <string name="Loved_it">Круто!</string>
+    <string name="Liked_it">Сподобалось.</string>
+    <string name="Loved_it">Сподобалось!</string>
     <string name="share_subject">Отримати HappyMod</string>
     <string name="share_text">Завантажуйте 100% робочі моди з @HappyMod
 \nhttps://www.happymod.com/</string>
     <string name="pref_location">Місце збереження</string>
-    <string name="nvisrti">Нова версія готова до інсталяції.</string>
+    <string name="nvisrti">Нова версія готова до встановлення.</string>
     <string name="OPEN">ВІДКРИТИ</string>
     <string name="OK">ОК</string>
-    <string name="Loading">Завантаження</string>
+    <string name="Loading">Завантаження…</string>
     <string name="xzzb">Будь ласка, завантажте офіційну версію HappyMod.</string>
     <string name="Continue">Продовжити</string>
     <string name="appobb">APK+OBB</string>
@@ -93,7 +92,7 @@
     <string name="uid">ID Користувача</string>
     <string name="copysuccess">ID Користувача було скопійовано у буфер обміну.</string>
     <string name="watchnow">Переглянути зараз</string>
-    <string name="verificaing">У перевірці, будь ласка зачекайте.</string>
+    <string name="verificaing">Перевіряється, будь ласка, зачекайте.</string>
     <string name="Removeads">Забрати рекламу</string>
     <string name="Paidforfree">Оплачено безкоштовно</string>
     <string name="Unlimitedmoney">Безкінечно грошей</string>
@@ -102,7 +101,7 @@
     <string name="Patched">Запатчено</string>
     <string name="Endless">Безмежно</string>
     <string name="Unlimitedhints">Безмежні підказки</string>
-    <string name="Megamod">Мега мод</string>
+    <string name="Megamod">Мега Мод</string>
     <string name="Usernameinit">4–50 символів</string>
     <string name="Password">Пароль</string>
     <string name="Enteryourpassword">6–8 символів</string>
@@ -138,7 +137,7 @@
     <string name="Categories">Категорії</string>
     <string name="REFRESH">Перезавантажити</string>
     <string name="Unable_to_connect_to_the_network">Немає доступу до інтернету.</string>
-    <string name="Hot_Game_Mods">Новенькі Ігрові Моди</string>
+    <string name="Hot_Game_Mods">Популярні Ігрові Моди</string>
     <string name="Last_Update_Mods">Останні Оновлення</string>
     <string name="Translation">Переклад</string>
     <string name="FollowusonTwitter">Сладкуйте за нами у Твіттері</string>
@@ -158,8 +157,8 @@
     <string name="No_enough_space_left_on_device">Недостатньо місця. Потреби:</string>
     <string name="updateFail">Помилка завантаження. Будь ласка, закрийте і відкрийте заново</string>
     <string name="Notice">Зауваження</string>
-    <string name="verificationShangXian">"Упс! Ти перевищив денний ліміт, отож спробуй  заново через X годин."</string>
-    <string name="ggdownloading">Реклама завантажується, зачекайте та залишайте відкритим happymod.</string>
+    <string name="verificationShangXian">Упс! Ви перевищили денний ліміт, отож спробуйте заново через X годин.</string>
+    <string name="ggdownloading">Реклама завантажується, зачекайте та залишайте відкритим HappyMod.</string>
     <string name="Freepurchase">Безкоштовна покупка</string>
     <string name="Premium">Преміум</string>
     <string name="ModLite">Мод Lite</string>
@@ -175,4 +174,24 @@
     <string name="enteryPhone">Введіть ваш номер телефону</string>
     <string name="signuptips">Коли Ви забуваєте пароль, вам буде потрібен номер телефону або ел. пошта, щоб скинути. Ми рекомендуємо заповнити їх.</string>
     <string name="reselpass_desone">Введіть ім\'я корситувача вашого аккаунту, щоб скинути пароль. Якщо ви маєте якісь проблеми щодо скидання паролю, <u>зв\'яжіться з нами</u>.</string>
+    <string name="forgetgosingup">Не можете згадати жодного\? Ви можете створити новий аккаунт <u>тут</u>.</string>
+    <string name="Resetpassword">Скинути пароль</string>
+    <string name="NewPassword">Новий пароль</string>
+    <string name="Enterthepasswordagain">Підтвердити пароль</string>
+    <string name="signuplimitdes">Ваш девайс досяг максимальної кількості зареєстрованих користувачів. Будь ласка, виберіть користувача нижче, щоб увійти.</string>
+    <string name="Register">Зареєструватися</string>
+    <string name="eyun">Введіть ім\'я користувача</string>
+    <string name="eypsw">Введіть ваш пароль</string>
+    <string name="fblogdes">Введіть ім\'я користувача. Майте на увазі, що це ім\'я може допомогти підібрати пароль.</string>
+    <string name="Donatedes">HappyMod повністю безкоштовний, і ми ненавидимо рекламу так само як ви!
+\n
+\n
+\nМи глибоко Вам вдячні за Ваш донат, і ми використовуємо його для збільшення швидкості та безпеки завантажень.
+\n
+\nБудь ласка, будьте доброзичливими і спробуйте дивитися повну рекламу, щоб завершити донат.
+\n
+\n
+\nДякую:)</string>
+    <string name="Checkthenetwork">Перевірте Ваше підключення</string>
+    <string name="reselpass_destwo">Будь ласка, введіть електронну пошту або номер телефону. Якщо у Вас виникли якісь проблеми з скиданням паролю, <u>зв\'яжіться з нами</u>.</string>
 </resources>
