@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="facebook_app_id">6581828312831284939</string>
+    <string name="APP">Äppi</string>
+    <string name="NEW">Uusi</string>
+    <string name="games">Pelit</string>
+    <string name="Unable_to_connect_to_the_network">Ei voidaa yhdistää nettiin.</string>
+    <string name="GAME">Peli</string>
+    <string name="Homecom">Iloinen modi.com</string>
+    <string name="app_name">Iloinen modi</string>
+    <string name="Categories">Kategoriat</string>
+</resources>
