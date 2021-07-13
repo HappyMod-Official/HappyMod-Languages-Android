@@ -24,15 +24,15 @@
     <string name="Paid">Pagato</string>
     <string name="GAME">Gioco</string>
     <string name="APP">Applicazione</string>
-    <string name="NEW">Nuovi</string>
+    <string name="NEW">Nuovo</string>
     <string name="Categories">Categorie</string>
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet.</string>
-    <string name="Recommended_Game_Mods">Mod per giochi consigliate</string>
+    <string name="Recommended_Game_Mods">"Mod per giochi consigliati "</string>
     <string name="Hot_Game_Mods">Mod Popolari per Giochi</string>
     <string name="Recommended_App_Mods">Mod per Applicazioni Consigliate</string>
-    <string name="Hot_App_Mods">Mod di App Popolari</string>
+    <string name="Hot_App_Mods">Mod per app popolari</string>
     <string name="Recommended_New_Mods">Nuove Mod Consigliate</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
     <string name="SearchHint">Cerca</string>
@@ -60,8 +60,8 @@
     <string name="Downloading">In fase di Download</string>
     <string name="Finished">Terminato</string>
     <string name="No_Download">Nessun file trovato.</string>
-    <string name="Pause">Metti in Pausa</string>
-    <string name="Waiting_in_queue">In attesa nella coda</string>
+    <string name="Pause">Pausa</string>
+    <string name="Waiting_in_queue">In coda</string>
     <string name="Completed">Completato</string>
     <string name="UnZiping">Estrazione</string>
     <string name="UnZip_succeed">Estrazione terminata</string>
@@ -105,7 +105,7 @@
     <string name="Liked_it">Mi è piaciuto.</string>
     <string name="Loved_it">Lo adoro!</string>
     <!--分享-->
-    <string name="share_happymod">Condividi \"HappyMod\" con</string>
+    <string name="share_happymod">"Condividi \"HappyMod\" "</string>
     <string name="share_subject">Ottieni HappyMod</string>
     <string name="share_text">Scarica Mod funzionanti al 100% con @HappyMod! 
 \nhttps: //www.happymod.com/</string>
@@ -117,7 +117,7 @@
     <string name="OPEN">APRI</string>
     <string name="OK">OK</string>
     <string name="Loading">Caricamento in corso…</string>
-    <string name="updata_tip">Stai utilizzando l\'ultima versione stabile di HappyMod</string>
+    <string name="updata_tip">"Stai utilizzando l\'ultima versione stabile di HappyMod "</string>
     <string name="xzzb">Per favore scarica HappyMod dal sito ufficiale.</string>
     <string name="Continue">Continua</string>
     <string name="appobb">APK+OBB</string>
