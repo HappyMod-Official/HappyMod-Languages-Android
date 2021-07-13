@@ -29,7 +29,7 @@
     <string name="games">Juego</string>
     <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se pudo conectar a internet</string>
-    <string name="Recommended_Game_Mods">"Mi hijo Labenborn "</string>
+    <string name="Recommended_Game_Mods">Mi hijo Labenborn</string>
     <string name="Hot_Game_Mods">Mods destacados sobre juegos</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Hot_App_Mods">Mods destacados</string>
@@ -105,7 +105,7 @@
     <string name="Liked_it">Me gusta.</string>
     <string name="Loved_it">¡Lo amo!</string>
     <!--share-->
-    <string name="share_happymod">Comparte ‘HappyMod’ a través de</string>
+    <string name="share_happymod">"Comparte ‘HappyMod’ a través de "</string>
     <string name="share_subject">Obtener HappyMod</string>
     <string name="share_text">Descarga mods 100% funcionales con @HappyMod\nhttps://www.happymod.com/</string>
     <!--path-->
