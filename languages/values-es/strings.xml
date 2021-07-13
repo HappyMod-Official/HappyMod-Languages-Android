@@ -23,8 +23,7 @@
     <!--homepage-->
     <string name="Paid">De pago</string>
     <string name="GAME">JUEGOS</string>
-    <string name="APP">APLICACIÓN
-\n</string>
+    <string name="APP">APLICACIÓN</string>
     <string name="NEW">NUEVO</string>
     <string name="Categories">Categorías</string>
     <string name="games">Juego</string>
@@ -122,7 +121,7 @@
     <string name="Continue">Continuar</string>
     <string name="appobb">APK + OBB</string>
     <string name="No_space_left_on_device">No queda espacio de almacenamiento en el dispositivo</string>
-    <string name="Is_this_app_you_need">¿Estás buscando esta aplicación?</string>
+    <string name="Is_this_app_you_need">¿Estás buscando esta aplicación\?</string>
     <string name="No">No</string>
     <string name="Yes">Sí</string>
     <string name="bcdes">. Libere almacenamiento e intente nuevamente.</string>
