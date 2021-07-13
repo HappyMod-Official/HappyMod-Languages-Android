@@ -29,7 +29,7 @@
     <string name="games">Juego</string>
     <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se pudo conectar a internet</string>
-    <string name="Recommended_Game_Mods">Mi hijo Labenborn</string>
+    <string name="Recommended_Game_Mods">"Mi hijo Labenborn "</string>
     <string name="Hot_Game_Mods">Mods destacados sobre juegos</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Hot_App_Mods">Mods destacados</string>
