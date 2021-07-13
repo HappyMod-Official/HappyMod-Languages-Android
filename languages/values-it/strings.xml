@@ -29,9 +29,9 @@
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet.</string>
-    <string name="Recommended_Game_Mods">"Mod per giochi consigliati "</string>
+    <string name="Recommended_Game_Mods">Mod consigliate per giochi</string>
     <string name="Hot_Game_Mods">Mod Popolari per Giochi</string>
-    <string name="Recommended_App_Mods">Mod per Applicazioni Consigliate</string>
+    <string name="Recommended_App_Mods">Mod consigliate per Applicazioni</string>
     <string name="Hot_App_Mods">Mod per app popolari</string>
     <string name="Recommended_New_Mods">Nuove Mod Consigliate</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
@@ -122,7 +122,7 @@
     <string name="Continue">Continua</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">Memoria del dispositivo piena</string>
-    <string name="Is_this_app_you_need">Stai cercando questa app?</string>
+    <string name="Is_this_app_you_need">Stai cercando questa app\?</string>
     <string name="No">No</string>
     <string name="Yes">Sì</string>
     <string name="bcdes">Libera lo spazio di archiviazione e riprova.</string>
