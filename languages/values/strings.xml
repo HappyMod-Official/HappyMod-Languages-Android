@@ -211,12 +211,12 @@
     <string name="fblogdes">Please enter a username. The username is a very important identifier for recuperating your password, please keep in mind.</string>
     <string name="selectusername">Select username</string>
     <string name="reselpass_desone">Enter your username. If you have any issue about resetting your password <u>contact us</u>.</string>
-    <string name="reselpass_destwo">Please enter the email or the phone number. If you have any issue about reseting your password <u>contact us</u>.</string>
+    <string name="reselpass_destwo">Please enter your email or phone number. If you have any issue about resetting your password, <u>contact us</u>.</string>
     <string name="forgetgosingup">Can\'t remember any of them\? You can create a new account <u>here</u>.</string>
     <string name="Resetpassword">Reset password</string>
     <string name="NewPassword">New password</string>
-    <string name="Enterthepasswordagain">Confirm the password</string>
-    <string name="signuplimitdes">Your device has reached the maximum number of registered usernames. Please select the username(s) below to log in.</string>
+    <string name="Enterthepasswordagain">Confirm password</string>
+    <string name="signuplimitdes">Your device has reached the maximum number of registered accounts. Please select the account(s) below to log in.</string>
     <string name="Register">Register</string>
     <string name="eyun">Enter your username</string>
     <string name="eypsw">Enter your password</string>
