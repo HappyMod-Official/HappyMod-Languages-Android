@@ -30,7 +30,7 @@
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network.</string>
     <string name="Recommended_Game_Mods">Recommended Game Mods</string>
     <string name="Hot_Game_Mods">Popular Mods for Games</string>
-    <string name="Recommended_App_Mods">Recommended Apps Mods</string>
+    <string name="Recommended_App_Mods">Recommended App Mods</string>
     <string name="Hot_App_Mods">Hot App Mods</string>
     <string name="Recommended_New_Mods">New Recommended Mods</string>
     <string name="Last_Update_Mods">Latest Updates</string>
@@ -42,7 +42,7 @@
     <string name="Feedback">Feedback</string>
     <string name="Translation">Translation</string>
     <string name="Share">Share</string>
-    <string name="Checkforupdate">Controlla per gli aggiornamenti</string>
+    <string name="Checkforupdate">Check for update</string>
     <string name="FollowusonTwitter">Follow us on Twitter</string>
     <string name="FollowusonFacebook">Follow us on Facebook</string>
     <!--设置页-->
@@ -104,7 +104,7 @@
     <string name="Liked_it">Liked it.</string>
     <string name="Loved_it">Loved it!</string>
     <!--分享-->
-    <string name="share_happymod">"Condividi Happy mod "</string>
+    <string name="share_happymod">Share ‘HappyMod’ via</string>
     <string name="share_subject">Get HappyMod</string>
     <string name="share_text">Download 100% working mods with @HappyMod
 \nhttps://www.happymod.com/</string>
@@ -116,12 +116,12 @@
     <string name="OPEN">OPEN</string>
     <string name="OK">OK</string>
     <string name="Loading">Loading…</string>
-    <string name="updata_tip">"Suggerimento per l\'aggiornamento "</string>
+    <string name="updata_tip">You are using the latest stable version of HappyMod</string>
     <string name="xzzb">Please download the official HappyMod.</string>
     <string name="Continue">Continue</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">No storage space left on device</string>
-    <string name="Is_this_app_you_need">Stai cercando questa app</string>
+    <string name="Is_this_app_you_need">Are you looking for this app\?</string>
     <string name="No">No</string>
     <string name="Yes">Yes</string>
     <string name="bcdes">. Free up storage and try again.</string>
@@ -240,7 +240,7 @@
     <string name="Addrequest">Add request</string>
     <string name="Myrequests">My requests</string>
     <string name="Myuploads">My uploads</string>
-    <string name="Updated">Aggiornata</string>
+    <string name="Updated">Updated</string>
     <string name="Comingsoon">Coming soon</string>
     <string name="searchappyouwanttorequest">Search for the app you want to request:</string>
     <string name="Addupload">Add upload</string>
