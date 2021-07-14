@@ -29,9 +29,9 @@
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet.</string>
-    <string name="Recommended_Game_Mods">Mod consigliate per i giochi</string>
-    <string name="Hot_Game_Mods">Mod Popolari per Giochi</string>
-    <string name="Recommended_App_Mods">Mod consigliate per Applicazioni</string>
+    <string name="Recommended_Game_Mods">Mod consigliate per i Giochi</string>
+    <string name="Hot_Game_Mods">Mod Popolari per i Giochi</string>
+    <string name="Recommended_App_Mods">Mod consigliate per le Applicazioni</string>
     <string name="Hot_App_Mods">Mod per app popolari</string>
     <string name="Recommended_New_Mods">Nuove Mod Consigliate</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
@@ -43,7 +43,7 @@
     <string name="Feedback">Feedback (opinione)</string>
     <string name="Translation">Traduzione</string>
     <string name="Share">Condividi</string>
-    <string name="Checkforupdate">Controlla aggiornamenti</string>
+    <string name="Checkforupdate">Controlla gli aggiornamenti</string>
     <string name="FollowusonTwitter">Seguici su Twitter</string>
     <string name="FollowusonFacebook">Seguici su Facebook</string>
     <!--设置页-->
@@ -368,7 +368,7 @@
     <string name="installfailed">Installazione fallita.</string>
     <string name="miuides">Attiva le Opzioni sviluppatore, disattiva l\'ottimizzazione MIUI e riprova.</string>
     <string name="playdes">Gioca</string>
-    <string name="todayhotgame">Popolari oggi</string>
+    <string name="todayhotgame">I Popolari di oggi</string>
     <string name="newcoming">Nuovi in arrivo</string>
     <string name="recentlyplayed">Giocato recentemente</string>
     <string name="toopenitquickntime">Per aprirlo rapidamente la prossima volta, puoi:</string>
