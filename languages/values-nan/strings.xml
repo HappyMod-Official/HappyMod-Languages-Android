@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Paid"></string>
-    <string name="GAME"></string>
-    <string name="APP"></string>
-    <string name="NEW"></string>
-    <string name="Categories"></string>
-    <string name="games"></string>
-    <string name="REFRESH"></string>
-    <string name="app_name"></string>
+    <string name="Paid"/>
+    <string name="GAME"/>
+    <string name="APP"/>
+    <string name="NEW"/>
+    <string name="Categories"/>
+    <string name="games"/>
+    <string name="REFRESH"/>
+    <string name="app_name">HappyMod</string>
 </resources>
