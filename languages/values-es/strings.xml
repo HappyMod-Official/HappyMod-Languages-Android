@@ -52,7 +52,7 @@
     <string name="Download_Directory">Directorio de descargas</string>
     <string name="settings_other">Otros ajustes</string>
     <string name="settings_clear_cache">Limpiar caché</string>
-    <string name="Clean_up_the_complete">Caché limpio completado</string>
+    <string name="Clean_up_the_complete">El caché se limpió.</string>
     <!--nodata-->
     <string name="des_no_serach_result">Oops! No se encontraron resultados.</string>
     <!--download manage-->
