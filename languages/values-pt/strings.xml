@@ -2,7 +2,7 @@
 <resources>
     <!--葡萄-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -23,16 +23,16 @@
     <!--首页-->
     <string name="Paid">Pago</string>
     <string name="GAME">JOGO</string>
-    <string name="APP">Aplicativo</string>
+    <string name="APP">Aplicação</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="REFRESH">Atualizar</string>
-    <string name="Unable_to_connect_to_the_network">Não foi possível acessar à internet.</string>
-    <string name="Recommended_Game_Mods">Mods de Jogo recomendados</string>
+    <string name="Unable_to_connect_to_the_network">Incapaz de se ligar à internet.</string>
+    <string name="Recommended_Game_Mods">Mods de Jogos recomendados</string>
     <string name="Hot_Game_Mods">Mods populares para jogos</string>
-    <string name="Recommended_App_Mods">Mods recomendados</string>
-    <string name="Hot_App_Mods">Mods em alta</string>
+    <string name="Recommended_App_Mods">Mods de Aplicação Recomendados</string>
+    <string name="Hot_App_Mods">Mods em Alta</string>
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
     <string name="SearchHint">Procurar</string>
@@ -180,7 +180,7 @@
     <!--注册登录-->
     <string name="Username">Nome de usuário</string>
     <string name="Usernameinit">4-50 caracteres</string>
-    <string name="Usernametip">Apenas letras a-z, números, @. - _ por favor (sem espaços ou outros caracteres especiais). 4-50 caracteres.</string>
+    <string name="Usernametip">Apenas letras a-z, números, e símbolos: @ - _ por favor (sem espaços ou outros caracteres especiais). 4-50 caracteres.</string>
     <string name="Password">Senha</string>
     <string name="Enteryourpassword">6-8 caracteres</string>
     <string name="passwordtip">Apenas letras A-Z, a-z, números （sem espaços ou caracteres especiais). 6-8 caracteres.</string>
@@ -190,29 +190,29 @@
     <string name="Enteryouremail">Insira seu email</string>
     <string name="Telephonenumber">Número de telefone</string>
     <string name="Enteryourtelephonenumber">Digite seu número de telefone</string>
-    <string name="phonetip">Digite um número de telefone válido.</string>
+    <string name="phonetip">Introduza um número de telefone válido.</string>
     <string name="emailtip">Digite um endereço de e-mail válido.</string>
     <string name="Signup">inscrever-se</string>
     <string name="tuiat">Este nome de usuário já está sendo usado.</string>
     <string name="Login">Entrar</string>
     <string name="Account">Conta</string>
-    <string name="forgotpassword">"Esqueceu da sua  senha\?"</string>
+    <string name="forgotpassword">Esqueceste-te da tua senha\?</string>
     <string name="loginwithaccount">OU faça login com seu nome de usuário</string>
     <string name="newur">Registo de novo utilizador</string>
-    <string name="Usernameinitnew">Nome de usuário (4-50 caracteres)</string>
+    <string name="Usernameinitnew">Nome de utilizador (4-50 caracteres)</string>
     <string name="Passwordnew">Senha (6-8 caracteres)</string>
     <string name="Emailnew">O email</string>
     <string name="PhoneNumber">Número de telefone</string>
     <string name="Unknown">Desconhecido</string>
     <string name="enteryEmail">Digite seu e-mail</string>
     <string name="enteryPhone">Digite o seu número de telefone</string>
-    <string name="signuptips">"Quando você esquecer da sua  senha, precisará de Número de telefone ou E-mail para recuperar. Recomendamos que você os complete."</string>
+    <string name="signuptips">Se te esqueceres da tua senha, precisarás de um número de telefone ou de um endereço de e-mail para a recuperares. Recomendamos-te que os adiciones.</string>
     <string name="confirmusername">Confirme o nome de usuário</string>
     <string name="next">Próximo</string>
-    <string name="fblogdes">Por favor coloque um nome de usuário. O nome de usuário é um identificador muito importante para recuperar a senha, lembre-se.</string>
+    <string name="fblogdes">Por favor introduza um nome de utilizador. O nome de utilizador é um identificador muito importante para recuperar a sua senha, por favor tenha em mente.</string>
     <string name="selectusername">Selecione o nome de usuário</string>
-    <string name="reselpass_desone">Digite o nome de usuário da sua conta para redefinir a senha. Você tem algum problema com a redefinição da senha<u>contact us</u>.</string>
-    <string name="reselpass_destwo">Por favor, insira o email ou o número de telefone. Você tem algum problema com a redefinição da senha<u>contact us</u>.</string>
+    <string name="reselpass_desone">Introduza o seu nome de utilizador. Se tiver algum problema em redefinir a sua senha <u>contacte-nos</u>.</string>
+    <string name="reselpass_destwo">Por favor introduza teu e-mail ou número de telefone. Se tiver algum problema em redefinir tua senha <u>contacte-nos</u>.</string>
     <string name="forgetgosingup">Não consegue lembrar de nenhum deles? Por favor<u>sign up a new account</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
     <string name="NewPassword">Nova senha</string>
@@ -233,7 +233,7 @@
     <string name="Myposts">minhas postagens</string>
     <string name="passowrduploadok">Senha alterada com sucesso</string>
     <string name="logout">Sair</string>
-    <string name="passwordsame">As duas senhas que você digitou são inconsistentes</string>
+    <string name="passwordsame">As duas senhas introduzidas são diferentes.</string>
     <string name="PopularComments">Comentários populares</string>
     <string name="Request">Pedido</string>
     <string name="Youarerequesting">Você está solicitando:</string>
@@ -418,12 +418,12 @@
     <string name="Checkthenetwork">Verifique a rede</string>
     <string name="Configuringip">Configurando o IP disponível para você</string>
     <string name="Configuringipfailed">Falha na configuração, 8 IPs foram detectados como indisponíveis, tente usar VPN.</string>
-    <string name="Donatedes">HappyMod é totalmente gratuito, e odiamos anúncios tanto quanto tu！
+    <string name="Donatedes">HappyMod é completamente gratuito, e nós odiamos anúncios tanto quanto tu!
 \n
-\nPrecisamos da tua doação para fornecer downloads mais rápidos e seguros.
+\nO teu donativo é muito apreciado, pois nós usamo-lo para te proporcionar downloads mais rápidos e seguros.
 \n
-\nSeja paciente e tente assistir os anúncios completos para concluir a doação. 
+\nPor favor sê paciente e tenta ver os anúncios completos para completar o donativo.
 \n
-\nObrigado！</string>
+\nObrigado! :)</string>
     <string name="viewstepdeti">Ver detalhes da etapa</string>
 </resources>
