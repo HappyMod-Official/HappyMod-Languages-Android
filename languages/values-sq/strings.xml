@@ -2,7 +2,7 @@
 <resources>
     <!--阿尔巴尼亚-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -28,12 +28,12 @@
     <string name="Categories">klasifikim</string>
     <string name="games">lojë</string>
     <string name="REFRESH">freskoj</string>
-    <string name="Unable_to_connect_to_the_network">E pamundur për të hyrë në internet</string>
-    <string name="Recommended_Game_Mods">Mods të rekomanduara Mods</string>
-    <string name="Hot_Game_Mods">Lojërat popullore Mods</string>
+    <string name="Unable_to_connect_to_the_network">E pamundur për të hyrë në internet.</string>
+    <string name="Recommended_Game_Mods">Mods të Rekomanduara Mods</string>
+    <string name="Hot_Game_Mods">Lojërat Popullore Mods</string>
     <string name="Recommended_App_Mods">Modulet e rekomanduara të aplikacioneve</string>
     <string name="Hot_App_Mods">Modat e aplikacionit më të lartë</string>
-    <string name="Recommended_New_Mods">Modet e reja të rekomanduara</string>
+    <string name="Recommended_New_Mods">Mods e Reja të Rekomanduara</string>
     <string name="Last_Update_Mods">Azhurnimi i fundit</string>
     <string name="SearchHint">Duke kërkuar ..</string>
     <!-- 侧滑-->
