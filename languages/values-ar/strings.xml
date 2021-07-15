@@ -2,7 +2,7 @@
 <resources>
     <!--阿拉伯-->
     <string name="app_name">مود السعيد</string>
-    <string name="Homecom">المود السعيد كوم</string>
+    <string name="Homecom">موقع المود السعيد</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -29,7 +29,7 @@
     <string name="Categories">الفئات</string>
     <string name="games">العاب</string>
     <string name="REFRESH">إعادة المحاولة</string>
-    <string name="Unable_to_connect_to_the_network">برا سالفه</string>
+    <string name="Unable_to_connect_to_the_network">اعد اتصالك بالشبكة</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى ب
 \nها</string>
     <string name="Hot_Game_Mods">اشهر الالعاب المعدلة</string>
