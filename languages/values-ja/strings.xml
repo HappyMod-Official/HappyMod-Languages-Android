@@ -107,7 +107,7 @@
     <!--分享-->
     <string name="share_happymod">「HappyMod」を共有:</string>
     <string name="share_subject">HappyModを入手</string>
-    <string name="share_text">100％使いやすいmodを@HappyModでダウンロードする\ nhttps：//www.happymod.com/</string>
+    <string name="share_text">100％使いやすいmodを@HappyModでダウンロードする nhttps：//www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">保管場所</string>
     <!--update -->
@@ -179,7 +179,7 @@
     <!-- 注册登录 -->
     <string name="Username">ユーザー名</string>
     <string name="Usernameinit">4〜50文字</string>
-    <string name="Usernametip">アルファベットのaからz、数字、@のみ。 -  _してください（スペースや他の特殊文字は使用できません）。 4〜50文字</string>
+    <string name="Usernametip">アルファベットのaからz、数字、@のみ。 - _してください（スペースや他の特殊文字は使用できません）。 4〜50文字</string>
     <string name="Password">パスワード</string>
     <string name="Enteryourpassword">6〜8文字</string>
     <string name="passwordtip">AからZ、aからz、数字のみ（スペースや特殊文字は不可）。 6〜8文字</string>
@@ -195,7 +195,7 @@
     <string name="tuiat">このユーザー名は既に使われています。</string>
     <string name="Login">ログイン</string>
     <string name="Account">アカウント</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Forget password\?</string>
     <string name="loginwithaccount">またはユーザー名でログイン</string>
     <string name="newur">新規ユーザー登録</string>
     <string name="Usernameinitnew">ユーザー名（4〜50文字）</string>
@@ -344,7 +344,7 @@
     <string name="PopularInlast">過去24時間に人気</string>
     <string name="Latestupdated">最終更新</string>
     <string name="paidforfree">無料で支払われる</string>
-    <string name="ToadyRecommend">Toady \のおすすめ</string>
+    <string name="ToadyRecommend">Toady おすすめ</string>
     <string name="hotmods">ホット改造</string>
     <string name="hotrecommended">人気のおすすめ</string>
     <!--upload 新增-->
