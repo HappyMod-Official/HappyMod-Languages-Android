@@ -32,7 +32,7 @@
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods destacados sobre juegos</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
-    <string name="Hot_App_Mods">Nececitan atualizar todo cuando se atualizen</string>
+    <string name="Hot_App_Mods">Nececitan actualizar todo cuando se actulizen</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar mods</string>
@@ -50,7 +50,7 @@
     <string name="settings_network_remind">Alerta de red móvil</string>
     <string name="settings_auto_install">Instalar automaticámente</string>
     <string name="Download_Directory">Directorio de descargas</string>
-    <string name="settings_other">Otros ajustes</string>
+    <string name="settings_other">Otros</string>
     <string name="settings_clear_cache">Limpiar caché</string>
     <string name="Clean_up_the_complete">El caché se limpió.</string>
     <!--nodata-->
@@ -100,7 +100,7 @@
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">¡Lo odio!</string>
-    <string name="Disliked_it">Ya no me gusta.</string>
+    <string name="Disliked_it">no me gusta.</string>
     <string name="Its_ok">Está bien.</string>
     <string name="Liked_it">Me gusta.</string>
     <string name="Loved_it">¡Lo amo!</string>
