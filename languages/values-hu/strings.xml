@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--匈牙利-->
-    <string name="app_name">HappyMods</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -29,7 +29,7 @@
     <string name="games">játék</string>
     <string name="REFRESH">felfrissít</string>
     <string name="Unable_to_connect_to_the_network">Nem lehet hozzáférni az internethez.</string>
-    <string name="Recommended_Game_Mods">Ajánlott játékok Mods</string>
+    <string name="Recommended_Game_Mods">Ajánlott játék modok</string>
     <string name="Hot_Game_Mods">Népszerű játékok Mods</string>
     <string name="Recommended_App_Mods">Ajánlott alkalmazási módok</string>
     <string name="Hot_App_Mods">Top App Mods</string>
@@ -43,7 +43,7 @@
     <string name="Feedback">visszacsatolás</string>
     <string name="Translation">fordítás</string>
     <string name="Share">részvény</string>
-    <string name="Checkforupdate">Ellenőrizze a frissítéseket</string>
+    <string name="Checkforupdate">Ellenőrizd a frissítéseket</string>
     <string name="FollowusonTwitter">Kövess minket a Twitteren</string>
     <string name="FollowusonFacebook">Kövess minket a Facebookon</string>
     <!--设置页-->
@@ -96,10 +96,10 @@
     <string name="Moreversion">További verziók</string>
     <string name="Recommend">ajánlás</string>
     <string name="Recommendmod">Ajánlott mod</string>
-    <string name="Moremods">További módok</string>
+    <string name="Moremods">Legújabb modok</string>
     <!--评分-->
     <string name="Submit">Küldje</string>
-    <string name="Hated_it">Utálom!</string>
+    <string name="Hated_it">Utáltam!</string>
     <string name="Disliked_it">Nem tetszik.</string>
     <string name="Its_ok">Nem számít.</string>
     <string name="Liked_it">Tetszik.</string>
