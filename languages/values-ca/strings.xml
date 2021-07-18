@@ -97,4 +97,5 @@
     <string name="No_enough_space_left_on_device"/>
     <string name="updatenow"/>
     <string name="app_name">HappyMod</string>
+    <string name="viewstepdeti">Veure els detalls del pas</string>
 </resources>
