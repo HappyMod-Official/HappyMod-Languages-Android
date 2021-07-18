@@ -34,9 +34,9 @@
     <string name="Hot_Game_Mods">משחקים פופולריים</string>
     <string name="Recommended_App_Mods">אופציות מומלצות לאפליקציות</string>
     <string name="Hot_App_Mods">למעלה מודולים App</string>
-    <string name="Recommended_New_Mods">מומלץ חדש Mods</string>
+    <string name="Recommended_New_Mods">מודים חדשים ומומלצים</string>
     <string name="Last_Update_Mods">עדכון אחרון</string>
-    <string name="SearchHint">חיפוש..</string>
+    <string name="SearchHint">חיפוש</string>
     <!-- 侧滑-->
     <string name="Homeweb">האתר הרשמי</string>
     <string name="Management">ניהול</string>
@@ -44,7 +44,7 @@
     <string name="Feedback">משוב</string>
     <string name="Translation">תרגום</string>
     <string name="Share">שתף</string>
-    <string name="Checkforupdate">חפש עדכונים</string>
+    <string name="Checkforupdate">בדוק עדכונים</string>
     <string name="FollowusonTwitter">עקבו אחרינו בטוויטר</string>
     <string name="FollowusonFacebook">עקבו אחרינו בפייסבוק</string>
     <!--设置页-->
@@ -97,8 +97,7 @@
     <string name="Moreversion">גרסאות נוספות</string>
     <string name="Recommend">מומלץ</string>
     <string name="Recommendmod">Mod מומלץ</string>
-    <string name="Moremods">ايهم
-\n</string>
+    <string name="Moremods">ايهم</string>
     <!--评分-->
     <string name="Submit">שלח</string>
     <string name="Hated_it">שונא את זה!</string>
