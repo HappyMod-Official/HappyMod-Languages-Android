@@ -2,7 +2,7 @@
 <resources>
     <!--越南-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -30,12 +30,12 @@
     <string name="REFRESH">Làm tươi</string>
     <string name="Unable_to_connect_to_the_network">Không thể truy cập internet.</string>
     <string name="Recommended_Game_Mods">Mod trò chơi được đề xuất</string>
-    <string name="Hot_Game_Mods">Mod trò chơi nóng</string>
+    <string name="Hot_Game_Mods">Các mods phổ biến cho games</string>
     <string name="Recommended_App_Mods">Mod ứng dụng được đề xuất</string>
     <string name="Hot_App_Mods">Mod ứng dụng nóng</string>
     <string name="Recommended_New_Mods">Đề xuất Mod mới</string>
     <string name="Last_Update_Mods">Cập nhật mới nhất</string>
-    <string name="SearchHint">Tìm kiếm..</string>
+    <string name="SearchHint">Tìm kiếm</string>
     <!-- 侧滑-->
     <string name="Homeweb">Trang web chinh thưc</string>
     <string name="Management">Sự quản lý</string>
@@ -51,10 +51,10 @@
     <string name="settings_auto_install">Tự động cài đặt</string>
     <string name="Download_Directory">Tải xuống thư mục</string>
     <string name="settings_other">Khác</string>
-    <string name="settings_clear_cache">Xóa bộ nhớ cache</string>
+    <string name="settings_clear_cache">Xóa bộ nhớ đệm</string>
     <string name="Clean_up_the_complete">Bộ nhớ cache bị xóa.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result"> Rất tiếc! Không có kết quả nào.</string>
+    <string name="des_no_serach_result">Rất tiếc ! Không có kết quả.</string>
     <!--下载管理页-->
     <string name="Downloads">Tải xuống</string>
     <string name="Downloading">Đang tải xuống</string>
@@ -85,24 +85,24 @@
     <string name="Original">Nguyên</string>
     <string name="Previousversion">Phiên bản trước</string>
     <string name="Download">Tải về</string>
-    <string name="Downloadobb">Tải về(APK+OBB)</string>
-    <string name="Downloaddata">Tải về(APK+DATA)</string>
+    <string name="Downloadobb">Tải về (APK + OBB)</string>
+    <string name="Downloaddata">Tải về (APK + DATA)</string>
     <string name="Downloadboundle">Tải về BUNDLE</string>
     <string name="Downloaded">Đã tải xuống</string>
     <string name="Install">cài đặt, dựng lên</string>
     <string name="Connecting">Kết nối...</string>
     <string name="readmore">Đọc thêm</string>
     <string name="modfeature">Thông tin mod:</string>
-    <string name="Moreversion">Phiên bản khác</string>
+    <string name="Moreversion">Các phiên bản khác</string>
     <string name="Recommend">Giới thiệu</string>
     <string name="Recommendmod">Đề xuất Mod</string>
-    <string name="Moremods">Nhiều Mod hơn</string>
+    <string name="Moremods">Phiên bản mới nhất</string>
     <!--评分-->
     <string name="Submit">Gửi đi</string>
     <string name="Hated_it">Ghét nó!</string>
     <string name="Disliked_it">Không thích nó.</string>
     <string name="Its_ok">Ổn mà.</string>
-    <string name="Liked_it">Thích nó</string>
+    <string name="Liked_it">Thích nó.</string>
     <string name="Loved_it">Yêu nó!</string>
     <!--分享-->
     <string name="share_happymod">Chia sẻ ‘HappyMod, qua</string>
@@ -115,12 +115,12 @@
     <string name="nvisrti">phiên bản mới đã sẵn sàng để cài đặt.</string>
     <string name="OPEN">MỞ</string>
     <string name="OK">được</string>
-    <string name="Loading">Tải......</string>
+    <string name="Loading">Đang tải…</string>
     <string name="updata_tip">Bạn đang sử dụng phiên bản ổn định mới nhất của HappyMod</string>
-    <string name="xzzb">Vui lòng tải về HappyMod chính thức.</string>
+    <string name="xzzb">Vui lòng tải HappyMod bản chính thức.</string>
     <string name="Continue">Tiếp tục</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">không còn chỗ trống trên thiết bị</string>
+    <string name="No_space_left_on_device">Không còn chỗ trống trên thiết bị</string>
     <string name="Is_this_app_you_need">Bạn đang tìm kiếm ứng dụng này?</string>
     <string name="No">Không</string>
     <string name="Yes">Vâng</string>
@@ -141,14 +141,14 @@
     <string name="mergerwait">Xử lý cuối cùng (Cần 1-2 phút)</string>
     <!-- 验证 -->
     <string name="Startverification">Bắt đầu xác minh</string>
-    <string name="verificationShangXian">Rất tiếc! Bạn đã đạt đến giới hạn tải xuống hàng ngày, hãy thử lại sau X giờ.</string>
+    <string name="verificationShangXian">Rất tiếc ! Bạn đã đạt đến giới hạn tải xuống hàng ngày, hãy thử lại sau X giờ.</string>
     <string name="verificationFail">Mã xác nhận thất bại. Vui lòng thử lại!</string>
     <string name="Morehelp">(Giúp đỡ nhiều hơn)</string>
     <string name="uid">Tên người dùng</string>
-    <string name="copysuccess">Userid đã được sao chép vào clipboard.</string>
+    <string name="copysuccess">Id người dùng đã được sao chép vào bộ nhớ tạm.</string>
     <string name="watchnow">Xem ngay</string>
     <string name="ggdownloading">Quảng cáo đang tải, vui lòng đợi và tiếp tục mở happymod.</string>
-    <string name="verificaing">Xin vui lòng chờ trong khi xác minh.</string>
+    <string name="verificaing">Đang xác minh, vui lòng chờ.</string>
     <!-- 评价 -->
     <string name="Removeads">Xóa quảng cáo</string>
     <string name="Paidforfree">Miễn phí</string>
@@ -174,28 +174,28 @@
     <string name="Endless">Vô cực</string>
     <string name="Invincible">Bất khả chiến bại</string>
     <string name="Unlimitedhints">Dấu nhắc vô hạn</string>
-    <string name="Megamod">Nhiều vết nứt</string>
+    <string name="Megamod">Mod khủng</string>
     <string name="Full">Phiên bản đầy đủ</string>
     <!-- 注册登录 -->
     <string name="Username">Tên đăng nhập</string>
     <string name="Usernameinit">4-50 ký tự</string>
-    <string name="Usernametip">Chỉ các chữ cái a-z, số, @. - _ xin vui lòng (không có khoảng trắng hoặc ký tự đặc biệt khác). 4-50 ký tự.</string>
+    <string name="Usernametip">Chỉ các chữ cái a-z, số, và các kí tự: @. - _ xin vui lòng (không có khoảng trắng hoặc ký tự đặc biệt khác). 4-50 ký tự.</string>
     <string name="Password">Mật khẩu</string>
     <string name="Enteryourpassword">6-8 ký tự</string>
-    <string name="passwordtip">Chỉ các chữ cái A - Z, a - z, số không có khoảng trắng hoặc ký tự đặc biệt). 6-8 ký tự.</string>
+    <string name="passwordtip">Chỉ các chữ cái A - Z, a - z, các chữ số (không có khoảng trắng hoặc ký tự đặc biệt). 6-8 ký tự.</string>
     <string name="nicknametip">Biệt danh này đã được sử dụng.</string>
     <string name="Nickname">Nickname</string>
     <string name="Emailaddress">Địa chỉ email</string>
     <string name="Enteryouremail">Nhập email của bạn</string>
     <string name="Telephonenumber">Số điện thoại</string>
     <string name="Enteryourtelephonenumber">Nhập số điện thoại của bạn</string>
-    <string name="phonetip">Nhập một điện thoại hợp lệ nubmer.</string>
+    <string name="phonetip">Nhập một số điện thoại hợp lệ.</string>
     <string name="emailtip">Nhập địa chỉ email hợp lệ.</string>
     <string name="Signup">Đăng ký</string>
     <string name="tuiat">Tên người dùng này đã được sử dụng.</string>
     <string name="Login">Đăng nhập</string>
     <string name="Account">Tài khoản</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Quên mật khẩu \?</string>
     <string name="loginwithaccount">HOẶC đăng nhập với tên người dùng của bạn</string>
     <string name="newur">Đăng Ký Người Dùng Mới</string>
     <string name="Usernameinitnew">Tên người dùng (4-50 ký tự)</string>
@@ -205,25 +205,25 @@
     <string name="Unknown">không xác định</string>
     <string name="enteryEmail">Nhập email của bạn</string>
     <string name="enteryPhone">Nhập số điện thoại của bạn</string>
-    <string name="signuptips">Khi bạn quên mật khẩu, bạn sẽ cần "Số điện thoại" hoặc "Email" để truy xuất. Chúng tôi khuyên bạn nên hoàn thành chúng.</string>
+    <string name="signuptips">Khi bạn quên mật khẩu, bạn sẽ cần Số điện thoại hoặc Email để truy xuất. Chúng tôi khuyên bạn nên thêm chúng.</string>
     <string name="confirmusername">Xác thực tên người dùng</string>
     <string name="next">Kế tiếp</string>
     <string name="fblogdes">Vui lòng nhập tên người dùng. Tên người dùng là một định danh rất quan trọng để lấy lại mật khẩu, xin lưu ý.</string>
     <string name="selectusername">Chọn tên người dùng</string>
-    <string name="reselpass_desone">Nhập tên người dùng của tài khoản của bạn để đặt lại mật khẩu. Bạn có bất kỳ vấn đề về đặt lại mật khẩu<u>contact us</u>.</string>
-    <string name="reselpass_destwo">Vui lòng nhập email hoặc số điện thoại. Bạn có bất kỳ vấn đề về đặt lại mật khẩu<u>contact us</u>.</string>
-    <string name="forgetgosingup">Bạn không thể nhớ bất kỳ ai trong số họ? Xin vui lòng<u>sign up a new account</u>.</string>
+    <string name="reselpass_desone">Nhập tên người dùng của bạn. Nếu bạn có bất kỳ vấn đề nào về việc đặt lại mật khẩu<u>liên hệ với chúng tôi</u>.</string>
+    <string name="reselpass_destwo">Vui lòng nhập email hoặc số điện thoại của bạn. Bạn có bất kỳ vấn đề về việc đặt lại mật khẩu<u>liên hệ với chúng tôi</u>.</string>
+    <string name="forgetgosingup">Bạn không nhớ tài khoản của mình\? Bạn có thể tạo một tài khoản mới <u>tại đây</u>.</string>
     <string name="Resetpassword">Đặt lại mật khẩu</string>
     <string name="NewPassword">Mật khẩu mới</string>
     <string name="Enterthepasswordagain">Xác nhận mật khẩu</string>
-    <string name="signuplimitdes">Thiết bị của bạn đã đạt đến số lượng tên người dùng đã đăng ký tối đa. Vui lòng chọn tên người dùng bên dưới để đăng nhập.</string>
+    <string name="signuplimitdes">Thiết bị của bạn đã đạt đến số lượng người dùng đã đăng ký tối đa. Vui lòng chọn tên người dùng bên dưới để đăng nhập.</string>
     <string name="Register">Ghi danh</string>
     <string name="eyun">Nhập tên người dùng của bạn</string>
     <string name="eypsw">Nhập mật khẩu của bạn</string>
-    <string name="loginerrortips">Vui lòng nhập đúng tên người dùng và mật khẩu. Lưu ý rằng trường mật khẩu là trường hợp nhạy cảm.</string>
+    <string name="loginerrortips">Vui lòng nhập đúng tên người dùng và mật khẩu. Lưu ý rằng trường mật khẩu là trường nhạy cảm.</string>
     <string name="Resetpasswordfailed">Đặt lại mật khẩu không thành công.</string>
     <string name="Theusernamewasnotregistered">Tên người dùng đã không được đăng ký.</string>
-    <string name="petceotn">Vui lòng nhập đúng email hoặc số điện thoại.</string>
+    <string name="petceotn">Vui lòng nhập một email hoặc một số điện thoại hợp lệ.</string>
     <string name="fbrfail">Đăng ký Facebook thất bại.</string>
     <string name="Registerfailed">Đăng ký thất bại, vui lòng xác nhận rằng kết nối mạng của bạn là bình thường, nhấp vào nút đăng ký để thử lại.</string>
     <string name="Loginfailed">Đăng nhập thất bại.</string>
@@ -232,7 +232,7 @@
     <string name="Myposts">bài viết của tôi</string>
     <string name="passowrduploadok">Mật khẩu đã thay đổi thành công</string>
     <string name="logout">Đăng xuất</string>
-    <string name="passwordsame">Hai mật khẩu bạn đã nhập không nhất quán</string>
+    <string name="passwordsame">Hai mật khẩu bạn đã nhập không giống nhau.</string>
     <string name="PopularComments">Bình luận phổ biến</string>
     <string name="Request">Yêu cầu</string>
     <string name="Youarerequesting">Bạn đang yêu cầu:</string>
@@ -241,7 +241,7 @@
     <string name="Myuploads">Tải lên của tôi</string>
     <string name="Updated">Đã cập nhật</string>
     <string name="Comingsoon">Sắp có</string>
-    <string name="searchappyouwanttorequest">Tìm kiếm ứng dụng bạn muốn yêu cầu:</string>
+    <string name="searchappyouwanttorequest">Tìm kiếm ứng dụng mà bạn muốn yêu cầu:</string>
     <string name="Addupload">Thêm tải lên</string>
     <string name="requestdetailhint">Hiển thị thêm về yêu cầu của bạn. (Ít nhất 50 ký tự)</string>
     <string name="requesterror">Gửi thất bại, vui lòng thử lại sau.</string>
@@ -249,8 +249,8 @@
     <string name="view">Lượt xem</string>
     <string name="isthiswork">Nó có hoạt động không?</string>
     <string name="edit">Chỉnh sửa</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL\'si:</string>
-    <string name="OBBDataurl">OBB/Veri Zippyshare/Mediafire url\'si: (isteğe bağlı)</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL:</string>
+    <string name="OBBDataurl">OBB/Data Zippyshare/Mediafire URL: (Không bắt buộc)</string>
     <string name="Youarereupload">Bạn đang tải lên:</string>
     <string name="Upload">Tải lên</string>
     <string name="Uploadfail">Tải lên thất bại.</string>
