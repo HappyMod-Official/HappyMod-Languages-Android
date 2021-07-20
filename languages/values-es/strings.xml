@@ -23,7 +23,7 @@
     <!--homepage-->
     <string name="Paid">Con paga gratis</string>
     <string name="GAME">Juegos</string>
-    <string name="APP">APLICACIÓN</string>
+    <string name="APP">Aplicación</string>
     <string name="NEW">NUEVO</string>
     <string name="Categories">Categorías</string>
     <string name="games">Juego</string>
@@ -35,7 +35,7 @@
     <string name="Hot_App_Mods">Nececitan actualizar todo cuando se actulizen</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
-    <string name="SearchHint">Buscar mods</string>
+    <string name="SearchHint">"Buscar "</string>
     <!-- slide-->
     <string name="Homeweb">Sitio web oficial</string>
     <string name="Management">Gestión</string>
