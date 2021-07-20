@@ -35,7 +35,7 @@
     <string name="Hot_App_Mods">Mod per app popolari</string>
     <string name="Recommended_New_Mods">Nuove Mod Consigliate</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
-    <string name="SearchHint">Cerca</string>
+    <string name="SearchHint">"Cerca "</string>
     <!-- 侧滑-->
     <string name="Homeweb">Sito ufficiale</string>
     <string name="Management">Gestione</string>
@@ -105,7 +105,7 @@
     <string name="Liked_it">Mi è piaciuto.</string>
     <string name="Loved_it">Lo adoro!</string>
     <!--分享-->
-    <string name="share_happymod">Condividi \"HappyMod\"</string>
+    <string name="share_happymod">Condividi \"HappyMod\" attraverso</string>
     <string name="share_subject">Ottieni HappyMod</string>
     <string name="share_text">Scarica Mod funzionanti al 100% con @HappyMod! 
 \nhttps: //www.happymod.com/</string>
@@ -117,7 +117,7 @@
     <string name="OPEN">APRI</string>
     <string name="OK">OK</string>
     <string name="Loading">Caricamento in corso…</string>
-    <string name="updata_tip">"Stai utilizzando l\'ultima versione stabile di HappyMod "</string>
+    <string name="updata_tip">Stai utilizzando l\'ultima versione stabile di HappyMod</string>
     <string name="xzzb">Per favore scarica HappyMod dal sito ufficiale.</string>
     <string name="Continue">Continua</string>
     <string name="appobb">APK+OBB</string>
