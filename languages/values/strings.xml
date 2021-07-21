@@ -28,15 +28,15 @@
     <string name="games">Games</string>
     <string name="REFRESH">Refresh</string>
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network.</string>
-    <string name="Recommended_Game_Mods">Mod_giochi_raccomandata</string>
-    <string name="Hot_Game_Mods">Mod popolari per i giochi</string>
+    <string name="Recommended_Game_Mods">Recommended Game Mods</string>
+    <string name="Hot_Game_Mods">Hot Game Mods</string>
     <string name="Recommended_App_Mods">Recommended App Mods</string>
     <string name="Hot_App_Mods">Hot App Mods</string>
-    <string name="Recommended_New_Mods">Nuove mod raccomandate</string>
-    <string name="Last_Update_Mods">Nuovi aggiornamenti per le mod</string>
-    <string name="SearchHint">"Cerca "</string>
+    <string name="Recommended_New_Mods">New Recommended Mods</string>
+    <string name="Last_Update_Mods">Latest Updates</string>
+    <string name="SearchHint">Search</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Sito ufficiale</string>
+    <string name="Homeweb">Home</string>
     <string name="Management">Management</string>
     <string name="Settings">Settings</string>
     <string name="Feedback">Feedback</string>
