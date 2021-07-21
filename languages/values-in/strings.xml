@@ -23,8 +23,7 @@
     <!--首页-->
     <string name="Paid">Dibayar</string>
     <string name="GAME">PERMAINAN</string>
-    <string name="APP">APLIKASI
-\n</string>
+    <string name="APP">Aplikasi</string>
     <string name="NEW">BARU</string>
     <string name="Categories">Kategori</string>
     <string name="games">Pertandingan</string>
@@ -36,9 +35,9 @@
     <string name="Hot_App_Mods">Mod Aplikasi Panas</string>
     <string name="Recommended_New_Mods">Mod Baru yang Disarankan</string>
     <string name="Last_Update_Mods">Pembaruan Terbaru</string>
-    <string name="SearchHint">Pencarian..</string>
+    <string name="SearchHint">Cari</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Situs Resmi</string>
+    <string name="Homeweb">Beranda</string>
     <string name="Management">Pengelolaan</string>
     <string name="Settings">Pengaturan</string>
     <string name="Feedback">Umpan balik</string>
@@ -146,7 +145,7 @@
     <string name="verificationFail">Verifikasi gagal, silakan coba lagi!</string>
     <string name="Morehelp">(Lebih banyak bantuan)</string>
     <string name="uid">Identitas pengguna</string>
-    <string name="copysuccess">Userid telah disalin ke clipboard.</string>
+    <string name="copysuccess">User id telah disalin ke clipboard.</string>
     <string name="watchnow">Lihat Sekarang</string>
     <string name="ggdownloading">Iklan sedang dimuat, harap tunggu dan tetap buka happymod.</string>
     <string name="verificaing">Harap tunggu sementara verifikasi.</string>
@@ -180,7 +179,7 @@
     <!-- 注册登录 -->
     <string name="Username">Nama pengguna</string>
     <string name="Usernameinit">4–50 karakter</string>
-    <string name="Usernametip">Hanya huruf a–z, angka, @. - _ tolong (tidak ada spasi atau karakter khusus lainnya). 4-50 karakter.</string>
+    <string name="Usernametip">Hanya huruf a–z, angka, dan simbol: @. - _ tolong (tidak ada spasi atau karakter khusus lainnya). 4-50 karakter.</string>
     <string name="Password">Kata sandi</string>
     <string name="Enteryourpassword">6–8 karakter</string>
     <string name="passwordtip">Hanya huruf A–Z, a–z, angka （tanpa spasi atau karakter khusus). 6–8 karakter.</string>
@@ -196,7 +195,7 @@
     <string name="tuiat">Nama pengguna ini sudah diambil.</string>
     <string name="Login">Masuk</string>
     <string name="Account">Rekening</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Lupa sandi\?</string>
     <string name="loginwithaccount">ATAU masuk dengan nama pengguna Anda</string>
     <string name="newur">Pendaftaran pengguna baru</string>
     <string name="Usernameinitnew">Nama pengguna (4-50 karakter)</string>
@@ -338,7 +337,7 @@
     <string name="init_fail">Inisialisasi gagal, silakan gunakan VPN atau ubah ke jaringan lain.</string>
     <string name="error_file_des">File ini telah dihapus dan sedang diunduh ulang sekarang.</string>
     <string name="sdpermission">Kami perlu mengakses penyimpanan eksternal Anda. Pastikan izin diberikan.</string>
-    <string name="Night_Mode">Mode malam</string>
+    <string name="Night_Mode">Mode gelap</string>
     <string name="thisty">Nama pengguna itu sudah terpakai. Coba yang lain. Tersedia:</string>
     <!--home_feature-->
     <string name="Feature">Unggulan</string>
@@ -346,13 +345,13 @@
     <string name="PopularInlast">Populer dalam 24 Jam Terakhir</string>
     <string name="Latestupdated">Terbaru Diperbarui</string>
     <string name="paidforfree">Dibayar Gratis</string>
-    <string name="ToadyRecommend">Rekomendasi Toady</string>
+    <string name="ToadyRecommend">Rekomendasi hari ini</string>
     <string name="hotmods">Mod panas</string>
     <string name="hotrecommended">Direkomendasikan</string>
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Cari aplikasi yang ingin Anda unggah:</string>
     <string name="addapost">Tambahkan posting</string>
-    <string name="launch_des">Temukan 100% Mod yang Bekerja \ nDiunggah oleh pengguna; Diverifikasi oleh pengguna!</string>
+    <string name="launch_des">Temukan 100% Mod yang Bekerja Diunggah oleh pengguna; Diverifikasi oleh pengguna!</string>
     <string name="requestamod">Minta mod</string>
     <string name="uploadamod">Unggah mod</string>
     <!--boundle 新增-->
@@ -416,9 +415,9 @@
     <string name="Cdnoadfree">Desain bersih, tanpa iklan &amp; 100% gratis!</string>
     <string name="wrhtdbf">Kami merekomendasikan HyperTorrent untuk mengunduh file besar.</string>
     <string name="nothanks">Tidak terima kasih</string>
-    <string name="Checkthenetwork">Periksa jaringannya</string>
+    <string name="Checkthenetwork">Periksa jaringan kamu</string>
     <string name="Configuringip">Mengonfigurasi IP yang tersedia untuk Anda</string>
     <string name="Configuringipfailed">Konfigurasi gagal, 8 IP terdeteksi tidak tersedia, coba gunakan VPN.</string>
-    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti halnya Anda！ \ n \ nKami membutuhkan donasi Anda untuk menyediakan unduhan yang lebih cepat dan lebih aman. \ N \ nHarap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi. \ N \ nTerima kasih！</string>
+    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti halnya Anda! Kami membutuhkan donasi Anda untuk menyediakan unduhan yang lebih cepat dan lebih aman.Harap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi.Terima kasih！</string>
     <string name="viewstepdeti">Lihat detail langkah</string>
 </resources>
