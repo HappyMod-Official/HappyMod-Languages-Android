@@ -29,15 +29,15 @@
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet.</string>
-    <string name="Recommended_Game_Mods">Mod consigliate per i Giochi</string>
-    <string name="Hot_Game_Mods">Mod Popolari per i Giochi</string>
+    <string name="Recommended_Game_Mods">Giochi Modificati Consigliati</string>
+    <string name="Hot_Game_Mods">Mod Popolari per i giochi</string>
     <string name="Recommended_App_Mods">Mod consigliate per le Applicazioni</string>
     <string name="Hot_App_Mods">Mod per app popolari</string>
     <string name="Recommended_New_Mods">Nuove Mod Consigliate</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
-    <string name="SearchHint">"Cerca "</string>
+    <string name="SearchHint">Cerca</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Sito ufficiale</string>
+    <string name="Homeweb">Pagina principale</string>
     <string name="Management">Gestione</string>
     <string name="Settings">Impostazioni</string>
     <string name="Feedback">Feedback (opinione)</string>
@@ -212,11 +212,11 @@
     <string name="fblogdes">Per favore inserisci un nome utente. Il nome utente è un identificatore molto importante per il recupero della password, tienilo presente.</string>
     <string name="selectusername">Seleziona il nome utente</string>
     <string name="reselpass_desone">Inserisci il nome utente. Se hai qualche problema sulla reimpostazione della password <u>contattaci</u>.</string>
-    <string name="reselpass_destwo">Inserisci l\'email o il numero di telefono. Se hai qualche problema riguardante la reimpostazione della password <u>Contattaci</u>.</string>
+    <string name="reselpass_destwo">Inserisci l\'email o il numero di telefono. Se hai qualche problema riguardante la reimpostazione della tua password <u>Contattaci</u>.</string>
     <string name="forgetgosingup">Non ricordi nessuno di essi\? Puoi creare un nuovo account <u>qui</u>.</string>
     <string name="Resetpassword">Resetta la password</string>
     <string name="NewPassword">Nuova password</string>
-    <string name="Enterthepasswordagain">Conferma la password</string>
+    <string name="Enterthepasswordagain">Conferma la tua password</string>
     <string name="signuplimitdes">Il tuo dispositivo ha raggiunto il numero massimo di nomi utenti registrati. Per favore seleziona il nome utente qui sotto per accedere.</string>
     <string name="Register">Registrare</string>
     <string name="eyun">Inserisci il tuo nome utente</string>
@@ -233,7 +233,7 @@
     <string name="Myposts">I miei post</string>
     <string name="passowrduploadok">La password è stata cambiata con successo</string>
     <string name="logout">Disconnettiti dal tuo account</string>
-    <string name="passwordsame">Le due password che hai inserito sono diverse</string>
+    <string name="passwordsame">Le due password immesse sono incoerenti.</string>
     <string name="PopularComments">Commenti Popolari</string>
     <!--意大利 -->
     <string name="Request">Richiesta</string>
@@ -330,7 +330,7 @@
     <string name="h5_menu_shortcut">Aggiungi alla schermata Home</string>
     <string name="installplaywitouthti">Gioca instantaneamente a questo gioco senza installarlo</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Oops.</string>
+    <string name="crash_dialog_title">Oops..</string>
     <string name="crash_toast_message">Siamo spiacenti, è accaduto un errore, l\'app si chiuderà da sola, si prega di inviare la segnalazione di bug via e-mail.</string>
     <string name="crash_dialog_message">Siamo spiacenti, un errore è accaduto, si prega di inviare la segnalazione di bug via e-mail.</string>
     <string name="crash_dialog_feedback">Segnala un bug</string>
