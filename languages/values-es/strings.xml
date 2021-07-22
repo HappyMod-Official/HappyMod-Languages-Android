@@ -30,14 +30,14 @@
     <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se pudo conectar a internet</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
-    <string name="Hot_Game_Mods">Mods destacados sobre juegos</string>
+    <string name="Hot_Game_Mods">Hot juegos de mods</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Hot_App_Mods">Nececitan actualizar todo cuando se actulizen</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">"Buscar "</string>
     <!-- slide-->
-    <string name="Homeweb">Sitio web oficial</string>
+    <string name="Homeweb">Casa</string>
     <string name="Management">Gestión</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
@@ -259,7 +259,7 @@
     <string name="obbfail">Por favor, introduzca la URL de Zippyshare/Mediafire del archivo obb.</string>
     <string name="worked">Trabajó</string>
     <string name="Uploadsuccess">Subida exitosa</string>
-    <string name="Requestsuccess">Solicitud Exitosa</string>
+    <string name="Requestsuccess">Solicitud exitosa</string>
     <string name="clickyes">Puede editar y volver a enviar esta solicitud desde la cola trabajada.</string>
     <string name="clickno">Esta solicitud se agregará a la cola próximamente.</string>
     <string name="downloadpush_remind">Mostrar notificación después de la instalación</string>
@@ -288,7 +288,7 @@
     <string name="Post">Enviar</string>
     <string name="addavideo">Agrega un video</string>
     <string name="enterthevideourlhere">Ingrese la URL del video de Youtube aquí.</string>
-    <string name="onlysupportyoutube">Solo admite videos de Youtube</string>
+    <string name="onlysupportyoutube">Solo se admiten videos de YouTube</string>
     <string name="searchorcreate">Buscar o crear</string>
     <string name="hashtags">Hashtags de historia</string>
     <string name="featuredhash">Hashtags destacados</string>
