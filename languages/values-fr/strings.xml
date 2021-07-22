@@ -36,7 +36,7 @@
     <string name="Hot_App_Mods">Mods d\'applications tendance</string>
     <string name="Recommended_New_Mods">Nouveaux Mods Recommandés</string>
     <string name="Last_Update_Mods">Dernières mises à jour</string>
-    <string name="SearchHint">Rechercher..</string>
+    <string name="SearchHint">Rechercher</string>
     <!-- 侧滑-->
     <string name="Homeweb">Site officiel</string>
     <string name="Management">Gestion</string>
@@ -97,8 +97,7 @@
     <string name="Moreversion">Plus de version(s)</string>
     <string name="Recommend">Recommander</string>
     <string name="Recommendmod">Mod recommandé</string>
-    <string name="Moremods">Plus de mods
-\n</string>
+    <string name="Moremods">Nouvelles versions</string>
     <!--评分-->
     <string name="Submit">Soumettre</string>
     <string name="Hated_it">Je déteste!</string>
@@ -118,7 +117,7 @@
     <string name="nvisrti">La nouvelle version est prête à être installée.</string>
     <string name="OPEN">OUVRIR</string>
     <string name="OK">OK</string>
-    <string name="Loading">Chargement......</string>
+    <string name="Loading">Chargement…</string>
     <string name="updata_tip">Vous utilisez la dernière version stable de HappyMod</string>
     <string name="xzzb">S\'il vous plaît téléchargez la version officielle de HappyMod</string>
     <string name="Continue">Continuer</string>
