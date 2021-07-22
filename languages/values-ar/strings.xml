@@ -29,7 +29,7 @@
     <string name="Categories">الفئات</string>
     <string name="games">العاب</string>
     <string name="REFRESH">إعادة المحاولة</string>
-    <string name="Unable_to_connect_to_the_network">اعد اتصالك بالشبكة</string>
+    <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى ب
 \nها</string>
     <string name="Hot_Game_Mods">Hot Game Mods</string>
@@ -51,7 +51,7 @@
     <string name="settings_auto_install">التثبيت التلقائي</string>
     <string name="Download_Directory">Download Directory</string>
     <string name="settings_other">اعدادات اخر</string>
-    <string name="settings_clear_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
     <string name="Clean_up_the_complete">تم مسح ذاكرة التخزين المؤقت.</string>
     <string name="des_no_serach_result">لم يتم العثور على نتائج:(</string>
     <string name="Downloads">التنزيلات</string>
