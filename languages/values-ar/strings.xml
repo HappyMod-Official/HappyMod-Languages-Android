@@ -32,9 +32,9 @@
     <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى ب
 \nها</string>
-    <string name="Hot_Game_Mods">Hot Game Mods</string>
+    <string name="Hot_Game_Mods">تعديلات العاب شائعة</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى به</string>
-    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Hot_App_Mods">تطبيقات معدلة موصى بها</string>
     <string name="Recommended_New_Mods">تعديلات جديدة موصى بها</string>
     <string name="Last_Update_Mods">آخر التحديثات</string>
     <string name="SearchHint">بحث..</string>
@@ -43,14 +43,14 @@
     <string name="Settings">اعدادات</string>
     <string name="Feedback">تعليق</string>
     <string name="Translation">ترجمة</string>
-    <string name="Share">يشارك</string>
-    <string name="Checkforupdate">Check for update</string>
+    <string name="Share">مشاركة</string>
+    <string name="Checkforupdate">فحص التحديثات</string>
     <string name="FollowusonTwitter">تابعنا على تويتر</string>
     <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
     <string name="settings_network_remind">تنيه شبكةالجوال</string>
     <string name="settings_auto_install">التثبيت التلقائي</string>
-    <string name="Download_Directory">Download Directory</string>
-    <string name="settings_other">اعدادات اخر</string>
+    <string name="Download_Directory">تحميل الدليل</string>
+    <string name="settings_other">إعدادات اخرى</string>
     <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
     <string name="Clean_up_the_complete">تم مسح ذاكرة التخزين المؤقت.</string>
     <string name="des_no_serach_result">لم يتم العثور على نتائج:(</string>
@@ -95,7 +95,7 @@
     <string name="Moremods">آخر الاصدارات
 \n</string>
     <string name="Submit">تأكيد</string>
-    <string name="Hated_it">اكرهه!</string>
+    <string name="Hated_it">اكرهها!</string>
     <string name="Disliked_it">لم يعجبني</string>
     <string name="Its_ok">أنه جيد.</string>
     <string name="Liked_it">اعجبني.</string>
@@ -266,7 +266,7 @@
     <string name="fix_ok">جربها</string>
     <string name="fix_tips_failtitle">لا مزيد من الخوادم</string>
     <!--社区 -->
-    <string name="please_loginanddownload">يرجى تحميل هذا وزارة الدفاع أولا.</string>
+    <string name="please_loginanddownload">يرجى تحميل وزارة الدفاع هذه أولاً</string>
     <string name="myvoted">تصويتي</string>
     <string name="working">العمل</string>
     <string name="inanhour">يرجى التصويت مرة أخرى في غضون ساعة.</string>
@@ -281,7 +281,7 @@
     <string name="featuredhash">الهاشتاج المميز</string>
     <string name="newhshstag">علامة التصنيف الجديدة</string>
     <string name="hot">الحار</string>
-    <string name="Comments">تعليقات</string>
+    <string name="Comments">التعليقات</string>
     <string name="replies">الردود</string>
     <string name="community">تواصل اجتماعي</string>
     <string name="report">نقل</string>
@@ -385,7 +385,7 @@
     <string name="itisworkingonyourdevice">هل تعمل على جهازك؟</string>
     <string name="no_working">لا يعمل</string>
     <string name="vote_it">صوّت لها</string>
-    <string name="novirus">لا فيروس</string>
+    <string name="novirus">لا فيروسات</string>
     <string name="nomalware">لا برامج ضارة</string>
     <string name="nospyware">لا توجد برامج تجسس</string>
     <string name="less">أقل</string>
@@ -396,8 +396,8 @@
     <string name="fasterspeed">سرعة أكبر</string>
     <string name="speedfordownloading">200٪ ~ 1،000٪ + سرعة تنزيل الملفات الكبيرة من HappyMod.</string>
     <string name="nolimits">لا حدود</string>
-    <string name="nslnfsl">لا الحد الأقصى للسرعة. لا يوجد حد لحجم الملف.</string>
-    <string name="Clean">ينظف</string>
+    <string name="nslnfsl">لا يوجد حد أقصى للسرعة، لا يوجد حد أقصى للملفات.</string>
+    <string name="Clean">تنظيف</string>
     <string name="Cdnoadfree">تصميم نظيف ، بدون إعلان 100٪ مجانا!</string>
     <string name="wrhtdbf">نوصي باستخدام HyperTorrent لتنزيل الملفات الكبيرة.</string>
     <string name="nothanks">لا شكرا</string>
