@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">مود السعيد</string>
-    <string name="Homecom">موقع المود السعيد</string>
+    <string name="app_name">هابي مود</string>
+    <string name="Homecom">موقع هابي مود</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -23,16 +23,14 @@
     <!--首页-->
     <string name="Paid">تم الدفع</string>
     <string name="GAME">لعبة</string>
-    <string name="APP">تطبيق
-\n</string>
+    <string name="APP">تطبيق</string>
     <string name="NEW">جديد/جديدة</string>
     <string name="Categories">الفئات</string>
     <string name="games">العاب</string>
     <string name="REFRESH">إعادة المحاولة</string>
     <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة</string>
-    <string name="Recommended_Game_Mods">العاب معدلة موصى ب
-\nها</string>
-    <string name="Hot_Game_Mods">اشهر الألعاب المعدلة</string>
+    <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
+    <string name="Hot_Game_Mods">تعديلات العاب موصى بها</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى به</string>
     <string name="Hot_App_Mods">تطبيقات معدلة موصى بها</string>
     <string name="Recommended_New_Mods">تعديلات جديدة موصى بها</string>
