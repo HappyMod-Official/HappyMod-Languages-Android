@@ -29,8 +29,8 @@
     <string name="games">Pertandingan</string>
     <string name="REFRESH">Menyegarkan</string>
     <string name="Unable_to_connect_to_the_network">Tidak dapat mengakses internet.</string>
-    <string name="Recommended_Game_Mods">Baim</string>
-    <string name="Hot_Game_Mods">Mod Game Paling Panas</string>
+    <string name="Recommended_Game_Mods">Permainan Mod Direkomendasi</string>
+    <string name="Hot_Game_Mods">Permainan Mod Paling Panas</string>
     <string name="Recommended_App_Mods">Mod Aplikasi Yang Disarankan</string>
     <string name="Hot_App_Mods">Mod Aplikasi Panas</string>
     <string name="Recommended_New_Mods">Mod Baru yang Disarankan</string>
@@ -43,7 +43,7 @@
     <string name="Feedback">Umpan balik</string>
     <string name="Translation">Terjemahan</string>
     <string name="Share">Bagikan</string>
-    <string name="Checkforupdate">Memeriksa pembaruan</string>
+    <string name="Checkforupdate">Memeriksa Pembaruan</string>
     <string name="FollowusonTwitter">Ikuti kami di Twitter</string>
     <string name="FollowusonFacebook">Ikuti kami di Facebook</string>
     <!--设置页-->
@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Bersihkan Cache</string>
     <string name="Clean_up_the_complete">Cache dihapus.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Ups! Tidak ditemukan hasil.</string>
+    <string name="des_no_serach_result">Ups! Hasil tidak ditemukan.</string>
     <!--下载管理页-->
     <string name="Downloads">Unduhan</string>
     <string name="Downloading">Mengunduh</string>
@@ -69,7 +69,7 @@
     <string name="Rated">Dinilai</string>
     <string name="Version">Versi</string>
     <string name="Ratingsreviews">Peringkat &amp; Ulasan</string>
-    <string name="Tryitlater">Coba nanti</string>
+    <string name="Tryitlater">Coba kembali nanti</string>
     <string name="Serviceisbusy">Menghubungkan …</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Melihat</string>
@@ -93,16 +93,16 @@
     <string name="Connecting">Menghubungkan …</string>
     <string name="readmore">Baca lebih lajut</string>
     <string name="modfeature">Info mod:</string>
-    <string name="Moreversion">Lebih banyak versi</string>
+    <string name="Moreversion">Versi lainnya</string>
     <string name="Recommend">Sarankan</string>
     <string name="Recommendmod">Mod yang direkomendasikan</string>
-    <string name="Moremods">Lebih banyak Mod</string>
+    <string name="Moremods">Versi Terbaru</string>
     <!--评分-->
     <string name="Submit">Menyerahkan</string>
-    <string name="Hated_it">Benci itu!</string>
-    <string name="Disliked_it">Tidak suka itu.</string>
+    <string name="Hated_it">Membencinya!</string>
+    <string name="Disliked_it">Tidak menyukainya.</string>
     <string name="Its_ok">Tidak apa-apa.</string>
-    <string name="Liked_it">Suka itu.</string>
+    <string name="Liked_it">Menyukainya.</string>
     <string name="Loved_it">Suka!</string>
     <!--分享-->
     <string name="share_happymod">Bagikan \'HappyMod\' via</string>
@@ -112,10 +112,10 @@
     <string name="pref_location">Lokasi penyimpanan</string>
     <!--update -->
     <string name="force_des">100% Mod Yang Bekerja</string>
-    <string name="nvisrti">versi baru siap dipasang.</string>
+    <string name="nvisrti">Versi baru siap dipasang.</string>
     <string name="OPEN">BUKA</string>
     <string name="OK">baik</string>
-    <string name="Loading">Memuat...</string>
+    <string name="Loading">Memuat…</string>
     <string name="updata_tip">Anda menggunakan versi stabil terbaru dari HappyMod</string>
     <string name="xzzb">Silakan unduh HappyMod resmi.</string>
     <string name="Continue">Terus</string>
@@ -145,10 +145,10 @@
     <string name="verificationFail">Verifikasi gagal, silakan coba lagi!</string>
     <string name="Morehelp">(Lebih banyak bantuan)</string>
     <string name="uid">Identitas pengguna</string>
-    <string name="copysuccess">User id telah disalin ke clipboard.</string>
+    <string name="copysuccess">User Id telah disalin ke clipboard.</string>
     <string name="watchnow">Lihat Sekarang</string>
-    <string name="ggdownloading">Iklan sedang dimuat, harap tunggu dan tetap buka happymod.</string>
-    <string name="verificaing">Harap tunggu sementara verifikasi.</string>
+    <string name="ggdownloading">Iklan sedang dimuat, harap tunggu dan tetap buka HappyMod.</string>
+    <string name="verificaing">Sedang di verifikasi, harap tunggu.</string>
     <!-- 评价 -->
     <string name="Removeads">Hapus iklan</string>
     <string name="Paidforfree">Gratis</string>
@@ -174,7 +174,7 @@
     <string name="Endless">Infinity</string>
     <string name="Invincible">Tak terkalahkan</string>
     <string name="Unlimitedhints">Prompt tak terbatas</string>
-    <string name="Megamod">Banyak retak</string>
+    <string name="Megamod">Mega Mod</string>
     <string name="Full">Versi lengkap</string>
     <!-- 注册登录 -->
     <string name="Username">Nama pengguna</string>
