@@ -2,7 +2,7 @@
 <resources>
     <!--匈牙利-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -21,28 +21,28 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">fizet</string>
-    <string name="GAME">játék</string>
-    <string name="APP">kérelem</string>
-    <string name="NEW">legutolsó</string>
-    <string name="Categories">besorolás</string>
-    <string name="games">játék</string>
-    <string name="REFRESH">felfrissít</string>
+    <string name="Paid">Fizetős</string>
+    <string name="GAME">Játék</string>
+    <string name="APP">Alkalmazás</string>
+    <string name="NEW">Új</string>
+    <string name="Categories">Kategóriák</string>
+    <string name="games">Játékok</string>
+    <string name="REFRESH">Frissítés</string>
     <string name="Unable_to_connect_to_the_network">Nem lehet hozzáférni az internethez.</string>
     <string name="Recommended_Game_Mods">Ajánlott játék modok</string>
-    <string name="Hot_Game_Mods">Népszerű játékok Mods</string>
-    <string name="Recommended_App_Mods">Ajánlott alkalmazási módok</string>
-    <string name="Hot_App_Mods">Top App Mods</string>
-    <string name="Recommended_New_Mods">Ajánlott új módok</string>
+    <string name="Hot_Game_Mods">Népszerű játék modok</string>
+    <string name="Recommended_App_Mods">Ajánlott alkalmazás modok</string>
+    <string name="Hot_App_Mods">Népszerű alkalmazás modok</string>
+    <string name="Recommended_New_Mods">Ajánlott új modok</string>
     <string name="Last_Update_Mods">Legutóbbi frissítés</string>
-    <string name="SearchHint">Keresés ..</string>
+    <string name="SearchHint">Keresés...</string>
     <!-- 侧滑-->
     <string name="Homeweb">Hivatalos honlap</string>
-    <string name="Management">vezetés</string>
-    <string name="Settings">beállítása</string>
-    <string name="Feedback">visszacsatolás</string>
-    <string name="Translation">fordítás</string>
-    <string name="Share">részvény</string>
+    <string name="Management">Menedzsment</string>
+    <string name="Settings">Beállítások</string>
+    <string name="Feedback">Visszajelzés</string>
+    <string name="Translation">Fordítás</string>
+    <string name="Share">Megosztás</string>
     <string name="Checkforupdate">Frissítések ellenőrzése</string>
     <string name="FollowusonTwitter">Kövess minket a Twitteren</string>
     <string name="FollowusonFacebook">Kövess minket a Facebookon</string>
@@ -50,96 +50,96 @@
     <string name="settings_network_remind">Mobil hálózati riasztás</string>
     <string name="settings_auto_install">Automatikus telepítés</string>
     <string name="Download_Directory">Könyvtár letöltése</string>
-    <string name="settings_other">más</string>
+    <string name="settings_other">Más</string>
     <string name="settings_clear_cache">Gyorsítótár tisztítása</string>
-    <string name="Clean_up_the_complete">A gyorsítótár törölve.</string>
+    <string name="Clean_up_the_complete">A gyorsítótár tisztítva.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Hoppá! Nincs találat.</string>
     <!--下载管理页-->
     <string name="Downloads">Letöltés</string>
-    <string name="Downloading">A letöltés</string>
-    <string name="Finished">letöltve</string>
+    <string name="Downloading">Letöltés folyamatban</string>
+    <string name="Finished">Befejezve</string>
     <string name="No_Download">A fájl nem található.</string>
-    <string name="Pause">szünet</string>
-    <string name="Waiting_in_queue">Várakozás a sorban</string>
-    <string name="Completed">befejezték</string>
-    <string name="UnZiping">kivonat</string>
-    <string name="UnZip_succeed">Teljes kitermelés</string>
-    <string name="Rate">Értékelések</string>
-    <string name="Rated">osztályozott</string>
-    <string name="Version">kiadás</string>
-    <string name="Ratingsreviews">Értékelés és értékelés</string>
+    <string name="Pause">Szünet</string>
+    <string name="Waiting_in_queue">Várakozás</string>
+    <string name="Completed">Befejezve</string>
+    <string name="UnZiping">Kicsomagolás</string>
+    <string name="UnZip_succeed">A kicsomagolás befejezve</string>
+    <string name="Rate">Értékelés</string>
+    <string name="Rated">Értékelve</string>
+    <string name="Version">Verzió</string>
+    <string name="Ratingsreviews">Értékelések és vélemények</string>
     <string name="Tryitlater">Próbája újra később</string>
     <string name="Serviceisbusy">Csatlakozás…</string>
     <!-- 下载删除的文字 -->
-    <string name="Notice">figyel</string>
-    <string name="deletethistask">Törölje ezt a fájlt</string>
-    <string name="Cancel">törölve</string>
-    <string name="Delete">töröl</string>
-    <string name="Whydeletethisdownload">Miért törölje ezt a letöltést?</string>
-    <string name="NotwhatIwant">Nem az, amit akarok</string>
+    <string name="Notice">Értesítés</string>
+    <string name="deletethistask">Fájl törlése</string>
+    <string name="Cancel">Mégse</string>
+    <string name="Delete">Törlés</string>
+    <string name="Whydeletethisdownload">Miért töröli ezt a letöltést\?</string>
+    <string name="NotwhatIwant">Nem ezt keresem</string>
     <string name="Downloadfailed">Sikertelen letöltés</string>
     <string name="Downloadistooslow">A letöltés túl lassú</string>
     <!--APP详情页-->
     <string name="Mods">MODS</string>
-    <string name="Original">az eredeti</string>
-    <string name="Previousversion">Történelmi változat</string>
+    <string name="Original">Eredeti</string>
+    <string name="Previousversion">Előző verzió</string>
     <string name="Download">Letöltés</string>
     <string name="Downloadobb">Letöltés (APK+OBB)</string>
     <string name="Downloaddata">Letöltés (APK+DATA)</string>
     <string name="Downloadboundle">Letöltés BUNDLE</string>
-    <string name="Downloaded">letöltve</string>
-    <string name="Install">felszerel</string>
+    <string name="Downloaded">Letöltve</string>
+    <string name="Install">Telepítés</string>
     <string name="Connecting">Csatlakozás…</string>
     <string name="readmore">További információ</string>
     <string name="modfeature">Mod információk:</string>
     <string name="Moreversion">További verziók</string>
-    <string name="Recommend">ajánlás</string>
+    <string name="Recommend">Ajánlott</string>
     <string name="Recommendmod">Ajánlott mod</string>
     <string name="Moremods">Legújabb modok</string>
     <!--评分-->
-    <string name="Submit">Küldje</string>
+    <string name="Submit">Küldés</string>
     <string name="Hated_it">Utáltam!</string>
     <string name="Disliked_it">Nem tetszik.</string>
-    <string name="Its_ok">Nem számít.</string>
+    <string name="Its_ok">Rendben van.</string>
     <string name="Liked_it">Tetszik.</string>
     <string name="Loved_it">Imádom!</string>
     <!--分享-->
     <string name="share_happymod">Ossza meg a HappyMod-ot</string>
-    <string name="share_subject">GetMod</string>
-    <string name="share_text">Tölts le 100%-ban működő modokat a @HappyMod segítségével
-\nhttps://www.happymod.com/</string>
+    <string name="share_subject">Szerezze ba a HappyModot</string>
+    <string name="share_text">Tölts le a 100%-ban működő modokat a @HappyMod segítségével
+\nhttps://www.happymod.com/ (Magyar fordítás: BauMan72)</string>
     <!--修改路径-->
-    <string name="pref_location">Tárolási hely</string>
+    <string name="pref_location">Tároló helye</string>
     <!--update -->
-    <string name="force_des">100% könnyen használható mod</string>
+    <string name="force_des">100% működő Modok</string>
     <string name="nvisrti">Az új verzió telepítésre kész.</string>
-    <string name="OPEN">nyílt</string>
-    <string name="OK">jó</string>
-    <string name="Loading">Adatok betöltése ...</string>
-    <string name="updata_tip">A HappyMod legújabb verzióját használja</string>
+    <string name="OPEN">Nyílt</string>
+    <string name="OK">Rendben</string>
+    <string name="Loading">Adatok betöltése …</string>
+    <string name="updata_tip">A HappyMod legújabb verziója van használatban</string>
     <string name="xzzb">Kérem töltse le a hivatalos HappyMod-ot.</string>
-    <string name="Continue">folytatódik</string>
+    <string name="Continue">Folytatás</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">Nincs több szabad hely a készüléken</string>
     <string name="Is_this_app_you_need">Ezt az alkalmazást keresed?</string>
-    <string name="No">nincs</string>
-    <string name="Yes">van</string>
-    <string name="bcdes">. Szabadítson fel tárhelyet, és próbálja újra.</string>
+    <string name="No">Nem</string>
+    <string name="Yes">Igen</string>
+    <string name="bcdes">Szabadítson fel tárhelyet, és próbálja újra.</string>
     <string name="need">; Elérhető:</string>
-    <string name="No_enough_space_left_on_device">Nincs elég tárhely. Szükség:</string>
+    <string name="No_enough_space_left_on_device">Nincs elég tárhely. Szükséges:</string>
     <string name="updatenow">Frissítés most</string>
     <string name="updateFail">A letöltés sikertelen. Kérjük, zárja be és nyissa meg újra</string>
     <string name="initializing">inicializálás</string>
-    <string name="Retrying">Próbálja újra</string>
-    <string name="language">nyelv</string>
+    <string name="Retrying">Újra próbálkozás</string>
+    <string name="language">Nyelv</string>
     <!--类别界面 -->
-    <string name="Popular">népszerű</string>
-    <string name="s_New">legutolsó</string>
-    <string name="apps">kérelem</string>
+    <string name="Popular">Népszerű</string>
+    <string name="s_New">Új</string>
+    <string name="apps">Alkalmazások</string>
     <!-- 大文件 -->
     <string name="mergering">Utolsó lépés</string>
-    <string name="mergerwait">Végső kezelés (1-2 perc)</string>
+    <string name="mergerwait">Befejezés (1-2 percet igényel)</string>
     <!-- 验证 -->
     <string name="Startverification">Kezdje el az ellenőrzést</string>
     <string name="verificationShangXian">Hoppá! Elérte a napi letöltési korlátot. Kérjük, próbálja újra X óra után.</string>
