@@ -251,7 +251,7 @@
     <string name="isthiswork">¿Funciona?</string>
     <string name="edit">Editar</string>
     <string name="APKZippyshareurl">URL de los APK de Zippyshare/Mediafire:</string>
-    <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire url: (opcional)</string>
+    <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire URL: (opcional)</string>
     <string name="Youarereupload">Estás subiendo:</string>
     <string name="Upload">Subir</string>
     <string name="Uploadfail">Subida fallida.</string>
