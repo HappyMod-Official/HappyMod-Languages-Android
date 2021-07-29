@@ -25,7 +25,7 @@
     <string name="GAME">Hra</string>
     <string name="APP">Aplikace</string>
     <string name="NEW">Nejnovější</string>
-    <string name="Categories">Klasifikace</string>
+    <string name="Categories">Kategorie</string>
     <string name="games">Hra</string>
     <string name="REFRESH">Obnovit</string>
     <string name="Unable_to_connect_to_the_network">Nelze přistupovat k internetu</string>
@@ -37,7 +37,7 @@
     <string name="Last_Update_Mods">Poslední aktualizace</string>
     <string name="SearchHint">Hledat:</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Oficiální internetové stránky</string>
+    <string name="Homeweb">Domov</string>
     <string name="Management">Řízení</string>
     <string name="Settings">Nastavení</string>
     <string name="Feedback">Zpětná vazba</string>
@@ -77,7 +77,7 @@
     <string name="Cancel">Zrušit</string>
     <string name="Delete">Smazat</string>
     <string name="Whydeletethisdownload">"Proč chcete  odstranit tento stahovaný soubor"</string>
-    <string name="NotwhatIwant">Ne, co chci</string>
+    <string name="NotwhatIwant">Není to co chci</string>
     <string name="Downloadfailed">Stahování selhalo</string>
     <string name="Downloadistooslow">Stahování je příliš pomalé</string>
     <!--APP详情页-->
@@ -87,7 +87,7 @@
     <string name="Download">Stáhnout</string>
     <string name="Downloadobb">Stáhnout (APK+OBB)</string>
     <string name="Downloaddata">Stáhnout (APK+DATA)</string>
-    <string name="Downloadboundle">Stáhnout (Baliček)</string>
+    <string name="Downloadboundle">Stáhnout (Balíček)</string>
     <string name="Downloaded">Staženo</string>
     <string name="Install">Instalovat</string>
     <string name="Connecting">Připojuji …</string>
@@ -96,12 +96,12 @@
     <string name="Moreversion">Další verze</string>
     <string name="Recommend">Doporučeno</string>
     <string name="Recommendmod">Doporučený mod</string>
-    <string name="Moremods">Více Mods</string>
+    <string name="Moremods">Poslední verze</string>
     <!--评分-->
     <string name="Submit">Odeslat</string>
     <string name="Hated_it">Nenávidět to!</string>
     <string name="Disliked_it">Nelíbí se mi to.</string>
-    <string name="Its_ok">Nezáleží na tom.</string>
+    <string name="Its_ok">Je to OK.</string>
     <string name="Liked_it">Líbí se mi to.</string>
     <string name="Loved_it">Miluju to!</string>
     <!--分享-->
@@ -111,20 +111,20 @@
     <!--修改路径-->
     <string name="pref_location">Místo skladování</string>
     <!--update -->
-    <string name="force_des">100% snadné použití mod</string>
+    <string name="force_des">100% fungující módy</string>
     <string name="nvisrti">Nová verze je připravena k instalaci.</string>
     <string name="OPEN">Otevřít</string>
     <string name="OK">Dobře</string>
     <string name="Loading">Načítání dat ...</string>
     <string name="updata_tip">Používáte nejnovější verzi programu HappyMod</string>
-    <string name="xzzb">Stáhněte si oficiální HappyMod.</string>
+    <string name="xzzb">Prosím stáhněte si oficiální HappyMod.</string>
     <string name="Continue">Pokračujte</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">Na přístroji nezbývá místo</string>
     <string name="Is_this_app_you_need">Hledáte tuto aplikaci?</string>
     <string name="No">Ne</string>
     <string name="Yes">Ano</string>
-    <string name="bcdes">; Dostupný:</string>
+    <string name="bcdes">. Uvolněte místo a zkuste znovu.</string>
     <string name="need">; Dostupný:</string>
     <string name="No_enough_space_left_on_device">Nedostatek místa. Potřeba:</string>
     <string name="updatenow">Aktualizujte nyní</string>
@@ -138,7 +138,7 @@
     <string name="apps">Aplikace</string>
     <!-- 大文件 -->
     <string name="mergering">Poslední krok</string>
-    <string name="mergerwait">Konečná léčba (vyžaduje 1-2 minuty)</string>
+    <string name="mergerwait">Konečné kroky (vyžaduje 1-2 minuty)</string>
     <!-- 验证 -->
     <string name="Startverification">Zahajte ověření</string>
     <string name="verificationShangXian">Jejda! Dosáhli jste denního limitu stahování, zkuste to prosím znovu po X hodinách.</string>
@@ -155,7 +155,7 @@
     <string name="Unlimitedmoney">Neomezené zlaté mince</string>
     <string name="Freepurchase">Nákup zdarma</string>
     <string name="Freeshopping">Nakupování zdarma</string>
-    <string name="Unlocked">Odemkněte</string>
+    <string name="Unlocked">Odemknuto</string>
     <string name="Patched">Patch</string>
     <string name="Premium">Zdarma</string>
     <string name="Pro">Profesionální verze</string>
