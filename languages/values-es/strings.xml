@@ -35,7 +35,7 @@
     <string name="Hot_App_Mods">Nececitan actualizar todo cuando se actulizen</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
-    <string name="SearchHint">"Buscar "</string>
+    <string name="SearchHint">Buscador</string>
     <!-- slide-->
     <string name="Homeweb">Casa</string>
     <string name="Management">Gestión</string>
