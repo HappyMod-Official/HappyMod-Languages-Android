@@ -94,7 +94,7 @@
     <string name="readmore">Baca lebih lajut</string>
     <string name="modfeature">Info mod:</string>
     <string name="Moreversion">Versi lainnya</string>
-    <string name="Recommend">Sarankan</string>
+    <string name="Recommend">Disarankan</string>
     <string name="Recommendmod">Mod yang direkomendasikan</string>
     <string name="Moremods">Versi Terbaru</string>
     <!--评分-->
@@ -103,7 +103,7 @@
     <string name="Disliked_it">Tidak menyukainya.</string>
     <string name="Its_ok">Tidak apa-apa.</string>
     <string name="Liked_it">Menyukainya.</string>
-    <string name="Loved_it">Suka!</string>
+    <string name="Loved_it">Menyukainya</string>
     <!--分享-->
     <string name="share_happymod">Bagikan \'HappyMod\' via</string>
     <string name="share_subject">Dapatkan HappyMod</string>
