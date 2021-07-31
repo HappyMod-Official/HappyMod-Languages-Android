@@ -2,7 +2,7 @@
 <resources>
     <!--印度尼西亞-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -28,7 +28,7 @@
     <string name="Categories">Kategori</string>
     <string name="games">Pertandingan</string>
     <string name="REFRESH">Menyegarkan</string>
-    <string name="Unable_to_connect_to_the_network">Tidak dapat mengakses internet.</string>
+    <string name="Unable_to_connect_to_the_network">Tidak terkoneksi ke internet</string>
     <string name="Recommended_Game_Mods">Permainan Mod Direkomendasi</string>
     <string name="Hot_Game_Mods">Permainan Mod Paling Panas</string>
     <string name="Recommended_App_Mods">Mod Aplikasi Yang Disarankan</string>
@@ -141,7 +141,7 @@
     <string name="mergerwait">Pemrosesan akhir (Membutuhkan 1–2 menit)</string>
     <!-- 验证 -->
     <string name="Startverification">Mulai Verifikasi</string>
-    <string name="verificationShangXian">Ups! Anda telah mencapai batas unduhan harian, coba lagi setelah X jam.</string>
+    <string name="verificationShangXian">Ups! Anda telah mencapai batas unduhan harian, coba lagi setelah x jam.</string>
     <string name="verificationFail">Verifikasi gagal, silakan coba lagi!</string>
     <string name="Morehelp">(Lebih banyak bantuan)</string>
     <string name="uid">Identitas pengguna</string>
