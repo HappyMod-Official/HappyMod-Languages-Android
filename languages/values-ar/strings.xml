@@ -30,7 +30,7 @@
     <string name="REFRESH">إعادة المحاولة</string>
     <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
-    <string name="Hot_Game_Mods">تعديلات العاب موصى بها</string>
+    <string name="Hot_Game_Mods">تعديلات لعبة ساخنه</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى به</string>
     <string name="Hot_App_Mods">تطبيقات معدلة موصى بها</string>
     <string name="Recommended_New_Mods">تعديلات جديدة موصى بها</string>
@@ -90,8 +90,7 @@
     <string name="Moreversion">المزيد من الإصدارات!</string>
     <string name="Recommend">موصى به</string>
     <string name="Recommendmod">تعديل موصى به</string>
-    <string name="Moremods">آخر الاصدارات
-\n</string>
+    <string name="Moremods">آخر الاصدارات</string>
     <string name="Submit">تأكيد</string>
     <string name="Hated_it">اكرهها!</string>
     <string name="Disliked_it">لم يعجبني</string>
@@ -106,7 +105,7 @@
     <string name="nvisrti">الإصدار الجديد جاهز للتثبيت.</string>
     <string name="OPEN">افتح</string>
     <string name="OK">حسنا</string>
-    <string name="Loading">جار التحميل...</string>
+    <string name="Loading">جار التحميل…</string>
     <string name="updata_tip">أنت تستخدم أحدث إصدار مستقر من HappyMod</string>
     <string name="xzzb">يرجى تحميل HappyMod من الموقع الرسمي.</string>
     <string name="Continue">استمر</string>
@@ -295,7 +294,7 @@
     <string name="deletefailed">فشل في الحذف</string>
     <string name="Group">مجموعة</string>
     <string name="repliedtouser">ردا على</string>
-    <string name="speaksomething">يرجى إدخال 20 شخصية على الأقل</string>
+    <string name="speaksomething">يرجى إدخال 20 حرف على الأقل</string>
     <string name="speaktoolong">يتجاوز عدد الأحرف الحد المسموح به ، ويمكن إدخال ما يصل إلى 4000 حرف.</string>
     <string name="tapandholdptodelete">اضغط مع الاستمرار على الصورة لحذفها.</string>
     <string name="addvideofaild">أخفق إضافة فيديو！ يرجى التأكد من أن شبكتك تستطيع تصفح فيديو Youtube وإعادة إضافته.</string>
@@ -326,7 +325,7 @@
     <!--home_feature-->
     <string name="Feature">متميز</string>
     <string name="editorpick">اختيار المحرر</string>
-    <string name="PopularInlast">  شائع في آخر 24 ساعة</string>
+    <string name="PopularInlast">شائع في آخر 24 ساعة</string>
     <string name="Latestupdated">آخر تحديث</string>
     <string name="paidforfree">مدفوع مجانًا</string>
     <string name="ToadyRecommend">وصى Toady</string>
