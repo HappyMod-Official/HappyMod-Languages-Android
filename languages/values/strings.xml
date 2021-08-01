@@ -93,8 +93,8 @@
     <string name="readmore">Read More</string>
     <string name="modfeature">Mod info:</string>
     <string name="Moreversion">نسخه های بیشتر</string>
-    <string name="Recommend">توصیه</string>
-    <string name="Recommendmod">توصیه مود</string>
+    <string name="Recommend">Recommend</string>
+    <string name="Recommendmod">Recommended Mod</string>
     <string name="Moremods">Latest Versions</string>
     <!--评分-->
     <string name="Submit">Submit</string>
