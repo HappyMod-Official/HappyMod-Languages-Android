@@ -216,7 +216,7 @@
     <string name="Resetpassword">Restablecer la contraseña</string>
     <string name="NewPassword">Nueva contraseña</string>
     <string name="Enterthepasswordagain">Confirmar la contraseña</string>
-    <string name="signuplimitdes">Su dispositivo ha alcanzado el número máximo de nombres de usuario registrados. Por favor, seleccione el nombre de usuario a continuación para iniciar sesión.</string>
+    <string name="signuplimitdes">Your device has reached the maximum number of registered accounts. Please select the account(s) below to log in.</string>
     <string name="Register">Registro</string>
     <string name="eyun">Ingrese su nombre de usuario</string>
     <string name="eypsw">Ingresa tu contraseña</string>
@@ -250,7 +250,7 @@
     <string name="view">Ver</string>
     <string name="isthiswork">¿Funciona?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">URL de los APK de Zippyshare/Mediafire:</string>
+    <string name="APKZippyshareurl">https://youtu.be/hSikch9Usq0</string>
     <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire URL: (opcional)</string>
     <string name="Youarereupload">Estás subiendo:</string>
     <string name="Upload">Subir</string>
@@ -267,12 +267,12 @@
     <string name="RecommendMods">Recomendar mods</string>
     <string name="requestdetailserror">(50-4000 caracteres)</string>
     <string name="Changetheimage">Cambia la imagen &gt;&gt;</string>
-    <string name="Typethecodeinthebox">Escriba el código en el cuadro</string>
+    <string name="Typethecodeinthebox">https://youtu.be/hSikch9Usq0</string>
     <string name="Verificationerror">Verificación fallida. Por favor intenta de nuevo.</string>
     <string name="Verifing">Verificando …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Pruebe otros servidores antes de eliminar</string>
-    <string name="fix_tips_content">¿Desea conectarse a otro servidor para intentar descargarlo antes de eliminarlo?</string>
+    <string name="fix_tips_content">No</string>
     <string name="fix_progress_title">Servidores de escaneo</string>
     <string name="fix_progress_content">Puede tomar unos minutos buscar el servidor más rápido para tí, por favor, espere.</string>
     <string name="fix_failed_content">Actualmente no hay servidores disponibles para usted, intente nuevamente más tarde.</string>
@@ -392,7 +392,7 @@
     <string name="pleaseentergoogleaddress">Ingrese el ID de la aplicación o la URL en Google Play.</string>
     <string name="thisposthasbeendeleted">Esta publicación ha sido eliminada.</string>
     <string name="add">Añadir</string>
-    <string name="oagputc">O agregue la URL de Google Play para continuar</string>
+    <string name="oagputc">O https://weblate.5gtall.com/translate/happymod/-/es/\?q=state%3A%3Ctranslated&amp;offset=9agregue la URL de Google Play para continuar</string>
     <string name="description">Descripción:</string>
     <string name="uploadbanner">Subir banner (720 * 406)</string>
     <string name="noedituploadtips">No puede enviarlo sin realizar ningún cambio.</string>
