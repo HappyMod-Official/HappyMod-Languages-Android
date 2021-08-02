@@ -120,7 +120,7 @@
     <string name="xzzb">Silakan unduh HappyMod resmi.</string>
     <string name="Continue">Terus</string>
     <string name="appobb">APK + OBB</string>
-    <string name="No_space_left_on_device">Tidak ada ruang yang tersisa di perangkat</string>
+    <string name="No_space_left_on_device">Tidak cukup penyimpanan yang tersisa di perangkat</string>
     <string name="Is_this_app_you_need">Apakah Anda mencari aplikasi ini?</string>
     <string name="No">Tidak</string>
     <string name="Yes">iya nih</string>
@@ -205,27 +205,27 @@
     <string name="Unknown">Tidak dikenal</string>
     <string name="enteryEmail">Masukkan email Anda</string>
     <string name="enteryPhone">Masukkan nomor telepon Anda</string>
-    <string name="signuptips">Ketika Anda lupa kata sandi, Anda perlu "Nomor telepon" atau "Email" untuk mengambilnya. Kami sarankan Anda menyelesaikannya.</string>
+    <string name="signuptips">Ketika Anda lupa kata sandi, Anda memerlukan Nomor telepon atau Email untuk mendapatkannya kembali. Kami sarankan Anda menyelesaikannya.</string>
     <string name="confirmusername">Konfirmasi nama pengguna</string>
     <string name="next">Berikutnya</string>
     <string name="fblogdes">Silakan masukkan nama pengguna. Nama pengguna adalah pengidentifikasi yang sangat penting untuk mengambil kata sandi, harap diingat.</string>
     <string name="selectusername">Pilih nama pengguna</string>
-    <string name="reselpass_desone">Masukkan nama pengguna akun Anda untuk mengatur ulang kata sandi. Anda memiliki masalah tentang mengatur ulang kata sandi<u>contact us</u>.</string>
-    <string name="reselpass_destwo">Silakan masukkan email atau nomor telepon. Anda memiliki masalah tentang mengatur ulang kata sandi<u>contact us</u>.</string>
-    <string name="forgetgosingup">Tidak dapat mengingat salah satu dari mereka? Silahkan<u>sign up a new account</u>.</string>
+    <string name="reselpass_desone">Masukkan nama pengguna akun Anda untuk mengatur ulang kata sandi. Anda memiliki masalah tentang mengatur ulang kata sandi<u>kontak kami.</u>.</string>
+    <string name="reselpass_destwo">Silakan masukkan email atau nomor telepon. Anda memiliki masalah tentang mengatur ulang kata sandi,<u>silahkan kontak kami.</u>.</string>
+    <string name="forgetgosingup">Tidak dapat mengingat salah satu dari mereka\? Anda bisa <u>membuat akun yang baru.</u>.</string>
     <string name="Resetpassword">Setel ulang kata sandi</string>
     <string name="NewPassword">Kata sandi baru</string>
-    <string name="Enterthepasswordagain">Konfirmasikan kata sandi</string>
-    <string name="signuplimitdes">Perangkat Anda telah mencapai jumlah maksimum nama pengguna terdaftar. Silakan pilih nama pengguna di bawah ini untuk masuk.</string>
+    <string name="Enterthepasswordagain">Konfirmasi kata sandi anda</string>
+    <string name="signuplimitdes">"Perangkat Anda telah mencapai jumlah maksimum  akun terdaftar. Silakan pilih nama pengguna di bawah ini untuk masuk."</string>
     <string name="Register">Daftar</string>
     <string name="eyun">Masukkan nama pengguna Anda</string>
     <string name="eypsw">Masukkan kata sandi Anda</string>
-    <string name="loginerrortips">Silakan masukkan nama pengguna dan kata sandi yang benar. Perhatikan bahwa bidang kata sandi peka huruf besar-kecil.</string>
+    <string name="loginerrortips">Silakan masukkan nama pengguna dan kata sandi yang benar. Perhatikan bahwa bidang kata sandi peka terhadap huruf besar-kecil.</string>
     <string name="Resetpasswordfailed">Gagal mengatur ulang kata sandi.</string>
     <string name="Theusernamewasnotregistered">Nama pengguna tidak terdaftar.</string>
     <string name="petceotn">Silakan masukkan email atau nomor telepon yang benar.</string>
-    <string name="fbrfail">Daftar Facebook gagal.</string>
-    <string name="Registerfailed">Pendaftaran gagal, harap konfirmasi bahwa koneksi jaringan Anda normal, klik tombol pendaftaran untuk mencoba lagi.</string>
+    <string name="fbrfail">Pendaftaran Facebook gagal.</string>
+    <string name="Registerfailed">Pendaftaran gagal, pastikan bahwa koneksi jaringan Anda normal, klik tombol pendaftaran untuk mencoba lagi.</string>
     <string name="Loginfailed">Gagal masuk.</string>
     <string name="me">Saya</string>
     <string name="Avatar">Avatar</string>
@@ -244,7 +244,7 @@
     <string name="Comingsoon">Segera akan datang</string>
     <string name="searchappyouwanttorequest">Cari aplikasi yang ingin Anda minta:</string>
     <string name="Addupload">Tambahkan unggahan</string>
-    <string name="requestdetailhint">Tampilkan lebih banyak tentang permintaan Anda. (Setidaknya 50 karakter)</string>
+    <string name="requestdetailhint">Beritahu lebih banyak tentang permintaan Anda. (Setidaknya 50 karakter)</string>
     <string name="requesterror">Gagal mengirim, silakan coba lagi nanti.</string>
     <string name="detailserror">(100–4000 karakter)</string>
     <string name="view">Melihat</string>
@@ -259,7 +259,7 @@
     <string name="obbfail">Silakan masukkan file obb di URL Zippyshare/Mediafire.</string>
     <string name="worked">Bekerja</string>
     <string name="Uploadsuccess">Keberhasilan unggah</string>
-    <string name="Requestsuccess">Minta kesuksesan</string>
+    <string name="Requestsuccess">Permintaan sukses</string>
     <string name="clickyes">Anda dapat mengedit dan mengirim kembali permintaan ini dari antrian yang berfungsi.</string>
     <string name="clickno">Permintaan ini akan ditambahkan ke antrian segera datang lagi.</string>
     <string name="downloadpush_remind">Tampilkan pemberitahuan setelah instalasi</string>
@@ -272,7 +272,7 @@
     <string name="Verifing">Memverifikasi …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Coba server lain sebelum menghapus</string>
-    <string name="fix_tips_content">Apakah Anda ingin terhubung ke server lain untuk mencoba mengunduhnya sebelum menghapusnya?</string>
+    <string name="fix_tips_content">Apakah Anda tertarik mencoba mengunduh dari server lain sebelum menghapusnya\?</string>
     <string name="fix_progress_title">Server pemindaian</string>
     <string name="fix_progress_content">Mungkin perlu beberapa menit untuk mencari server tercepat untuk Anda, harap tunggu.</string>
     <string name="fix_failed_content">Saat ini tidak ada server yang tersedia untuk Anda, silakan coba lagi nanti.</string>
@@ -313,7 +313,7 @@
     <string name="speaksomething">Silakan masukkan setidaknya 20 karakter</string>
     <string name="speaktoolong">Jumlah karakter melebihi batas, hingga 4000 karakter dapat dimasukkan.</string>
     <string name="tapandholdptodelete">Ketuk dan tahan gambar untuk menghapusnya.</string>
-    <string name="addvideofaild">Menambahkan video gagal！ Pastikan jaringan Anda dapat menjelajahi video Youtube dan menambahkannya kembali.</string>
+    <string name="addvideofaild">Gagal menambahkan video! Pastikan jaringan Anda dapat menjelajahi video Youtube dan coba tambahkan kembali.</string>
     <string name="Video">Video</string>
     <string name="Hotsearches">Pencarian panas</string>
     <string name="Hothashtags">Tagar panas</string>
@@ -329,7 +329,7 @@
     <string name="h5_menu_shortcut">Tambahkan ke homescreen</string>
     <string name="installplaywitouthti">Main instan tanpa harus menginstal</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Ups ...</string>
+    <string name="crash_dialog_title">Ups...</string>
     <string name="crash_toast_message">Maaf, pengecualian APP, akan keluar ， kirimkan laporan bug Anda melalui email.</string>
     <string name="crash_dialog_message">Maaf, pengecualian APP, silakan kirim laporan bug Anda melalui email.</string>
     <string name="crash_dialog_feedback">Laporkan bug</string>
@@ -373,7 +373,7 @@
     <string name="finditin">Temukan di X</string>
     <string name="needhelp">Butuh bantuan?</string>
     <string name="peoplealsoplaygames">Orang yang memainkan game ini juga memainkan:</string>
-    <string name="opencommunitydes">Jika Anda menemukan posting dewasa atau posting yang buruk, silakan klik tombol laporkan di sudut kanan atas posting, dan kami akan menghapus posting dan memblokir poster untuk pertama kalinya! Tolong bicara dengan sopan!</string>
+    <string name="opencommunitydes">Jika Anda menemukan posting dewasa atau posting yang buruk, silakan klik tombol laporkan di sudut kanan atas posting, kami akan menghapus postingan dan memblokir posternya! Tolong bicara dengan sopan!</string>
     <string name="myreviews">Ulasan saya</string>
     <string name="tagthisapp">Tandai aplikasi ini</string>
     <string name="appuploader">Aplikasi diunggah oleh</string>
@@ -418,6 +418,6 @@
     <string name="Checkthenetwork">Periksa jaringan kamu</string>
     <string name="Configuringip">Mengonfigurasi IP yang tersedia untuk Anda</string>
     <string name="Configuringipfailed">Konfigurasi gagal, 8 IP terdeteksi tidak tersedia, coba gunakan VPN.</string>
-    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti halnya Anda! Kami membutuhkan donasi Anda untuk menyediakan unduhan yang lebih cepat dan lebih aman.Harap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi.Terima kasih！</string>
+    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti halnya Anda! Kami membutuhkan donasi Anda untuk menyediakan kecepatan unduhan yang lebih cepat dan lebih aman.Harap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi.Terima kasih！</string>
     <string name="viewstepdeti">Lihat detail langkah</string>
 </resources>
