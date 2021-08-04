@@ -218,7 +218,7 @@
     <string name="Resetpassword">Passwort zurücksetzen</string>
     <string name="NewPassword">Neues Kennwort</string>
     <string name="Enterthepasswordagain">Bestätigen Sie das Passwort</string>
-    <string name="signuplimitdes">Ihr Gerät hat die maximale Anzahl an registrierten Benutzernamen erreicht. Bitte wählen Sie den Benutzernamen aus, um sich anzumelden.</string>
+    <string name="signuplimitdes">Ihr Gerät hat die maximale Anzahl an registrierten Benutzernamen erreicht. Bitte wählen Sie einen Benutzernamen unten aus, um sich anzumelden.</string>
     <string name="Register">Registrieren</string>
     <string name="eyun">Geben Sie Ihren Benutzernamen ein</string>
     <string name="eypsw">Geben Sie Ihr Passwort ein</string>
