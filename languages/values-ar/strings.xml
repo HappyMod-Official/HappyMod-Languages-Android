@@ -32,7 +32,7 @@
     <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
     <string name="Hot_Game_Mods">تعديلات لعبة ساخنه</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى به</string>
-    <string name="Hot_App_Mods">تطبيقات معدلة موصى بها</string>
+    <string name="Hot_App_Mods"></string>
     <string name="Recommended_New_Mods">تعديلات جديدة موصى بها</string>
     <string name="Last_Update_Mods">آخر التحديثات</string>
     <string name="SearchHint">بحث..</string>
