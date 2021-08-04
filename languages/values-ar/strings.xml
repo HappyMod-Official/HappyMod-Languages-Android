@@ -45,7 +45,7 @@
     <string name="Checkforupdate">فحص التحديثات</string>
     <string name="FollowusonTwitter">تابعنا على تويتر</string>
     <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
-    <string name="settings_network_remind">تنيه شبكةالجوال</string>
+    <string name="settings_network_remind">تنبيه شبكةالجوال</string>
     <string name="settings_auto_install">التثبيت التلقائي</string>
     <string name="Download_Directory">تحميل الدليل</string>
     <string name="settings_other">إعدادات اخرى</string>
