@@ -14,7 +14,7 @@
     <string name="Hot_App_Mods">Новенькі Моди для Програм</string>
     <string name="Recommended_New_Mods">Рекомендовані Нові Моди</string>
     <string name="SearchHint">Пошук</string>
-    <string name="Homeweb">Офіційний Вебсайт</string>
+    <string name="Homeweb">Домашня сторінка</string>
     <string name="Management">Керування</string>
     <string name="Settings">Налаштування</string>
     <string name="Feedback">Зворотній зв\'язок</string>
@@ -137,7 +137,7 @@
     <string name="Categories">Категорії</string>
     <string name="REFRESH">Перезавантажити</string>
     <string name="Unable_to_connect_to_the_network">Немає доступу до інтернету.</string>
-    <string name="Hot_Game_Mods">Популярні Ігрові Моди</string>
+    <string name="Hot_Game_Mods">Гарячі Ігрові Моди</string>
     <string name="Last_Update_Mods">Останні Оновлення</string>
     <string name="Translation">Переклад</string>
     <string name="FollowusonTwitter">Сладкуйте за нами у Твіттері</string>
