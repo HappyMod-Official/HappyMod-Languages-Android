@@ -58,9 +58,9 @@
     <string name="Pause">Pauza</string>
     <string name="Waiting_in_queue">Czekam w kolejce</string>
     <string name="Completed">Zakończony</string>
-    <string name="UnZiping">Wypakuję</string>
+    <string name="UnZiping">Wypakowywanie</string>
     <string name="UnZip_succeed">Zakończono wyodrębnianie</string>
-    <string name="Rate">Oceniać</string>
+    <string name="Rate">Oceń</string>
     <string name="Rated">Oceniony</string>
     <string name="Version">Wersja</string>
     <string name="Ratingsreviews">Oceny</string>
@@ -70,14 +70,14 @@
     <string name="deletethistask">Usuń ten plik</string>
     <string name="Cancel">Anuluj</string>
     <string name="Delete">Usuń</string>
-    <string name="Whydeletethisdownload">Po co usuwać ten plik?</string>
+    <string name="Whydeletethisdownload">Po co chcesz usunąć ten plik\?</string>
     <string name="NotwhatIwant">Nie to, czego chcę</string>
     <string name="Downloadfailed">Pobieranie nie udane</string>
     <string name="Downloadistooslow">Pobieranie jest zbyt wolne</string>
     <string name="Mods">Mody</string>
     <string name="Original">Oryginalny</string>
     <string name="Previousversion">Poprzednia wersja</string>
-    <string name="Download">Zainstaluj</string>
+    <string name="Download">Pobierz</string>
     <string name="Downloadobb">Pobierz (APK+OBB)</string>
     <string name="Downloaddata">Pobierz (APK+DATA)</string>
     <string name="Downloadboundle">Pobierz BUNDLE</string>
@@ -88,7 +88,7 @@
     <string name="modfeature">Informacje o modyfikacji:</string>
     <string name="Moreversion">Więcej wersji</string>
     <string name="Recommend">Polecane</string>
-    <string name="Recommendmod">Zalecany mod</string>
+    <string name="Recommendmod">Polecany mod</string>
     <string name="Moremods">Najnowsze wersje</string>
     <string name="Submit">Zatwierdź</string>
     <string name="Hated_it">Nienawidzę tego!</string>
@@ -101,7 +101,7 @@
     <string name="share_text">Pobierz mody działające na 100% z @HappyMod
 \nhttps://www.happymod.com/</string>
     <string name="pref_location">Miejsce przechowywania</string>
-    <string name="force_des">100% Działających Aplikacji</string>
+    <string name="force_des">100% działających modów</string>
     <string name="nvisrti">Nowa wersja jest gotowa do instalacji.</string>
     <string name="OPEN">OTWARTY</string>
     <string name="OK">OK</string>
@@ -152,13 +152,13 @@
     <string name="VIP">VIP</string>
     <string name="Substratum">Podłoże</string>
     <string name="Debloated">Osłabiony</string>
-    <string name="Donate">Podarować</string>
+    <string name="Donate">Dotacja</string>
     <string name="AOSPcompatible">Kompatybilny z AOSP</string>
     <string name="Cracked">Pęknięty</string>
     <string name="NoAds">Bez reklam</string>
     <string name="Infinite">Nieskończony</string>
     <string name="Endless">Nieskończony</string>
-    <string name="Invincible">Niezwyciężony</string>
+    <string name="Invincible">Nieśmiertelny</string>
     <string name="Unlimitedhints">Nieograniczone wskazówki</string>
     <string name="Megamod">Mega mod</string>
     <string name="Full">Pełny</string>
@@ -169,14 +169,14 @@
     <string name="Enteryourpassword">6-8 znaków</string>
     <string name="passwordtip">Tylko litery A-Z, a-z, liczby (bez spacji lub znaków specjalnych). 6-8 znaków.</string>
     <string name="nicknametip">Ten nick jest już zajęty.</string>
-    <string name="Nickname">Przezwisko</string>
+    <string name="Nickname">Nick</string>
     <string name="Emailaddress">Adres e-mail</string>
     <string name="Enteryouremail">Wprowadź swój email</string>
     <string name="Telephonenumber">Numer telefonu</string>
     <string name="Enteryourtelephonenumber">Wpisz swój numer telefonu</string>
     <string name="phonetip">Wprowadź prawidłowy numer telefonu.</string>
     <string name="emailtip">Wprowadź prawidłowy adres e-mail.</string>
-    <string name="Signup">Zapisz się</string>
+    <string name="Signup">Zarekestruj się</string>
     <string name="tuiat">Ta nazwa użytkownika jest już zajęta.</string>
     <string name="Login">Zaloguj Się</string>
     <string name="Account">Konto</string>
@@ -195,25 +195,25 @@
     <string name="next">Kolejny</string>
     <string name="fblogdes">Proszę, wpisz nazwę użytkownika. Nazwa użytkownika jest bardzo ważnym identyfikatorem do odzyskania hasła, proszę o tym pamiętać.</string>
     <string name="selectusername">Wybierz nazwę użytkownika</string>
-    <string name="reselpass_desone">Wprowadź nazwę użytkownika, aby zresetować hasło. Masz problem ze zresetowaniem hasła<u>skontaktuj się z nami</u>.</string>
+    <string name="reselpass_desone">Wprowadź nazwę użytkownika, aby zresetować hasło. Jeśli masz problem ze zresetowaniem hasła<u>skontaktuj się z nami</u>.</string>
     <string name="reselpass_destwo">Wprowadź adres e-mail lub numer telefonu. Jeśli Masz problem ze zresetowaniem hasła<u>skontaktuj się z nami</u>.</string>
     <string name="forgetgosingup">Nie pamiętasz żadnego z nich\? Możesz stworzyć nowe konto <u>tutaj</u>.</string>
     <string name="Resetpassword">Zresetuj hasło</string>
     <string name="NewPassword">Nowe hasło</string>
     <string name="Enterthepasswordagain">Potwierdź hasło</string>
     <string name="signuplimitdes">Twoje urządzenie osiągnęło maksymalną liczbę zarejestrowanych kont. Wybierz konto poniżej, aby się zalogować.</string>
-    <string name="Register">Zarejestrować</string>
+    <string name="Register">Zarejestruj</string>
     <string name="eyun">Wpisz twoją nazwę użytkownika</string>
     <string name="eypsw">Wprowadź hasło</string>
-    <string name="loginerrortips">Wprowadź poprawną nazwę użytkownika i hasło. Uwaga: capslock jest włączony.</string>
+    <string name="loginerrortips">Wprowadź poprawną nazwę użytkownika i hasło. Pamiętaj, że wielkość liter ma znaczenie.</string>
     <string name="Resetpasswordfailed">Resetowanie hasła nie powiodło się.</string>
     <string name="Theusernamewasnotregistered">Nazwa użytkownika nie została zarejestrowana.</string>
     <string name="petceotn">Wprowadź prawidłowy adres e-mail lub numer telefonu.</string>
     <string name="fbrfail">Rejestracja przy pomocy Facebooka nie powiodła się.</string>
     <string name="Registerfailed">Rejestracja nie powiodła się. Sprawdź, czy połączenie internetowe jest sprawne. Kliknij przycisk rejestracji, aby spróbować ponownie.</string>
     <string name="Loginfailed">Logowanie nie powiodło się.</string>
-    <string name="me">Mnie</string>
-    <string name="Avatar">Awatara</string>
+    <string name="me">Ja</string>
+    <string name="Avatar">Awatar</string>
     <string name="Myposts">Moje posty</string>
     <string name="passowrduploadok">Hasło zostało pomyślnie zmienione</string>
     <string name="logout">Wyloguj</string>
@@ -226,18 +226,18 @@
     <string name="Myuploads">Moje przesłane pliki</string>
     <string name="Updated">Zaktualizowano</string>
     <string name="Comingsoon">Wkrótce</string>
-    <string name="searchappyouwanttorequest">Wyszukaj aplikację, której chcesz zgłosić:</string>
+    <string name="searchappyouwanttorequest">Wyszukaj aplikację, którą chcesz zgłosić:</string>
     <string name="Addupload">Dodaj przesyłanie</string>
     <string name="requestdetailhint">Powiedz więcej o swojej prośbie. (Co najmniej 50 znaków)</string>
     <string name="requesterror">Prześlij nie powiodło się, spróbuj ponownie później.</string>
     <string name="detailserror">(100-4000 znaków)</string>
     <string name="view">Widok</string>
     <string name="isthiswork">Czy to działa?</string>
-    <string name="edit">Edytować</string>
+    <string name="edit">Edytuj</string>
     <string name="APKZippyshareurl">APK Zippyshare/Media fire Adres:</string>
     <string name="OBBDataurl">OBB Data Zippyshare/Mediafire URL: (opcjonalnie)</string>
     <string name="Youarereupload">Przesyłasz:</string>
-    <string name="Upload">Przekazać plik</string>
+    <string name="Upload">Przekaż plik</string>
     <string name="Uploadfail">Przesyłanie nie powiodło się.</string>
     <string name="apkfail">Wprowadź adres URL pliku Zippyshare/Mediafire apk.</string>
     <string name="obbfail">Wprowadź adres URL pliku Zippyshare/Mediafire obb.</string>
@@ -248,7 +248,7 @@
     <string name="clickno">Ta prośba zostanie ponownie dodana do kolejki.</string>
     <string name="downloadpush_remind">Pokaż powiadomienie po instalacji</string>
     <string name="messages">Wiadomości</string>
-    <string name="RecommendMods">Polecam modyfikacje</string>
+    <string name="RecommendMods">Polecane modyfikacje</string>
     <string name="requestdetailserror">(50-4000 znaków)</string>
     <string name="Changetheimage">Zmień obraz &gt;&gt;</string>
     <string name="Typethecodeinthebox">Wpisz kod w polu</string>
@@ -261,16 +261,16 @@
     <string name="fix_progress_content">Poszukiwanie najszybszego serwera i może
 \nto zająć kilka minut, proszę czekać.</string>
     <string name="fix_failed_content">Obecnie nie ma dostępnych serwerów, spróbuj ponownie później.</string>
-    <string name="fix_tips_failtitle">Nigdy więcej serwerów</string>
+    <string name="fix_tips_failtitle">Nie ma już więcej serwerów</string>
     <string name="fix_ok">Spróbuj</string>
     <!--社区 -->
     <string name="please_loginanddownload">Najpierw pobierz ten mod.</string>
-    <string name="myvoted">Mój głos</string>
+    <string name="myvoted">Moje głosy</string>
     <string name="working">Pracujący</string>
     <string name="inanhour">Głosuj ponownie za godzinę.</string>
-    <string name="Review">Przejrzeć</string>
+    <string name="Review">Przejrzyj</string>
     <string name="myreply">Moje odpowiedzi</string>
-    <string name="Post">Poczta</string>
+    <string name="Post">Wstaw</string>
     <string name="addavideo">Dodaj wideo</string>
     <string name="enterthevideourlhere">Wprowadź adres URL filmu na YouTube tutaj.</string>
     <string name="onlysupportyoutube">Tylko filmy z YouTube są wspierane</string>
@@ -278,12 +278,12 @@
     <string name="hashtags">Historia hashtagów</string>
     <string name="featuredhash">Polecane hashtagi</string>
     <string name="newhshstag">Nowy hashtag</string>
-    <string name="hot">Gorąco</string>
+    <string name="hot">Popularne</string>
     <string name="Comments">Komentarze</string>
     <string name="replies">Odpowiedzi</string>
     <string name="community">Społeczność</string>
     <string name="report">Raport</string>
-    <string name="reply">Odpowiadać</string>
+    <string name="reply">Odpowiedz</string>
     <string name="reportsuccess">Twój raport został przesłany pomyślnie.</string>
     <string name="reportfail">Twój raport nie został przesłany.</string>
     <string name="replytowho">Odpowiedź na X:</string>
@@ -298,10 +298,10 @@
     <string name="speaksomething">Podaj co najmniej 20 znaków</string>
     <string name="speaktoolong">Liczba znaków przekracza limit, można wprowadzić do 4000 znaków.</string>
     <string name="tapandholdptodelete">Naciśnij i przytrzymaj zdjęcie, aby je usunąć.</string>
-    <string name="addvideofaild">Dodawanie wideo nie powiodło się！ Upewnij się, że Twoja sieć może przeglądać wideo z YouTube i dodać je ponownie.</string>
+    <string name="addvideofaild">Dodawanie filmu nie powiodło się！ Upewnij się, że Twoja sieć jest stabilna i spróbój dodać go ponownie.</string>
     <string name="Video">Wideo</string>
     <string name="Hotsearches">Popularne wyszukiwania</string>
-    <string name="Hothashtags">Gorące hashtagi</string>
+    <string name="Hothashtags">Popularne hashtagi</string>
     <string name="history">Historia</string>
     <string name="aboutthisgame">O tej grze</string>
     <string name="details">Detale</string>
@@ -309,8 +309,8 @@
     <string name="hfivetitle">Szybkie gry</string>
     <string name="Recommended">Zalecana</string>
     <string name="exit_tips">Naciśnij ponownie, aby wyjść z gry</string>
-    <string name="h5_menu_reload">Przeładować</string>
-    <string name="h5_menu_share">Dzielić</string>
+    <string name="h5_menu_reload">Przeładuj</string>
+    <string name="h5_menu_share">Podziel się</string>
     <string name="h5_menu_shortcut">Dodaj do ekranu głównego</string>
     <string name="installplaywitouthti">Natychmiastowa gra bez konieczności instalacji</string>
     <!--全局rty-->
@@ -319,31 +319,31 @@
     <string name="crash_dialog_message">Przepraszamy, wyjątek APP, prześlij zgłoszenie błędu przez e-mail.</string>
     <string name="crash_dialog_feedback">Zgłoś błędy</string>
     <string name="crash_dialog_restart">Uruchom ponownie</string>
-    <string name="init_fail">Inicjalizacja nie powiodła się, użyj VPN lub zmień na inne sieci.</string>
+    <string name="init_fail">Inicjalizacja nie powiodła się, użyj VPN lub zmień sieć.</string>
     <string name="error_file_des">Ten plik został usunięty i jest teraz ponownie pobierany.</string>
     <string name="sdpermission">Musimy uzyskać dostęp do pamięci zewnętrznej. Upewnij się, że zezwolenie zostało udzielone.</string>
     <string name="Night_Mode">Tryb nocny</string>
     <string name="thisty">Ta nazwa użytkownika jest zajęta. Spróbuj innego. Dostępny:</string>
     <!--home_feature-->
-    <string name="Feature">Ocechowany</string>
+    <string name="Feature">Wyróżnione</string>
     <string name="editorpick">Wybór redaktora</string>
     <string name="PopularInlast">Popularne w ciągu ostatnich 24 godzin</string>
     <string name="Latestupdated">Ostatnia aktualizacja</string>
     <string name="paidforfree">Płatne za darmo</string>
-    <string name="ToadyRecommend">Polecam Toady</string>
-    <string name="hotmods">Gorące mody</string>
-    <string name="hotrecommended">Gorąco polecam</string>
+    <string name="ToadyRecommend">Dzisiejsze rekomendacje</string>
+    <string name="hotmods">Popularne mody</string>
+    <string name="hotrecommended">Polecamy</string>
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Wyszukaj aplikację, którą chcesz przesłać:</string>
     <string name="addapost">Dodaj post</string>
     <string name="launch_des">Znajdź 100% działających modyfikacji
-\nPublikowanych przez użytkowników; Weryfikowane przez użytkowników!</string>
-    <string name="requestamod">Poproś o mod</string>
-    <string name="uploadamod">Prześlij mod</string>
+\nPublikowanych przez użytkowników; Weryfikowanych przez użytkowników!</string>
+    <string name="requestamod">Poproś o moda</string>
+    <string name="uploadamod">Prześlij moda</string>
     <!--boundle 新增-->
     <string name="Installing">Instalowanie</string>
-    <string name="bundleneedsfive">Przepraszamy, pakiet wymaga Androida 5.0 i nowszych wersji.</string>
-    <string name="parsingerror">Błąd podczas analizowania pliku APK lub anulowany.</string>
+    <string name="bundleneedsfive">Przepraszamy, pakiet wymaga Androida 5.0 lub nowszych wersji.</string>
+    <string name="parsingerror">Błąd podczas analizowania pliku APK lub anulowano.</string>
     <string name="tipsinstallok">Instalacja zakończyła się powodzeniem.</string>
     <string name="tipsinstallfail">Instalacja nie powiodła się, spróbuj ponownie.</string>
     <!--图片上传表达-->
@@ -351,15 +351,15 @@
     <string name="Imagesmustbelessthan">Obrazy muszą być mniejsze niż 10 MB. Zmniejsz wymiary obrazu, zapisz ponownie lub ponownie wyeksportuj plik i spróbuj przesłać go ponownie.</string>
     <string name="installfailed">Instalacja nie powiodła się.</string>
     <string name="miuides">Włącz Opcje programisty, wyłącz optymalizację MIUI i spróbuj ponownie.</string>
-    <string name="playdes">Grać</string>
+    <string name="playdes">Graj</string>
     <string name="todayhotgame">Dzisiaj jest gorąco</string>
-    <string name="newcoming">Nowy nadchodzący</string>
+    <string name="newcoming">Nowe nadchodzące</string>
     <string name="recentlyplayed">Ostatnio grane</string>
     <string name="toopenitquickntime">Aby następnym razem szybko je otworzyć:</string>
     <string name="finditin">Znajdź w X</string>
-    <string name="needhelp">Potrzebuję pomocy?</string>
-    <string name="peoplealsoplaygames">Ludzie którzy grali w tą grę, też lubią</string>
-    <string name="opencommunitydes">Jeśli znajdziesz dorosłego lub zły post, kliknij przycisk zgłoś w prawym górnym rogu postu, a my usuniemy post i zablokujemy plakat po raz pierwszy! Proszę, mów po cywilizacji!</string>
+    <string name="needhelp">Potrzebujesz pomocy\?</string>
+    <string name="peoplealsoplaygames">Ludzie, którzy grali w tą grę, lubią też</string>
+    <string name="opencommunitydes">Jeśli znajdziesz nie właściwy post, kliknij przycisk zgłoś w prawym górnym rogu postu, a my usuniemy post i zablokujemy jego autora! Proszę, mów po lucku!</string>
     <string name="myreviews">Moje recenzje</string>
     <string name="tagthisapp">Zgłoś tę aplikację</string>
     <string name="appuploader">Aplikacja przesłana przez</string>
@@ -367,7 +367,7 @@
     <string name="votedokok">Twój głos został pomyślnie przesłany.</string>
     <string name="please_downlaodthisapp">Najpierw pobierz tę aplikację.</string>
     <string name="safetitle">Aplikacja APK gwarantowana</string>
-    <string name="safedes">Ten plik APK przeszedł test bezpieczeństwa pod kątem wirusów, złośliwego oprogramowania. Używał zaufanego i zweryfikowanego podpisu cyfrowego.</string>
+    <string name="safedes">Ten plik APK przeszedł test bezpieczeństwa pod kątem wirusów, złośliwego oprogramowania. Używa zaufanego i zweryfikowanego podpisu cyfrowego.</string>
     <string name="bereported">Zgłosiłeś to.</string>
     <string name="pleasefinishyourdownloadingqueu">Najpierw zakończ kolejkę pobierania.</string>
     <string name="adduploadvideo">Dodaj wideo: (opcjonalnie)</string>
@@ -389,9 +389,9 @@
     <string name="nomalware">Brak złośliwego oprogramowania</string>
     <string name="nospyware">Brak oprogramowania szpiegującego</string>
     <string name="less">Mniej</string>
-    <string name="votedandfail">Już sprawdziłeś, sprawdź listę „Moje recenzje”.</string>
+    <string name="votedandfail">Już zrecenzowałeś, sprawdź listę „Moje recenzje”.</string>
     <string name="fastdownloader">Szybsze pobieranie</string>
-    <string name="usehtgetspeed">Użyj HyperTorrent, aby uzyskać 200% + prędkość.</string>
+    <string name="usehtgetspeed">Użyj HyperTorrent, aby uzyskać 200% + prędkości.</string>
     <string name="cleanfdft">czysty &amp; szybki downloader dla torrentów</string>
     <string name="fasterspeed">Większa prędkość</string>
     <string name="speedfordownloading">200% ~ 1000% + prędkość pobierania dużych plików z HappyMod.</string>
@@ -399,9 +399,9 @@
     <string name="nslnfsl">Brak ograniczenia prędkości. Brak limitu rozmiaru pliku.</string>
     <string name="Clean">Czysty</string>
     <string name="Cdnoadfree">Przejrzysty projekt, brak reklam i 100% za darmo!</string>
-    <string name="wrhtdbf">Do pobierania dużych plików zalecamy HyperTorrent.</string>
+    <string name="wrhtdbf">Jak używać HyperTorrent\?</string>
     <string name="nothanks">Nie dziękuję</string>
-    <string name="Checkthenetwork">Sprawdź sieć</string>
+    <string name="Checkthenetwork">Sprawdź połączenie</string>
     <string name="Configuringip">Konfigurowanie dostępnego adresu IP dla Ciebie</string>
     <string name="Configuringipfailed">Konfiguracja nie powiodła się, wykryto 8 adresów IP, które są niedostępne, spróbuj użyć VPN.</string>
     <string name="Donatedes">HappyMod jest całkowicie darmowy i nienawidzimy reklam tak samo jak Ty!
@@ -410,6 +410,6 @@
 \n
 \nProsimy o cierpliwość i spróbuj obejrzeć całe reklamy, aby przekazać darowiznę.
 \n
-\nDziękujemy！</string>
+\nDziękujemy！:)</string>
     <string name="viewstepdeti">Zobacz szczegóły kroku</string>
 </resources>
