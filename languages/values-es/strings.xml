@@ -216,7 +216,7 @@
     <string name="Resetpassword">Restablecer la contraseña</string>
     <string name="NewPassword">Nueva contraseña</string>
     <string name="Enterthepasswordagain">Confirmar la contraseña</string>
-    <string name="signuplimitdes">Por que el neflix me sale en ingles quiero que me salga en español</string>
+    <string name="signuplimitdes">Por que a netflix fala em ingles quero que fale em español</string>
     <string name="Register">Registro</string>
     <string name="eyun">Ingrese su nombre de usuario</string>
     <string name="eypsw">Ingresa tu contraseña</string>
@@ -250,7 +250,8 @@
     <string name="view">Ver</string>
     <string name="isthiswork">¿Funciona?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">https://youtu.be/hSikch9Usq0</string>
+    <string name="APKZippyshareurl">APK
+\nZippyshare/Mediafire URL:</string>
     <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire URL: (opcional)</string>
     <string name="Youarereupload">Estás subiendo:</string>
     <string name="Upload">Subir</string>
@@ -267,12 +268,12 @@
     <string name="RecommendMods">Recomendar mods</string>
     <string name="requestdetailserror">(50-4000 caracteres)</string>
     <string name="Changetheimage">Cambia la imagen &gt;&gt;</string>
-    <string name="Typethecodeinthebox">https://youtu.be/hSikch9Usq0</string>
+    <string name="Typethecodeinthebox">Type the cod in the field</string>
     <string name="Verificationerror">Verificación fallida. Por favor intenta de nuevo.</string>
     <string name="Verifing">Verificando …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Pruebe otros servidores antes de eliminar</string>
-    <string name="fix_tips_content">No</string>
+    <string name="fix_tips_content">Si</string>
     <string name="fix_progress_title">Servidores de escaneo</string>
     <string name="fix_progress_content">Puede tomar unos minutos buscar el servidor más rápido para tí, por favor, espere.</string>
     <string name="fix_failed_content">Actualmente no hay servidores disponibles para usted, intente nuevamente más tarde.</string>
