@@ -2,7 +2,7 @@
 <resources>
     <!--荷兰语-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -21,30 +21,30 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">Betaald</string>
-    <string name="GAME">Game</string>
+    <string name="GAME">Spel</string>
     <string name="APP">Applicaties</string>
     <string name="NEW">Nieuw</string>
     <string name="Categories">Categorieën</string>
-    <string name="games">Games</string>
+    <string name="games">Spellen</string>
     <string name="REFRESH">Vernieuwen</string>
     <string name="Unable_to_connect_to_the_network">Geen toegang tot het internet.</string>
-    <string name="Recommended_Game_Mods">Aanbevolen Game Mods</string>
+    <string name="Recommended_Game_Mods">Aanbevolen Spel Mods</string>
     <string name="Hot_Game_Mods">Populaire Game Mods</string>
     <string name="Recommended_App_Mods">Aanbevolen Applicatie Mods</string>
     <string name="Hot_App_Mods">Populaire App Mods</string>
     <string name="Recommended_New_Mods">Aanbevolen Nieuwe Mods</string>
     <string name="Last_Update_Mods">Recentste Updates</string>
-    <string name="SearchHint">Zoek..</string>
-    <string name="Homeweb">Officiële Website</string>
+    <string name="SearchHint">Zoek</string>
+    <string name="Homeweb">Thuis</string>
     <string name="Management">Beheer</string>
     <string name="Settings">Instellingen</string>
     <string name="Feedback">Feedback</string>
     <string name="Translation">Vertaling</string>
     <string name="Share">Delen</string>
-    <string name="Checkforupdate">Controleren op Updates</string>
+    <string name="Checkforupdate">Controleren op updates</string>
     <string name="FollowusonTwitter">Volg ons op Twitter</string>
     <string name="FollowusonFacebook">Volg ons op Facebook</string>
-    <string name="settings_network_remind">Mobile Network Alert</string>
+    <string name="settings_network_remind">mobiel netwerk Waarschuwing</string>
     <string name="settings_auto_install">Automatisch Installeren</string>
     <string name="Download_Directory">Download Directory</string>
     <string name="settings_other">Overige</string>
