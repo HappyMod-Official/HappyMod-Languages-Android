@@ -22,35 +22,35 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Dibayar</string>
-    <string name="GAME">PERMAINAN</string>
+    <string name="GAME">Game</string>
     <string name="APP">Aplikasi</string>
     <string name="NEW">BARU</string>
     <string name="Categories">Kategori</string>
-    <string name="games">Pertandingan</string>
-    <string name="REFRESH">Menyegarkan</string>
-    <string name="Unable_to_connect_to_the_network">Tidak terkoneksi ke internet</string>
-    <string name="Recommended_Game_Mods">Permainan Mod Direkomendasi</string>
-    <string name="Hot_Game_Mods">Permainan Mod Paling Panas</string>
-    <string name="Recommended_App_Mods">Mod Aplikasi Yang Disarankan</string>
-    <string name="Hot_App_Mods">Mod Aplikasi Panas</string>
-    <string name="Recommended_New_Mods">Mod Baru yang Disarankan</string>
+    <string name="games">Permainan</string>
+    <string name="REFRESH">Refresh</string>
+    <string name="Unable_to_connect_to_the_network">Tidak dapat tersambung ke jaringan.</string>
+    <string name="Recommended_Game_Mods">Game Mod yang Direkomendasikan</string>
+    <string name="Hot_Game_Mods">Game Mod Populer</string>
+    <string name="Recommended_App_Mods">Aplikasi Mod yang Direkomendasikan</string>
+    <string name="Hot_App_Mods">Aplikasi Mod Populer</string>
+    <string name="Recommended_New_Mods">Mod Baru yang Direkomendasikan</string>
     <string name="Last_Update_Mods">Pembaruan Terbaru</string>
     <string name="SearchHint">Cari</string>
     <!-- 侧滑-->
     <string name="Homeweb">Beranda</string>
-    <string name="Management">Pengelolaan</string>
+    <string name="Management">Kelola Unduhan</string>
     <string name="Settings">Pengaturan</string>
     <string name="Feedback">Umpan balik</string>
     <string name="Translation">Terjemahan</string>
     <string name="Share">Bagikan</string>
-    <string name="Checkforupdate">Memeriksa Pembaruan</string>
-    <string name="FollowusonTwitter">Ikuti kami di Twitter</string>
-    <string name="FollowusonFacebook">Ikuti kami di Facebook</string>
+    <string name="Checkforupdate">Memeriksa pembaruan</string>
+    <string name="FollowusonTwitter">Follow kami di Twitter</string>
+    <string name="FollowusonFacebook">Follow kami di Facebook</string>
     <!--设置页-->
-    <string name="settings_network_remind">Lansiran Jaringan Seluler</string>
+    <string name="settings_network_remind">Peringatan Jaringan Seluler</string>
     <string name="settings_auto_install">Instal secara otomatis</string>
-    <string name="Download_Directory">Unduh Direktori</string>
-    <string name="settings_other">Lain</string>
+    <string name="Download_Directory">Direktori Unduhan</string>
+    <string name="settings_other">Lainnya</string>
     <string name="settings_clear_cache">Bersihkan Cache</string>
     <string name="Clean_up_the_complete">Cache dihapus.</string>
     <!--空数据页-->
@@ -58,28 +58,28 @@
     <!--下载管理页-->
     <string name="Downloads">Unduhan</string>
     <string name="Downloading">Mengunduh</string>
-    <string name="Finished">Jadi</string>
-    <string name="No_Download">Tidak Ada File.</string>
+    <string name="Finished">Selesai</string>
+    <string name="No_Download">File Tidak Ditemukan.</string>
     <string name="Pause">Jeda</string>
     <string name="Waiting_in_queue">Menunggu dalam antrian</string>
-    <string name="Completed">Lengkap</string>
-    <string name="UnZiping">Mengekstraksi</string>
-    <string name="UnZip_succeed">Ekstraksi Selesai</string>
-    <string name="Rate">Menilai</string>
+    <string name="Completed">Selesai</string>
+    <string name="UnZiping">Mengekstrak</string>
+    <string name="UnZip_succeed">Selesai Mengekstrak</string>
+    <string name="Rate">Nilai</string>
     <string name="Rated">Dinilai</string>
     <string name="Version">Versi</string>
-    <string name="Ratingsreviews">Peringkat &amp; Ulasan</string>
-    <string name="Tryitlater">Coba kembali nanti</string>
+    <string name="Ratingsreviews">Penilaian &amp; Ulasan</string>
+    <string name="Tryitlater">Coba lagi nanti</string>
     <string name="Serviceisbusy">Menghubungkan …</string>
     <!-- 下载删除的文字 -->
-    <string name="Notice">Melihat</string>
+    <string name="Notice">Pemberitahuan</string>
     <string name="deletethistask">Hapus file ini</string>
-    <string name="Cancel">Membatalkan</string>
-    <string name="Delete">Menghapus</string>
-    <string name="Whydeletethisdownload">Mengapa menghapus unduhan ini\?</string>
+    <string name="Cancel">Batal</string>
+    <string name="Delete">Hapus</string>
+    <string name="Whydeletethisdownload">Kenapa unduhan ini dihapus\?</string>
     <string name="NotwhatIwant">Bukan yang saya inginkan</string>
-    <string name="Downloadfailed">Pengunduhan gagal</string>
-    <string name="Downloadistooslow">Pengunduhan terlalu lambat</string>
+    <string name="Downloadfailed">Unduhan gagal</string>
+    <string name="Downloadistooslow">Unduhan terlalu lambat</string>
     <!--APP详情页-->
     <string name="Mods">Mod</string>
     <string name="Original">Asli</string>
@@ -88,22 +88,22 @@
     <string name="Downloadobb">Unduh (APK+OBB)</string>
     <string name="Downloaddata">Unduh (APK+DATA)</string>
     <string name="Downloadboundle">Unduh BUNDLE</string>
-    <string name="Downloaded">Diunduh</string>
-    <string name="Install">Memasang</string>
+    <string name="Downloaded">Terunduh</string>
+    <string name="Install">Pasang</string>
     <string name="Connecting">Menghubungkan …</string>
-    <string name="readmore">Baca lebih lajut</string>
-    <string name="modfeature">Info mod:</string>
+    <string name="readmore">Baca selengkapnya</string>
+    <string name="modfeature">Info Mod:</string>
     <string name="Moreversion">Versi lainnya</string>
     <string name="Recommend">Disarankan</string>
     <string name="Recommendmod">Mod yang direkomendasikan</string>
     <string name="Moremods">Versi Terbaru</string>
     <!--评分-->
-    <string name="Submit">Menyerahkan</string>
-    <string name="Hated_it">Membencinya!</string>
-    <string name="Disliked_it">Tidak menyukainya.</string>
+    <string name="Submit">Kirim</string>
+    <string name="Hated_it">Saya benci ini!</string>
+    <string name="Disliked_it">Saya tidak suka ini.</string>
     <string name="Its_ok">Tidak apa-apa.</string>
-    <string name="Liked_it">Menyukainya.</string>
-    <string name="Loved_it">Menyukainya</string>
+    <string name="Liked_it">Saya suka ini.</string>
+    <string name="Loved_it">Saya benar-benar suka ini!</string>
     <!--分享-->
     <string name="share_happymod">Bagikan \'HappyMod\' via</string>
     <string name="share_subject">Dapatkan HappyMod</string>
@@ -111,10 +111,10 @@
     <!--修改路径-->
     <string name="pref_location">Lokasi penyimpanan</string>
     <!--update -->
-    <string name="force_des">100% Mod Yang Bekerja</string>
+    <string name="force_des">100% Mod Bekerja</string>
     <string name="nvisrti">Versi baru siap dipasang.</string>
     <string name="OPEN">BUKA</string>
-    <string name="OK">baik</string>
+    <string name="OK">Oke</string>
     <string name="Loading">Memuat…</string>
     <string name="updata_tip">Anda menggunakan versi stabil terbaru dari HappyMod</string>
     <string name="xzzb">Silakan unduh HappyMod resmi.</string>
