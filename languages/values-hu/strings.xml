@@ -21,16 +21,16 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Fizetős</string>
+    <string name="Paid">Fizetett</string>
     <string name="GAME">Játék</string>
     <string name="APP">Alkalmazás</string>
     <string name="NEW">Új</string>
     <string name="Categories">Kategóriák</string>
     <string name="games">Játékok</string>
     <string name="REFRESH">Frissítés</string>
-    <string name="Unable_to_connect_to_the_network">Nem lehet hozzáférni az internethez.</string>
-    <string name="Recommended_Game_Mods">Ajánlott játék modok</string>
-    <string name="Hot_Game_Mods">Népszerű játék modok</string>
+    <string name="Unable_to_connect_to_the_network">Nem lehet csatlakozni a hálózathoz.</string>
+    <string name="Recommended_Game_Mods">Ajánlott játékmódok</string>
+    <string name="Hot_Game_Mods">Forró játékmódok</string>
     <string name="Recommended_App_Mods">Ajánlott alkalmazás modok</string>
     <string name="Hot_App_Mods">Népszerű alkalmazás modok</string>
     <string name="Recommended_New_Mods">Ajánlott új modok</string>
