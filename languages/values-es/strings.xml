@@ -26,19 +26,19 @@
     <string name="APP">Aplicación</string>
     <string name="NEW">NUEVO</string>
     <string name="Categories">Categorías</string>
-    <string name="games">Juego</string>
-    <string name="REFRESH">Refrescar</string>
+    <string name="games">Juegos</string>
+    <string name="REFRESH">Volver a cargar</string>
     <string name="Unable_to_connect_to_the_network">No se pudo conectar a internet</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
-    <string name="Hot_Game_Mods">Hot juegos de mods</string>
+    <string name="Hot_Game_Mods">Mods de juegos calientes</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
-    <string name="Hot_App_Mods">Nececitan actualizar todo cuando se actulizen</string>
+    <string name="Hot_App_Mods">Mods de apk calientes</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
-    <string name="SearchHint">Buscador</string>
+    <string name="SearchHint">Buscar</string>
     <!-- slide-->
-    <string name="Homeweb">Casa</string>
-    <string name="Management">Gestión</string>
+    <string name="Homeweb">Inicio</string>
+    <string name="Management">Administrar</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
     <string name="Translation">Traducción</string>
@@ -58,8 +58,8 @@
     <!--download manage-->
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
-    <string name="Finished">Finalizados</string>
-    <string name="No_Download">No descargado</string>
+    <string name="Finished">Finalizado</string>
+    <string name="No_Download">No se encontro el archivo</string>
     <string name="Pause">Pausa</string>
     <string name="Waiting_in_queue">Esperando en la cola</string>
     <string name="Completed">Terminado</string>
@@ -81,7 +81,7 @@
     <string name="Downloadfailed">La Descarga ha fallado</string>
     <string name="Downloadistooslow">La descarga es muy lenta</string>
     <!--APP details-->
-    <string name="Mods">Mods/Hacks</string>
+    <string name="Mods">Hacks</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Versión previa</string>
     <string name="Download">Descargar</string>
@@ -105,13 +105,13 @@
     <string name="Liked_it">Me gusta.</string>
     <string name="Loved_it">¡Lo amo!</string>
     <!--share-->
-    <string name="share_happymod">"Comparte ‘HappyMod’ a través de "</string>
+    <string name="share_happymod">Comparte ‘HappyMod’ a través de</string>
     <string name="share_subject">Obtener HappyMod</string>
     <string name="share_text">Descarga mods 100% funcionales con @HappyMod\nhttps://www.happymod.com/</string>
     <!--path-->
     <string name="pref_location">Ubicación del almacenamiento</string>
     <!--update -->
-    <string name="force_des">100% Mods funcionales</string>
+    <string name="force_des">Mods 100% funcionales</string>
     <string name="nvisrti">Una nueva versión está lista para instalar.</string>
     <string name="OPEN">ABIERTO</string>
     <string name="OK">DE ACUERDO</string>
@@ -137,8 +137,8 @@
     <string name="s_New">Nuevos</string>
     <string name="apps">Aplicaciones</string>
     <!-- big file -->
-    <string name="mergering">Instalación final</string>
-    <string name="mergerwait">Instalación final (Se necesitan 1-2 minutos)</string>
+    <string name="mergering">Proceso final</string>
+    <string name="mergerwait">Proceso final (Se necesitan 1-2 minutos)</string>
     <!-- verify -->
     <string name="Startverification">Iniciar la verificación</string>
     <string name="verificationShangXian">Ups! Has alcanzado el límite de descargas diarias, inténtelo de nuevo después de X horas.</string>
@@ -150,25 +150,25 @@
     <string name="ggdownloading">Los anuncios están cargando, porfavor, espere y mantenga HappyMod abierto.</string>
     <string name="verificaing">Verificando, por favor espere.</string>
     <!-- comments-->
-    <string name="Removeads">Elimina anuncios</string>
+    <string name="Removeads">Eliminar anuncios</string>
     <string name="Paidforfree">Gratis</string>
-    <string name="Unlimitedmoney">Dinero ilimitado</string>
+    <string name="Unlimitedmoney">Plata ilimitado</string>
     <string name="Freepurchase">Compra gratis</string>
     <string name="Freeshopping">Compras gratis</string>
     <string name="Unlocked">Desbloqueado</string>
     <string name="Patched">Parcheado</string>
     <string name="Premium">Versión Premium</string>
     <string name="Pro">Version Pro</string>
-    <string name="ModLite">Versión lijera/lite</string>
+    <string name="ModLite">Mod lite (no completo)</string>
     <string name="Subscribed">Suscribirse</string>
     <string name="Prime">Principal</string>
     <string name="Plus">Versión plus</string>
     <string name="VIP">VIP</string>
-    <string name="Substratum">Capa inferior</string>
-    <string name="Debloated">Eliminar inútil</string>
+    <string name="Substratum">Sustrato</string>
+    <string name="Debloated">Debatido</string>
     <string name="Donate">Donacion</string>
     <string name="AOSPcompatible">Compatible con AOSP</string>
-    <string name="Cracked">Crackeado</string>
+    <string name="Cracked">Agrietado</string>
     <string name="NoAds">Sin anuncios</string>
     <string name="Infinite">Infinito</string>
     <string name="Endless">Sin final</string>
@@ -216,7 +216,7 @@
     <string name="Resetpassword">Restablecer la contraseña</string>
     <string name="NewPassword">Nueva contraseña</string>
     <string name="Enterthepasswordagain">Confirmar la contraseña</string>
-    <string name="signuplimitdes">Por que a netflix fala em ingles quero que fale em español</string>
+    <string name="signuplimitdes">Su dispositivo ha alcanzado el número máximo de cuentas registradas. Seleccione la (s) cuenta (s) a continuación para iniciar sesión.</string>
     <string name="Register">Registro</string>
     <string name="eyun">Ingrese su nombre de usuario</string>
     <string name="eypsw">Ingresa tu contraseña</string>
@@ -251,7 +251,7 @@
     <string name="isthiswork">¿Funciona?</string>
     <string name="edit">Editar</string>
     <string name="APKZippyshareurl">APK
-\nZippyshare/Mediafire URL:</string>
+\nZippyshare/Mediafire URL</string>
     <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire URL: (opcional)</string>
     <string name="Youarereupload">Estás subiendo:</string>
     <string name="Upload">Subir</string>
@@ -268,12 +268,12 @@
     <string name="RecommendMods">Recomendar mods</string>
     <string name="requestdetailserror">(50-4000 caracteres)</string>
     <string name="Changetheimage">Cambia la imagen &gt;&gt;</string>
-    <string name="Typethecodeinthebox">Type the cod in the field</string>
+    <string name="Typethecodeinthebox">Escriba el codigo en el campo</string>
     <string name="Verificationerror">Verificación fallida. Por favor intenta de nuevo.</string>
     <string name="Verifing">Verificando …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Pruebe otros servidores antes de eliminar</string>
-    <string name="fix_tips_content">Si</string>
+    <string name="fix_tips_content">Quiere volver a intentar la deacarga en otro servidor\?</string>
     <string name="fix_progress_title">Servidores de escaneo</string>
     <string name="fix_progress_content">Puede tomar unos minutos buscar el servidor más rápido para tí, por favor, espere.</string>
     <string name="fix_failed_content">Actualmente no hay servidores disponibles para usted, intente nuevamente más tarde.</string>
@@ -393,7 +393,7 @@
     <string name="pleaseentergoogleaddress">Ingrese el ID de la aplicación o la URL en Google Play.</string>
     <string name="thisposthasbeendeleted">Esta publicación ha sido eliminada.</string>
     <string name="add">Añadir</string>
-    <string name="oagputc">O https://weblate.5gtall.com/translate/happymod/-/es/\?q=state%3A%3Ctranslated&amp;offset=9agregue la URL de Google Play para continuar</string>
+    <string name="oagputc">O agregue la URL de Google Play para continuar</string>
     <string name="description">Descripción:</string>
     <string name="uploadbanner">Subir banner (720 * 406)</string>
     <string name="noedituploadtips">No puede enviarlo sin realizar ningún cambio.</string>
