@@ -288,7 +288,7 @@
     <string name="myreply">Mis respuestas</string>
     <string name="Post">Enviar</string>
     <string name="addavideo">Agrega un video</string>
-    <string name="enterthevideourlhere">Ingrese la URL del video de Youtube aquí.</string>
+    <string name="enterthevideourlhere">Porfavor ingrese la URL del video de Youtube aquí.</string>
     <string name="onlysupportyoutube">Solo se admiten videos de YouTube</string>
     <string name="searchorcreate">Buscar o crear</string>
     <string name="hashtags">Hashtags de historia</string>
