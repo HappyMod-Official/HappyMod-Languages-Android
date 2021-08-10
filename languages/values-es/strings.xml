@@ -22,7 +22,7 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--homepage-->
     <string name="Paid">Con paga gratis</string>
-    <string name="GAME">Juegos</string>
+    <string name="GAME">Juego</string>
     <string name="APP">Aplicación</string>
     <string name="NEW">NUEVO</string>
     <string name="Categories">Categorías</string>
@@ -59,7 +59,7 @@
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
     <string name="Finished">Finalizado</string>
-    <string name="No_Download">No se encontro el archivo</string>
+    <string name="No_Download">No se encontró el archivo</string>
     <string name="Pause">Pausa</string>
     <string name="Waiting_in_queue">Esperando en la cola</string>
     <string name="Completed">Terminado</string>
@@ -151,8 +151,8 @@
     <string name="verificaing">Verificando, por favor espere.</string>
     <!-- comments-->
     <string name="Removeads">Eliminar anuncios</string>
-    <string name="Paidforfree">Gratis</string>
-    <string name="Unlimitedmoney">Plata ilimitado</string>
+    <string name="Paidforfree">Pagado gratis</string>
+    <string name="Unlimitedmoney">Dinero ilimitado</string>
     <string name="Freepurchase">Compra gratis</string>
     <string name="Freeshopping">Compras gratis</string>
     <string name="Unlocked">Desbloqueado</string>
@@ -242,7 +242,7 @@
     <string name="Myuploads">Mis subidas</string>
     <string name="Updated">Actualizado</string>
     <string name="Comingsoon">Próximamente</string>
-    <string name="searchappyouwanttorequest">Zooba</string>
+    <string name="searchappyouwanttorequest">Busque la aplicación que desea solicitar:</string>
     <string name="Addupload">Añadir carga</string>
     <string name="requestdetailhint">Muéstranos más sobre su solicitud. (50 caracteres como mínimo)</string>
     <string name="requesterror">Envío fallido, por favor intente de nuevo más tarde.</string>
@@ -335,7 +335,7 @@
     <string name="crash_dialog_message">Lo sentimos, excepción de la aplicación, envíe su informe de error por correo electrónico.</string>
     <string name="crash_dialog_feedback">Informar errores</string>
     <string name="crash_dialog_restart">Reiniciar</string>
-    <string name="init_fail">Error de inicialización, utilice VPN o cambie a otras redes.</string>
+    <string name="init_fail">Inicialización fallida, utilice un VPN o cambie a otras redes.</string>
     <string name="error_file_des">Este archivo ha sido eliminado y se está volviendo a descargar ahora.</string>
     <string name="sdpermission">Necesitamos acceder a su almacenamiento externo. Asegúrese de otorgar el permiso sugerido.</string>
     <string name="Night_Mode">Modo oscuro</string>
@@ -408,13 +408,13 @@
     <string name="votedandfail">Ya ha revisado, consulte la lista "Mis revisiones".</string>
     <string name="fastdownloader">Descarga más rápida</string>
     <string name="usehtgetspeed">Utilice HyperTorrent para obtener más del 200% de velocidad.</string>
-    <string name="cleanfdft">limpio &amp; descargador rápido de torrents</string>
+    <string name="cleanfdft">Descargador de torrents limpio y rápido</string>
     <string name="fasterspeed">Velocidad más rápida</string>
     <string name="speedfordownloading">200% ~ 1,000% + velocidad para descargar archivos grandes de HappyMod.</string>
     <string name="nolimits">Sin límites</string>
     <string name="nslnfsl">Sin limite de velocidad. Sin límite de tamaño de archivo.</string>
     <string name="Clean">Limpio</string>
-    <string name="Cdnoadfree">Diseño limpio, sin publicidad y amp; ¡100% gratis!</string>
+    <string name="Cdnoadfree">Diseño limpio, sin publicidad y 100% gratis!</string>
     <string name="wrhtdbf">¿Cómo utilizar HyperTorrent\?</string>
     <string name="nothanks">No gracias</string>
     <string name="Checkthenetwork">Verifica tu conexión</string>
@@ -426,6 +426,6 @@
 \n
 \nTenga paciencia e intente ver los anuncios completos para completar la donación.
 \n
-\n¡Gracia!</string>
-    <string name="viewstepdeti">Ver detalles del paso</string>
+\n¡Gracias!</string>
+    <string name="viewstepdeti">Ver detalles los pasos</string>
 </resources>
