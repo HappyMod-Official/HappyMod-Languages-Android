@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">Happymod</string>
-    <string name="Homecom">هاهاهاخا</string>
+    <string name="app_name">هابي مود</string>
+    <string name="Homecom">هابي مود</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
