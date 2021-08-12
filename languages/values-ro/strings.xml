@@ -38,7 +38,7 @@
     <string name="Last_Update_Mods">Ultimele actualizări</string>
     <string name="SearchHint">Căutare</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Site oficial</string>
+    <string name="Homeweb">Acasa</string>
     <string name="Management">Administrare</string>
     <string name="Settings">Setări</string>
     <string name="Feedback">Părere</string>
@@ -213,7 +213,7 @@
     <string name="selectusername">Selectați numele de utilizator</string>
     <string name="reselpass_desone">Introduceți numele de utilizator al contului pentru a reseta parola. Aveți probleme cu resetarea parolei<u>contact us</u>.</string>
     <string name="reselpass_destwo">Introduceți adresa de e-mail sau numărul de telefon. Aveți probleme cu resetarea parolei<u>contactează-ne</u>.</string>
-    <string name="forgetgosingup">Nu-mi amintesc niciuna dintre ele\? Vă rog<u>înregistrează un cont nou</u>.</string>
+    <string name="forgetgosingup">Nu-mi amintesc niciuna dintre.Poti sa creezi un cont nou aici.</string>
     <string name="Resetpassword">Reseteaza parola</string>
     <string name="NewPassword">Parolă Nouă</string>
     <string name="Enterthepasswordagain">Confirmați parola</string>
