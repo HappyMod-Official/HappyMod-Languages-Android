@@ -59,7 +59,7 @@
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
     <string name="Finished">Finalizado</string>
-    <string name="No_Download">No se encontró el archivo</string>
+    <string name="No_Download">Archivo no encontrado</string>
     <string name="Pause">Pausa</string>
     <string name="Waiting_in_queue">Esperando en la cola</string>
     <string name="Completed">Terminado</string>
@@ -138,7 +138,7 @@
     <string name="apps">Aplicaciones</string>
     <!-- big file -->
     <string name="mergering">Proceso final</string>
-    <string name="mergerwait">Proceso final (Se necesitan 1-2 minutos)</string>
+    <string name="mergerwait">Proceso final (Se necesitan de uno a dos minutos)</string>
     <!-- verify -->
     <string name="Startverification">Iniciar la verificación</string>
     <string name="verificationShangXian">Ups! Has alcanzado el límite de descargas diarias, inténtelo de nuevo después de X horas.</string>
@@ -288,7 +288,7 @@
     <string name="myreply">Mis respuestas</string>
     <string name="Post">Enviar</string>
     <string name="addavideo">Agrega un video</string>
-    <string name="enterthevideourlhere">Porfavor ingrese la URL del video de Youtube aquí.</string>
+    <string name="enterthevideourlhere">Porfavor ponga la URL del video de Youtube aquí.</string>
     <string name="onlysupportyoutube">Solo se admiten videos de YouTube</string>
     <string name="searchorcreate">Buscar o crear</string>
     <string name="hashtags">Hashtags de historia</string>
@@ -331,11 +331,11 @@
     <string name="installplaywitouthti">Juego instantáneo sin tener que instalar</string>
     <!--全局rty-->
     <string name="crash_dialog_title">Ups..</string>
-    <string name="crash_toast_message">Lo sentimos, la excepción de la aplicación se cerrará, envíe su informe de error por correo electrónico.</string>
+    <string name="crash_toast_message">Lo sentimos, la excepción de la aplicación se cerrará, envíe su informe de error por correo electrónico. :(</string>
     <string name="crash_dialog_message">Lo sentimos, excepción de la aplicación, envíe su informe de error por correo electrónico.</string>
     <string name="crash_dialog_feedback">Informar errores</string>
     <string name="crash_dialog_restart">Reiniciar</string>
-    <string name="init_fail">Inicialización fallida, utilice un VPN o cambie a otras redes.</string>
+    <string name="init_fail">Inicialización fallida, utilice una VPN o cambie a otras redes.</string>
     <string name="error_file_des">Este archivo ha sido eliminado y se está volviendo a descargar ahora.</string>
     <string name="sdpermission">Necesitamos acceder a su almacenamiento externo. Asegúrese de otorgar el permiso sugerido.</string>
     <string name="Night_Mode">Modo oscuro</string>
@@ -426,6 +426,6 @@
 \n
 \nTenga paciencia e intente ver los anuncios completos para completar la donación.
 \n
-\n¡Gracias!</string>
+\n¡Gracias! :)</string>
     <string name="viewstepdeti">Ver detalles los pasos</string>
 </resources>
