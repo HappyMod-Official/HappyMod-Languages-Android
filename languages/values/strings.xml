@@ -95,7 +95,7 @@
     <string name="Moreversion">More Versions</string>
     <string name="Recommend">Recommend</string>
     <string name="Recommendmod">Recommended Mod</string>
-    <string name="Moremods">More mods</string>
+    <string name="Moremods">" More Mods "</string>
     <!--评分-->
     <string name="Submit">Submit</string>
     <string name="Hated_it">Hated it!</string>
