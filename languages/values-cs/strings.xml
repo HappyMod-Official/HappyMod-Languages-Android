@@ -96,7 +96,7 @@
     <string name="Moreversion">Další verze</string>
     <string name="Recommend">Doporučeno</string>
     <string name="Recommendmod">Doporučený mod</string>
-    <string name="Moremods">Poslední verze</string>
+    <string name="Moremods">" Poslední verze "</string>
     <!--评分-->
     <string name="Submit">Odeslat</string>
     <string name="Hated_it">Nenávidět to!</string>
@@ -115,7 +115,7 @@
     <string name="nvisrti">Nová verze je připravena k instalaci.</string>
     <string name="OPEN">Otevřít</string>
     <string name="OK">Dobře</string>
-    <string name="Loading">Načítání dat ...</string>
+    <string name="Loading">Načítání dat …</string>
     <string name="updata_tip">Používáte nejnovější verzi programu HappyMod</string>
     <string name="xzzb">Prosím stáhněte si oficiální HappyMod.</string>
     <string name="Continue">Pokračujte</string>
@@ -174,7 +174,7 @@
     <string name="Endless">Nekonečno</string>
     <string name="Invincible">Neporazitelný</string>
     <string name="Unlimitedhints">Nekonečná výzva</string>
-    <string name="Megamod">Více trhlin</string>
+    <string name="Megamod">Více modů</string>
     <string name="Full">Plná verze</string>
     <!-- 注册登录 -->
     <string name="Username">Uživatelské jméno</string>
