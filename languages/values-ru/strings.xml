@@ -31,7 +31,7 @@
     <string name="Unable_to_connect_to_the_network">Не удалось получить доступ к интернету.</string>
     <string name="Recommended_Game_Mods">Рекомендуемые игровые моды</string>
     <string name="Hot_Game_Mods">Популярные игровые моды</string>
-    <string name="Recommended_App_Mods">Рекомендуемые модифицированные приложения</string>
+    <string name="Recommended_App_Mods">Рекомендуемые моды на приложения</string>
     <string name="Hot_App_Mods">Горячие моды приложений</string>
     <string name="Recommended_New_Mods">Рекомендуемые новые моды</string>
     <string name="Last_Update_Mods">Последние обновления</string>
