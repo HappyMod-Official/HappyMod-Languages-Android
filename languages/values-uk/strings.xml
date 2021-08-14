@@ -56,7 +56,7 @@
     <string name="Recommend">Рекомендувати</string>
     <string name="Recommendmod">Рекомендований Мод</string>
     <string name="Moremods">Останні Версії</string>
-    <string name="Hated_it">Ненавиджу!</string>
+    <string name="Hated_it">Ненавиджу !</string>
     <string name="Disliked_it">Не сподобалося.</string>
     <string name="Its_ok">Непогано.</string>
     <string name="Liked_it">Сподобалось.</string>
@@ -196,4 +196,5 @@
     <string name="reselpass_destwo">Будь ласка, введіть електронну пошту або номер телефону. Якщо у Вас виникли якісь проблеми з скиданням паролю, <u>зв\'яжіться з нами</u>.</string>
     <string name="Downloadboundle">«оудплту7283623</string>
     <string name="viewstepdeti">Переглянути деталі кроку</string>
+    <string name="Invincible">Безсмертний</string>
 </resources>
