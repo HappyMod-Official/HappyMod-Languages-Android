@@ -29,7 +29,7 @@
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisieren</string>
     <string name="Unable_to_connect_to_the_network">Es konnte keine Verbindung zum Netzwerk hergestellt werden.</string>
-    <string name="Recommended_Game_Mods">Empfohlene Spiel Mods</string>
+    <string name="Recommended_Game_Mods">Empfohlene Spiel-Mods</string>
     <string name="Hot_Game_Mods">Beliebte Spiel mods</string>
     <string name="Recommended_App_Mods">Empfohlene App mods</string>
     <string name="Hot_App_Mods">Beliebte App Mods</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Mehr Versionen</string>
     <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
-    <string name="Moremods">Mehr Mods</string>
+    <string name="Moremods">" Mehr Mods "</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
     <string name="Hated_it">Ich habe es gehasst!</string>
@@ -233,7 +233,7 @@
     <string name="Myposts">meine Posts</string>
     <string name="passowrduploadok">das Passwort wurde erfolgreich geändert</string>
     <string name="logout">Ausloggen</string>
-    <string name="passwordsame">Die beiden von Ihnen eingegebenen Kennwörter sind verschieden</string>
+    <string name="passwordsame">Die von Ihnen eingegebenen Kennwörter stimmen nicht überein</string>
     <string name="PopularComments">Beliebte Kommentare</string>
     <!--MyRequests-->
     <string name="Request">Anfordern</string>
