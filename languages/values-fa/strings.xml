@@ -70,7 +70,7 @@
     <string name="Download">دانلود</string>
     <string name="Downloadobb">دانلود (APK+OBB)</string>
     <string name="readmore">مشاهده بیشتر</string>
-    <string name="Moremods">آخرین نسخه ها</string>
+    <string name="Moremods">" مود های بیشتر "</string>
     <string name="Submit">ارسال</string>
     <string name="Its_ok">خوبه</string>
     <string name="Liked_it">آن را دوست دارم</string>
@@ -264,8 +264,8 @@
     <string name="ToadyRecommend">امروز توصیه می شود</string>
     <string name="hotmods">مود های برتر</string>
     <string name="addapost">یک پست اضافه کنید</string>
-    <string name="launch_des">یافتن مود هایی که ۱۰۰٪ کار می کنند
-\nتوسط کاربران آپلود و تایید شده</string>
+    <string name="launch_des">مود هایی که ۱۰۰٪ کار می کنند را پیدا کنید
+\nتوسط کاربران آپلود و تایید شده است</string>
     <string name="requestamod">درخواست یک مود</string>
     <string name="uploadamod">آپلود یک مود</string>
     <string name="Installing">در حال نصب</string>
@@ -313,7 +313,7 @@
     <string name="fasterspeed">سرعت سریعتر</string>
     <string name="speedfordownloading">از ۲۰۰٪ تا ۱۰۰۰٪ سرعت بیشتر برای دانلود فایل های بزرگ از هپی مود</string>
     <string name="nolimits">بدون محدودیت</string>
-    <string name="Cdnoadfree">طراحی تمیز و بدون تبلیغ و ۱۰۰٪ رایگان</string>
+    <string name="Cdnoadfree">طراحی تمیز و بدون تبلیغات و ۱۰۰٪ رایگان</string>
     <string name="Clean">تمیز</string>
     <string name="wrhtdbf">چگونه از HYPERTORRENT استفاده کنیم؟</string>
     <string name="nothanks">نه ممنون</string>
