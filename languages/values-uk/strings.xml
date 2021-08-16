@@ -56,7 +56,7 @@
     <string name="Recommend">Рекомендувати</string>
     <string name="Recommendmod">Рекомендований Мод</string>
     <string name="Moremods">Останні Версії</string>
-    <string name="Hated_it">Ненавиджу !</string>
+    <string name="Hated_it">Ненавидіти!</string>
     <string name="Disliked_it">Не сподобалося.</string>
     <string name="Its_ok">Непогано.</string>
     <string name="Liked_it">Сподобалось.</string>
@@ -165,8 +165,8 @@
     <string name="Subscribed">Підписаний</string>
     <string name="NoAds">Без Реклами</string>
     <string name="Infinite">Безкінечно</string>
-    <string name="passwordtip">Лише букви A–Z, a–z, цифри（без пробілів чи інших спецсимволів). 6–8 символів.</string>
-    <string name="Usernametip">"Лише букви a–z, цифри, @ . – _  (без пробілів або інших спецсимволів). 4–50 символів."</string>
+    <string name="passwordtip">Тільки букви A–Z, a–z, цифри (без пробілів і спеціальних символів). 6–8 символів.</string>
+    <string name="Usernametip">Лише букви a–z, цифри та символи: @ . – будь ласка (без пробілів та інших спеціальних символів). 4–50 символів.</string>
     <string name="app_name">HappyMod</string>
     <string name="emailtip">Введіть дійсну електронну пошту.</string>
     <string name="loginwithaccount">Або ввійдіть за допомогою ім\'я користувача</string>
@@ -196,5 +196,8 @@
     <string name="reselpass_destwo">Будь ласка, введіть електронну пошту або номер телефону. Якщо у Вас виникли якісь проблеми з скиданням паролю, <u>зв\'яжіться з нами</u>.</string>
     <string name="Downloadboundle">«оудплту7283623</string>
     <string name="viewstepdeti">Переглянути деталі кроку</string>
-    <string name="Invincible">Безсмертний</string>
+    <string name="Invincible">Непереможною</string>
+    <string name="Substratum">Субстрат</string>
+    <string name="Debloated">Деблокований</string>
+    <string name="AOSPcompatible">Сумісний із AOSP</string>
 </resources>
