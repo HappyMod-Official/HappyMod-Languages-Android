@@ -3,7 +3,7 @@
     <!--法语-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-    <string name="facebook_app_id"></string>
+    <string name="facebook_app_id"/>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -94,7 +94,7 @@
     <string name="Connecting">Connexion…</string>
     <string name="readmore">Lire la suite</string>
     <string name="modfeature">Mod info:</string>
-    <string name="Moreversion">Plus de version(s)</string>
+    <string name="Moreversion">Plus de Versions</string>
     <string name="Recommend">Recommander</string>
     <string name="Recommendmod">Mod recommandé</string>
     <string name="Moremods">Nouvelles versions</string>
