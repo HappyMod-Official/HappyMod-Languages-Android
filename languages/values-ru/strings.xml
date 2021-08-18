@@ -47,7 +47,7 @@
     <string name="FollowusonTwitter">Следите за нами в Твиттере</string>
     <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
-    <string name="settings_network_remind">Оповещение об использовании мобильной сети</string>
+    <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
     <string name="settings_auto_install">Автоматическая устанановка</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другое</string>
