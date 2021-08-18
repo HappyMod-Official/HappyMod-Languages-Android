@@ -29,14 +29,14 @@
     <string name="games">Oyunlar</string>
     <string name="REFRESH">Yenile</string>
     <string name="Unable_to_connect_to_the_network">İnternete erişilemiyor.</string>
-    <string name="Recommended_Game_Mods">Araba oyunu</string>
-    <string name="Hot_Game_Mods">Oyunlar için popüler modlar</string>
+    <string name="Recommended_Game_Mods">Önerilen Oyun Modları</string>
+    <string name="Hot_Game_Mods">Popüler Oyun Modları</string>
     <string name="Recommended_App_Mods">Önerilen Uygulama Modları</string>
     <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
     <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
     <string name="Last_Update_Mods">En son güncellemeler</string>
     <string name="SearchHint">Ara...</string>
-    <string name="Homeweb">Resmi internet sitesi</string>
+    <string name="Homeweb">Resmî internet sitesi</string>
     <string name="Management">Yönetim</string>
     <string name="Settings">Ayarlar</string>
     <string name="Feedback">Geri Bildirim</string>
@@ -236,7 +236,7 @@
     <string name="isthiswork">Çalışıyor mu?</string>
     <string name="edit">Düzenle</string>
     <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL\'si:</string>
-    <string name="OBBDataurl">OBB / Veri Zippyshare/Mediafire url\'si: (isteğe bağlı)</string>
+    <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire url\'si: (isteğe bağlı)</string>
     <string name="Youarereupload">Yüklüyorsunuz:</string>
     <string name="Upload">Yükle</string>
     <string name="Uploadfail">Yükleme başarısız.</string>
@@ -256,7 +256,7 @@
     <string name="Verificationerror">Doğrulama başarısız. Lütfen tekrar deneyiniz.</string>
     <string name="Verifing">Doğrulanıyor …</string>
     <string name="fix_tips_title">Silmeden önce diğer sunucuları deneyin.</string>
-    <string name="fix_tips_content">Silmeden önce indirmeyi denemek için başka bir sunucuya bağlanmak ister misiniz?</string>
+    <string name="fix_tips_content">İndirme işleminizi başka bir sunucuda yeniden denemek ister misiniz\?</string>
     <string name="fix_progress_title">Tarama sunucuları</string>
     <string name="fix_progress_content">Sizin için en hızlı sunucuyu bulmak birkaç dakika sürebilir, lütfen birkaç dakika bekleyiniz.</string>
     <string name="fix_failed_content">Şu anda size uygun sunucu yok, lütfen daha sonra tekrar deneyin.</string>
@@ -296,7 +296,7 @@
     <string name="speaksomething">Lütfen en az 20 karakter girin</string>
     <string name="speaktoolong">Karakter sayısı limiti aşıyor, 4000 karaktere kadar girilebilir.</string>
     <string name="tapandholdptodelete">Silmek için resme dokunun ve basılı tutun.</string>
-    <string name="addvideofaild">Video ekleme başarısız oldu！ Lütfen ağınızın Youtube videolarına göz atabildiğinden ve yeniden ekleyebildiğinden emin olun.</string>
+    <string name="addvideofaild">Video ekleme başarısız oldu! Lütfen ağınızın YouTube videolarına göz atabildiğinden ve yeniden ekleyebildiğinden emin olun.</string>
     <string name="Video">Video</string>
     <string name="Hotsearches">Popüler aramalar</string>
     <string name="Hothashtags">Popüler hashtag</string>
@@ -350,7 +350,7 @@
     <string name="toopenitquickntime">Bir dahaki sefere hızlı bir şekilde açmak için lütfen:</string>
     <string name="finditin">X\'de bul</string>
     <string name="needhelp">Yardıma mı ihtiyacınız var?</string>
-    <string name="peoplealsoplaygames">Kullanıcılar bu oyunu da oynadılar:</string>
+    <string name="peoplealsoplaygames">Bu oyunu oynayan insanlar da</string>
     <string name="opencommunitydes">Bir yetişkin veya herhangi bir kötü gönderi bulursanız, lütfen gönderinin sağ üst köşesindeki bildir düğmesine tıklayın, gönderiyi silip ilk kez gönderiyi engelleyeceğiz! Lütfen medeni konuşun!</string>
     <string name="myreviews">İncelemelerim</string>
     <string name="tagthisapp">Bu uygulamayı işaretleyin</string>
@@ -396,6 +396,6 @@
     <string name="Checkthenetwork">Ağı kontrol edin</string>
     <string name="Configuringip">Mevcut IP\'yi sizin için yapılandırma</string>
     <string name="Configuringipfailed">Yapılandırma başarısız oldu, 8 IP\'nin kullanılamadığı tespit edildi, lütfen VPN kullanmayı deneyin.</string>
-    <string name="Donatedes">"HappyMod tamamen ücretsizdir ve biz de sizin kadar reklamlardan nefret ediyoruz！  n  nDaha hızlı ve daha güvenli indirme sağlamak için bağışınıza ihtiyacımız var.  N  nLütfen sabırlı olun ve bağışı tamamlamak için tüm reklamları izlemeye çalışın.  N  nTeşekkür ederim！"</string>
-    <string name="viewstepdeti">Adım ayrıntılarını görüntüleyin</string>
+    <string name="Donatedes">"HappyMod tamamen ücretsizdir ve biz de sizin kadar reklamlardan nefret ediyoruz！  n  nDaha hızlı ve daha güvenli indirme sağlamak için bağışınıza ihtiyacımız var.  N  nLütfen sabırlı olun ve bağışı tamamlamak için tüm reklamları izlemeye çalışın.  N  nTeşekkürler!"</string>
+    <string name="viewstepdeti">Adım ayrıntılarını görüntüleme</string>
 </resources>
