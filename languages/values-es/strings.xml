@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">⁸HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -28,7 +28,7 @@
     <string name="Categories">Categorías</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
-    <string name="Unable_to_connect_to_the_network">No se pudo conectar a internet</string>
+    <string name="Unable_to_connect_to_the_network">No se puede conectar a la red.</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods de juegos calientes</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
@@ -37,7 +37,7 @@
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
     <!-- slide-->
-    <string name="Homeweb">Inicio</string>
+    <string name="Homeweb">No se puede conectar a la red.</string>
     <string name="Management">Administrar</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Más versiones</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">" Más Mods "</string>
+    <string name="Moremods">Más Mods</string>
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">¡Lo odio!</string>
@@ -331,7 +331,7 @@
     <string name="installplaywitouthti">Juego instantáneo sin tener que instalar</string>
     <!--全局rty-->
     <string name="crash_dialog_title">Ups..</string>
-    <string name="crash_toast_message">Lo sentimos, la excepción de la aplicación se cerrará, envíe su informe de error por correo electrónico. :(</string>
+    <string name="crash_toast_message">Lo sentimos, la excepción de la aplicación se cerrará, envíe su informe de error por correo electrónico.</string>
     <string name="crash_dialog_message">Lo sentimos, excepción de la aplicación, envíe su informe de error por correo electrónico.</string>
     <string name="crash_dialog_feedback">Informar errores</string>
     <string name="crash_dialog_restart">Reiniciar</string>
