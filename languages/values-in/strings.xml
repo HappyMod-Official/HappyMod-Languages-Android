@@ -37,8 +37,8 @@
     <string name="Last_Update_Mods">Pembaruan Terbaru</string>
     <string name="SearchHint">Cari</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Saya orang Indonesia</string>
-    <string name="Management">Kelola Unduhan</string>
+    <string name="Homeweb">Rumah</string>
+    <string name="Management">Pengelolaan</string>
     <string name="Settings">Pengaturan</string>
     <string name="Feedback">Umpan balik</string>
     <string name="Translation">Terjemahan</string>
