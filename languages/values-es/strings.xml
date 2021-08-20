@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">⁸HappyMod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -24,7 +24,7 @@
     <string name="Paid">Con paga gratis</string>
     <string name="GAME">Juego</string>
     <string name="APP">Aplicación</string>
-    <string name="NEW">NUEVO</string>
+    <string name="NEW">Nuevo</string>
     <string name="Categories">Categorías</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
@@ -37,7 +37,7 @@
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
     <!-- slide-->
-    <string name="Homeweb">No se puede conectar a la red.</string>
+    <string name="Homeweb">Sitio Oficial</string>
     <string name="Management">Administración</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
@@ -232,7 +232,7 @@
     <string name="Myposts">Mis publicaciones</string>
     <string name="passowrduploadok">Contraseña cambiada con éxito</string>
     <string name="logout">Cerrar sesión</string>
-    <string name="passwordsame">"Las dos contraseñas que ingresaste son  incorrectas."</string>
+    <string name="passwordsame">Las dos contraseñas que ingresaste son incorrectas.</string>
     <string name="PopularComments">Comentarios populares</string>
     <!--my request -->
     <string name="Request">Solicitud</string>
@@ -250,8 +250,7 @@
     <string name="view">Ver</string>
     <string name="isthiswork">¿Funciona?</string>
     <string name="edit">Editar</string>
-    <string name="APKZippyshareurl">APK
-\nZippyshare/Mediafire URL</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL:</string>
     <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire URL: (opcional)</string>
     <string name="Youarereupload">Estás subiendo:</string>
     <string name="Upload">Subir</string>
