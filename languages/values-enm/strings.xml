@@ -28,4 +28,6 @@
     <string name="viewstepdeti">ياسمين اركان</string>
     <string name="Checkforupdate">Check for update</string>
     <string name="FollowusonTwitter">Follow us on Twitter</string>
+    <string name="settings_other">Other</string>
+    <string name="settings_clear_cache">Clear cache</string>
 </resources>
