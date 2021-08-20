@@ -30,15 +30,15 @@
     <string name="REFRESH">Volver a cargar</string>
     <string name="Unable_to_connect_to_the_network">No se puede conectar a la red.</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
-    <string name="Hot_Game_Mods">Mods de juegos calientes</string>
+    <string name="Hot_Game_Mods">Mods de juegos populares</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
-    <string name="Hot_App_Mods">Mods de apk calientes</string>
+    <string name="Hot_App_Mods">Mods de apk del momento</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
     <!-- slide-->
     <string name="Homeweb">No se puede conectar a la red.</string>
-    <string name="Management">Administrar</string>
+    <string name="Management">Administración</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
     <string name="Translation">Traducción</string>
