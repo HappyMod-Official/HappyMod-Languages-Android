@@ -43,7 +43,7 @@
     <string name="Translation">Translation</string>
     <string name="Share">Share</string>
     <string name="Checkforupdate">Check for update</string>
-    <string name="FollowusonTwitter">Follow us on Twitter</string>
+    <string name="FollowusonTwitter">Follow us on Twitter </string>
     <string name="FollowusonFacebook">Follow us on Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobile Network Alert</string>
@@ -95,7 +95,7 @@
     <string name="Moreversion">More Versions</string>
     <string name="Recommend">Recommend</string>
     <string name="Recommendmod">Recommended Mod</string>
-    <string name="Moremods"> More Mods</string>
+    <string name="Moremods">Latest Versions</string>
     <!--评分-->
     <string name="Submit">Submit</string>
     <string name="Hated_it">Hated it!</string>
