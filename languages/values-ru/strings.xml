@@ -96,7 +96,7 @@
     <string name="Moreversion">Больше версий</string>
     <string name="Recommend">Рекомендовать</string>
     <string name="Recommendmod">Рекомендуемый мод</string>
-    <string name="Moremods">Последние версии</string>
+    <string name="Moremods"> Больше модов</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
     <string name="Hated_it">Ненавижу это!</string>
