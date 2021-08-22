@@ -44,7 +44,7 @@
     <string name="Translation">Übersetzung</string>
     <string name="Share">Teilen</string>
     <string name="Checkforupdate">Nach neuen Updates prüfen</string>
-    <string name="FollowusonTwitter">Folge uns auf Twitter</string>
+    <string name="FollowusonTwitter">Folge uns auf Twitter </string>
     <string name="FollowusonFacebook">Folge uns auf Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobiles Netzwerk Warnung</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Mehr Versionen</string>
     <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
-    <string name="Moremods">" Mehr Mods "</string>
+    <string name="Moremods">Mehr Mods</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
     <string name="Hated_it">Ich habe es gehasst!</string>
@@ -420,12 +420,12 @@
     <string name="Checkthenetwork">Überprüfen Sie Ihr Netzwerk</string>
     <string name="Configuringip">Konfigurieren der verfügbaren IP für Sie</string>
     <string name="Configuringipfailed">Konfiguration fehlgeschlagen, 8 IPs wurden als nicht verfügbar erkannt. Bitte versuchen Sie, VPN zu verwenden.</string>
-    <string name="Donatedes">HappyMod ist vollkommen kostenlos und wir hassen Werbungen genauso viel wie Sie!
+    <string name="Donatedes">"HappyMod ist vollkommen kostenlos und wir hassen Werbungen genauso viel wie Sie!
 \n
 \nJedoch benötigen wir Ihre Spende, um schnellere und sicherere Downloads zu ermöglichen.
 \n
-\nBitte haben Sie etwas Geduld und versuchen Sie, die komplette Werbung zu anzusehen, um die „Spende“ abzuschließen.
+\nBitte haben Sie etwas Geduld und versuchen Sie, die komplette Werbung  anzusehen, um die „Spende“ abzuschließen.
 \n
-\nDanke!</string>
+\nDanke!"</string>
     <string name="viewstepdeti">Schrittdetails anzeigen</string>
 </resources>
