@@ -20,7 +20,7 @@
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
     <string name="Checkforupdate">Procurar atualizações</string>
-    <string name="FollowusonTwitter">Siga-nos no Twitter</string>
+    <string name="FollowusonTwitter">Siga-nos no Twitter </string>
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
     <string name="settings_auto_install">Instalar Automaticamente</string>
     <string name="Download_Directory">Diretório de Downloads</string>
@@ -294,7 +294,7 @@
     <string name="working">Funcionando</string>
     <string name="h5_menu_reload">Recarregar</string>
     <string name="h5_menu_share">Compartilhar</string>
-    <string name="installplaywitouthti">Jogue instantâniamente sem precisar instalar</string>
+    <string name="installplaywitouthti">Jogue imediatamente sem precisar instalar</string>
     <string name="crash_dialog_title">Oops.</string>
     <string name="crash_dialog_message">Desculpe, a exceção do APP será encerrada, por favor, envie seu relatório de bug por e-mail.</string>
     <string name="crash_dialog_feedback">Reportar erros</string>
@@ -361,7 +361,7 @@
     <string name="votedandfail">Você ja avaliou, por favor cheque Minha lista de avaliações.</string>
     <string name="fastdownloader">Download Rápido</string>
     <string name="exit_tips">Pressione voltar novamente para fechar o jogo</string>
-    <string name="h5_menu_shortcut">Adicionar A Tela Inicial</string>
+    <string name="h5_menu_shortcut">Adicionar à Tela Inicial</string>
     <string name="clickyes">Você pode editar e reenviar esta solicitação via a fila de trabalho.</string>
     <string name="usehtgetspeed">Use HyperTorrent para conseguir 200%+ de velocidade de download.</string>
     <string name="speedfordownloading">200%~1,000%+ velocidade para baixar arquivos grandes do HappyMod.</string>
