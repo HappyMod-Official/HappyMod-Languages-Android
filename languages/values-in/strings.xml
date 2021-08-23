@@ -27,7 +27,7 @@
     <string name="NEW">BARU</string>
     <string name="Categories">Kategori</string>
     <string name="games">Permainan</string>
-    <string name="REFRESH">Refresh</string>
+    <string name="REFRESH">Segarkan</string>
     <string name="Unable_to_connect_to_the_network">Tidak dapat tersambung ke jaringan.</string>
     <string name="Recommended_Game_Mods">Game Mod yang Direkomendasikan</string>
     <string name="Hot_Game_Mods">Game Mod Populer</string>
@@ -90,7 +90,7 @@
     <string name="Downloadboundle">Unduh BUNDLE</string>
     <string name="Downloaded">Terunduh</string>
     <string name="Install">Pasang</string>
-    <string name="Connecting">Menghubungkan …</string>
+    <string name="Connecting">Menghubungkan Kembali …</string>
     <string name="readmore">Baca selengkapnya</string>
     <string name="modfeature">Info Mod:</string>
     <string name="Moreversion">Versi lainnya</string>
@@ -372,7 +372,7 @@
     <string name="toopenitquickntime">Untuk membukanya dengan cepat lain kali, harap:</string>
     <string name="finditin">Temukan di X</string>
     <string name="needhelp">Butuh bantuan?</string>
-    <string name="peoplealsoplaygames">Orang yang memainkan game ini juga memainkan:</string>
+    <string name="peoplealsoplaygames">Orang yang memainkan game ini juga menyukai;</string>
     <string name="opencommunitydes">Jika Anda menemukan posting dewasa atau posting yang buruk, silakan klik tombol laporkan di sudut kanan atas posting, kami akan menghapus postingan dan memblokir posternya! Tolong bicara dengan sopan!</string>
     <string name="myreviews">Ulasan saya</string>
     <string name="tagthisapp">Tandai aplikasi ini</string>
@@ -413,11 +413,17 @@
     <string name="nslnfsl">Tidak ada batasan kecepatan. Tidak ada batasan ukuran file.</string>
     <string name="Clean">Bersih</string>
     <string name="Cdnoadfree">Desain bersih, tanpa iklan &amp; 100% gratis!</string>
-    <string name="wrhtdbf">Kami merekomendasikan HyperTorrent untuk mengunduh file besar.</string>
+    <string name="wrhtdbf">Bagaimana cara untuk menggunakan HyperTorrent\?</string>
     <string name="nothanks">Tidak terima kasih</string>
     <string name="Checkthenetwork">Periksa jaringan kamu</string>
     <string name="Configuringip">Mengonfigurasi IP yang tersedia untuk Anda</string>
     <string name="Configuringipfailed">Konfigurasi gagal, 8 IP terdeteksi tidak tersedia, coba gunakan VPN.</string>
-    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti halnya Anda! Kami membutuhkan donasi Anda untuk menyediakan kecepatan unduhan yang lebih cepat dan lebih aman.Harap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi.Terima kasih！</string>
+    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti apa yang anda rasakan!
+\n
+\nDonasi anda sangat kami apresiasi dan akan kami gunakan untuk melayani anda dengan kecepatan dan keamanan unduhan.
+\n
+\nHarap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi.
+\n
+\nTerima kasih! :)</string>
     <string name="viewstepdeti">Lihat detail langkah</string>
 </resources>
