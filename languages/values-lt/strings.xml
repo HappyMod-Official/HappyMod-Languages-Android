@@ -51,7 +51,7 @@
     <string name="Original">Originalus</string>
     <string name="Previousversion">Praeita versija</string>
     <string name="Download">Atsiūsti</string>
-    <string name="app_name">"Happy Mod "</string>
+    <string name="app_name">Happy Mod</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="Unable_to_connect_to_the_network">Nepavyksta pasiekti interneto</string>
     <string name="Recommended_New_Mods">Rekomenduojami nauji modifikacijos</string>
@@ -385,4 +385,7 @@
     <string name="votedandfail">Jau peržiūrėjote, pažymėkite „Mano atsiliepimų sąrašas“.</string>
     <string name="speedfordownloading">200% ~ 1 000% + greitis, norint atsisiųsti didelius failus iš „HappyMod“.</string>
     <string name="Configuringipfailed">Konfigūruoti nepavyko, nustatyta, kad 8 IP nepasiekiami. Pabandykite naudoti VPN.</string>
+    <string name="Myposts">Mano skelbimai</string>
+    <string name="Post">Skelbimai</string>
+    <string name="addapost">Pridėti skelbimą</string>
 </resources>
