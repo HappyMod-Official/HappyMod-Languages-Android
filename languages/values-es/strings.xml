@@ -44,7 +44,7 @@
     <string name="Translation">Traducción</string>
     <string name="Share">Compartir</string>
     <string name="Checkforupdate">Buscar actualizaciones</string>
-    <string name="FollowusonTwitter">Síguenos en Twitter</string>
+    <string name="FollowusonTwitter">Síguenos en Twitter </string>
     <string name="FollowusonFacebook">Síguenos en Facebook</string>
     <!--settings-->
     <string name="settings_network_remind">Alerta de red móvil</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Más versiones</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Más Mods</string>
+    <string name="Moremods">Versiones anteriores</string>
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">¡Lo odio!</string>
