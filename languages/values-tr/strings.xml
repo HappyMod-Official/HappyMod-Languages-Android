@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name">"HappyMod "</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="app_name">HAPPY MOOD</string>
+    <string name="Homecom">Homecom</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -35,7 +35,7 @@
     <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
     <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
     <string name="Last_Update_Mods">En son güncellemeler</string>
-    <string name="SearchHint">Ara...</string>
+    <string name="SearchHint">Ara</string>
     <string name="Homeweb">Resmî internet sitesi</string>
     <string name="Management">Yönetim</string>
     <string name="Settings">Ayarlar</string>
@@ -43,15 +43,15 @@
     <string name="Translation">Çeviri</string>
     <string name="Share">Paylaş</string>
     <string name="Checkforupdate">Güncellemeleri kontrol et</string>
-    <string name="FollowusonTwitter">Bizi Twitter\'da takip edin</string>
+    <string name="FollowusonTwitter">Bizi Twitter\'da takip edin </string>
     <string name="FollowusonFacebook">Facebook üzerinden bizi takip et</string>
     <string name="settings_network_remind">Mobil Şebeke Uyarısı</string>
     <string name="settings_auto_install">Otomatik olarak yükle</string>
     <string name="Download_Directory">İndirme Dizini</string>
     <string name="settings_other">Diğer</string>
-    <string name="settings_clear_cache">Önbelleği Temizle</string>
+    <string name="settings_clear_cache">Önbelleği temizle</string>
     <string name="Clean_up_the_complete">Önbellek temizlendi.</string>
-    <string name="des_no_serach_result"> Hata! Sonuç bulunamadı.</string>
+    <string name="des_no_serach_result">Hata! Sonuç bulunamadı.</string>
     <string name="Downloads">İndirilenler</string>
     <string name="Downloading">İndiriliyor</string>
     <string name="Finished">İndirilmesi Bitenler</string>
@@ -66,7 +66,7 @@
     <string name="Version">versiyon</string>
     <string name="Ratingsreviews">Derecelendirmeler Ve Yorumlar</string>
     <string name="Tryitlater">Birazdan Tekrar Dene</string>
-    <string name="Serviceisbusy">Bağlanıyor...</string>
+    <string name="Serviceisbusy">Bağlanıyor…</string>
     <string name="Notice">İhbar</string>
     <string name="deletethistask">Bu Dosyayı Sil</string>
     <string name="Cancel">İptal Et</string>
@@ -84,18 +84,18 @@
     <string name="Downloadboundle">Paketi İndir</string>
     <string name="Downloaded">İndirildi</string>
     <string name="Install">Kur</string>
-    <string name="Connecting">Bağlanıyor...</string>
+    <string name="Connecting">Bağlanıyor…</string>
     <string name="readmore">Daha fazlasını oku</string>
     <string name="modfeature">Mod Özelliği:</string>
     <string name="Moreversion">Daha Fazla Sürüm</string>
     <string name="Recommend">Tavsiye Edilen</string>
     <string name="Recommendmod">Önerilen Mod</string>
-    <string name="Moremods">En yeni sürümler</string>
+    <string name="Moremods">En son sürümler</string>
     <string name="Submit">Gönder</string>
     <string name="Hated_it">Nefret ETTİM!</string>
-    <string name="Disliked_it">Beğenmedim</string>
-    <string name="Its_ok">İyi</string>
-    <string name="Liked_it">Begendim!</string>
+    <string name="Disliked_it">Beğenmedim.</string>
+    <string name="Its_ok">İyi 👍</string>
+    <string name="Liked_it">Beğendim.</string>
     <string name="Loved_it">Bayıldım!</string>
     <string name="share_happymod">‘HappyMod’ üzerinden paylaş</string>
     <string name="share_subject">Konuyu Paylaş</string>
@@ -329,7 +329,7 @@
     <string name="ToadyRecommend">Bugünün Tavsiyesi</string>
     <string name="hotmods">Popüler Modlar</string>
     <string name="hotrecommended">Popüler Tavsiye</string>
-    <string name="searchappyouwanttoupload">Yüklemek istediğiniz uygulamada arama yapın:</string>
+    <string name="searchappyouwanttoupload">Yüklemek istediğiniz uygulamayı arayın:</string>
     <string name="addapost">Bir yayın ekle</string>
     <string name="launch_des">% 100 Çalışan Modları Bul Kullanıcılar tarafından yüklendi; Kullanıcılar tarafından Onaylandı!</string>
     <string name="requestamod">Mod İsteyin</string>
@@ -351,7 +351,7 @@
     <string name="finditin">X\'de bul</string>
     <string name="needhelp">Yardıma mı ihtiyacınız var?</string>
     <string name="peoplealsoplaygames">Bu oyunu oynayan insanlar da</string>
-    <string name="opencommunitydes">Bir yetişkin veya herhangi bir kötü gönderi bulursanız, lütfen gönderinin sağ üst köşesindeki bildir düğmesine tıklayın, gönderiyi silip ilk kez gönderiyi engelleyeceğiz! Lütfen medeni konuşun!</string>
+    <string name="opencommunitydes">Herhangi bir kötü gönderi bulursanız, lütfen gönderinin sağ üst köşesindeki bildir düğmesine tıklayın, gönderiyi silip gönderiyi engelleyeceğiz! Lütfen medeni konuşun!</string>
     <string name="myreviews">İncelemelerim</string>
     <string name="tagthisapp">Bu uygulamayı işaretleyin</string>
     <string name="appuploader">Uygulamayı yükleyen:</string>
@@ -369,7 +369,7 @@
     <string name="pleaseentergoogleaddress">Lütfen Google Play\'de uygulama kimliğini veya URL\'sini girin.</string>
     <string name="thisposthasbeendeleted">Bu gönderi silindi.</string>
     <string name="add">Ekle</string>
-    <string name="oagputc"> Veya devam etmek için Google play URL\'sini ekleyin</string>
+    <string name="oagputc">Veya devam etmek için Google Play URL\'sini ekleyin</string>
     <string name="description">Açıklama:</string>
     <string name="uploadbanner">Afiş yükle (720 * 406)</string>
     <string name="noedituploadtips">Herhangi bir değişiklik yapmadan gönderemezsiniz.</string>
