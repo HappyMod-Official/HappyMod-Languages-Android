@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">هابي مود</string>
-    <string name="Homecom">هابي مود</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="app_name">اسم التطبيق</string>
+    <string name="Homecom">الصفحه الرئيسيه</string>
+    <string name="facebook_app_id">فيسبوك id</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -21,41 +21,41 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">تم الدفع</string>
-    <string name="GAME">لعبة</string>
+    <string name="Paid">دفع</string>
+    <string name="GAME">لعبه</string>
     <string name="APP">تطبيق</string>
     <string name="NEW">جديد</string>
     <string name="Categories">الفئات</string>
     <string name="games">العاب</string>
-    <string name="REFRESH">إعادة المحاولة</string>
+    <string name="REFRESH">اعاده تحميل</string>
     <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
     <string name="Hot_Game_Mods">تعديلات لعبة ساخنه</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى به</string>
     <string name="Hot_App_Mods">تعديلات تطبيقات ساخنة</string>
-    <string name="Recommended_New_Mods">تعديلات جديدة موصى بها</string>
+    <string name="Recommended_New_Mods">تعديلات جديده</string>
     <string name="Last_Update_Mods">آخر التحديثات</string>
     <string name="SearchHint">بحث..</string>
     <string name="Homeweb">الصفحة الرئيسية</string>
-    <string name="Management">إدارة</string>
-    <string name="Settings">اعدادات</string>
+    <string name="Management">إداره</string>
+    <string name="Settings">الاعدادات</string>
     <string name="Feedback">استجابه</string>
     <string name="Translation">ترجمة</string>
     <string name="Share">مشاركة</string>
     <string name="Checkforupdate">فحص التحديثات</string>
-    <string name="FollowusonTwitter">تابعنا على تويتر</string>
+    <string name="FollowusonTwitter">تابعنا على تويتر </string>
     <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
-    <string name="settings_network_remind">تنبيه شبكةالجوال</string>
+    <string name="settings_network_remind">تنبيه شبكه_الجوال</string>
     <string name="settings_auto_install">التثبيت التلقائي</string>
     <string name="Download_Directory">تحميل الدليل</string>
-    <string name="settings_other">إعدادات اخرى</string>
+    <string name="settings_other">اخر</string>
     <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
     <string name="Clean_up_the_complete">تم مسح ذاكرة التخزين المؤقت.</string>
     <string name="des_no_serach_result">لم يتم العثور على نتائج:(</string>
     <string name="Downloads">التحميلات</string>
-    <string name="Downloading">جاري التحميل</string>
+    <string name="Downloading">يجري التحميل</string>
     <string name="Finished">اكتمل</string>
-    <string name="No_Download">ملف غير موجود:(</string>
+    <string name="No_Download">لم يتم العثور على الملف:(</string>
     <string name="Pause">ايقاف مؤقت</string>
     <string name="Waiting_in_queue">في قائمة الانتظار..</string>
     <string name="Completed">مكتمل</string>
@@ -68,7 +68,7 @@
     <string name="Tryitlater">جرب في وقت لاحق</string>
     <string name="Serviceisbusy">جارٍ الاتصال…</string>
     <string name="Notice">تنويه</string>
-    <string name="deletethistask">حذف هذا الملف؟</string>
+    <string name="deletethistask">حذف هذا الملف</string>
     <string name="Cancel">إلغاء</string>
     <string name="Delete">حذف</string>
     <string name="Whydeletethisdownload">لماذا حذفت هذا التنزيل؟</string>
@@ -83,10 +83,10 @@
     <string name="Downloaddata">تنزيل (APK+DATA)</string>
     <string name="Downloadboundle">تنزيل BUNDLE</string>
     <string name="Downloaded">تم التنزيل</string>
-    <string name="Install">التثبيت</string>
+    <string name="Install">تثبيت</string>
     <string name="Connecting">جار الاتصال …</string>
     <string name="readmore">قراءة المزيد</string>
-    <string name="modfeature">مميزات التعديل</string>
+    <string name="modfeature">مميزات التعديل:</string>
     <string name="Moreversion">المزيد من الإصدارات!</string>
     <string name="Recommend">موصى به</string>
     <string name="Recommendmod">تعديل موصى به</string>
@@ -99,14 +99,14 @@
     <string name="Loved_it">احببته!</string>
     <string name="share_happymod">مشاركة "HappyMod" عبر</string>
     <string name="share_subject">احصل على HappyMod</string>
-    <string name="share_text">نزل تطبيقات والعاب معدلة تعمل 100% مع HappyMod@ https://www.happymod.com</string>
+    <string name="share_text">نزل تطبيقات والعاب معدلة تعمل 100% مع HappyMod@ /https://www.happymod.com</string>
     <string name="pref_location">مكان التخزين</string>
     <string name="force_des">تطبيقات معدلة تعمل 100%</string>
     <string name="nvisrti">الإصدار الجديد جاهز للتثبيت.</string>
-    <string name="OPEN">افتح</string>
+    <string name="OPEN">فتح</string>
     <string name="OK">حسنا</string>
     <string name="Loading">جار التحميل…</string>
-    <string name="updata_tip">أنت تستخدم أحدث إصدار مستقر من HappyMod</string>
+    <string name="updata_tip">أنت تستخدم أحدث إصدار من HappyMod</string>
     <string name="xzzb">يرجى تحميل HappyMod من الموقع الرسمي.</string>
     <string name="Continue">استمر</string>
     <string name="appobb">APK + OBB</string>
@@ -116,14 +116,14 @@
     <string name="Yes">نعم</string>
     <string name="bcdes">. حرر مساحة التخزين وحاول مرة أخرى.</string>
     <string name="need">؛ متاح:</string>
-    <string name="No_enough_space_left_on_device">لا توجد مساحة تخزين كافية. بحاجة إلى:</string>
+    <string name="No_enough_space_left_on_device">لا توجد مساحة تخزين كافية. بحاجة إلى مساحه:</string>
     <string name="updatenow">تحديث الان</string>
     <string name="updateFail">التحميل فشل. الرجاء الإغلاق وإعادة فتح التطبيق</string>
     <string name="initializing">جار التهيئة</string>
     <string name="Retrying">إعادة المحاولة</string>
     <string name="language">اللغة</string>
     <string name="Popular">شائع</string>
-    <string name="s_New">الجديد</string>
+    <string name="s_New">جديد</string>
     <string name="apps">التطبيقات</string>
     <string name="mergering">المعالجة النهائية</string>
     <string name="mergerwait">المعالجة النهائية (يحتاج 1-2 دقائق)</string>
@@ -134,7 +134,7 @@
     <string name="uid">هوية المستخدم</string>
     <string name="copysuccess">تم نسخ هوية المستخدم إلى الحافظة.</string>
     <string name="watchnow">شاهد الآن</string>
-    <string name="ggdownloading">يتم تحميل الإعلانات ، يرجى الانتظار وابقاء HappyMod مفتوحاً.</string>
+    <string name="ggdownloading">يتم تحميل الإعلانات ، يرجى الانتظار وابقاء HappyMod مفتوحاً:).</string>
     <string name="verificaing">يرجى الانتظار أثناء التحقق.</string>
     <string name="Removeads">إزالة الإعلانات</string>
     <string name="Paidforfree">تطبيق مدفوع</string>
@@ -152,7 +152,7 @@
     <string name="VIP">VIP</string>
     <string name="Substratum">نسخة اساسية</string>
     <string name="Debloated">عديم الفائدة</string>
-    <string name="Donate">نسخة المتبرع</string>
+    <string name="Donate">تبرع</string>
     <string name="AOSPcompatible">متوافق مع رومات AOSP</string>
     <string name="Cracked">مكرك</string>
     <string name="NoAds">بدون اعلانات</string>
@@ -161,26 +161,26 @@
     <string name="Invincible">لا يقهر</string>
     <string name="Unlimitedhints">تلميحات لا نهائية</string>
     <string name="Megamod">تعديل ضخم</string>
-    <string name="Full">النسخة الكاملة</string>
+    <string name="Full">كامل</string>
     <string name="Username">اسم المستخدم</string>
-    <string name="Usernameinit">4-50 حرفا</string>
-    <string name="Usernametip">فقط الحروف a-z ، الأرقام ، @. - _ من فضلك (لا تستخدم مسافات أو أحرف خاصة أخرى او احرف كبيرة). 4-50 حرفا.</string>
-    <string name="Password">كلمه السر</string>
+    <string name="Usernameinit">4-50 حرف</string>
+    <string name="Usernametip">يسمح فقط الحروف a-z ، الأرقام ، @. - _ من فضلك (لا تستخدم مسافات أو أحرف خاصة أخرى او احرف كبيرة). 4-50 حرف.</string>
+    <string name="Password">كلمه المرور</string>
     <string name="Enteryourpassword">6-8 احرف او ارقام</string>
-    <string name="passwordtip">الأحرف فقط A-Z ، a-z ، الأرقام （لا تستخدم مسافات أو أحرف خاصة). 6-8 احرف او ارقام</string>
-    <string name="nicknametip">سبق و استعمل هذا الاسم.</string>
+    <string name="passwordtip">يسمح فقط الأحرف فقط A-Z ، a-z ، الأرقام （لا تستخدم مسافات أو أحرف خاصة). 6-8 احرف او ارقام</string>
+    <string name="nicknametip">الاسم مستخدم.</string>
     <string name="Nickname">الاسم المستعار</string>
-    <string name="Emailaddress">عنوان بريد الكتروني</string>
+    <string name="Emailaddress">البريد الكتروني</string>
     <string name="Enteryouremail">أدخل بريدك الالكتروني</string>
     <string name="Telephonenumber">رقم هاتف</string>
     <string name="Enteryourtelephonenumber">أدخل رقم هاتفك</string>
     <string name="phonetip">أدخل رقم هاتف صالحًا.</string>
     <string name="emailtip">أدخل عنوان بريد إلكتروني صالح.</string>
     <string name="Signup">انشاء الحساب</string>
-    <string name="tuiat">أسم المستخدم مأخوذ مسبقا.</string>
+    <string name="tuiat">اسم المستخدم مئخوذ.</string>
     <string name="Login">تسجيل الدخول</string>
     <string name="Account">الحساب</string>
-    <string name="forgotpassword">نسيت كلمة السر؟</string>
+    <string name="forgotpassword">نسيت كلمة المرور؟</string>
     <string name="loginwithaccount">أو قم بتسجيل الدخول باستخدام اسم المستخدم الخاص بك</string>
     <string name="newur">تسجيل مستخدم جديد</string>
     <string name="Usernameinitnew">اسم المستخدم (4-50 حرف)</string>
@@ -190,14 +190,14 @@
     <string name="Unknown">مجهول</string>
     <string name="enteryEmail">أدخل بريدك الإلكتروني</string>
     <string name="enteryPhone">أدخل رقم هاتفك</string>
-    <string name="signuptips">عند نسيان كلمة المرور ، ستحتاج إلى "رقم الهاتف" أو "البريد الإلكتروني" لاستردادها. نوصي بإكمالها.</string>
+    <string name="signuptips">عند نسيان كلمة المرور ، ستحتاج إلى رقم الهاتف أو البريد الإلكتروني لاستردادها. نوصي بإكمالها.</string>
     <string name="confirmusername">تأكيد اسم المستخدم</string>
     <string name="next">التالي</string>
     <string name="fblogdes">الرجاء ادخال اسم المستخدم. اسم المستخدم هو مهم للغاية لاستعادة كلمة المرور ، يرجى الانتباه.</string>
     <string name="selectusername">حدد اسم المستخدم</string>
     <string name="reselpass_desone">أدخل اسم المستخدم الخاص بحسابك لإعادة تعيين كلمة المرور. اذا كان لديك أي مشكلة حول إعادة تعيين كلمة المرور <u>اتصل بنا</u>.</string>
     <string name="reselpass_destwo">أدخل البريد الالكتروني او رقم الهاتف الخاص بحسابك لإعادة تعيين كلمة المرور. اذا كان لديك أي مشكلة حول إعادة تعيين كلمة المرور <u>اتصل بنا</u>.</string>
-    <string name="forgetgosingup">ألا يمكنك تذكر أي شيء؟ أنشئ حساب جديد.</string>
+    <string name="forgetgosingup">ألا يمكنك تذكر أي شيء؟ تستطيع أنشئ حساب جديد <u>هنا</u>.</string>
     <string name="Resetpassword">إعادة تعيين كلمة المرور</string>
     <string name="NewPassword">كلمة السر الجديدة</string>
     <string name="Enterthepasswordagain">تأكيد كلمة المرور</string>
@@ -253,7 +253,7 @@
     <string name="Changetheimage">تغيير الصورة &gt;&gt;</string>
     <string name="Typethecodeinthebox">اكتب الرمز في المربع</string>
     <string name="Verificationerror">فشل التحقق ، يرجى المحاولة مرة أخرى.</string>
-    <string name="Verifing">التحقق من ...</string>
+    <string name="Verifing">التحقق من …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">جرب الخوادم الأخرى قبل الحذف</string>
     <string name="fix_tips_content">هل ترغب في الاتصال بخادم آخر لمحاولة تنزيله قبل حذفه؟</string>
@@ -328,13 +328,13 @@
     <string name="PopularInlast">شائع في آخر 24 ساعة</string>
     <string name="Latestupdated">آخر تحديث</string>
     <string name="paidforfree">مدفوع مجانًا</string>
-    <string name="ToadyRecommend">وصى Toady</string>
+    <string name="ToadyRecommend">يوصى اليوم</string>
     <string name="hotmods">تعديل ساخن</string>
     <string name="hotrecommended">موصى به ساخن</string>
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">ابحث عن التطبيق الذي تريد تحميله:</string>
     <string name="addapost">أضف منشور</string>
-    <string name="launch_des">ابحث عن أوضاع عمل 100٪ \ n تم تحميلها من قبل المستخدمين ؛ التحقق من قبل المستخدمين!</string>
+    <string name="launch_des">ابحث عن أوضاع عمل 100٪ تم تحميلها من قبل المستخدمين ؛ التحقق من قبل المستخدمين!</string>
     <string name="requestamod">طلب تعديل</string>
     <string name="uploadamod">تحميل وزارة الدفاع</string>
     <!--boundle 新增-->
@@ -355,7 +355,7 @@
     <string name="toopenitquickntime">لفتحه بسرعة في المرة القادمة ، يرجى:</string>
     <string name="finditin">ابحث عنه في X</string>
     <string name="needhelp">تحتاج مساعدة؟</string>
-    <string name="peoplealsoplaygames">لعب الناس هذه اللعبة أيضًا:</string>
+    <string name="peoplealsoplaygames">لعب الناس هذه اللعبة أيضًا</string>
     <string name="opencommunitydes">إذا وجدت شخصًا بالغًا أو أي منشور سيئ ، فالرجاء النقر فوق زر الإبلاغ في الزاوية اليمنى العليا من المنشور ، وسنقوم بحذف المنشور وحظر الملصق في المرة الأولى! من فضلك تكلم متحضر!</string>
     <string name="myreviews">مراجعاتي</string>
     <string name="tagthisapp">علم هذا التطبيق</string>
@@ -374,7 +374,7 @@
     <string name="pleaseentergoogleaddress">الرجاء إدخال معرف التطبيق أو عنوان URL على Google Play.</string>
     <string name="thisposthasbeendeleted">هذا المنشور تمت ازالته.</string>
     <string name="add">أضف</string>
-    <string name="oagputc"> أو أضف عنوان URL الخاص بـ Google play للمتابعة </string>
+    <string name="oagputc">أو أضف عنوان URL الخاص بـ Google play للمتابعة</string>
     <string name="description">وصف:</string>
     <string name="uploadbanner">تحميل بانر (720 * 406)</string>
     <string name="noedituploadtips">لا يمكنك إرسالها بدون إجراء أية تغييرات.</string>
@@ -396,9 +396,9 @@
     <string name="nslnfsl">لا يوجد حد أقصى للسرعة، لا يوجد حد أقصى للملفات.</string>
     <string name="Clean">تنظيف</string>
     <string name="Cdnoadfree">تصميم نظيف ، بدون إعلان 100٪ مجانا!</string>
-    <string name="wrhtdbf">نوصي باستخدام HyperTorrent لتنزيل الملفات الكبيرة.</string>
+    <string name="wrhtdbf">كيفيه استخدام HyperTorrent؟</string>
     <string name="nothanks">لا شكرا</string>
-    <string name="Checkthenetwork">تحقق من الشبكة</string>
+    <string name="Checkthenetwork">تحقق من شبكتك</string>
     <string name="Configuringip">تكوين IP المتاح لك</string>
     <string name="Configuringipfailed">فشل التكوين ، تم اكتشاف 8 عناوين IP غير متوفرة ، يرجى محاولة استخدام VPN.</string>
     <string name="Donatedes">HappyMod مجاني تمامًا ، ونحن نكره الإعلانات بقدر ما تفعله！ نحتاج إلى تبرعك لتوفير تنزيلات أسرع وأكثر أمانًا. يُرجى التحلي بالصبر ومحاولة مشاهدة الإعلانات الكاملة لإكمال التبرع. شكرا لك！</string>
