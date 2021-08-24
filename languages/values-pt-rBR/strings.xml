@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Homecom">Felismod.com</string>
+    <string name="Homecom">GTA</string>
     <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">Feliz mod</string>
+    <string name="app_name">Felizmod</string>
     <string name="REFRESH">Recarregar</string>
     <string name="Recommended_Game_Mods">Mods de Jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
