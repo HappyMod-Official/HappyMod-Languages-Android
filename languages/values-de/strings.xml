@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--德国-->
-    <string name="app_name">HappyMod</string>
-    <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="app_name">Applikations_Name</string>
+    <string name="Homecom">Webseite</string>
+    <string name="facebook_app_id">Facebook_app_identität</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,7 +23,7 @@
     <!--首页-->
     <string name="Paid">Bezahlt</string>
     <string name="GAME">Spiel</string>
-    <string name="APP">App</string>
+    <string name="APP">Applikation</string>
     <string name="NEW">Neu</string>
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
@@ -44,7 +44,7 @@
     <string name="Translation">Übersetzung</string>
     <string name="Share">Teilen</string>
     <string name="Checkforupdate">Nach neuen Updates prüfen</string>
-    <string name="FollowusonTwitter">Folge uns auf Twitter </string>
+    <string name="FollowusonTwitter">Folg unserem Twitter </string>
     <string name="FollowusonFacebook">Folge uns auf Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobiles Netzwerk Warnung</string>
@@ -338,7 +338,7 @@
     <string name="init_fail">Initialisierung fehlgeschlagen, bitte verwende einen VPN oder wechsel in andere Netzwerke wechseln.</string>
     <string name="error_file_des">Diese Datei wurde gelöscht und wird jetzt erneut heruntergeladen.</string>
     <string name="sdpermission">Wir müssen auf Ihren externen Speicher zugreifen. Stellen Sie sicher, dass die Berechtigung erteilt wurde.</string>
-    <string name="Night_Mode">Nacht-Modus</string>
+    <string name="Night_Mode">Dunkles Design</string>
     <string name="thisty">Dieser Benutzername ist vergeben. Versuche einen anderen. Verfügbar:</string>
     <!--home_feature-->
     <string name="Feature">Vorgestellt</string>
