@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Homecom">Homecomm</string>
-    <string name="facebook_app_id">Facebook_aplicativo_id</string>
+    <string name="Homecom">happymod.com</string>
+    <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
     <string name="APP">Aplicativo</string>
@@ -16,7 +16,7 @@
     <string name="Homeweb">Website Oficial</string>
     <string name="Management">Gerênciar</string>
     <string name="Settings">Configurações</string>
-    <string name="Feedback">Feedbackk</string>
+    <string name="Feedback">Feedback</string>
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
     <string name="Checkforupdate">Procurar atualizações</string>
@@ -90,7 +90,7 @@
     <string name="initializing">Inicializando</string>
     <string name="Retrying">Tentando novamente</string>
     <string name="language">Idioma</string>
-    <string name="Popular">Famoso</string>
+    <string name="Popular">Popular</string>
     <string name="s_New">Novo</string>
     <string name="apps">Aplicativos</string>
     <string name="mergering">Processamento final</string>
@@ -108,13 +108,13 @@
     <string name="Freeshopping">Compras grátis</string>
     <string name="Unlocked">Desbloqueado</string>
     <string name="Premium">Premium</string>
-    <string name="Pro">Proo</string>
-    <string name="ModLite">Modo Lite</string>
+    <string name="Pro">Pro</string>
+    <string name="ModLite">Mod Lite</string>
     <string name="Subscribed">Inscrito</string>
-    <string name="Prime">Primee</string>
+    <string name="Prime">Prime</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Substrato</string>
-    <string name="Debloated">Debloatedd</string>
+    <string name="Debloated">Empanturrado</string>
     <string name="Donate">Doar</string>
     <string name="AOSPcompatible">Compatível com AOSP</string>
     <string name="Cracked">Crackeado</string>
@@ -122,7 +122,7 @@
     <string name="Endless">Sem fim</string>
     <string name="Invincible">Invencível</string>
     <string name="Unlimitedhints">Dicas ilimitadas</string>
-    <string name="Megamod">Modificação Mega</string>
+    <string name="Megamod">Mega Mod</string>
     <string name="Full">Completo</string>
     <string name="Username">Nome do usuário</string>
     <string name="Usernameinit">4-50 caracteres</string>
@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">Minecraft</string>
+    <string name="app_name">HappyMod</string>
     <string name="REFRESH">Recarregar</string>
     <string name="Recommended_Game_Mods">Mods de Jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
@@ -295,13 +295,13 @@
     <string name="h5_menu_reload">Recarregar</string>
     <string name="h5_menu_share">Compartilhar</string>
     <string name="installplaywitouthti">Jogue imediatamente sem precisar instalar</string>
-    <string name="crash_dialog_title">Ooops.</string>
+    <string name="crash_dialog_title">Oops.</string>
     <string name="crash_dialog_message">Desculpe, a exceção do APP será encerrada, por favor, envie seu relatório de bug por e-mail.</string>
     <string name="crash_dialog_feedback">Reportar erros</string>
     <string name="crash_dialog_restart">Reiniciar</string>
     <string name="init_fail">Inicialização falhou, por favor use uma VPN ou conecte-se a outra rede.</string>
     <string name="sdpermission">Nós precisamos de acesso a seu armazenamento externo. Por favor tenha certeza que essa permissão foi consedida.</string>
-    <string name="Night_Mode">Modo Escuro</string>
+    <string name="Night_Mode">Modo Noturno</string>
     <string name="thisty">Esse nome de usuário já está sendo usado. Tente outro. Disponível:</string>
     <string name="Feature">Em Destaque</string>
     <string name="editorpick">Escolha do Editor</string>
@@ -366,13 +366,15 @@
     <string name="usehtgetspeed">Use HyperTorrent para conseguir 200%+ de velocidade de download.</string>
     <string name="speedfordownloading">200%~1,000%+ velocidade para baixar arquivos grandes do HappyMod.</string>
     <string name="Configuringip">Configurando IP disponível para você</string>
-    <string name="Donatedes">HappyMod e totalmente gratuito e odiamos anúncios tanto quanto voce!
+    <string name="Donatedes">HappyMod é totalmente gratuito e odiamos anúncios tanto quanto você!
 \n
-\nPrecisamos da sua doacao para fornecer downloads mais rápidos e seguros.
 \n
-\nPor favor, seja paciente e tente assistir os anuncios ate o final para concluir a doação
+\nPrecisamos da sua doação para fornecer downloads mais rápidos e seguros.
 \n
-\nMuito Obrigado</string>
+\nPor favor, seja paciente e tente assistir os anúncios até o final para concluir a doação.
+\n
+\n
+\nMuito Obrigado!</string>
     <string name="clickno">Esta solicitação será adicionada à fila de em breve novamente.</string>
     <string name="hashtags">Histórico de hashtags</string>
     <string name="ToadyRecommend">Recomendação de Hoje</string>
