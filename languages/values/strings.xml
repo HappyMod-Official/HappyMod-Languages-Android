@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">App_name</string>
-    <string name="Homecom">Homecom</string>
-    <string name="facebook_app_id">Facebook_app_id</string>
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">happymod.com</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -340,7 +340,7 @@
     <string name="init_fail">Initialization failed, please use a VPN or change to other networks.</string>
     <string name="error_file_des">This file has been deleted and is being re-downloaded now.</string>
     <string name="sdpermission">We need access to your external storage. Please make sure the permission is granted.</string>
-    <string name="Night_Mode">Dark Mod</string>
+    <string name="Night_Mode">Dark Theme</string>
     <string name="thisty">That username is taken. Try another. Available:</string>
     <!--home_feature-->
     <string name="Feature">Featured</string>
