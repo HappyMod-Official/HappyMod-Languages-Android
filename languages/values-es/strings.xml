@@ -28,8 +28,8 @@
     <string name="Categories">Categorías</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
-    <string name="Unable_to_connect_to_the_network">No hay acceso a internet</string>
-    <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
+    <string name="Unable_to_connect_to_the_network">No hay acceso a internet.</string>
+    <string name="Recommended_Game_Mods">Mods Recomendados</string>
     <string name="Hot_Game_Mods">Mods de juegos populares</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Hot_App_Mods">Mods de apk del momento</string>
@@ -37,7 +37,7 @@
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
     <!-- slide-->
-    <string name="Homeweb">Sitio Oficial</string>
+    <string name="Homeweb">Casa</string>
     <string name="Management">Administración</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
@@ -72,8 +72,8 @@
     <string name="Tryitlater">Inténtalo de nuevo más tarde</string>
     <string name="Serviceisbusy">Conectando…</string>
     <!-- delete words -->
-    <string name="Notice">Aviso</string>
-    <string name="deletethistask">Borrar archivo</string>
+    <string name="Notice">Noticia</string>
+    <string name="deletethistask">Borrar este archivo</string>
     <string name="Cancel">Cancelar</string>
     <string name="Delete">Borrar</string>
     <string name="Whydeletethisdownload">¿Por qué eliminar esta descarga?</string>
@@ -81,7 +81,7 @@
     <string name="Downloadfailed">La Descarga ha fallado</string>
     <string name="Downloadistooslow">La descarga es muy lenta</string>
     <!--APP details-->
-    <string name="Mods">Hacks</string>
+    <string name="Mods">Modificaciones</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Versión previa</string>
     <string name="Download">Descargar</string>
