@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">ModFeliz</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--homepage-->
-    <string name="Paid">Con paga gratis</string>
+    <string name="Paid">Pagado</string>
     <string name="GAME">Juego</string>
     <string name="APP">Aplicación</string>
     <string name="NEW">Nuevo</string>
