@@ -31,7 +31,7 @@
     <string name="REFRESH">Reîmprospătare</string>
     <string name="Unable_to_connect_to_the_network">Nu ne putem conecta la internet.</string>
     <string name="Recommended_Game_Mods">Jocuri modificate recomandate</string>
-    <string name="Hot_Game_Mods">Modificări populare pentru jocuri</string>
+    <string name="Hot_Game_Mods">moduri de jocuri hot</string>
     <string name="Recommended_App_Mods">Aplicații modificate recomandate</string>
     <string name="Hot_App_Mods">Top moduri de aplicație</string>
     <string name="Recommended_New_Mods">Noi moduri recomandate</string>
@@ -45,7 +45,7 @@
     <string name="Translation">Traducere</string>
     <string name="Share">Distribuire</string>
     <string name="Checkforupdate">Verifica pentru actualizare</string>
-    <string name="FollowusonTwitter">Urmați-ne pe Twitter</string>
+    <string name="FollowusonTwitter">Urmați-ne pe Twitter </string>
     <string name="FollowusonFacebook">Urmariți-ne pe Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Rețeaua de alertă mobilă</string>
@@ -146,7 +146,7 @@
     <string name="verificationFail">Verificare eșuată. Vă rugăm încercați din nou!</string>
     <string name="Morehelp">(Mai mult ajutor)</string>
     <string name="uid">Numele de utilizator</string>
-    <string name="copysuccess">Userid a fost copiat în clipboard.</string>
+    <string name="copysuccess">Userld a fost copiat în clipboard.</string>
     <string name="watchnow">Afișați acum</string>
     <string name="ggdownloading">Anunțurile se încarcă, vă rugăm așteptați și păstrați HappyMod deschis.</string>
     <string name="verificaing">Verificăm, vă rog așteptați.</string>
@@ -211,13 +211,13 @@
     <string name="next">Următorul →</string>
     <string name="fblogdes">Va rugam sa introduceti un nume de utilizator. Numele de utilizator este un identificator foarte important pentru extragerea parolei, vă rugăm să rețineți.</string>
     <string name="selectusername">Selectați numele de utilizator</string>
-    <string name="reselpass_desone">Introduceți numele de utilizator al contului pentru a reseta parola. Aveți probleme cu resetarea parolei<u>contact us</u>.</string>
+    <string name="reselpass_desone">Introduceți numele de utilizator. Dacă aveți probleme cu resetarea parolei, <u>contactați-ne</u> .</string>
     <string name="reselpass_destwo">Introduceți adresa de e-mail sau numărul de telefon. Aveți probleme cu resetarea parolei<u>contactează-ne</u>.</string>
     <string name="forgetgosingup">Nu-mi amintesc niciuna dintre.Poti sa creezi un cont nou aici.</string>
     <string name="Resetpassword">Reseteaza parola</string>
     <string name="NewPassword">Parolă Nouă</string>
     <string name="Enterthepasswordagain">Confirmați parola</string>
-    <string name="signuplimitdes">Dispozitivul dvs. a atins numărul maxim de nume de utilizator înregistrate. Selectați numele de utilizator de mai jos pentru a vă conecta.</string>
+    <string name="signuplimitdes">Dispozitivul dvs. a atins numărul maxim de conturi înregistrate. Vă rugăm să selectați contul (conturile) de mai jos pentru a vă autentifica.</string>
     <string name="Register">Inregistreaza-te</string>
     <string name="eyun">Introduceți numele de utilizator</string>
     <string name="eypsw">Introduceți parola</string>
@@ -225,8 +225,8 @@
     <string name="Resetpasswordfailed">Resetarea parolei a eșuat.</string>
     <string name="Theusernamewasnotregistered">Numele de utilizator nu a fost înregistrat.</string>
     <string name="petceotn">Introduceți adresa de e-mail sau numărul de telefon corect.</string>
-    <string name="fbrfail">Înregistrarea Facebook a eșuat.</string>
-    <string name="Registerfailed">Înregistrarea a eșuat, confirmați că conexiunea la rețea este normală, faceți clic pe butonul de înregistrare pentru a încerca din nou.</string>
+    <string name="fbrfail">Înregistrarea pe Facebook a eșuat.</string>
+    <string name="Registerfailed">Înregistrarea nu a reușit, vă rugăm să vă asigurați că conexiunea la rețea este bună. Faceți clic pe butonul de înregistrare pentru a încerca din nou.</string>
     <string name="Loginfailed">Autentificare esuata.</string>
     <string name="me">Pe mine</string>
     <string name="Avatar">avatar</string>
