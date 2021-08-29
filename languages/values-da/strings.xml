@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="NEW">Ny</string>
+    <string name="Categories">Kategorier</string>
+    <string name="GAME">spil</string>
+    <string name="Paid">Betalt</string>
+    <string name="app_name">HappyMod</string>
+</resources>
