@@ -234,4 +234,5 @@
     <string name="Uploadfail">Не вдалося завантажити.</string>
     <string name="fbrfail">Помилка реєстрації через Facebook.</string>
     <string name="Updated">Оновлено</string>
+    <string name="worked">Працював</string>
 </resources>
