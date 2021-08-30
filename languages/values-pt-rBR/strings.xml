@@ -333,7 +333,7 @@
     <string name="appuploader">Aplicativo enviado por</string>
     <string name="votedresult">Você já votou neste app.</string>
     <string name="votedokok">Seu voto foi enviado com sucesso.</string>
-    <string name="addvideofaild">Falha ao adicionar um video! Por favor tenha certeza que sua rede é boa o suficiente para usar o YouTube e tente novamente.</string>
+    <string name="addvideofaild">Falha ao adicionar um vídeo! Por favor, tenha certeza que sua rede é boa o suficiente para usar o YouTube e tente novamente.</string>
     <string name="please_downlaodthisapp">Por favor instale este aplicativo primeiro.</string>
     <string name="safetitle">Aplicativo apk Garantido</string>
     <string name="safedes">Este apk passou pelo teste de segurança para vírus, malware. Foi usado uma assinatura virtual confiada e verificada.</string>
