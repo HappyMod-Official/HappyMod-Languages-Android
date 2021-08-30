@@ -44,7 +44,7 @@
     <string name="Translation">Tradução</string>
     <string name="Share">Partilhar</string>
     <string name="Checkforupdate">Verificar por actualização</string>
-    <string name="FollowusonTwitter">Siga-nos no Twitter</string>
+    <string name="FollowusonTwitter">Siga-nos no Twitter </string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
