@@ -345,7 +345,7 @@
     <string name="tipsinstallfail">Pemasangan gagal, sila cuba lagi.</string>
     <!--图片上传表达-->
     <string name="maxmbperimage">Maksimum 10MB setiap gambar.</string>
-    <string name="Imagesmustbelessthan">Gambar mestilah kurang dari 10MB, harap kurangkan dimensi gambar, simpan semula atau eksport semula fail anda, dan cuba muat naik semula.</string>
+    <string name="Imagesmustbelessthan">Gambar mestilah kurang dari 10MB, sila kurangkan dimensi gambar, simpan semula atau eksport semula fail anda, dan cuba muat naik semula.</string>
     <string name="installfailed">Pemasangan gagal.</string>
     <string name="miuides">Sila hidupkan Pilihan Pembangun, matikan pengoptimuman MIUI dan cuba lagi.</string>
     <string name="playdes">Main</string>
