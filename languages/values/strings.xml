@@ -22,7 +22,7 @@
     <!--首页-->
     <string name="Paid">Paid</string>
     <string name="GAME">Game</string>
-    <string name="APP">"Application "</string>
+    <string name="APP">App</string>
     <string name="NEW">New</string>
     <string name="Categories">Categories</string>
     <string name="games">Games</string>
