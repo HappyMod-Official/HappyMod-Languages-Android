@@ -44,7 +44,7 @@
     <string name="Translation">Перевод</string>
     <string name="Share">Поделиться</string>
     <string name="Checkforupdate">Проверить обновления</string>
-    <string name="FollowusonTwitter">Следите за нами в Твиттере</string>
+    <string name="FollowusonTwitter">Следите за нами в Твиттере </string>
     <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
     <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Больше версий</string>
     <string name="Recommend">Рекомендовать</string>
     <string name="Recommendmod">Рекомендуемый мод</string>
-    <string name="Moremods"> Больше модов</string>
+    <string name="Moremods">Больше модов</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
     <string name="Hated_it">Ненавижу это!</string>
