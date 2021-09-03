@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name">Mutlu mof</string>
-    <string name="Homecom">Homecom</string>
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -22,9 +22,9 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Ücretli</string>
-    <string name="GAME">OYUN</string>
-    <string name="APP">APP</string>
-    <string name="NEW">YENİ</string>
+    <string name="GAME">Oyun</string>
+    <string name="APP">Uygulama</string>
+    <string name="NEW">Yeni</string>
     <string name="Categories">Kategoriler</string>
     <string name="games">Oyunlar</string>
     <string name="REFRESH">Yenile</string>
@@ -44,8 +44,8 @@
     <string name="Share">Paylaş</string>
     <string name="Checkforupdate">Güncellemeleri kontrol et</string>
     <string name="FollowusonTwitter">Bizi Twitter\'da takip edin </string>
-    <string name="FollowusonFacebook">Facebook üzerinden bizi takip et</string>
-    <string name="settings_network_remind">Mobil Şebeke Uyarısı</string>
+    <string name="FollowusonFacebook">Bizi Facebook\'tan takip edin</string>
+    <string name="settings_network_remind">Hücresel Veri Uyarısı</string>
     <string name="settings_auto_install">Otomatik olarak yükle</string>
     <string name="Download_Directory">İndirme Dizini</string>
     <string name="settings_other">Diğer</string>
@@ -54,7 +54,7 @@
     <string name="des_no_serach_result">Hata! Sonuç bulunamadı.</string>
     <string name="Downloads">İndirilenler</string>
     <string name="Downloading">İndiriliyor</string>
-    <string name="Finished">İndirilmesi Bitenler</string>
+    <string name="Finished">Bitenler</string>
     <string name="No_Download">Dosya bulunamadı.</string>
     <string name="Pause">Duraklat</string>
     <string name="Waiting_in_queue">Kuyrukta bekliyor</string>
@@ -94,12 +94,12 @@
     <string name="Submit">Gönder</string>
     <string name="Hated_it">Nefret ETTİM!</string>
     <string name="Disliked_it">Beğenmedim.</string>
-    <string name="Its_ok">İyi 👍</string>
+    <string name="Its_ok">Tamamdır.</string>
     <string name="Liked_it">Beğendim.</string>
     <string name="Loved_it">Bayıldım!</string>
     <string name="share_happymod">‘HappyMod’ üzerinden paylaş</string>
     <string name="share_subject">Konuyu Paylaş</string>
-    <string name="share_text">% 100 çalışan modu indir @HappyMod
+    <string name="share_text">\@HappyMod ile %100 çalışan modlar indirin.
 \nhttps://www.happymod.com/</string>
     <string name="pref_location">Depolama yeri</string>
     <string name="force_des">% 100 Çalışan Modlar</string>
@@ -151,7 +151,7 @@
     <string name="Prime">Prime Sürüm</string>
     <string name="Plus">Plus Versiyon</string>
     <string name="VIP">VIP</string>
-    <string name="Substratum">Substratum</string>
+    <string name="Substratum">Alt tabaka</string>
     <string name="Debloated">Yararsızı Silin</string>
     <string name="Donate">Bağış Yap</string>
     <string name="AOSPcompatible">AOSP Uyumlu</string>
@@ -184,8 +184,8 @@
     <string name="forgotpassword">Şifreni mi unuttun\?</string>
     <string name="loginwithaccount">Veya kullanıcı adınızla giriş yapın</string>
     <string name="newur">Yeni kullanıcı kaydı</string>
-    <string name="Usernameinitnew">Kullanıcı adı (4-50 karakter Arasında)</string>
-    <string name="Passwordnew">Şifre (6-8 karakter Arasında)</string>
+    <string name="Usernameinitnew">Kullanıcı adı (4-50 karakter)</string>
+    <string name="Passwordnew">Şifre (6-8 karakter)</string>
     <string name="Emailnew">E-posta</string>
     <string name="PhoneNumber">Telefon numarası</string>
     <string name="Unknown">Bilinmeyen</string>
@@ -196,9 +196,9 @@
     <string name="next">Sonraki</string>
     <string name="fblogdes">Lütfen bir kullanıcı adı giriniz. Kullanıcı adı, şifreyi almak için çok önemli bir tanımlayıcıdır, lütfen aklınızda bulundurun.</string>
     <string name="selectusername">Kullanıcı adı seç</string>
-    <string name="reselpass_desone">Şifreyi sıfırlamak için hesabınızın kullanıcı adını girin. Parolayı sıfırlamakla ilgili herhangi bir sorununuz varsa<u>bizimle iletişime geç</u>.</string>
-    <string name="reselpass_destwo">Lütfen e-postayı veya telefon numarasını girin. Parolayı sıfırlamakla ilgili herhangi bir sorununuz varsa<u>bizimle iletişime geç</u>.</string>
-    <string name="forgetgosingup">Hiçbirini hatırlayamıyormusun\? Lütfen<u>yenj hesaba giriş yap</u>.</string>
+    <string name="reselpass_desone">Şifreyi sıfırlamak için hesabınızın kullanıcı adını girin. Parolayı sıfırlamakla ilgili herhangi bir sorununuz varsa <u>bizimle iletişime geçin</u>.</string>
+    <string name="reselpass_destwo">Lütfen e-postayı veya telefon numarasını girin. Parolayı sıfırlamakla ilgili herhangi bir sorununuz varsa <u>bizimle iletişime geç</u>.</string>
+    <string name="forgetgosingup">Hiçbirini hatırlayamıyormusun\? Yeni hesap oluşturabilirsin <u>Buradan</u>.</string>
     <string name="Resetpassword">Şifreyi sıfırla</string>
     <string name="NewPassword">Yeni Şifre</string>
     <string name="Enterthepasswordagain">Şifreyi onayla</string>
@@ -223,7 +223,7 @@
     <string name="Request">İstek</string>
     <string name="Youarerequesting">Senin isteklerin:</string>
     <string name="Addrequest">İstekte Bulun</string>
-    <string name="Myrequests">Benim isteklerim</string>
+    <string name="Myrequests">İsteklerim</string>
     <string name="Myuploads">Yüklemelerim</string>
     <string name="Updated">Güncellenmiş</string>
     <string name="Comingsoon">Çok yakında</string>
@@ -236,8 +236,8 @@
     <string name="isthiswork">Çalışıyor mu?</string>
     <string name="edit">Düzenle</string>
     <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL\'si:</string>
-    <string name="OBBDataurl">OBB / Data Zippyshare/Mediafire url\'si: (isteğe bağlı)</string>
-    <string name="Youarereupload">Yüklüyorsunuz:</string>
+    <string name="OBBDataurl">OBB dosyasının Zippyshare/Mediafire web adresi: (isteğe bağlı)</string>
+    <string name="Youarereupload">Karşıya yüklüyorsunuz:</string>
     <string name="Upload">Yükle</string>
     <string name="Uploadfail">Yükleme başarısız.</string>
     <string name="apkfail">Lütfen apk dosyasının Zippyshare/Mediafire URL\'sini girin.</string>
@@ -331,7 +331,8 @@
     <string name="hotrecommended">Popüler Tavsiye</string>
     <string name="searchappyouwanttoupload">Yüklemek istediğiniz uygulamayı arayın:</string>
     <string name="addapost">Bir yayın ekle</string>
-    <string name="launch_des">% 100 Çalışan Modları Bul Kullanıcılar tarafından yüklendi; Kullanıcılar tarafından Onaylandı!</string>
+    <string name="launch_des">%100 Çalışan Modları Bul
+\nKullanıcılar tarafından yüklendi; Kullanıcılar tarafından Onaylandı!</string>
     <string name="requestamod">Mod İsteyin</string>
     <string name="uploadamod">Bir mod yükle</string>
     <string name="Installing">yükleme</string>
@@ -372,9 +373,9 @@
     <string name="oagputc">Veya devam etmek için Google Play URL\'sini ekleyin</string>
     <string name="description">Açıklama:</string>
     <string name="uploadbanner">Afiş yükle (720 * 406)</string>
-    <string name="noedituploadtips">Herhangi bir değişiklik yapmadan gönderemezsiniz.</string>
+    <string name="noedituploadtips">Herhangi bir değişiklik yapmadan yayınlayamazsınız.</string>
     <string name="addexcusiveaddressixit">Bu apk zaten var.</string>
-    <string name="itisworkingonyourdevice">Cihazınızda çalışıyor mu?</string>
+    <string name="itisworkingonyourdevice">Bu uygulama cihazınızda çalışıyor mu\?</string>
     <string name="no_working">Çalışmıyor</string>
     <string name="vote_it">Oy ver</string>
     <string name="novirus">Virüs yok</string>
@@ -384,13 +385,13 @@
     <string name="votedandfail">Zaten incelediniz, lütfen "İncelemelerim" listesini kontrol edin.</string>
     <string name="fastdownloader">Daha Hızlı İndirme</string>
     <string name="usehtgetspeed">% 200\'den fazla hız elde etmek için HyperTorrent\'i kullanın.</string>
-    <string name="cleanfdft">temizle &amp; torrentler için hızlı indirici</string>
+    <string name="cleanfdft">Torrentler için temiz ve hızlı indirici</string>
     <string name="fasterspeed">Daha hızlı</string>
-    <string name="speedfordownloading">HappyMod\'dan büyük dosyaları indirmek için% 200 ~% 1.000 + hız.</string>
+    <string name="speedfordownloading">HappyMod\'dan büyük dosyaları indirmek için % 200 ~ % 1.000+ hız.</string>
     <string name="nolimits">Limit yok</string>
     <string name="nslnfsl">Hız limiti yok. Dosya boyutu sınırı yok.</string>
     <string name="Clean">Temiz</string>
-    <string name="Cdnoadfree">Temiz tasarım, reklam yok &amp; % 100 bedava!</string>
+    <string name="Cdnoadfree">Sade tasarım, reklam yok ve %100 bedava!</string>
     <string name="wrhtdbf">HyperTorrent\'in büyük dosyaları indirmesini öneriyoruz.</string>
     <string name="nothanks">Hayır teşekkürler</string>
     <string name="Checkthenetwork">Ağı kontrol edin</string>
