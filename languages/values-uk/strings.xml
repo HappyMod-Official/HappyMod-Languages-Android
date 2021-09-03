@@ -140,7 +140,7 @@
     <string name="Hot_Game_Mods">Гарячі Ігрові Моди</string>
     <string name="Last_Update_Mods">Останні Оновлення</string>
     <string name="Translation">Переклад</string>
-    <string name="FollowusonTwitter">Сладкуйте за нами у Твіттері </string>
+    <string name="FollowusonTwitter">Відстежуйте нас у Твіттері </string>
     <string name="Download_Directory">Завантажити Директорію</string>
     <string name="Finished">Завершено</string>
     <string name="UnZip_succeed">Видобування завершено</string>
@@ -173,7 +173,7 @@
     <string name="PhoneNumber">Номер телефону</string>
     <string name="enteryPhone">Введіть ваш номер телефону</string>
     <string name="signuptips">Коли Ви забуваєте пароль, вам буде потрібен номер телефону або ел. пошта, щоб скинути. Ми рекомендуємо заповнити їх.</string>
-    <string name="reselpass_desone">Введіть ім\'я корситувача вашого аккаунту, щоб скинути пароль. Якщо ви маєте якісь проблеми щодо скидання паролю, <u>зв\'яжіться з нами</u>.</string>
+    <string name="reselpass_desone">Введіть ім\'я користувача вашого аккаунту, щоб скинути пароль. Якщо ви маєте якісь проблеми щодо скидання паролю, <u>зв\'яжіться з нами</u>.</string>
     <string name="forgetgosingup">Не можете згадати жодного\? Ви можете створити новий аккаунт <u>тут</u>.</string>
     <string name="Resetpassword">Скинути пароль</string>
     <string name="NewPassword">Новий пароль</string>
