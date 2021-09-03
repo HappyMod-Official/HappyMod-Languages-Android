@@ -11,7 +11,7 @@
     <string name="REFRESH">Torneu a carregar</string>
     <string name="Unable_to_connect_to_the_network">No es pot connectar a la xarxa.</string>
     <string name="Recommended_Game_Mods">Mods de joc recomanats</string>
-    <string name="Hot_Game_Mods">Mods populars per a jocs</string>
+    <string name="Hot_Game_Mods">jocs</string>
     <string name="Share">Compartir</string>
     <string name="share_subject">Obteniu HappyMod</string>
     <string name="pref_location">Ubicació d\'emmagatzematge</string>
