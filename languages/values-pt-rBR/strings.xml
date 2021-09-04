@@ -212,7 +212,7 @@
     <string name="Comingsoon">Em breve</string>
     <string name="searchappyouwanttorequest">Procure o aplicativo que você deseja solicitar:</string>
     <string name="Addupload">Adicionar envio</string>
-    <string name="requesterror">O envio falhou, por favor tente novamente mais tarde.</string>
+    <string name="requesterror">Falha no envio, por favor, tente novamente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
     <string name="view">Ver</string>
     <string name="isthiswork">Funciona\?</string>
