@@ -7,7 +7,19 @@
 \n</string>
     <string name="Categories">فئات مال كس امك</string>
     <string name="facebook_app_id">عربية</string>
-    <string name="games">ايه</string>
+    <string name="games">العاب</string>
     <string name="Recommended_Game_Mods">ورع</string>
     <string name="NEW">بوبجي</string>
+    <string name="Settings">الاعدادات</string>
+    <string name="FollowusonFacebook">تابعنة على الفيسبوك</string>
+    <string name="Translation">الترجمة</string>
+    <string name="Share">المشاركة</string>
+    <string name="Waiting_in_queue">الانتضار في الطابور</string>
+    <string name="Completed">تم</string>
+    <string name="settings_other">اخر</string>
+    <string name="settings_auto_install">التنزيل التلقائي</string>
+    <string name="Homecom">Money 
+\nنقود
+\nRacing 
+\nسباق</string>
 </resources>
