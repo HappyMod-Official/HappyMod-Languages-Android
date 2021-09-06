@@ -32,7 +32,7 @@
     <string name="Recommended_Game_Mods">Mods Recomendados</string>
     <string name="Hot_Game_Mods">Mods de juegos populares</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
-    <string name="Hot_App_Mods">Mods de apk del momento</string>
+    <string name="Hot_App_Mods">Minecraft</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
@@ -244,7 +244,7 @@
     <string name="Comingsoon">Próximamente</string>
     <string name="searchappyouwanttorequest">Busque la aplicación que desea solicitar:</string>
     <string name="Addupload">Añadir carga</string>
-    <string name="requestdetailhint">Muéstranos más sobre su solicitud. (50 caracteres como mínimo)</string>
+    <string name="requestdetailhint">Muéstranos más sobre su solicitud. (50 caracteres como mínimo)no entiendo nada porque está entro idioma jjjjhftjgugfwhjh</string>
     <string name="requesterror">Envío fallido, por favor intente de nuevo más tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
     <string name="view">Ver</string>
