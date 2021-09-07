@@ -244,8 +244,8 @@
     <string name="Comingsoon">Coming soon</string>
     <string name="searchappyouwanttorequest">Search for the app you want to request:</string>
     <string name="Addupload">Add upload</string>
-    <string name="requestdetailhint">request detail suggestion</string>
-    <string name="requesterror">error request</string>
+    <string name="requestdetailhint">Tell more about your request. (Atleast 50 characters)</string>
+    <string name="requesterror">Submit failed, please try again later.</string>
     <string name="detailserror">(100–4000 characters)</string>
     <string name="view">View</string>
     <string name="isthiswork">Does it work?</string>
