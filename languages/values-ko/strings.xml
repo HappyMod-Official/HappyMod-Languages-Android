@@ -328,7 +328,7 @@
     <string name="h5_menu_shortcut">홈 화면에 추가</string>
     <string name="installplaywitouthti">설치하지 않고 즉시 재생</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">죄송합니다 ...</string>
+    <string name="crash_dialog_title">이런.</string>
     <string name="crash_toast_message">죄송합니다, APP 예외가 종료됩니다. 이메일을 통해 버그 보고서를 제출하십시오.</string>
     <string name="crash_dialog_message">죄송합니다. APP 예외입니다. 이메일을 통해 버그 보고서를 제출하십시오.</string>
     <string name="crash_dialog_feedback">버그 신고</string>
