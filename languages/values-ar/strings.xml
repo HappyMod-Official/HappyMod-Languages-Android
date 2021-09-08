@@ -320,7 +320,7 @@
     <string name="init_fail">فشلت التهيئة ، يرجى استخدام VPN أو التغيير إلى شبكات أخرى.</string>
     <string name="error_file_des">تم حذف هذا الملف ويتم إعادة تنزيله الآن.</string>
     <string name="sdpermission">نحتاج إلى الوصول إلى وحدة التخزين الخارجية الخاصة بك ، يرجى التأكد من منح الإذن.</string>
-    <string name="Night_Mode">الوضع الليلي</string>
+    <string name="Night_Mode">الوضع اليلي</string>
     <string name="thisty">اسم المستخدم هذا مأخوذ. جرب شئ اخر. متاح:</string>
     <!--home_feature-->
     <string name="Feature">متميز</string>
