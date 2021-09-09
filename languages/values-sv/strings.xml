@@ -19,7 +19,7 @@
     <string name="Moreversion">Fler Versioner</string>
     <string name="Recommend">Rekommendera</string>
     <string name="Recommendmod">Rekommenderad Mod</string>
-    <string name="Moremods">Fler mods</string>
+    <string name="Moremods">Senaste versionen</string>
     <string name="Submit">Skicka in</string>
     <string name="Hated_it">Avskydde det!</string>
     <string name="Disliked_it">Gillade inte.</string>
@@ -43,7 +43,7 @@
     <string name="APP">App</string>
     <string name="Categories">Kategorier</string>
     <string name="games">Spel</string>
-    <string name="NEW">Nya</string>
+    <string name="NEW">Ny</string>
     <string name="REFRESH">Uppdatera</string>
     <string name="Unable_to_connect_to_the_network">Kan inte ansluta till nätverket.</string>
     <string name="Recommended_Game_Mods">Rekommenderade Modds</string>
@@ -59,7 +59,7 @@
     <string name="Translation">Översättning</string>
     <string name="Share">Dela</string>
     <string name="Checkforupdate">Kolla efter uppdateringar</string>
-    <string name="FollowusonTwitter">Följ oss på Twitter</string>
+    <string name="FollowusonTwitter">Följ oss på Twitter </string>
     <string name="FollowusonFacebook">Följ oss på Facebook</string>
     <string name="settings_network_remind">Mobil Nätverks-Alert</string>
     <string name="settings_auto_install">Installera Automatiskt</string>
@@ -90,4 +90,21 @@
     <string name="Whydeletethisdownload">Varför radera denna nedladdning\?</string>
     <string name="NotwhatIwant">Ej vad jag vill ha</string>
     <string name="facebook_app_id">Hej jag heter asmo</string>
+    <string name="Original">Original</string>
+    <string name="No">Nej</string>
+    <string name="Yes">Ja</string>
+    <string name="bcdes">. Frigör lagringsutrymme och försök igen.</string>
+    <string name="No_enough_space_left_on_device">Inte tillräckligt utrymme. Behöver:</string>
+    <string name="updatenow">Uppdatera Nu</string>
+    <string name="initializing">Initierar</string>
+    <string name="language">Språk</string>
+    <string name="verificationFail">Misslyckad verifiering, var snäll och försök igen!</string>
+    <string name="Morehelp">(Mer hjälp)</string>
+    <string name="appobb">APK+OBB</string>
+    <string name="No_space_left_on_device">Inget utrymme kvar på enheten</string>
+    <string name="Is_this_app_you_need">Letar du efter den här appen\?</string>
+    <string name="need">; Tillgängliga:</string>
+    <string name="updateFail">Nedladdning misslyckad. Vänligen stäng och öppna på nytt</string>
+    <string name="Retrying">Försöker igen</string>
+    <string name="verificationShangXian">Hoppsan! Du har nått din dagliga nedladdningsgräns, försök igen om X timmar.</string>
 </resources>
