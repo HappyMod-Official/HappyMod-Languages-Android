@@ -29,7 +29,7 @@
     <string name="REFRESH">Odśwież</string>
     <string name="Unable_to_connect_to_the_network">Nie można uzyskać dostępu do internetu.</string>
     <string name="Recommended_Game_Mods">Polecane mody</string>
-    <string name="Hot_Game_Mods">Na czasie</string>
+    <string name="Hot_Game_Mods">Top modyfikacje</string>
     <string name="Recommended_App_Mods">Rekomendowane modyfikacje aplikacji</string>
     <string name="Hot_App_Mods">modyfikacje aplikacji na topie</string>
     <string name="Recommended_New_Mods">Nowe polecane mody</string>
@@ -42,8 +42,8 @@
     <string name="Translation">Tłumaczenie</string>
     <string name="Share">Udostępnij</string>
     <string name="Checkforupdate">Sprawdź aktualizacje</string>
-    <string name="FollowusonTwitter">Zaobserwój nas na Twitterze </string>
-    <string name="FollowusonFacebook">Śledź nas na facebooku</string>
+    <string name="FollowusonTwitter">Obserwuj nas na Twitterze </string>
+    <string name="FollowusonFacebook">Śledź nas na Facebooku</string>
     <string name="settings_network_remind">Alarm sieci komórkowej</string>
     <string name="settings_auto_install">Automatyczna instalacja</string>
     <string name="Download_Directory">Katalog pobierania</string>
@@ -56,7 +56,7 @@
     <string name="Finished">Zakończone</string>
     <string name="No_Download">Nie znaleziono pliku.</string>
     <string name="Pause">Pauza</string>
-    <string name="Waiting_in_queue">Czekam w kolejce</string>
+    <string name="Waiting_in_queue">Oczekuje w kolejce</string>
     <string name="Completed">Zakończony</string>
     <string name="UnZiping">Wypakowywanie</string>
     <string name="UnZip_succeed">Zakończono wyodrębnianie</string>
@@ -89,7 +89,7 @@
     <string name="Moreversion">Więcej wersji</string>
     <string name="Recommend">Polecane</string>
     <string name="Recommendmod">Polecany mod</string>
-    <string name="Moremods">" Najnowsze wersje "</string>
+    <string name="Moremods">Najnowsze wersje</string>
     <string name="Submit">Zatwierdź</string>
     <string name="Hated_it">Nienawidzę tego!</string>
     <string name="Disliked_it">Nie lubię tego.</string>
