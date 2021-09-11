@@ -96,7 +96,7 @@
     <string name="Moreversion">Mais Versões</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Versões Mais Recentes</string>
+    <string name="Moremods">Versões Mais Recentes :)</string>
     <!--评分-->
     <string name="Submit">Submeter</string>
     <string name="Hated_it">Odiei!</string>
@@ -244,7 +244,21 @@
     <string name="Comingsoon">Em breve</string>
     <string name="searchappyouwanttorequest">Procure o aplicativo que deseja solicitar:</string>
     <string name="Addupload">Adicionar upload</string>
-    <string name="requestdetailhint">Conte mais sobre seu pedido. (Pelo menos 50 caracteres)</string>
+    <string name="requestdetailhint">Eu
+\nNão
+\nSei
+\nTa
+\nBom
+\n\?
+\nO
+\nBri
+\nGa
+\nDo
+\nPera
+\nGado
+\n\?
+\nWtf
+\nMano</string>
     <string name="requesterror">O envio falhou. Tente novamente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
     <string name="view">Visão</string>
