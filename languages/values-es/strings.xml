@@ -31,8 +31,8 @@
     <string name="Unable_to_connect_to_the_network">Imposible conectar a la red.</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods de juegos populares</string>
-    <string name="Recommended_App_Mods">Mods recomendados</string>
-    <string name="Hot_App_Mods">Minecraft</string>
+    <string name="Recommended_App_Mods">Mods de app recomendados</string>
+    <string name="Hot_App_Mods">Mods de app populares</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
@@ -208,7 +208,7 @@
     <string name="signuptips">Si olvida su contraseña, necesitará un número de teléfono o una dirección de correo electrónico para recuperarla. Le recomendamos que los agregue.</string>
     <string name="confirmusername">Confirme nombre de usuario</string>
     <string name="next">Siguiente</string>
-    <string name="fblogdes">Por favor, ingrese un nombre de usuario. El nombre de usuario es un identificador muy importante para recuperar su contraseña, téngalo en cuenta</string>
+    <string name="fblogdes">Por favor, ingrese un nombre de usuario. El nombre de usuario es un identificador muy importante para recuperar su contraseña, téngalo en cuenta.</string>
     <string name="selectusername">Elija un nombre de usuario</string>
     <string name="reselpass_desone">Ingrese su nombre de usuario. Si tiene algún problema para restablecer su contraseña, <u> contáctenos </u>.</string>
     <string name="reselpass_destwo">Por favor, introduzca el correo electrónico o el número de teléfono. Si tienes algún problema con el restablecimiento de la contraseña, <u>contáctanos</u>.</string>
