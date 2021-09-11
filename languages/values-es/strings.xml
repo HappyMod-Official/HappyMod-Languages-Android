@@ -29,7 +29,7 @@
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
     <string name="Unable_to_connect_to_the_network">Imposible conectar a la red.</string>
-    <string name="Recommended_Game_Mods">Mods Recomendados</string>
+    <string name="Recommended_Game_Mods">"Recomendación de  mods para juegos"</string>
     <string name="Hot_Game_Mods">Mods de juegos populares</string>
     <string name="Recommended_App_Mods">Mods recomendados</string>
     <string name="Hot_App_Mods">Minecraft</string>
