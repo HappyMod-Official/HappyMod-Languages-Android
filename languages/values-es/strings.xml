@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">Mod Felizmente</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -28,7 +28,7 @@
     <string name="Categories">Categorías</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
-    <string name="Unable_to_connect_to_the_network">No se puede conectar a la red</string>
+    <string name="Unable_to_connect_to_the_network">No se puede conectar a la red.</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods populares para descargar</string>
     <string name="Recommended_App_Mods">Mods de app recomendados</string>
@@ -37,7 +37,7 @@
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
     <!-- slide-->
-    <string name="Homeweb">Casa</string>
+    <string name="Homeweb">Inicio</string>
     <string name="Management">Administración</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
@@ -59,7 +59,7 @@
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
     <string name="Finished">Finalizado</string>
-    <string name="No_Download">Archivo no encontrado</string>
+    <string name="No_Download">Archivo no encontrado.</string>
     <string name="Pause">Pausa</string>
     <string name="Waiting_in_queue">Esperando en la cola</string>
     <string name="Completed">Terminado</string>
