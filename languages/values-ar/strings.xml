@@ -217,7 +217,7 @@
     <string name="Myposts">مشاركاتي</string>
     <string name="passowrduploadok">تم تغيير كلمة السر بنجاح</string>
     <string name="logout">تسجيل الخروج</string>
-    <string name="passwordsame">كلمتا المرور اللتان أدخلتهما غير متطابقتين</string>
+    <string name="passwordsame">كلمات المرور غير متطابقة.</string>
     <string name="PopularComments">تعليقات شائعة</string>
     <string name="Request">طلب</string>
     <string name="Youarerequesting">أنت تطلب:</string>
@@ -228,7 +228,7 @@
     <string name="Comingsoon">قريبا</string>
     <string name="searchappyouwanttorequest">ابحث في التطبيق الذي تريد طلبه:</string>
     <string name="Addupload">رفع تطبيق</string>
-    <string name="requestdetailhint">اريد التطبيق عربي</string>
+    <string name="requestdetailhint">أكتب المزيد عن طلبك.</string>
     <string name="requesterror">فشل الإرسال ، يرجى المحاولة مرة أخرى لاحقًا.</string>
     <string name="detailserror">(100-4000 حرف)</string>
     <string name="view">عرض</string>
