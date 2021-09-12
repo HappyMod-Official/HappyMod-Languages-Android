@@ -228,9 +228,9 @@
     <string name="Comingsoon">قريبا</string>
     <string name="searchappyouwanttorequest">ابحث في التطبيق الذي تريد طلبه:</string>
     <string name="Addupload">رفع تطبيق</string>
-    <string name="requestdetailhint">أكتب المزيد عن طلبك.</string>
+    <string name="requestdetailhint">أكتب المزيد عن سءالك او طلبك على الاقل ٥٠ حرف</string>
     <string name="requesterror">فشل الإرسال ، يرجى المحاولة مرة أخرى لاحقًا.</string>
-    <string name="detailserror">(100-4000 حرف)</string>
+    <string name="detailserror">(١٠٠ إلى ٤٠٠٠ حرف)</string>
     <string name="view">عرض</string>
     <string name="isthiswork">هل يعمل؟</string>
     <string name="edit">تعديل</string>
