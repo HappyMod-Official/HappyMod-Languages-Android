@@ -23,15 +23,15 @@
     <!--首页-->
     <string name="Paid">Bezahlt</string>
     <string name="GAME">Spiel</string>
-    <string name="APP">Applikation</string>
+    <string name="APP">App</string>
     <string name="NEW">Neu</string>
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisieren</string>
     <string name="Unable_to_connect_to_the_network">Es konnte keine Verbindung zum Netzwerk hergestellt werden.</string>
     <string name="Recommended_Game_Mods">Empfohlene Spiel-Mods</string>
-    <string name="Hot_Game_Mods">Beliebte Spiel mods</string>
-    <string name="Recommended_App_Mods">Empfohlene App mods</string>
+    <string name="Hot_Game_Mods">Beliebte Spiel Mods</string>
+    <string name="Recommended_App_Mods">Empfohlene App Mods</string>
     <string name="Hot_App_Mods">Beliebte App Mods</string>
     <string name="Recommended_New_Mods">Neue empfohlene Mods</string>
     <string name="Last_Update_Mods">Neueste Updates</string>
@@ -43,22 +43,22 @@
     <string name="Feedback">Rückmeldung</string>
     <string name="Translation">Übersetzung</string>
     <string name="Share">Teilen</string>
-    <string name="Checkforupdate">Nach neuen Updates prüfen</string>
-    <string name="FollowusonTwitter">Folg unserem Twitter </string>
+    <string name="Checkforupdate">Auf Updates prüfen</string>
+    <string name="FollowusonTwitter">Folge uns auf Twitter </string>
     <string name="FollowusonFacebook">Folge uns auf Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobiles Netzwerk Warnung</string>
     <string name="settings_auto_install">Automatische Installation</string>
-    <string name="Download_Directory">Download Verzeichnis</string>
+    <string name="Download_Directory">Downloads</string>
     <string name="settings_other">Weitere</string>
     <string name="settings_clear_cache">Cache leeren</string>
-    <string name="Clean_up_the_complete">Der Cache wurde geleert.</string>
+    <string name="Clean_up_the_complete">Cache wurde geleert.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Hoppla! Kein passendes Ergebnis für deine Suchanfrage gefunden.</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Wird heruntergeladen</string>
-    <string name="Finished">Beendet</string>
+    <string name="Finished">Fertig</string>
     <string name="No_Download">Keine Dateien gefunden.</string>
     <string name="Pause">Pausieren</string>
     <string name="Waiting_in_queue">Warten auf Download</string>
@@ -69,14 +69,14 @@
     <string name="Rated">Bewertet</string>
     <string name="Version">Version</string>
     <string name="Ratingsreviews">Bewertungen &amp; Rezensionen</string>
-    <string name="Tryitlater">Versuchen Sie es später noch einmal</string>
+    <string name="Tryitlater">Versuche es später noch einmal</string>
     <string name="Serviceisbusy">Verbinden…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Beachten</string>
-    <string name="deletethistask">Löschen Sie diese Datei</string>
+    <string name="deletethistask">Datei löschen</string>
     <string name="Cancel">Abbrechen</string>
     <string name="Delete">Löschen</string>
-    <string name="Whydeletethisdownload">Warum löschen Sie diesen Download\?</string>
+    <string name="Whydeletethisdownload">Warum hast du den Download gelöscht\?</string>
     <string name="NotwhatIwant">Nicht das was ich wollte</string>
     <string name="Downloadfailed">Download fehlgeschlagen</string>
     <string name="Downloadistooslow">Download ist zu langsam</string>
@@ -93,21 +93,21 @@
     <string name="Connecting">Verbinden…</string>
     <string name="readmore">Weiterlesen</string>
     <string name="modfeature">Mod Info:</string>
-    <string name="Moreversion">Mehr Versionen</string>
+    <string name="Moreversion">Weitere Versionen</string>
     <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
-    <string name="Moremods">Mehr Mods</string>
+    <string name="Moremods">Aktuelle Version</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
     <string name="Hated_it">Ich habe es gehasst!</string>
     <string name="Disliked_it">Mir hat es nicht gefallen.</string>
-    <string name="Its_ok">Es ist in Ordnung.</string>
+    <string name="Its_ok">Ist Okay.</string>
     <string name="Liked_it">Hat mir gefallen.</string>
     <string name="Loved_it">Ich liebe es!</string>
     <!--分享-->
-    <string name="share_happymod">Teilen Sie \'HappyMod\' über</string>
-    <string name="share_subject">Holen Sie sich HappyMod</string>
-    <string name="share_text">Laden Sie sich 100% Funktionierende Modifikationen herunter mit @HappyMod
+    <string name="share_happymod">Teile \'HappyMod\' über</string>
+    <string name="share_subject">Hol dir HappyMod</string>
+    <string name="share_text">Lade 100% Funktionierende Mods herunter mit @HappyMod
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Speicherort</string>
@@ -117,17 +117,17 @@
     <string name="OPEN">ÖFFNEN</string>
     <string name="OK">OK</string>
     <string name="Loading">Wird geladen…</string>
-    <string name="updata_tip">Sie verwenden die neueste stabile Version von HappyMod</string>
-    <string name="xzzb">Bitte laden Sie die offizielle HappyMod App herunter.</string>
-    <string name="Continue">Fortfahren</string>
+    <string name="updata_tip">Du verwendest die neueste stabile Version von HappyMod</string>
+    <string name="xzzb">Bitte lade die offizielle HappyMod App herunter.</string>
+    <string name="Continue">Fortsetzen</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Nicht genug Speicherplatz auf ihrem Gerät frei</string>
-    <string name="Is_this_app_you_need">Ist dies die App nach der Sie suchen\?</string>
+    <string name="No_space_left_on_device">Nicht genügend Speicherplatz</string>
+    <string name="Is_this_app_you_need">Suchst du diese App\?</string>
     <string name="No">Nein</string>
     <string name="Yes">Ja</string>
-    <string name="bcdes">. Entfernen Sie paar Dateien von Ihrem Gerät und versuchen Sie es erneut.</string>
+    <string name="bcdes">.Lösche Dateien vom Gerät und versuchen es erneut.</string>
     <string name="need">; Verfügbar:</string>
-    <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. Sie brauchen:</string>
+    <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. :</string>
     <string name="updatenow">Jetzt aktualisieren</string>
     <string name="updateFail">Download fehlgeschlagen. Bitte schließen und wieder öffnen</string>
     <string name="initializing">Initialisierung</string>
@@ -138,24 +138,24 @@
     <string name="s_New">Neu</string>
     <string name="apps">Apps</string>
     <!-- 大文件 -->
-    <string name="mergering">Endbearbeitung</string>
-    <string name="mergerwait">Endverarbeitung (Ca. 1-2 Minuten)</string>
+    <string name="mergering">Fertigstellen</string>
+    <string name="mergerwait">Fertigstellen (Ca. 1-2 Minuten)</string>
     <!-- 验证 -->
     <string name="Startverification">Verifizierung starten</string>
-    <string name="verificationShangXian">Hoppla! Sie haben das tägliche Downloadlimit erreicht. Versuchen Sie es nach X Stunden erneut.</string>
-    <string name="verificationFail">Verifizierung fehlgeschlagen. Bitte versuchen Sie es erneut!</string>
+    <string name="verificationShangXian">Hoppla! Du hast das tägliche Downloadlimit erreicht. Versuchen es nach X Stunden erneut.</string>
+    <string name="verificationFail">Verifizierung fehlgeschlagen. Bitte versuche es erneut!</string>
     <string name="Morehelp">(Mehr Hilfe)</string>
-    <string name="uid">Benutzeridentifikation</string>
-    <string name="copysuccess">UserId wurde in die Zwischenablage kopiert.</string>
+    <string name="uid">NutzerID</string>
+    <string name="copysuccess">NutzerID wurde in die Zwischenablage kopiert.</string>
     <string name="watchnow">Jetzt ansehen</string>
-    <string name="ggdownloading">Werbungen werden geladen. Bitte warten Sie und halten Sie HappyMod offen.</string>
-    <string name="verificaing">Bitte warten Sie bis zum Ende der Bestätigung.</string>
+    <string name="ggdownloading">Werbung wird geladen. Bitte warten und HappyMod nicht beenden</string>
+    <string name="verificaing">Verifizierung, bitte warten.</string>
     <!-- 评价 -->
-    <string name="Removeads">Anzeigen entfernen</string>
+    <string name="Removeads">Werbung entfernen</string>
     <string name="Paidforfree">Kostenlos</string>
-    <string name="Unlimitedmoney">Unendlich viel Geld</string>
-    <string name="Freepurchase">Kostenloser Kauf</string>
-    <string name="Freeshopping">Gratis einkaufen</string>
+    <string name="Unlimitedmoney">Unbegrenztes Geld</string>
+    <string name="Freepurchase">Kostenlos</string>
+    <string name="Freeshopping">Gratis</string>
     <string name="Unlocked">Entsperrt</string>
     <string name="Patched">Gepatched</string>
     <string name="Premium">Premium</string>
@@ -165,13 +165,13 @@
     <string name="Prime">Prime</string>
     <string name="Plus">Plus Version</string>
     <string name="VIP">VIP</string>
-    <string name="Substratum">Untere Schicht</string>
-    <string name="Debloated">Nutzlos löschen</string>
-    <string name="Donate">Spende</string>
+    <string name="Substratum">Oberfläche</string>
+    <string name="Debloated">Bloatware entfernen</string>
+    <string name="Donate">Spenden</string>
     <string name="AOSPcompatible">AOSP-kompatibel</string>
-    <string name="Cracked">Knacken</string>
+    <string name="Cracked">Gecrackt</string>
     <string name="NoAds">Keine Werbung</string>
-    <string name="Infinite">Endlos</string>
+    <string name="Infinite">Unbegrenzt</string>
     <string name="Endless">Unendlichkeit</string>
     <string name="Invincible">Unbesiegbar</string>
     <string name="Unlimitedhints">Unendliche Hinweise</string>
