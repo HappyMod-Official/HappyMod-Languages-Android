@@ -184,7 +184,7 @@
     <string name="Password">Passwort</string>
     <string name="Enteryourpassword">6-8 Zeichen</string>
     <string name="passwordtip">Nur Buchstaben A-Z, a-z, Zahlen (keine Leerzeichen oder Sonderzeichen). 6-8 Zeichen.</string>
-    <string name="nicknametip">Dieser Benutzername wird bereits benutzt.</string>
+    <string name="nicknametip">Dieser Benutzername wird bereits genutzt.</string>
     <string name="Nickname">Spitzname</string>
     <string name="Emailaddress">E-Mail-Adresse</string>
     <string name="Enteryouremail">Geben Sie ihre E-Mail Adresse ein</string>
