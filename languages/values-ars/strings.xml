@@ -5,11 +5,11 @@
     <string name="GAME">لعبة</string>
     <string name="APP">برنامج
 \n</string>
-    <string name="Categories">فئات مال كس امك</string>
+    <string name="Categories">قاتل الشياطين</string>
     <string name="facebook_app_id">عربية</string>
     <string name="games">العاب</string>
     <string name="Recommended_Game_Mods">ورع</string>
-    <string name="NEW">بوبجي</string>
+    <string name="NEW">ببجي موبايل</string>
     <string name="Settings">الاعدادات</string>
     <string name="FollowusonFacebook">تابعنة على الفيسبوك</string>
     <string name="Translation">الترجمة</string>
@@ -22,4 +22,5 @@
 \nنقود
 \nRacing 
 \nسباق</string>
+    <string name="REFRESH">ريفريسو</string>
 </resources>
