@@ -44,7 +44,7 @@
     <string name="Translation">Tradução</string>
     <string name="Share">Partilhar</string>
     <string name="Checkforupdate">Verificar por actualização</string>
-    <string name="FollowusonTwitter">Siga-nos no Twitter </string>
+    <string name="FollowusonTwitter">Siga-nos no Twitter. </string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
@@ -244,21 +244,7 @@
     <string name="Comingsoon">Em breve</string>
     <string name="searchappyouwanttorequest">Procure o aplicativo que deseja solicitar:</string>
     <string name="Addupload">Adicionar upload</string>
-    <string name="requestdetailhint">Eu
-\nNão
-\nSei
-\nTa
-\nBom
-\n\?
-\nO
-\nBri
-\nGa
-\nDo
-\nPera
-\nGado
-\n\?
-\nWtf
-\nMano</string>
+    <string name="requestdetailhint">Conte mais sobre seu pedido. (Pelo menos 50 caracteres)</string>
     <string name="requesterror">O envio falhou. Tente novamente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
     <string name="view">Visão</string>
