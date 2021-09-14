@@ -22,12 +22,12 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Pago</string>
-    <string name="GAME">JOGO</string>
+    <string name="GAME">Jogo</string>
     <string name="APP">Aplicação</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
-    <string name="REFRESH">Atualizar</string>
+    <string name="REFRESH">Recarregar</string>
     <string name="Unable_to_connect_to_the_network">Incapaz de se ligar à internet.</string>
     <string name="Recommended_Game_Mods">Mods de Jogos recomendados</string>
     <string name="Hot_Game_Mods">Mods populares para jogos</string>
