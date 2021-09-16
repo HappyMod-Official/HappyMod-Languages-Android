@@ -23,9 +23,9 @@
     <!--homepage-->
     <string name="Paid">Pagado</string>
     <string name="GAME">Juego</string>
-    <string name="APP">Aplicación</string>
-    <string name="NEW">Nuevo</string>
-    <string name="Categories">Categorías</string>
+    <string name="APP">Suasage man</string>
+    <string name="NEW">Juego</string>
+    <string name="Categories">Gratis</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
     <string name="Unable_to_connect_to_the_network">No se puede conectar a la red.</string>
