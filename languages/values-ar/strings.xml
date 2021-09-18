@@ -130,7 +130,7 @@
     <string name="Startverification">ابدأ التحقق</string>
     <string name="verificationShangXian">لقد وصلت إلى حد التنزيل اليومي ، حاول مرة أخرى بعد X ساعة.</string>
     <string name="verificationFail">فشل التحقق ، يرجى المحاولة مرة أخرى!</string>
-    <string name="Morehelp">(المزيد من المساعدة)</string>
+    <string name="Morehelp">MANIFEST.MF</string>
     <string name="uid">هوية المستخدم</string>
     <string name="copysuccess">تم نسخ هوية المستخدم إلى الحافظة.</string>
     <string name="watchnow">شاهد الآن</string>
@@ -214,7 +214,7 @@
     <string name="Loginfailed">فشل تسجيل الدخول.</string>
     <string name="me">أنا</string>
     <string name="Avatar">الصورة الرمزية</string>
-    <string name="Myposts">مشاركاتي</string>
+    <string name="Myposts">…“…karE</string>
     <string name="passowrduploadok">تم تغيير كلمة السر بنجاح</string>
     <string name="logout">تسجيل الخروج</string>
     <string name="passwordsame">كلمات المرور غير متطابقة.</string>
