@@ -8,9 +8,9 @@
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
-    <string name="Unable_to_connect_to_the_network">Não foi possível conectar-se à rede.</string>
-    <string name="Hot_Game_Mods">Mods de Jogos em Alta</string>
-    <string name="Recommended_App_Mods">Mods de Aplicativos Recomendados</string>
+    <string name="Unable_to_connect_to_the_network">Não foi possível conectar-se à rede!</string>
+    <string name="Hot_Game_Mods">Jogos modificados em alta</string>
+    <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
     <string name="SearchHint">Procurar</string>
     <string name="Homeweb">Website Oficial</string>
@@ -58,7 +58,7 @@
     <string name="Downloaded">Baixado</string>
     <string name="Install">Instalar</string>
     <string name="readmore">Ler Mais</string>
-    <string name="Hot_App_Mods">Mods de Aplicativos em Alta</string>
+    <string name="Hot_App_Mods">Aplicativos modificados em alta</string>
     <string name="Moreversion">Mais Versões</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
@@ -153,9 +153,9 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">Nome do Aplicativo</string>
     <string name="REFRESH">Recarregar</string>
-    <string name="Recommended_Game_Mods">Mods de Jogos Recomendados</string>
+    <string name="Recommended_Game_Mods">Jogos modificados recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <string name="des_no_serach_result">Ops! Nenhum resultado encontrado.</string>
