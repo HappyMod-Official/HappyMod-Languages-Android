@@ -28,14 +28,14 @@
     <string name="Categories">หมวดหมู่</string>
     <string name="games">เกม</string>
     <string name="REFRESH">รีเฟรช</string>
-    <string name="Unable_to_connect_to_the_network">ไม่สามารถเข้าถึงอินเทอร์เน็ต</string>
-    <string name="Recommended_Game_Mods">แนะนำเกม Mods</string>
-    <string name="Hot_Game_Mods">Hot Game Mods</string>
-    <string name="Recommended_App_Mods">แอพที่แนะนำ</string>
-    <string name="Hot_App_Mods">Hot App Mods</string>
+    <string name="Unable_to_connect_to_the_network">ไม่มีการเชื่อมต่ออินเทอร์เน็ต!</string>
+    <string name="Recommended_Game_Mods">ม็อดเกมแนะนำ</string>
+    <string name="Hot_Game_Mods">ม็อดเกมสุดฮิต</string>
+    <string name="Recommended_App_Mods">แอพแนะนำ</string>
+    <string name="Hot_App_Mods">ม็อดเกมสุดฮิต</string>
     <string name="Recommended_New_Mods">แนะนำ Mods ใหม่</string>
     <string name="Last_Update_Mods">อัพเดทล่าสุด</string>
-    <string name="SearchHint">ค้นหา..</string>
+    <string name="SearchHint">ค้นหา...</string>
     <!-- 侧滑-->
     <string name="Homeweb">เว็บไซต์ทางการ</string>
     <string name="Management">การจัดการ</string>
@@ -43,8 +43,8 @@
     <string name="Feedback">ผลตอบรับ</string>
     <string name="Translation">การแปล</string>
     <string name="Share">หุ้น</string>
-    <string name="Checkforupdate">ตรวจสอบสำหรับการปรับปรุง</string>
-    <string name="FollowusonTwitter">ติดตามเราบน Twitter</string>
+    <string name="Checkforupdate">ตรวจสอบการอัพเดทเวอร์ชั่น</string>
+    <string name="FollowusonTwitter">ติดตามพวกเราบน Twitter </string>
     <string name="FollowusonFacebook">ติดตามเราบน Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">การแจ้งเตือนเครือข่ายมือถือ</string>
@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">ล้างแคช</string>
     <string name="Clean_up_the_complete">ล้างแคชแล้ว</string>
     <!--空数据页-->
-    <string name="des_no_serach_result"> อ๊ะ! ไม่พบผลลัพธ์</string>
+    <string name="des_no_serach_result">อ๊ะ! ไม่มีผลลัพธ์จากการค้นหา</string>
     <!--下载管理页-->
     <string name="Downloads">ดาวน์โหลด</string>
     <string name="Downloading">ดาวน์โหลด</string>
@@ -69,7 +69,7 @@
     <string name="Rated">จัดอันดับ</string>
     <string name="Version">รุ่น</string>
     <string name="Ratingsreviews">ความนิยม &amp; ความคิดเห็น</string>
-    <string name="Tryitlater">ลองอีกครั้งในภายหลัง</string>
+    <string name="Tryitlater">ลองใหม่อีกครั้งภายหลัง</string>
     <string name="Serviceisbusy">การเชื่อมต่อ...</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">แจ้งให้ทราบ</string>
@@ -85,15 +85,15 @@
     <string name="Original">เป็นต้นฉบับ</string>
     <string name="Previousversion">รุ่นก่อนหน้า</string>
     <string name="Download">ดาวน์โหลด</string>
-    <string name="Downloadobb">ดาวน์โหลด (APK+OBB)</string>
-    <string name="Downloaddata">ดาวน์โหลด(APK+DATA)</string>
+    <string name="Downloadobb">ดาวน์โหลด (APKและOBB)</string>
+    <string name="Downloaddata">ดาวน์โหลด (APKและDATA)</string>
     <string name="Downloadboundle">ดาวน์โหลดBUNDLE</string>
     <string name="Downloaded">ดาวน์โหลด</string>
     <string name="Install">ติดตั้ง</string>
     <string name="Connecting">การเชื่อมต่อ...</string>
     <string name="readmore">อ่านเพิ่มเติม</string>
     <string name="modfeature">แก้ไขข้อมูล:</string>
-    <string name="Moreversion">รุ่นอื่น ๆ</string>
+    <string name="Moreversion">เวอร์ชั่นอื่นๆ</string>
     <string name="Recommend">แนะนำ</string>
     <string name="Recommendmod">Mod ที่แนะนำ</string>
     <string name="Moremods">Mods เพิ่มเติม</string>
@@ -102,7 +102,7 @@
     <string name="Hated_it">เกลียดมัน!</string>
     <string name="Disliked_it">ไม่ชอบเลย</string>
     <string name="Its_ok">ไม่เป็นไร.</string>
-    <string name="Liked_it">ชอบมัน.</string>
+    <string name="Liked_it">ชอบ</string>
     <string name="Loved_it">รักมัน!</string>
     <!--分享-->
     <string name="share_happymod">แชร์ \'HappyMod\' ผ่านทาง</string>
@@ -112,15 +112,15 @@
     <string name="pref_location">ที่เก็บสินค้า</string>
     <!--update -->
     <string name="force_des">Mods ทำงาน 100%</string>
-    <string name="nvisrti">เวอร์ชั่นใหม่พร้อมติดตั้งแล้ว</string>
+    <string name="nvisrti">เวอร์ชั่นใหม่พร้อมที่จะติดตั้งแล้ว</string>
     <string name="OPEN">เปิด</string>
     <string name="OK">ตกลง</string>
-    <string name="Loading">กำลังโหลด......</string>
+    <string name="Loading">กำลังโหลด…</string>
     <string name="updata_tip">คุณกำลังใช้ HappyMod เวอร์ชั่นล่าสุดที่เสถียร</string>
-    <string name="xzzb">กรุณาดาวน์โหลด HappyMod อย่างเป็นทางการ</string>
+    <string name="xzzb">กรุณาดาวน์โหลด HappyMod จากแหล่งที่อย่างเป็นทางการ</string>
     <string name="Continue">ต่อ</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">ไม่มีพื้นที่เหลือบนอุปกรณ์</string>
+    <string name="No_space_left_on_device">พื้นที่จัดเก็บข้อมูลไม่เพียงพอ</string>
     <string name="Is_this_app_you_need">คุณกำลังมองหาแอพนี้หรือไม่?</string>
     <string name="No">ไม่</string>
     <string name="Yes">ใช่</string>
@@ -141,14 +141,14 @@
     <string name="mergerwait">การประมวลผลขั้นสุดท้าย (ต้องการ 1-2 นาที)</string>
     <!-- 验证 -->
     <string name="Startverification">เริ่มการยืนยัน</string>
-    <string name="verificationShangXian">อ๊ะ! คุณดาวน์โหลดเกินจำนวนสูงสุดต่อวันแล้วลองอีกครั้งหลังจากผ่านไป X ชั่วโมง</string>
+    <string name="verificationShangXian">โอ้ว! คุณดาวน์โหลดเกินความจำกัดต่อวันแล้ว โหลดอีกครั้งหลังจาก X ชั่วโมง</string>
     <string name="verificationFail">การยืนยันล้มเหลวโปรดลองอีกครั้ง!</string>
     <string name="Morehelp">(ความช่วยเหลือเพิ่มเติม)</string>
     <string name="uid">หมายเลขผู้ใช้</string>
-    <string name="copysuccess">คัดลอกหมายเลขผู้ใช้ไปยังคลิปบอร์ดแล้ว</string>
+    <string name="copysuccess">คัดลอกหมายเลขผู้ใช้แล้ว</string>
     <string name="watchnow">ดูตอนนี้</string>
-    <string name="ggdownloading">กำลังโหลดโฆษณาโปรดรอและเปิด happymod ต่อไป</string>
-    <string name="verificaing">กรุณารอสักครู่ในการตรวจสอบ</string>
+    <string name="ggdownloading">กำลังโหลดโฆษณารอสักครู่ และอย่าปิดแอพ</string>
+    <string name="verificaing">กำลังตรวจสอบ กรุณารอสักครู่</string>
     <!-- 评价 -->
     <string name="Removeads">ลบโฆษณา</string>
     <string name="Paidforfree">ฟรี</string>
@@ -179,60 +179,60 @@
     <!--注册登录-->
     <string name="Username">ชื่อผู้ใช้</string>
     <string name="Usernameinit">4-50 ตัวอักษร</string>
-    <string name="Usernametip">เฉพาะตัวอักษร a-z, ตัวเลข, @ - _ โปรด (ไม่มีช่องว่างหรืออักขระพิเศษอื่น ๆ ) 4-50 ตัวอักษร</string>
+    <string name="Usernametip">ใช้ได้เฉพาะตัวอักษร a-z, ตัวเลข, @ - _ (ไม่เว้นช่องวรรคหรืออักขระพิเศษใดๆ) จำกัด4-50ตัวอักษร</string>
     <string name="Password">รหัสผ่าน</string>
     <string name="Enteryourpassword">6-8 ตัวอักษร</string>
-    <string name="passwordtip">เฉพาะตัวอักษร A-Z, a-z, ตัวเลข (ไม่มีช่องว่างหรืออักขระพิเศษ) 6-8 ตัวอักษร</string>
+    <string name="passwordtip">ใช้ได้เฉพาะตัวอักษร A-Z, a-z, ตัวเลข (ไม่เว้นวรรคหรือมรอักขระพิเศษ) จักกัด 6-8 ตัวอักษร</string>
     <string name="nicknametip">ชื่อเล่นนี้ถูกใช้ไปแล้ว</string>
     <string name="Nickname">ชื่อเล่น</string>
     <string name="Emailaddress">ที่อยู่อีเมล</string>
     <string name="Enteryouremail">กรอกอีเมล์ของคุณ</string>
     <string name="Telephonenumber">หมายเลขโทรศัพท์</string>
     <string name="Enteryourtelephonenumber">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
-    <string name="phonetip">ป้อนหมายเลขโทรศัพท์ที่ถูกต้อง</string>
+    <string name="phonetip">ป้อนหมายเลขโทรศัพท์</string>
     <string name="emailtip">ใส่อีเมล์ที่ถูกต้อง.</string>
     <string name="Signup">ลงชื่อ</string>
     <string name="tuiat">ชื่อผู้ใช้นี้ถูกใช้ไปแล้ว.</string>
     <string name="Login">เข้าสู่ระบบ</string>
     <string name="Account">บัญชี</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">ลืมรหัสผ่านเหรอ\?</string>
     <string name="loginwithaccount">หรือเข้าสู่ระบบด้วยชื่อผู้ใช้ของคุณ</string>
     <string name="newur">การลงทะเบียนผู้ใช้ใหม่</string>
-    <string name="Usernameinitnew">ชื่อผู้ใช้ (4-50 ตัวอักษร)</string>
-    <string name="Passwordnew">รหัสผ่าน (6-8 ตัวอักษร)</string>
+    <string name="Usernameinitnew">ชื่อผู้ใช้ (กำหนด 4-50 ตัวอักษร)</string>
+    <string name="Passwordnew">รหัสผ่าน (กำหนด 6-8 ตัวอักษร)</string>
     <string name="Emailnew">อีเมล์</string>
     <string name="PhoneNumber">หมายเลขโทรศัพท์</string>
     <string name="Unknown">ไม่ทราบ</string>
     <string name="enteryEmail">กรอกอีเมล์ของคุณ</string>
     <string name="enteryPhone">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
-    <string name="signuptips">เมื่อคุณลืมรหัสผ่านคุณจะต้อง "หมายเลขโทรศัพท์" หรือ "อีเมล" เพื่อรับข้อมูล เราขอแนะนำให้คุณกรอกให้ครบถ้วน</string>
+    <string name="signuptips">ถ้าหากคุณลืมรหัสผ่านคุณจะต้องมีหมายเลขโทรศัพท์ หรือ อีเมล เพื่อรับข้อมูล เราขอแนะนำให้คุณกรอกให้ครบ</string>
     <string name="confirmusername">ยืนยันชื่อผู้ใช้</string>
     <string name="next">ต่อไป</string>
-    <string name="fblogdes">กรุณาใส่ชื่อผู้ใช้ ชื่อผู้ใช้เป็นตัวระบุที่สำคัญมากสำหรับการดึงรหัสผ่านโปรดจำไว้</string>
+    <string name="fblogdes">กรุณากรอกชื่อผู้ใช้ ชื่อผู้ใช้เป็นตัวระบุตัวตนที่สำคัญมากสำหรับการกูิคืนรหัสผ่านโปรดจำไว้</string>
     <string name="selectusername">เลือกชื่อผู้ใช้</string>
-    <string name="reselpass_desone">ป้อนชื่อผู้ใช้ของบัญชีของคุณเพื่อรีเซ็ตรหัสผ่าน คุณมีปัญหาเกี่ยวกับการรีเซ็ตรหัสผ่าน<u>contact us</u>.</string>
-    <string name="reselpass_destwo">กรุณากรอกอีเมลหรือหมายเลขโทรศัพท์ คุณมีปัญหาเกี่ยวกับการรีเซ็ตรหัสผ่าน<u>contact us</u>.</string>
-    <string name="forgetgosingup">จำอะไรไม่ได้เลยเหรอ? โปรด<u>sign up a new account</u>.</string>
+    <string name="reselpass_desone">ป้อนชื่อผู้ใช้ของคุณเพื่อรีเซ็ตรหัสผ่าน หากมีปัญหาเกี่ยวกับการรีเซ็ตรหัสผ่าน<u>contact us</u>.</string>
+    <string name="reselpass_destwo">กรุณากรอกอีเมลหรือหมายเลขโทรศัพท์ หากคุณมีปัญหาเกี่ยวกับการรีเซ็ตรหัสผ่าน<u>contact us</u>.</string>
+    <string name="forgetgosingup">จำอะไรไม่ได้เลยเหรอ\? โปรดติดต่อ<u>sign up a new account</u>.</string>
     <string name="Resetpassword">รีเซ็ตรหัสผ่าน</string>
     <string name="NewPassword">รหัสผ่านใหม่</string>
     <string name="Enterthepasswordagain">ยืนยันรหัสผ่าน</string>
-    <string name="signuplimitdes">อุปกรณ์ของคุณมีชื่อผู้ใช้ที่ลงทะเบียนถึงจำนวนสูงสุดแล้ว กรุณาเลือกชื่อผู้ใช้ด้านล่างเพื่อเข้าสู่ระบบ</string>
+    <string name="signuplimitdes">ชื่อนี้มีผู้ใช้อื่นใช้แล้ว สามารถเลือกชื่อผู้ใช้ด้านล่างเพื่อเข้าใช้งาน</string>
     <string name="Register">สมัครสมาชิก</string>
     <string name="eyun">ใส่ชื่อผู้ใช้ของคุณ</string>
     <string name="eypsw">ใส่รหัสผ่านของคุณ</string>
-    <string name="loginerrortips">กรุณาใส่ชื่อผู้ใช้และรหัสผ่านที่ถูกต้อง โปรดทราบว่าฟิลด์รหัสผ่านจะต้องตรงตามตัวพิมพ์ใหญ่และตัวพิมพ์เล็ก</string>
+    <string name="loginerrortips">กรุณาใส่ชื่อผู้ใช้และรหัสผ่าน โปรดทราบว่ารหัสผ่านจะต้องตรงตามตัวทั้งพิมพ์ใหญ่และพิมพ์เล็ก</string>
     <string name="Resetpasswordfailed">รีเซ็ตรหัสผ่านล้มเหลว</string>
     <string name="Theusernamewasnotregistered">ชื่อผู้ใช้ไม่ได้ลงทะเบียน</string>
-    <string name="petceotn">กรุณาใส่อีเมลหรือหมายเลขโทรศัพท์ที่ถูกต้อง</string>
-    <string name="fbrfail">การลงทะเบียน Facebook ล้มเหลว</string>
-    <string name="Registerfailed">การลงทะเบียนล้มเหลวโปรดยืนยันว่าการเชื่อมต่อเครือข่ายของคุณเป็นปกติคลิกปุ่มลงทะเบียนเพื่อลองอีกครั้ง</string>
+    <string name="petceotn">กรุณาใส่อีเมลหรือหมายเลขโทรศัพท์</string>
+    <string name="fbrfail">การเชื่อมต่อ Facebook ล้มเหลว</string>
+    <string name="Registerfailed">การลงทะเบียนล้มเหลวโปรดตรวจสอบว่าการเชื่อมต่ออินเตอร์เน็ตของคุณและคลิกปุ่มลงทะเบียนเพื่อลองอีกครั้ง</string>
     <string name="Loginfailed">การเข้าสู่ระบบล้มเหลว</string>
     <string name="me">ฉัน</string>
     <string name="Avatar">รูปประจำตัว</string>
     <string name="Myposts">โพสต์ของฉัน</string>
     <string name="passowrduploadok">เปลี่ยนรหัสผ่านสำเร็จแล้ว</string>
     <string name="logout">ออกจากระบบ</string>
-    <string name="passwordsame">รหัสผ่านสองตัวที่คุณป้อนไม่สอดคล้องกัน</string>
+    <string name="passwordsame">รหัสผ่านไม่สอดคล้องกัน</string>
     <string name="PopularComments">ความคิดเห็นยอดนิยม</string>
     <string name="Request">ขอร้อง</string>
     <string name="Youarerequesting">คุณกำลังร้องขอ:</string>
@@ -241,9 +241,9 @@
     <string name="Myuploads">อัพโหลดของฉัน</string>
     <string name="Updated">Updated</string>
     <string name="Comingsoon">เร็ว ๆ นี้</string>
-    <string name="searchappyouwanttorequest">ค้นหาแอพที่คุณต้องการร้องขอ:</string>
+    <string name="searchappyouwanttorequest">ค้นหาแอพที่คุณร้องขอ:</string>
     <string name="Addupload">เพิ่มการอัพโหลด</string>
-    <string name="requestdetailhint">แสดงเพิ่มเติมเกี่ยวกับคำขอของคุณ (อย่างน้อย 50 ตัวอักษร)</string>
+    <string name="requestdetailhint">แสดงเพิ่มเติม (อย่างน้อย 50 ตัวอักษร)</string>
     <string name="requesterror">การส่งล้มเหลวโปรดลองอีกครั้งในภายหลัง</string>
     <string name="detailserror">(100-4000 ตัวอักษร)</string>
     <string name="view">ดู</string>
@@ -258,22 +258,22 @@
     <string name="obbfail">โปรดป้อน URL Zippyshare/Mediafire ของไฟล์ obb</string>
     <string name="worked">ทำงาน</string>
     <string name="Uploadsuccess">อัปโหลดสำเร็จ</string>
-    <string name="Requestsuccess">ขอให้ประสบความสำเร็จ</string>
-    <string name="clickyes">คุณสามารถแก้ไขและส่งคำขอนี้อีกครั้งจากคิวที่ทำงาน</string>
+    <string name="Requestsuccess">ยื่นคำขอสำเร็จแล้ว</string>
+    <string name="clickyes">คุณสามารถแก้ไขและส่งคำขอนี้อีกครั้งเมื่อคิวถัดไป</string>
     <string name="clickno">คำขอนี้จะถูกเพิ่มเข้ามาในคิวเร็ว ๆ นี้อีกครั้ง</string>
     <string name="downloadpush_remind">แสดงการแจ้งเตือนหลังการติดตั้ง</string>
     <string name="messages">ข้อความ</string>
     <string name="RecommendMods">แนะนำ Mods</string>
     <string name="requestdetailserror">(50-4000 ตัวอักษร)</string>
     <string name="Changetheimage">เปลี่ยนภาพ &gt;&gt;</string>
-    <string name="Typethecodeinthebox">พิมพ์รหัสในกล่อง</string>
+    <string name="Typethecodeinthebox">กรอกรหัส</string>
     <string name="Verificationerror">การยืนยันล้มเหลวโปรดลองอีกครั้ง</string>
     <string name="Verifing">การตรวจสอบ …</string>
     <!--补偿下载-->
     <string name="fix_tips_title">ลองเซิร์ฟเวอร์อื่น ๆ ก่อนที่จะลบ</string>
-    <string name="fix_tips_content">คุณต้องการเชื่อมต่อกับเซิร์ฟเวอร์อื่นเพื่อพยายามดาวน์โหลดก่อนที่จะลบหรือไม่</string>
+    <string name="fix_tips_content">คุณต้องการอีกครั้งบนเซิร์ฟเวอร์อื่นไหม\?</string>
     <string name="fix_progress_title">กำลังสแกนเซิร์ฟเวอร์</string>
-    <string name="fix_progress_content">อาจใช้เวลาสองสามนาทีในการค้นหาเซิร์ฟเวอร์ที่เร็วที่สุดสำหรับคุณโปรดรอสักครู่</string>
+    <string name="fix_progress_content">อาจต้องใช้เวลาสักครู่ ในการค้นหาเซิฟเวอร์ที่ดีที่สุด</string>
     <string name="fix_failed_content">ขณะนี้ไม่มีเซิร์ฟเวอร์ให้คุณโปรดลองอีกครั้งในภายหลัง</string>
     <string name="fix_tips_failtitle">ไม่มีเซิร์ฟเวอร์อีกต่อไป</string>
     <string name="fix_ok">ลองมัน</string>
@@ -286,8 +286,8 @@
     <string name="myreply">คำตอบของฉัน</string>
     <string name="Post">เสา</string>
     <string name="addavideo">เพิ่มวิดีโอ</string>
-    <string name="enterthevideourlhere">โปรดป้อน URL วิดีโอ Youtube ที่นี่</string>
-    <string name="onlysupportyoutube">รองรับเฉพาะวิดีโอ Youtube</string>
+    <string name="enterthevideourlhere">โปรดป้อน URL วิดีโอบน Youtube ที่นี่</string>
+    <string name="onlysupportyoutube">รองรับเฉพาะวิดีโอบน Youtube</string>
     <string name="searchorcreate">ค้นหาหรือสร้าง</string>
     <string name="hashtags">แฮชแท็กประวัติ</string>
     <string name="featuredhash">แฮชแท็กเด่น</string>
@@ -312,7 +312,7 @@
     <string name="speaksomething">โปรดป้อนอย่างน้อย 20 ตัวอักษร</string>
     <string name="speaktoolong">จำนวนอักขระเกินขีด จำกัด สามารถป้อนอักขระได้สูงสุด 4000 ตัว</string>
     <string name="tapandholdptodelete">แตะรูปภาพค้างไว้เพื่อลบ</string>
-    <string name="addvideofaild">การเพิ่มวิดีโอล้มเหลว！ โปรดตรวจสอบให้แน่ใจว่าเครือข่ายของคุณสามารถเรียกดูวิดีโอ Youtube และเพิ่มอีกครั้งได้</string>
+    <string name="addvideofaild">การเพิ่มวิดีโอล้มเหลว！ โปรดตรวจสอบให้แน่ใจว่าอินเตอร์เน็ตของคุณสามารถดูวิดีโอบน Youtube และลองอีกครั้งได้</string>
     <string name="Video">วีดีโอ</string>
     <string name="Hotsearches">การค้นหายอดนิยม</string>
     <string name="Hothashtags">แฮชแท็กยอดนิยม</string>
@@ -329,13 +329,13 @@
     <string name="installplaywitouthti">เล่นได้ทันทีโดยไม่ต้องติดตั้ง</string>
     <!--全局rty-->
     <string name="crash_dialog_title">โอ๊ะโอ ...</string>
-    <string name="crash_toast_message">ขออภัยข้อยกเว้นของแอปจะออก exit โปรดส่งรายงานข้อบกพร่องของคุณทางอีเมล</string>
+    <string name="crash_toast_message">ขออภัยเกิดข้อบกพร่องแอพจะหยุดทำงาน คุณสามารถแจ้งข้อบกพร่องทางอีเมล์</string>
     <string name="crash_dialog_message">ขออภัยข้อยกเว้น APP โปรดส่งรายงานข้อบกพร่องของคุณทางอีเมล</string>
     <string name="crash_dialog_feedback">รายงานข้อบกพร่อง</string>
     <string name="crash_dialog_restart">เริ่มต้นใหม่</string>
-    <string name="init_fail">การเริ่มต้นล้มเหลวโปรดใช้ VPN หรือเปลี่ยนเป็นเครือข่ายอื่น</string>
+    <string name="init_fail">ล้มเหลวโปรดใช้ VPN หรือเปลี่ยนเป็นอินเตอร์เน็ต, WI-FIอื่น</string>
     <string name="error_file_des">ไฟล์นี้ถูกลบไปแล้วและจะถูกดาวน์โหลดอีกครั้งในขณะนี้</string>
-    <string name="sdpermission">เราจำเป็นต้องเข้าถึงที่เก็บข้อมูลภายนอกของคุณ โปรดตรวจสอบให้แน่ใจว่าได้รับอนุญาต</string>
+    <string name="sdpermission">เราจำเป็นต้องเข้าถึงที่เก็บข้อมูลภายนอกของคุณ โปรดตรวจสอบว่าคุณอนุญาตหรือยัง</string>
     <string name="Night_Mode">โหมดกลางคืน</string>
     <string name="thisty">ชื่อผู้ใช้นั้นถูกใช้แล้ว. ลองอันอื่น ที่มีอยู่:</string>
     <!--home_feature-->
@@ -344,7 +344,7 @@
     <string name="PopularInlast">ยอดนิยมใน 24 ชั่วโมงที่ผ่านมา</string>
     <string name="Latestupdated">อัพเดทล่าสุด</string>
     <string name="paidforfree">จ่ายเงินฟรี</string>
-    <string name="ToadyRecommend">แนะนำของโทดดี้</string>
+    <string name="ToadyRecommend">แนะนำสำหรับวันนี้</string>
     <string name="hotmods">Hot Mods</string>
     <string name="hotrecommended">แนะนำเด็ด</string>
     <!--upload 新增-->
@@ -363,7 +363,7 @@
     <string name="maxmbperimage">สูงสุด 10MB ต่อภาพ</string>
     <string name="Imagesmustbelessthan">รูปภาพต้องมีขนาดไม่เกิน 10MB โปรดลดขนาดภาพบันทึกอีกครั้งหรือส่งออกไฟล์ของคุณอีกครั้งและลองอัปโหลดอีกครั้ง</string>
     <string name="installfailed">การติดตั้งล้มเหลว.</string>
-    <string name="miuides">โปรดเปิดตัวเลือกสำหรับนักพัฒนาปิดการเพิ่มประสิทธิภาพ MIUI แล้วลองอีกครั้ง</string>
+    <string name="miuides">โปรดเปิดตัวเลือกสำหรับนักพัฒนาและปิดการเพิ่มประสิทธิภาพ MIUI แล้วลองอีกครั้ง</string>
     <string name="playdes">เล่น</string>
     <string name="todayhotgame">วันนี้อากาศร้อน</string>
     <string name="newcoming">เข้ามาใหม่</string>
