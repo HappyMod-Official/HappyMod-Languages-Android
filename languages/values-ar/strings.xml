@@ -2,7 +2,7 @@
 <resources>
     <!--阿拉伯-->
     <string name="app_name">الوضع السعيد</string>
-    <string name="Homecom">الصفحه الرئيسيه لهابي مود</string>
+    <string name="Homecom">الصفحة الرئيسية لهابي مود happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -28,14 +28,14 @@
     <string name="Categories">الفئات</string>
     <string name="games">العاب</string>
     <string name="REFRESH">اعاده تحميل</string>
-    <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة</string>
+    <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة !</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
-    <string name="Hot_Game_Mods">تعديلات لعبة ساخنه</string>
-    <string name="Recommended_App_Mods">تطبيقات معدلة موصى به</string>
-    <string name="Hot_App_Mods">تعديلات تطبيقات ساخنة</string>
-    <string name="Recommended_New_Mods">تعديلات جديده</string>
+    <string name="Hot_Game_Mods">تعديلات العاب شائعة</string>
+    <string name="Recommended_App_Mods">تطبيقات معدلة موصى بها</string>
+    <string name="Hot_App_Mods">تعديلات تطبيقات شائعة</string>
+    <string name="Recommended_New_Mods">تعديلات العاب جديده</string>
     <string name="Last_Update_Mods">آخر التحديثات</string>
-    <string name="SearchHint">بحث..</string>
+    <string name="SearchHint">تلميح البحث</string>
     <string name="Homeweb">الصفحة الرئيسية</string>
     <string name="Management">إداره</string>
     <string name="Settings">الاعدادات</string>
@@ -128,7 +128,7 @@
     <string name="mergering">المعالجة النهائية</string>
     <string name="mergerwait">المعالجة النهائية (يحتاج 1-2 دقائق)</string>
     <string name="Startverification">ابدأ التحقق</string>
-    <string name="verificationShangXian">لقد وصلت إلى حد التنزيل اليومي ، حاول مرة أخرى بعد X ساعة.</string>
+    <string name="verificationShangXian">المعذرة! لقد وصلت إلى حد التنزيل اليومي، حاول ثانية بعد X ساعات</string>
     <string name="verificationFail">فشل التحقق ، يرجى المحاولة مرة أخرى!</string>
     <string name="Morehelp">MANIFEST.MF</string>
     <string name="uid">هوية المستخدم</string>
@@ -190,7 +190,7 @@
     <string name="Unknown">مجهول</string>
     <string name="enteryEmail">أدخل بريدك الإلكتروني</string>
     <string name="enteryPhone">أدخل رقم هاتفك</string>
-    <string name="signuptips">عند نسيان كلمة المرور ، ستحتاج إلى رقم الهاتف أو البريد الإلكتروني لاستردادها. نوصي بإكمالها.</string>
+    <string name="signuptips">عند نسيان كلمة المرور ، ستحتاج إلى رقم الهاتف أو البريد الإلكتروني لاستردادها. نوصي بإضافتهما.</string>
     <string name="confirmusername">تأكيد اسم المستخدم</string>
     <string name="next">التالي</string>
     <string name="fblogdes">الرجاء ادخال اسم المستخدم. اسم المستخدم هو مهم للغاية لاستعادة كلمة المرور ، يرجى الانتباه.</string>
@@ -210,11 +210,11 @@
     <string name="Theusernamewasnotregistered">اسم المستخدم غير مسجل.</string>
     <string name="petceotn">الرجاء إدخال البريد الإلكتروني أو رقم الهاتف الصحيح.</string>
     <string name="fbrfail">فشل تسجيل فيسبوك.</string>
-    <string name="Registerfailed">فشل التسجيل ، يرجى الأكد أن اتصال الشبكة لديك مستقر ، انقر فوق زر تسجيل لإعادة المحاولة.</string>
+    <string name="Registerfailed">فشل التسجيل، الرجاء التأكد من قوة الشبكة. انقر زر التسجيل لأعادة المحاولة.</string>
     <string name="Loginfailed">فشل تسجيل الدخول.</string>
     <string name="me">أنا</string>
     <string name="Avatar">الصورة الرمزية</string>
-    <string name="Myposts">…“…karE</string>
+    <string name="Myposts">بَرِيدي</string>
     <string name="passowrduploadok">تم تغيير كلمة السر بنجاح</string>
     <string name="logout">تسجيل الخروج</string>
     <string name="passwordsame">كلمات المرور غير متطابقة.</string>
@@ -263,7 +263,7 @@
     <string name="fix_ok">جربها</string>
     <string name="fix_tips_failtitle">لا مزيد من الخوادم</string>
     <!--社区 -->
-    <string name="please_loginanddownload">يرجى تحميل وزارة الدفاع هذه أولاً</string>
+    <string name="please_loginanddownload">يرجى تحميل هذا التعديل أولاً</string>
     <string name="myvoted">تصويتي</string>
     <string name="working">العمل</string>
     <string name="inanhour">يرجى التصويت مرة أخرى في غضون ساعة.</string>
@@ -297,7 +297,7 @@
     <string name="speaksomething">يرجى إدخال 20 حرف على الأقل</string>
     <string name="speaktoolong">يتجاوز عدد الأحرف الحد المسموح به ، ويمكن إدخال ما يصل إلى 4000 حرف.</string>
     <string name="tapandholdptodelete">اضغط مع الاستمرار على الصورة لحذفها.</string>
-    <string name="addvideofaild">أخفق إضافة فيديو！ يرجى التأكد من أن شبكتك تستطيع تصفح فيديو Youtube وإعادة إضافته.</string>
+    <string name="addvideofaild">فشلت إضافة الفيديو! الرجاء التأكد ان شبكتك قادرة على تصفح فيديوهات Youtube و إعادة اضافتها</string>
     <string name="Video">فيديو</string>
     <string name="Hotsearches">عمليات البحث الساخنة</string>
     <string name="Hothashtags">الهاشتاج الساخنة</string>
@@ -320,7 +320,7 @@
     <string name="init_fail">فشلت التهيئة ، يرجى استخدام VPN أو التغيير إلى شبكات أخرى.</string>
     <string name="error_file_des">تم حذف هذا الملف ويتم إعادة تنزيله الآن.</string>
     <string name="sdpermission">نحتاج إلى الوصول إلى وحدة التخزين الخارجية الخاصة بك ، يرجى التأكد من منح الإذن.</string>
-    <string name="Night_Mode">الوضع اليلي</string>
+    <string name="Night_Mode">الوضع المظلم</string>
     <string name="thisty">اسم المستخدم هذا مأخوذ. جرب شئ اخر. متاح:</string>
     <!--home_feature-->
     <string name="Feature">متميز</string>
@@ -328,7 +328,7 @@
     <string name="PopularInlast">شائع في آخر 24 ساعة</string>
     <string name="Latestupdated">آخر تحديث</string>
     <string name="paidforfree">مدفوع مجانًا</string>
-    <string name="ToadyRecommend">يوصى اليوم</string>
+    <string name="ToadyRecommend">يوصى لك اليوم</string>
     <string name="hotmods">تعديل ساخن</string>
     <string name="hotrecommended">موصى به ساخن</string>
     <!--upload 新增-->
