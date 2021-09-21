@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--韩语-->
-    <string name="app_name">Ranem</string>
+    <string name="app_name">앱 이름</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -29,11 +29,11 @@
     <string name="games">게임</string>
     <string name="REFRESH">새로 고침</string>
     <string name="Unable_to_connect_to_the_network">인터넷에 액세스 할 수 없습니다.</string>
-    <string name="Recommended_Game_Mods">추천 게임 모드</string>
+    <string name="Recommended_Game_Mods">추천하는 게임 모드</string>
     <string name="Hot_Game_Mods">인기 게임 모드</string>
-    <string name="Recommended_App_Mods">추천 앱 모드</string>
+    <string name="Recommended_App_Mods">추천하는 앱 모드</string>
     <string name="Hot_App_Mods">인기있는 앱 모드</string>
-    <string name="Recommended_New_Mods">최신 모드 추천</string>
+    <string name="Recommended_New_Mods">추천하는 최신 모드</string>
     <string name="Last_Update_Mods">최신 업데이트</string>
     <string name="SearchHint">검색 :</string>
     <!-- 侧滑-->
@@ -44,7 +44,7 @@
     <string name="Translation">번역</string>
     <string name="Share">공유</string>
     <string name="Checkforupdate">업데이트 확인</string>
-    <string name="FollowusonTwitter">Twitter에서 팔로우하기</string>
+    <string name="FollowusonTwitter">Twitter에서 팔로우하기 </string>
     <string name="FollowusonFacebook">페이스북에서 팔로우하기</string>
     <!--设置页-->
     <string name="settings_network_remind">모바일 네트워크 경고</string>
@@ -96,14 +96,14 @@
     <string name="Moreversion">더 많은 버전</string>
     <string name="Recommend">추천</string>
     <string name="Recommendmod">추천 모드</string>
-    <string name="Moremods">더 많은 개조</string>
+    <string name="Moremods">최신 버전</string>
     <!--评分-->
     <string name="Submit">제출</string>
     <string name="Hated_it">싫어!</string>
     <string name="Disliked_it">좋아하지 마.</string>
     <string name="Its_ok">그건 중요하지 않아.</string>
     <string name="Liked_it">그것처럼.</string>
-    <string name="Loved_it">그것을 사랑해!</string>
+    <string name="Loved_it">좋습니다</string>
     <!--分享-->
     <string name="share_happymod">에서 \ HappyMod 공유</string>
     <string name="share_subject">HappyMod 가져 오기</string>
@@ -115,7 +115,7 @@
     <string name="nvisrti">새 버전을 설치할 준비가되었습니다.</string>
     <string name="OPEN">열기</string>
     <string name="OK">좋은</string>
-    <string name="Loading">데이터로드 중 ...</string>
+    <string name="Loading">로딩 중…</string>
     <string name="updata_tip">최신 버전의 HappyMod를 사용 중입니다.</string>
     <string name="xzzb">공식 HappyMod를 다운로드하십시오.</string>
     <string name="Continue">계속하기</string>
