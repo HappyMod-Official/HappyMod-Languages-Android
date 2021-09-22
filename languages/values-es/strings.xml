@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">App apk</string>
+    <string name="app_name">Nombre de la App</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -24,7 +24,7 @@
     <string name="Paid">Pagado</string>
     <string name="GAME">Juego</string>
     <string name="APP">Suasage man</string>
-    <string name="NEW">Juego</string>
+    <string name="NEW">Nuevo</string>
     <string name="Categories">Gratis</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
