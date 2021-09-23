@@ -28,14 +28,14 @@
     <string name="Categories">Gratis</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
-    <string name="Unable_to_connect_to_the_network">No se puede conectar a la red.</string>
+    <string name="Unable_to_connect_to_the_network">Incapaz de conectar a la red.</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods populares para descargar</string>
     <string name="Recommended_App_Mods">Mods de app recomendados</string>
     <string name="Hot_App_Mods">Mods de app populares</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
-    <string name="SearchHint">Buscar</string>
+    <string name="SearchHint">Buscar consejo</string>
     <!-- slide-->
     <string name="Homeweb">Inicio</string>
     <string name="Management">Administración</string>
