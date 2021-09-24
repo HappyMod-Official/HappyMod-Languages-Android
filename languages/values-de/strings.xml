@@ -27,7 +27,7 @@
     <string name="NEW">Neu</string>
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
-    <string name="REFRESH">Neuladen</string>
+    <string name="REFRESH">Aktualisieren</string>
     <string name="Unable_to_connect_to_the_network">Es konnte keine Verbindung zum Netzwerk hergestellt werden!</string>
     <string name="Recommended_Game_Mods">Empfohlene Spielemods</string>
     <string name="Hot_Game_Mods">Beliebte Spiele Mods</string>
@@ -81,13 +81,13 @@
     <string name="Downloadfailed">Download fehlgeschlagen</string>
     <string name="Downloadistooslow">Download ist zu langsam</string>
     <!--APP详情页-->
-    <string name="Mods">Modifikationen</string>
+    <string name="Mods">Mods</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Vorherige Version</string>
-    <string name="Download">Herunterladen</string>
-    <string name="Downloadobb">Herunterladen (APK+OBB)</string>
-    <string name="Downloaddata">Herunterladen(APK+DATA)</string>
-    <string name="Downloadboundle">Herunterladen (BUNDLE)</string>
+    <string name="Download">Download</string>
+    <string name="Downloadobb">Download (APK+OBB)</string>
+    <string name="Downloaddata">Download (APK+DATA)</string>
+    <string name="Downloadboundle">Download (BUNDLE)</string>
     <string name="Downloaded">Heruntergeladen</string>
     <string name="Install">Installieren</string>
     <string name="Connecting">Verbinden…</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Weitere Versionen</string>
     <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
-    <string name="Moremods">Neuste Version</string>
+    <string name="Moremods">Neuste Versionen</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
     <string name="Hated_it">Ich habe es gehasst!</string>
