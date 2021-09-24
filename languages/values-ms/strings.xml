@@ -30,8 +30,8 @@
     <string name="Unable_to_connect_to_the_network">Tidak dapat mengakses internet.</string>
     <string name="Recommended_Game_Mods">Mod Permainan yang Disyorkan</string>
     <string name="Hot_Game_Mods">Mod Permainan Panas</string>
-    <string name="Recommended_App_Mods">Mod Aplikasi yang Disyorkan</string>
-    <string name="Hot_App_Mods">Mod Aplikasi Panas</string>
+    <string name="Recommended_App_Mods">Game</string>
+    <string name="Hot_App_Mods">Tidak ada</string>
     <string name="Recommended_New_Mods">Mod Baru yang Disyorkan</string>
     <string name="Last_Update_Mods">Kemas kini Terkini</string>
     <string name="SearchHint">Cari..</string>
