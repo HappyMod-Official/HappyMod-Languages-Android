@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">App Name</string>
+    <string name="app_name">Cit apk</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">085877921396</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -265,7 +265,7 @@
     <string name="downloadpush_remind">Show Notification After Installation</string>
     <string name="messages">Messages</string>
     <string name="RecommendMods">Recommend Mods</string>
-    <string name="requestdetailserror">(50–4000 characters)</string>
+    <string name="requestdetailserror">Cit</string>
     <string name="Changetheimage">Change the image&gt;&gt;</string>
     <string name="Typethecodeinthebox">Type the code in the field</string>
     <string name="Verificationerror">Verification failed, please try again.</string>
