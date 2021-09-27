@@ -25,7 +25,7 @@
     <string name="GAME">Juego</string>
     <string name="APP">Aplicaciones</string>
     <string name="NEW">Nuevo</string>
-    <string name="Categories">Gratis</string>
+    <string name="Categories">Categorias</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
     <string name="Unable_to_connect_to_the_network">Incapaz de conectar a la red.</string>
