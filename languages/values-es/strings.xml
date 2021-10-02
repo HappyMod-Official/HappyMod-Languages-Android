@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">Nombre de la App</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -265,7 +265,7 @@
     <string name="downloadpush_remind">Mostrar notificación después de la instalación</string>
     <string name="messages">Mensajes</string>
     <string name="RecommendMods">Recomendar mods</string>
-    <string name="requestdetailserror">(50-4000 caracteres)</string>
+    <string name="requestdetailserror">(50-4000 caracteres)Cit</string>
     <string name="Changetheimage">Cambia la imagen &gt;&gt;</string>
     <string name="Typethecodeinthebox">Escriba el codigo en el campo</string>
     <string name="Verificationerror">Verificación fallida. Por favor intenta de nuevo.</string>
