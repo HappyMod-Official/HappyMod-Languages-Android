@@ -1,4 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Homecom">حسين</string>
+    <string name="Categories">More Categories</string>
+    <string name="games">MoreGames</string>
+    <string name="REFRESH">Recharge</string>
+    <string name="Hot_App_Mods">Popular game mods</string>
+    <string name="Homeweb">Home page</string>
+    <string name="Management">Management</string>
+    <string name="Settings">Settings</string>
+    <string name="Feedback">Feedback comments</string>
+    <string name="Share">Share</string>
+    <string name="FollowusonTwitter">Support us on Twitter </string>
+    <string name="FollowusonFacebook">Support us on Facebook</string>
+    <string name="settings_network_remind">Mobile Network advise</string>
+    <string name="settings_auto_install">Install automatically</string>
+    <string name="Download_Directory">Downloaded mods Directory</string>
+    <string name="settings_other">Other</string>
+    <string name="des_no_serach_result">Oops! There are no results found</string>
+    <string name="Downloads">Downloads</string>
+    <string name="Downloading">Downloading …</string>
+    <string name="Finished">Finished</string>
+    <string name="No_Download">No matching files.</string>
+    <string name="Pause">Pause</string>
+    <string name="Waiting_in_queue">Waiting in queue</string>
+    <string name="Completed">Completed</string>
+    <string name="Checkforupdate">Check new updates</string>
+    <string name="Recommended_New_Mods">New recommended mods</string>
+    <string name="app_name">HappyMod</string>
+    <string name="Paid">Paid</string>
+    <string name="GAME">Games</string>
+    <string name="NEW">NEW</string>
+    <string name="APP">Apps</string>
+    <string name="facebook_app_id">085877921396</string>
+    <string name="Recommended_Game_Mods">Recommended mods for you</string>
+    <string name="Recommended_App_Mods">Recommended app mods for you</string>
+    <string name="Last_Update_Mods">Lastest Updates</string>
+    <string name="SearchHint">Search hints</string>
+    <string name="Translation">Translations</string>
+    <string name="Unable_to_connect_to_the_network">There was an error while connecting to the network!</string>
+    <string name="settings_clear_cache">Clear cache</string>
+    <string name="Clean_up_the_complete">Cache has been delated.</string>
 </resources>
