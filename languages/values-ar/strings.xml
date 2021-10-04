@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">الوضع السعيد</string>
+    <string name="app_name">تعديل شائع</string>
     <string name="Homecom">الصفحة الرئيسية لهابي مود happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">085877921396</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -249,7 +249,7 @@
     <string name="downloadpush_remind">عرض الإخطار بعد التثبيت</string>
     <string name="messages">رسائل</string>
     <string name="RecommendMods">يوصي وزارة الدفاع</string>
-    <string name="requestdetailserror">قطع</string>
+    <string name="requestdetailserror">المرجع السابق</string>
     <string name="Changetheimage">تغيير الصورة &gt;&gt;</string>
     <string name="Typethecodeinthebox">اكتب الرمز في المربع</string>
     <string name="Verificationerror">فشل التحقق ، يرجى المحاولة مرة أخرى.</string>
