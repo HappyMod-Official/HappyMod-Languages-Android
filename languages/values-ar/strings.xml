@@ -249,7 +249,7 @@
     <string name="downloadpush_remind">عرض الإخطار بعد التثبيت</string>
     <string name="messages">رسائل</string>
     <string name="RecommendMods">يوصي وزارة الدفاع</string>
-    <string name="requestdetailserror">(من 50 إلى 4000 حرف)</string>
+    <string name="requestdetailserror">قطع</string>
     <string name="Changetheimage">تغيير الصورة &gt;&gt;</string>
     <string name="Typethecodeinthebox">اكتب الرمز في المربع</string>
     <string name="Verificationerror">فشل التحقق ، يرجى المحاولة مرة أخرى.</string>
