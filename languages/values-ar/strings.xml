@@ -170,8 +170,8 @@
     <string name="passwordtip">يسمح فقط الأحرف فقط A-Z ، a-z ، الأرقام （لا تستخدم مسافات أو أحرف خاصة). 6-8 احرف او ارقام</string>
     <string name="nicknametip">Such و Charts Also Third.</string>
     <string name="Nickname">الاسم المستعار</string>
-    <string name="Emailaddress">البريد الكتروني</string>
-    <string name="Enteryouremail">أدخل بريدك الالكتروني</string>
+    <string name="Emailaddress">عنوان البريد الإلكتروني</string>
+    <string name="Enteryouremail">أدخل بريدك الإلكتروني</string>
     <string name="Telephonenumber">رقم هاتف</string>
     <string name="Enteryourtelephonenumber">أدخل رقم هاتفك</string>
     <string name="phonetip">أدخل رقم هاتف صالحًا.</string>
