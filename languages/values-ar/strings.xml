@@ -2,7 +2,7 @@
 <resources>
     <!--阿拉伯-->
     <string name="app_name">تعديل شائع</string>
-    <string name="Homecom">الصفحة الرئيسية لهابي مود happymod.com</string>
+    <string name="Homecom">المود السعيد كوم</string>
     <string name="facebook_app_id">085877921396</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
