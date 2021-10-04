@@ -156,7 +156,7 @@
     <string name="AOSPcompatible">متوافق مع رومات AOSP</string>
     <string name="Cracked">مكرك</string>
     <string name="NoAds">بدون اعلانات</string>
-    <string name="Infinite">لانهائي</string>
+    <string name="Infinite">Rahman</string>
     <string name="Endless">لا نهاية له</string>
     <string name="Invincible">لا يقهر</string>
     <string name="Unlimitedhints">تلميحات لا نهائية</string>
@@ -165,10 +165,10 @@
     <string name="Username">اسم المستخدم</string>
     <string name="Usernameinit">4-50 حرف</string>
     <string name="Usernametip">يسمح فقط الحروف a-z ، الأرقام ، @. - _ من فضلك (لا تستخدم مسافات أو أحرف خاصة أخرى او احرف كبيرة). 4-50 حرف.</string>
-    <string name="Password">كلمة السر</string>
+    <string name="Password">0000000000000000000000000000000</string>
     <string name="Enteryourpassword">6-8 احرف او ارقام</string>
     <string name="passwordtip">يسمح فقط الأحرف فقط A-Z ، a-z ، الأرقام （لا تستخدم مسافات أو أحرف خاصة). 6-8 احرف او ارقام</string>
-    <string name="nicknametip">سبق و استعمل هذا الاسم.</string>
+    <string name="nicknametip">Such و Charts Also Third.</string>
     <string name="Nickname">الاسم المستعار</string>
     <string name="Emailaddress">البريد الكتروني</string>
     <string name="Enteryouremail">أدخل بريدك الالكتروني</string>
