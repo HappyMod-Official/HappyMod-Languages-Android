@@ -29,7 +29,7 @@
     <string name="REFRESH">Odśwież</string>
     <string name="Unable_to_connect_to_the_network">Nie można uzyskać dostępu do sieci.</string>
     <string name="Recommended_Game_Mods">Polecane modyfikacje gier</string>
-    <string name="Hot_Game_Mods">Popularne modyfikacje gier</string>
+    <string name="Hot_Game_Mods">Popularne Modyfikacje dla gier</string>
     <string name="Recommended_App_Mods">Rekomendowane modyfikacje aplikacji</string>
     <string name="Hot_App_Mods">Top modyfikacje aplikacji</string>
     <string name="Recommended_New_Mods">Nowe polecane modyfikacje</string>
@@ -38,7 +38,7 @@
     <string name="Homeweb">Oficjalna strona internetowa</string>
     <string name="Management">Zarządzanie</string>
     <string name="Settings">Ustawienia</string>
-    <string name="Feedback">Wsparcie</string>
+    <string name="Feedback">Feedback</string>
     <string name="Translation">Tłumaczenie</string>
     <string name="Share">Udostępnij</string>
     <string name="Checkforupdate">Sprawdź aktualizacje</string>
@@ -73,7 +73,7 @@
     <string name="Whydeletethisdownload">Dlaczego chcesz usunąć pobrany plik \?</string>
     <string name="NotwhatIwant">Nie to, czego potrzebuje</string>
     <string name="Downloadfailed">Pobranie nieudane</string>
-    <string name="Downloadistooslow">Pobranie trwało zbyt długo</string>
+    <string name="Downloadistooslow">Pobieranie jest za wolne</string>
     <string name="Mods">Modyfikacje</string>
     <string name="Original">Oryginalny</string>
     <string name="Previousversion">Poprzednia wersja</string>
@@ -111,7 +111,7 @@
     <string name="Continue">Kontynuuj</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">Brak miejsca na urządzeniu</string>
-    <string name="Is_this_app_you_need">Czy tej aplikacji szukasz \?\?</string>
+    <string name="Is_this_app_you_need">Czy tej aplikacji szukasz \?</string>
     <string name="No">Nie</string>
     <string name="Yes">Tak</string>
     <string name="bcdes">. Zwolnij miejsce i spróbuj ponownie.</string>
@@ -258,8 +258,7 @@
     <string name="fix_tips_title">Wypróbuj inne serwery przed usunięciem</string>
     <string name="fix_tips_content">Czy chcesz spróbować pobrać plik z innego serwera\?</string>
     <string name="fix_progress_title">Skanowanie serwerów</string>
-    <string name="fix_progress_content">Poszukiwanie najszybszego serwera i może
-\nto zająć kilka minut, proszę czekać.</string>
+    <string name="fix_progress_content">Szukanie najlepszego serwera dla ciebie, może zająć to parę minut, proszę czekać.</string>
     <string name="fix_failed_content">Obecnie nie ma dostępnych serwerów, spróbuj ponownie później.</string>
     <string name="fix_tips_failtitle">Nie ma już więcej serwerów</string>
     <string name="fix_ok">Spróbuj</string>
@@ -352,7 +351,7 @@
     <string name="installfailed">Instalacja nie powiodła się.</string>
     <string name="miuides">Włącz Opcje programisty, wyłącz optymalizację MIUI i spróbuj ponownie.</string>
     <string name="playdes">Graj</string>
-    <string name="todayhotgame">Dzisiaj jest gorąco</string>
+    <string name="todayhotgame">Dzisiejsza Topka</string>
     <string name="newcoming">Nowe nadchodzące</string>
     <string name="recentlyplayed">Ostatnio grane</string>
     <string name="toopenitquickntime">Aby następnym razem szybko je otworzyć:</string>
