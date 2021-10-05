@@ -5,7 +5,7 @@
     <string name="GAME">یاری</string>
     <string name="REFRESH">نوێکردنەوە</string>
     <string name="Recommended_Game_Mods">یارییە پێشنیارکراوەکان</string>
-    <string name="app_name">دڵخۆشی</string>
+    <string name="app_name">ھەپی مۆد</string>
     <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">کڕدراو</string>
     <string name="Categories">ژانەرەکان</string>
@@ -386,4 +386,5 @@
     <string name="scerrnshoteserror">سکرینشۆت یان وێنە پێویستە.</string>
     <string name="crash_dialog_message">ببورە، بەرنامەکەت جیاکرایەوە، تکایە ڕاپۆرتی باگەکەت لە ڕێگەی ئیمەیڵەوە بنێرە.</string>
     <string name="deletesuccess">بە سەرکەوتوویی سڕایەوە</string>
+    <string name="hot">باشترین</string>
 </resources>
