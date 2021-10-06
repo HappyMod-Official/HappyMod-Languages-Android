@@ -38,7 +38,7 @@
     <string name="Homeweb">Oficjalna strona internetowa</string>
     <string name="Management">Zarządzanie</string>
     <string name="Settings">Ustawienia</string>
-    <string name="Feedback">Feedback</string>
+    <string name="Feedback">Opinia</string>
     <string name="Translation">Tłumaczenie</string>
     <string name="Share">Udostępnij</string>
     <string name="Checkforupdate">Sprawdź aktualizacje</string>
@@ -351,7 +351,7 @@
     <string name="installfailed">Instalacja nie powiodła się.</string>
     <string name="miuides">Włącz Opcje programisty, wyłącz optymalizację MIUI i spróbuj ponownie.</string>
     <string name="playdes">Graj</string>
-    <string name="todayhotgame">Dzisiejsza Topka</string>
+    <string name="todayhotgame">Dzisiejsza Top Lista</string>
     <string name="newcoming">Nowe nadchodzące</string>
     <string name="recentlyplayed">Ostatnio grane</string>
     <string name="toopenitquickntime">Aby następnym razem szybko je otworzyć:</string>
