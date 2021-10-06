@@ -26,11 +26,11 @@
     <string name="NEW">Baru</string>
     <string name="Categories">Kategori</string>
     <string name="games">Free fire</string>
-    <string name="REFRESH">Free fire</string>
+    <string name="REFRESH">minecraft</string>
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network !</string>
     <string name="Recommended_Game_Mods">Mod Permainan yang Disyorkan</string>
     <string name="Hot_Game_Mods">Mod Permainan Panas</string>
-    <string name="Recommended_App_Mods">Game</string>
+    <string name="Recommended_App_Mods">permainan</string>
     <string name="Hot_App_Mods">Tidak ada</string>
     <string name="Recommended_New_Mods">Mod Baru yang Disyorkan</string>
     <string name="Last_Update_Mods">Kemas kini Terkini</string>
@@ -42,7 +42,7 @@
     <string name="Translation">Terjemahan</string>
     <string name="Share">Kongsi</string>
     <string name="Checkforupdate">Semak Kemas Kini</string>
-    <string name="FollowusonTwitter">Ikuti kami di Twitter</string>
+    <string name="FollowusonTwitter">Ikuti kami di Twitter </string>
     <string name="FollowusonFacebook">Ikuti kami di Facebook</string>
     <string name="settings_network_remind">Alert Rangkaian Mudah Alih</string>
     <string name="settings_auto_install">Pasang secara automatik</string>
@@ -50,7 +50,7 @@
     <string name="settings_other">Lain-lain</string>
     <string name="settings_clear_cache">Kosongkan cache</string>
     <string name="Clean_up_the_complete">Cache dibersihkan.</string>
-    <string name="des_no_serach_result"> Oops! Tiada hasil dijumpai.</string>
+    <string name="des_no_serach_result">Oops! Tiada hasil dijumpai.</string>
     <string name="Downloads">Muat turun</string>
     <string name="Downloading">Memuat turun</string>
     <string name="Finished">Selesai</string>
@@ -104,7 +104,7 @@
     <string name="nvisrti">versi baru siap dipasang.</string>
     <string name="OPEN">BUKA</string>
     <string name="OK">okey</string>
-    <string name="Loading">Memuatkan...</string>
+    <string name="Loading">Memuatkan…</string>
     <string name="updata_tip">Anda menggunakan versi terbaru HappyMod yang stabil</string>
     <string name="xzzb">Sila muat turun HappyMod rasmi.</string>
     <string name="Continue">Teruskan</string>
