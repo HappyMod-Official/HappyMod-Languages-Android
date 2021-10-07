@@ -28,7 +28,7 @@
     <string name="Categories">Categorias</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
-    <string name="Unable_to_connect_to_the_network">Incapaz de conectar a la red.</string>
+    <string name="Unable_to_connect_to_the_network">Incapaz de conectar a la red!</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods populares para descargar</string>
     <string name="Recommended_App_Mods">Mods de app recomendados</string>
