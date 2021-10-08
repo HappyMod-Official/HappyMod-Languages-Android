@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="facebook_app_id">085877921396</string>
+    <string name="facebook_app_id">0858779216581828312849396</string>
     <string name="Homecom">سایت فروشگاه هپی مود : happymod.com</string>
     <string name="GAME">بازی</string>
     <string name="APP">برنامه</string>
@@ -78,10 +78,9 @@
     <string name="Hated_it">از آن متنفرم!</string>
     <string name="share_happymod">اشتراک گذاری هپی مود از طریق</string>
     <string name="share_subject">هپی مود را دریافت کنید</string>
-    <string name="share_text">مود هایی که 100% کار می کنند را دانلود کنید
-\nبه همراه هپی مود@
-\n
-\nhttps://www.happymod.com/</string>
+    <string name="share_text">برنامه ها و بازی های مود شده را از هپی مود دانلود کنید
+\nآدرس سایت هپی مود
+\n/https://www.happymod.com</string>
     <string name="pref_location">محل ذخیره سازی</string>
     <string name="force_des">مود ها ۱۰۰٪ کار می کنند</string>
     <string name="nvisrti">یک نسخه جدید آماده نصب است.</string>
@@ -161,7 +160,7 @@
     <string name="enteryPhone">شماره تلفن خود را وارد کنید</string>
     <string name="confirmusername">نام کاربری را تایید کنید</string>
     <string name="selectusername">نام کاربری را انتخاب کنید</string>
-    <string name="forgetgosingup">آیا هیچکدام را به خاطر نمی آورید؟ شما می توانید یک حساب جدید <u> در اینجا </u> بسازید</string>
+    <string name="forgetgosingup">آیا هیچکدام را به خاطر نمی آورید؟ شما می توانید یک حساب جدید در <u> اینجا </u> بسازید</string>
     <string name="Resetpassword">بازنشانی رمز عبور</string>
     <string name="NewPassword">رمز عبور جدید</string>
     <string name="Enterthepasswordagain">رمز عبور را تایید کنید</string>
@@ -194,9 +193,9 @@
     <string name="edit">ویرایش کنید</string>
     <string name="APKZippyshareurl">آدرس اینترنتی APK در زیپ شیر / مدیا فایر :</string>
     <string name="Upload">آپلود</string>
-    <string name="Uploadfail">آپلود ناموفق بود</string>
-    <string name="apkfail">لطفا آدرس اینترنتی زیپی شِیر / مدیا فایر فایل apk را وارد کنید</string>
-    <string name="obbfail">لطفا فایل های obb را آدرس اینترنتی زیپی شِیر / مدیا فایر وارد کنید</string>
+    <string name="Uploadfail">بارگذاری ناموفق بود</string>
+    <string name="apkfail">لطفا آدرس زیپ شِیر/مدیافایر فایل های apk را وارد کنید</string>
+    <string name="obbfail">لطفا آدرس زیپ شِیر/مدیا فایر فایل های obb را وارد کنید</string>
     <string name="worked">کار کرد</string>
     <string name="Uploadsuccess">آپلود موفقیت آمیز است</string>
     <string name="Hothashtags">هشتگ های برتر</string>
@@ -209,7 +208,7 @@
     <string name="Verifing">در حال تایید …</string>
     <string name="fix_tips_title">قبل از حذف سرورهای دیگر را امتحان کنید</string>
     <string name="fix_progress_title">اسکن سرورها</string>
-    <string name="fix_progress_content">ممکن است چند دقیقه طول بکشد تا بهترین سرور را برای شما بیابیم لطفا منتظر بمانید</string>
+    <string name="fix_progress_content">ممکن است چند دقیقه طول بکشد تا بهترین سرور برای شما پیدا شود لطفا منتظر بمانید</string>
     <string name="fix_tips_failtitle">سرور دیگری وجود ندارد</string>
     <string name="fix_ok">آن را دوباره امتحان کنید</string>
     <string name="please_loginanddownload">لطفا ابتدا این مود را دانلود کنید</string>
@@ -251,7 +250,7 @@
     <string name="h5_menu_share">اشتراک گذاری</string>
     <string name="installplaywitouthti">بازی فوری بدون نیاز به نصب</string>
     <string name="crash_dialog_title">اوه</string>
-    <string name="crash_dialog_message">لطفا گزارش اشکال برنامه مورد نظر را از طریق ایمیل ارسال کنید</string>
+    <string name="crash_dialog_message">متاسفم لطفا گزارش اشکال خود را از طریق ایمیل ارسال کنید</string>
     <string name="crash_dialog_feedback">گزارش اشکالات</string>
     <string name="crash_dialog_restart">راه اندازی مجدد</string>
     <string name="error_file_des">این فایل حذف شده است و در حال دانلود دوباره است</string>
@@ -340,7 +339,7 @@
     <string name="fblogdes">لطفا یک نام کاربری وارد کنید نام کاربری یک شناسه بسیار مهم برای بازیابی رمز عبور شما است لطفا آن را به خاطر داشته باشید.</string>
     <string name="reselpass_desone">نام کاربری خود را وارد کنید اگر در مورد بازنشانی رمز عبور خود مشکلی دارید <u> با ما تماس بگیرید </u></string>
     <string name="reselpass_destwo">لطفا ایمیل یا شماره تلفن خود را وارد کنید اگر در مورد بازنشانی گذرواژه خود مشکلی دارید <u> با ما تماس بگیرید </u>.</string>
-    <string name="signuplimitdes">دستگاه شما به بیشترین تعداد حساب های ثبت شده رسیده است لطفا حساب (های) زیر را برای ورود انتخاب کنید</string>
+    <string name="signuplimitdes">دستگاه شما به بیشترین تعداد حساب های ثبت شده رسیده است لطفا برای ورود به سیستم حساب (های) زیر را انتخاب کنید</string>
     <string name="petceotn">لطفا یک ایمیل یا شماره تلفن معتبر را وارد کنید.</string>
     <string name="Registerfailed">ثبت نام انجام نشد لطفا مطمئن شوید که وضعیت اتصال شبکه شما خوب است دکمه ثبت نام را انتخاب کنید تا دوباره امتحان کنید.</string>
     <string name="Myrequests">درخواست های من</string>
@@ -350,21 +349,21 @@
     <string name="OBBDataurl">آدرس اینترنتی obb / دیتا در زیپی شیر / مدیا فایر : (اختیاری)</string>
     <string name="Requestsuccess">درخواست با موفقیت انجام شد</string>
     <string name="clickyes">شما می توانید این درخواست را از صف کار شده ویرایش و دوباره ارسال کنید</string>
-    <string name="clickno">این درخواست دوباره به صف بعدی اضافه می شود</string>
-    <string name="Verificationerror">تایید انجام نشد لطفا دوباره امتحان کنید</string>
+    <string name="clickno">این درخواست به زودی دوباره به صف بعدی اضافه می شود</string>
+    <string name="Verificationerror">تایید صحت انجام نشد لطفا دوباره امتحان کنید</string>
     <string name="fix_tips_content">آیا شما می خواهید دانلود خود را دوباره روی سرور دیگری امتحان کنید؟</string>
-    <string name="fix_failed_content">در حال حاضر هیچ سروری در دسترس شما نیست لطفا بعدا دوباره امتحان کنید</string>
+    <string name="fix_failed_content">در حال حاضر هیچ سروری برای شما در دسترس نیست لطفا بعدا دوباره امتحان کنید</string>
     <string name="Review">نمره دهی</string>
     <string name="enterthevideourlhere">لطفا آدرس ویدیوی یوتیوب را در اینجا وارد کنید</string>
     <string name="reportsuccess">گزارش شما با موفقیت ارسال شد.</string>
     <string name="deletesuccess">با موفقیت حذف شد</string>
-    <string name="speaktoolong">تعداد نوشته ها بیش از حد مجاز است حداکثر ۴۰۰۰ نوشته را می توان وارد کرد</string>
-    <string name="addvideofaild">افزودن ویدیو ناموفق بود لطفا مطمئن شوید شبکه شما می تواند ویدیوهای یوتیوب را باز کند و سپس دوباره آن را اضافه کنید</string>
+    <string name="speaktoolong">تعداد نوشته ها بیش از حد مجاز است حداکثر 4000 نویسه را می توان وارد کرد</string>
+    <string name="addvideofaild">افزودن ویدیو ناموفق بود لطفا مطمئن شوید شبکه شما می تواند ویدیوهای یوتیوب را مرور کرده و دوباره آن را اضافه کند</string>
     <string name="history">تاریخچه</string>
     <string name="aboutthisgame">درباره این بازی</string>
     <string name="Recommended">توصیه شده</string>
     <string name="h5_menu_shortcut">افزودن به صفحه اصلی</string>
-    <string name="crash_toast_message">برنامه مورد نظر شما به صورت ناگهانی متوقف می شود لطفا گزارش اشکال خود را از طریق ایمیل ارسال کنید</string>
+    <string name="crash_toast_message">متاسفم برنامه به صورت ناگهانی متوقف می شود لطفا گزارش اشکال خود را از طریق ایمیل ارسال کنید</string>
     <string name="init_fail">راه اندازی اولیه ناموفق بود لطفا از فیلترشکن استفاده کنید یا به شبکه ای دیگر متصل شوید</string>
     <string name="sdpermission">ما نیاز به دسترسی به فضای ذخیره سازی خارجی شما داریم لطفا اطمینان حاصل کنید که اجازه آن داده شده است</string>
     <string name="hotrecommended">توصیه شده برتر</string>
