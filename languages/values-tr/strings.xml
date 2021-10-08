@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name">”HappyMod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -21,22 +21,22 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Ücretlijğ</string>
+    <string name="Paid">Ücretli</string>
     <string name="GAME">Oyun</string>
     <string name="APP">Uygulama</string>
     <string name="NEW">Yeni</string>
     <string name="Categories">Kategoriler</string>
     <string name="games">Oyunlar</string>
-    <string name="REFRESH">SalamYenile</string>
+    <string name="REFRESH">Yenile</string>
     <string name="Unable_to_connect_to_the_network">İnternete erişilemiyor.</string>
     <string name="Recommended_Game_Mods">Önerilen Oyun Modları</string>
     <string name="Hot_Game_Mods">Popüler Oyun Modları</string>
     <string name="Recommended_App_Mods">Önerilen Uygulama Modları</string>
     <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
     <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
-    <string name="Last_Update_Mods">En son güncellemeler</string>
+    <string name="Last_Update_Mods">En yeni güncellemeler</string>
     <string name="SearchHint">Ara</string>
-    <string name="Homeweb">Resmî internet sitesi</string>
+    <string name="Homeweb">Ana sayfa</string>
     <string name="Management">Yönetim</string>
     <string name="Settings">Ayarlar</string>
     <string name="Feedback">Geri Bildirim</string>
