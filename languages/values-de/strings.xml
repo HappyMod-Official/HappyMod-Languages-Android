@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--德国-->
-    <string name="app_name">Bezeichnung der App</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">www.happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -81,12 +81,12 @@
     <string name="Downloadfailed">Download fehlgeschlagen</string>
     <string name="Downloadistooslow">Download ist zu langsam</string>
     <!--APP详情页-->
-    <string name="Mods">Mods</string>
+    <string name="Mods">Modifikationen</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Vorherige Version</string>
     <string name="Download">Download</string>
     <string name="Downloadobb">Download (APK+OBB)</string>
-    <string name="Downloaddata">Download (APK+DATA)</string>
+    <string name="Downloaddata">Herunterladen(APK+DATA)</string>
     <string name="Downloadboundle">Download (BUNDLE)</string>
     <string name="Downloaded">Heruntergeladen</string>
     <string name="Install">Installieren</string>
@@ -266,7 +266,7 @@
     <string name="downloadpush_remind">Benachrichtigung nach der Installation anzeigen</string>
     <string name="messages">Nachrichten</string>
     <string name="RecommendMods">Empfohlene Mods</string>
-    <string name="requestdetailserror">(50-4000 Zeichen)</string>
+    <string name="requestdetailserror">Geldtransfer</string>
     <string name="Changetheimage">Bild ändern &gt;&gt;</string>
     <string name="Typethecodeinthebox">Code in das Feld eingeben</string>
     <string name="Verificationerror">Verifizierung fehlgeschlagen. Bitte versuche es erneut.</string>
