@@ -22,7 +22,7 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Bezahlt</string>
-    <string name="GAME">Spiele</string>
+    <string name="GAME">Spiel</string>
     <string name="APP">Anwendungen</string>
     <string name="NEW">Neu</string>
     <string name="Categories">Kategorien</string>
