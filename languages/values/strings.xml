@@ -334,7 +334,7 @@
     <!--全局rty-->
     <string name="crash_dialog_title">Oops.</string>
     <string name="crash_toast_message">Sorry, APP exception, will be exited, please submit your bug report via email.</string>
-    <string name="crash_dialog_message">Sorry, APP exception, please submit your bug report via email.</string>
+    <string name="crash_dialog_message">متاسفم لطفا گزارش اشکال خود را از طریق ایمیل ارسال کنید</string>
     <string name="crash_dialog_feedback">Report bugs</string>
     <string name="crash_dialog_restart">Restart</string>
     <string name="init_fail">Initialization failed, please use a VPN or change to other networks.</string>
