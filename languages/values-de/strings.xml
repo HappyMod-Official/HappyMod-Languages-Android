@@ -49,19 +49,19 @@
     <!--设置页-->
     <string name="settings_network_remind">Mobiles Netzwerk Warnung</string>
     <string name="settings_auto_install">Automatische Installation</string>
-    <string name="Download_Directory">Downloads</string>
+    <string name="Download_Directory">Herunterladen</string>
     <string name="settings_other">Weitere</string>
     <string name="settings_clear_cache">Cache leeren</string>
     <string name="Clean_up_the_complete">Cache wurde geleert.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Hoppla! Kein passendes Ergebnis für deine Suchanfrage gefunden.</string>
     <!--下载管理页-->
-    <string name="Downloads">Downloads</string>
+    <string name="Downloads">Heruntergeladen</string>
     <string name="Downloading">Wird heruntergeladen</string>
     <string name="Finished">Fertig</string>
     <string name="No_Download">Keine Dateien gefunden.</string>
     <string name="Pause">Pausieren</string>
-    <string name="Waiting_in_queue">Warten auf Download</string>
+    <string name="Waiting_in_queue">Warteschlange</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="UnZiping">Extrahieren</string>
     <string name="UnZip_succeed">Extrahierung beendet</string>
@@ -78,16 +78,16 @@
     <string name="Delete">Löschen</string>
     <string name="Whydeletethisdownload">Warum hast du den Download gelöscht\?</string>
     <string name="NotwhatIwant">Nicht das was ich wollte</string>
-    <string name="Downloadfailed">Download fehlgeschlagen</string>
+    <string name="Downloadfailed">Herunterladen fehlgeschlagen</string>
     <string name="Downloadistooslow">Download ist zu langsam</string>
     <!--APP详情页-->
     <string name="Mods">Modifikationen</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Vorherige Version</string>
     <string name="Download">Download</string>
-    <string name="Downloadobb">Download (APK+OBB)</string>
+    <string name="Downloadobb">Herunterladen (APK+OBB)</string>
     <string name="Downloaddata">Herunterladen(APK+DATA)</string>
-    <string name="Downloadboundle">Download (BUNDLE)</string>
+    <string name="Downloadboundle">Herunterladen (BUNDLE)</string>
     <string name="Downloaded">Heruntergeladen</string>
     <string name="Install">Installieren</string>
     <string name="Connecting">Verbinden…</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Weitere Versionen</string>
     <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
-    <string name="Moremods">Neueste Versionen</string>
+    <string name="Moremods">Neuste Versionen</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
     <string name="Hated_it">Ich habe es gehasst!</string>
@@ -129,7 +129,7 @@
     <string name="need">; Verfügbar:</string>
     <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. :</string>
     <string name="updatenow">Jetzt aktualisieren</string>
-    <string name="updateFail">Download fehlgeschlagen. Bitte schließen und wieder öffnen</string>
+    <string name="updateFail">Herunterladen fehlgeschlagen. Bitte schließen und wieder öffnen</string>
     <string name="initializing">Initialisierung</string>
     <string name="Retrying">Wiederholen</string>
     <string name="language">Sprache</string>
@@ -148,10 +148,10 @@
     <string name="uid">NutzerID</string>
     <string name="copysuccess">NutzerID wurde in die Zwischenablage kopiert.</string>
     <string name="watchnow">Jetzt ansehen</string>
-    <string name="ggdownloading">Werbung wird geladen, bitte warten und HappyMod nicht beenden.</string>
+    <string name="ggdownloading">Werbung wird geladen, bitte warten und schließe HappyMod nicht.</string>
     <string name="verificaing">Verifizierung, bitte warten.</string>
     <!-- 评价 -->
-    <string name="Removeads">Werbung entfernen</string>
+    <string name="Removeads">Werbung entfernt</string>
     <string name="Paidforfree">Kostenlos</string>
     <string name="Unlimitedmoney">Unbegrenztes Geld</string>
     <string name="Freepurchase">Kostenlos</string>
@@ -166,7 +166,7 @@
     <string name="Plus">Plus Version</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Oberfläche</string>
-    <string name="Debloated">Bloatware entfernen</string>
+    <string name="Debloated">Bloatware entfernt</string>
     <string name="Donate">Spenden</string>
     <string name="AOSPcompatible">AOSP-kompatibel</string>
     <string name="Cracked">Gecrackt</string>
@@ -209,7 +209,7 @@
     <string name="signuptips">Wenn du dein Passwort vergessen hast, benötigst du eine Telefonnummer oder eine E-Mail-Adresse um das Konto wiederherstellen zu können. Wir empfehlen dir, dies auszufüllen.</string>
     <string name="confirmusername">Benutzernamen bestätigen</string>
     <string name="next">Weiter</string>
-    <string name="fblogdes">Bitte gebe ein Benutzernamen ein. Der Benutzername ist wichtig Abrufen des Passworts. Bitte beachte das.</string>
+    <string name="fblogdes">Bitte gebe ein Benutzernamen ein. Der Benutzername ist wichtig zum Abrufen des Passworts. Bitte beachte das.</string>
     <string name="selectusername">Benutzernamen auswählen</string>
     <string name="reselpass_desone">Gebe den Benutzernamen deines Kontos ein, um das Kennwort zurückzusetzen. Wenn es Problem mit dem Zurücksetzen des Passworts gibt <u>Kontaktiere uns</u>.</string>
     <string name="reselpass_destwo">Bitte E-Mail oder Ihre Telefonnummer eingeben. Gibt es ein Problem mit dem Zurücksetzen des Passworts <u>kontaktiere uns</u>.</string>
@@ -331,8 +331,8 @@
     <string name="installplaywitouthti">Sofort spielen, ohne installieren zu müssen</string>
     <!--全局rty-->
     <string name="crash_dialog_title">Hoppla...</string>
-    <string name="crash_toast_message">Entschuldigung, APP-Ausnahme, wird beendet. Bitte sende uns deinen Fehlerbericht per E-Mail.</string>
-    <string name="crash_dialog_message">Entschuldigung, APP-Ausnahme, bitte sende dein Fehlerbericht per E-Mail.</string>
+    <string name="crash_toast_message">Entschuldigung, App Ausnahme, wird beendet. Bitte sende uns deinen Fehlerbericht per E-Mail.</string>
+    <string name="crash_dialog_message">Entschuldigung, App Ausnahme, bitte sende dein Fehlerbericht per E-Mail.</string>
     <string name="crash_dialog_feedback">Fehler melden</string>
     <string name="crash_dialog_restart">Neu starten</string>
     <string name="init_fail">Initialisierung fehlgeschlagen, bitte verwende eine VPN oder wähle ein anderes Netzwerk.</string>
@@ -381,7 +381,7 @@
     <string name="appuploader">Hochgeladen von</string>
     <string name="votedresult">Du hast bereits für diese App abstimmt.</string>
     <string name="votedokok">Deine Stimme wurde erfolgreich abgegeben.</string>
-    <string name="please_downlaodthisapp">Bitte laden zuerst die App herunter.</string>
+    <string name="please_downlaodthisapp">Bitte lade zuerst die App herunter.</string>
     <string name="safetitle">App apk garantiert</string>
     <string name="safedes">Diese APK hat den Sicherheitstest für Viren und Malware bestanden. Es wurde eine vertrauenswürdige und verifizierte digitale Signatur verwendet.</string>
     <string name="bereported">Report wurde gemeldet.</string>
