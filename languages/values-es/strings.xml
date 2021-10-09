@@ -23,7 +23,7 @@
     <!--homepage-->
     <string name="Paid">Pagado</string>
     <string name="GAME">Juego</string>
-    <string name="APP">Aplicaciones</string>
+    <string name="APP">Aplicacion</string>
     <string name="NEW">Nuevo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Juegos</string>
@@ -216,7 +216,7 @@
     <string name="Resetpassword">Restablecer la contraseña</string>
     <string name="NewPassword">Nueva contraseña</string>
     <string name="Enterthepasswordagain">Confirmar la contraseña</string>
-    <string name="signuplimitdes">Su dispositivo ha alcanzado el número máximo de cuentas registradas. Seleccione la (s) cuenta (s) a continuación para iniciar sesión.</string>
+    <string name="signuplimitdes">Su dispositivo ha alcanzado el número máximo de cuentas registradas. Seleccione la(s) cuenta(s) a continuación para iniciar sesión.</string>
     <string name="Register">Registro</string>
     <string name="eyun">Ingrese su nombre de usuario</string>
     <string name="eypsw">Ingresa tu contraseña</string>
@@ -242,7 +242,7 @@
     <string name="Myuploads">Mis subidas</string>
     <string name="Updated">Actualizado</string>
     <string name="Comingsoon">Próximamente</string>
-    <string name="searchappyouwanttorequest">Busque la aplicación que desea solicitar:</string>
+    <string name="searchappyouwanttorequest">Busque la aplicación que quiere solicitar:</string>
     <string name="Addupload">Añadir carga</string>
     <string name="requestdetailhint">Cuéntanos mas acerca de tu requerimiento. (Al menos 50 caracteres)</string>
     <string name="requesterror">Envío fallido, por favor intente de nuevo más tarde.</string>
@@ -419,7 +419,7 @@
     <string name="Checkthenetwork">Verifica tu conexión</string>
     <string name="Configuringip">Configurando la IP disponible para usted</string>
     <string name="Configuringipfailed">La configuración falló, se detectó que 8 direcciones IP no están disponibles, intente usar VPN.</string>
-    <string name="Donatedes">¡HappyMod es completamente gratuito y odiamos los anuncios tanto como usted!
+    <string name="Donatedes">HappyMod es completamente gratuito y odiamos los anuncios tanto como usted
 \n
 \nNecesitamos su donación para proporcionar descargas más rápidas y seguras.
 \n
