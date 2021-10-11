@@ -9,7 +9,7 @@
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="Unable_to_connect_to_the_network">Não foi possível conectar-se à rede!</string>
-    <string name="Hot_Game_Mods">Jogos modificados em alta</string>
+    <string name="Hot_Game_Mods">Jogos populares modificados</string>
     <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
     <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
     <string name="SearchHint">Procurar</string>
@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">Anime</string>
     <string name="REFRESH">Recarregar</string>
     <string name="Recommended_Game_Mods">Jogos modificados recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
@@ -244,7 +244,7 @@
     <string name="downloadpush_remind">Mostrar Notificação Após Instalação</string>
     <string name="messages">Mensagens</string>
     <string name="RecommendMods">Mods Recomendados</string>
-    <string name="requestdetailserror">(50-4000 caracteres)</string>
+    <string name="requestdetailserror">(50-4000 caracteres)cidade</string>
     <string name="speaksomething">Por favor digite ao menos 20 caracteres</string>
     <string name="Verificationerror">A verificação falhou, por favor tente novamente.</string>
     <string name="Verifing">Verificando…</string>
