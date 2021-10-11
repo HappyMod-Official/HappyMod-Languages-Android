@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">APP_name</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -34,7 +34,7 @@
     <string name="Hot_App_Mods">Hot app mods</string>
     <string name="Recommended_New_Mods">Recommended new mods</string>
     <string name="Last_Update_Mods">Latest Updates</string>
-    <string name="SearchHint">Search hint</string>
+    <string name="SearchHint">Search Hint</string>
     <!-- 侧滑-->
     <string name="Homeweb">Home</string>
     <string name="Management">Management</string>
