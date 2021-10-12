@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--阿拉伯-->
-    <string name="app_name">تعديل شائع</string>
+    <string name="app_name">اسم البرنامج</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">085877921396</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -30,16 +30,16 @@
     <string name="REFRESH">إعادة تحميل</string>
     <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة !</string>
     <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
-    <string name="Hot_Game_Mods">تعديلات العاب شائعة</string>
+    <string name="Hot_Game_Mods">العاب معدلة شائعة</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى بها</string>
     <string name="Hot_App_Mods">تعديلات تطبيقات شائعة</string>
     <string name="Recommended_New_Mods">تعديلات العاب جديدة</string>
     <string name="Last_Update_Mods">آخر التحديثات</string>
-    <string name="SearchHint">تلميح البحث</string>
+    <string name="SearchHint">البحث عن تلميح</string>
     <string name="Homeweb">الصفحة الرئيسية</string>
     <string name="Management">إدارة</string>
     <string name="Settings">الإعدادات</string>
-    <string name="Feedback">إستجابة</string>
+    <string name="Feedback">مراجعة</string>
     <string name="Translation">ترجمة</string>
     <string name="Share">مشاركة</string>
     <string name="Checkforupdate">فحص التحديثات</string>
