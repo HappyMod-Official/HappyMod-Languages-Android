@@ -53,7 +53,7 @@
     <string name="Download">Atsiūsti</string>
     <string name="app_name">Happy Mod</string>
     <string name="Homecom">HappyMod.com</string>
-    <string name="Unable_to_connect_to_the_network">Nepavyksta pasiekti interneto</string>
+    <string name="Unable_to_connect_to_the_network">-Nepavyksta pasiekti internetolla</string>
     <string name="Recommended_New_Mods">Rekomenduojami nauji modifikacijos</string>
     <string name="settings_network_remind">Priminimas apie tinklo nustatymus</string>
     <string name="Waiting_in_queue">Laukia eilėje</string>
