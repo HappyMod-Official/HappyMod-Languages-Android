@@ -330,7 +330,7 @@
     <!--全局rty-->
     <string name="crash_dialog_title">Упс.</string>
     <string name="crash_toast_message">К сожалению, приложение будет закрыто, пожалуйста, отправьте свой отчет об ошибке по электронной почте.</string>
-    <string name="crash_dialog_message">Произошла ошибка, пожалуйста, отправьте ваш отчет об ошибке по электронной почте.</string>
+    <string name="crash_dialog_message">Произошла ошибка, пожалуйста, отправьте ваш отчет об ошибке по электронной почте</string>
     <string name="crash_dialog_feedback">Сообщить об ошибках</string>
     <string name="crash_dialog_restart">Перезапустить</string>
     <string name="init_fail">Инициализация не удалась, используйте VPN или подключитесь к другой сети.</string>
