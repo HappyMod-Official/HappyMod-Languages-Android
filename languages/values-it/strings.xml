@@ -22,14 +22,14 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Pagato</string>
-    <string name="GAME">Gioco</string>
+    <string name="GAME">Giochi</string>
     <string name="APP">Applicazione</string>
     <string name="NEW">Nuovo</string>
     <string name="Categories">Categorie</string>
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet!</string>
-    <string name="Recommended_Game_Mods">Giochi Modificati Consigliati.</string>
+    <string name="Recommended_Game_Mods">Giochi Moddati Consigliati.</string>
     <string name="Hot_Game_Mods">Giochi popolari moddati</string>
     <string name="Recommended_App_Mods">Applicazione consigliate con mod</string>
     <string name="Hot_App_Mods">Applicazioni popolari con mod</string>
