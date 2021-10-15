@@ -13,7 +13,7 @@
     <string name="Recommended_App_Mods">برنامه های مود توصیه شده</string>
     <string name="Hot_App_Mods">برنامه مود برتر</string>
     <string name="Last_Update_Mods">آخرین به روزرسانی ها</string>
-    <string name="SearchHint">جستجو</string>
+    <string name="SearchHint">راهنمای جستجو</string>
     <string name="Homeweb">صفحه اصلی</string>
     <string name="Management">مدیریت</string>
     <string name="Settings">تنظیمات</string>
@@ -57,7 +57,7 @@
     <string name="Connecting">در حال اتصال …</string>
     <string name="modfeature">اطلاعات مود :</string>
     <string name="Moreversion">نسخه های بیشتر</string>
-    <string name="app_name">هپی موو</string>
+    <string name="app_name">هپی مود</string>
     <string name="Paid">پرداخت شده</string>
     <string name="Unable_to_connect_to_the_network">اتصال به شبکه امکان پذیر نیست!</string>
     <string name="Recommended_New_Mods">مود های توصیه شده جدید</string>
