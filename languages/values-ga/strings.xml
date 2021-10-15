@@ -2,4 +2,23 @@
 <resources>
     <string name="GAME">masadulmondal796@gmail.com</string>
     <string name="facebook_app_id">masadulmondal796@gmail.com</string>
+    <string name="Last_Update_Mods">Nuashonruithe is déanaí</string>
+    <string name="SearchHint">Search hint</string>
+    <string name="Homeweb">Baile</string>
+    <string name="Management">Bainistíocht</string>
+    <string name="Settings">Socruithe</string>
+    <string name="Feedback">Aiseolas</string>
+    <string name="Translation">Aistriúchán</string>
+    <string name="Share">Comhroinn</string>
+    <string name="Checkforupdate">Seiceáil le haghaidh nuashonrú</string>
+    <string name="FollowusonTwitter">Lean muid ar Twitter </string>
+    <string name="settings_network_remind">Foláireamh Líonra Soghluaiste</string>
+    <string name="Download_Directory">Íoslódáil Eolaire</string>
+    <string name="settings_clear_cache">Taisce soiléir</string>
+    <string name="des_no_serach_result">Úps! Ní bhfuarthas torthaí.</string>
+    <string name="Downloads">Íoslódálacha</string>
+    <string name="settings_auto_install">Suiteáil go huathoibríoch</string>
+    <string name="settings_other">Eile</string>
+    <string name="Clean_up_the_complete">Glantar an taisce.</string>
+    <string name="Downloading">Díluchtú</string>
 </resources>
