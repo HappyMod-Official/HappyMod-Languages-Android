@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">APP_name</string>
+    <string name="app_name">APP_name \tApp név</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -26,23 +26,23 @@
     <string name="NEW">New</string>
     <string name="Categories">Categories</string>
     <string name="games">Games</string>
-    <string name="REFRESH">Refresh</string>
-    <string name="Unable_to_connect_to_the_network">Unable to connect to the network !</string>
-    <string name="Recommended_Game_Mods">Recommended game mods</string>
+    <string name="REFRESH">Frissítés</string>
+    <string name="Unable_to_connect_to_the_network">nem tud csatlakozni a hálózathoz</string>
+    <string name="Recommended_Game_Mods">Nem tud csatlakozni a játék modjához</string>
     <string name="Hot_Game_Mods">Popular Mods for Games</string>
     <string name="Recommended_App_Mods">Recommended app mods</string>
     <string name="Hot_App_Mods">Hot app mods</string>
-    <string name="Recommended_New_Mods">Recommended new mods</string>
+    <string name="Recommended_New_Mods">Ajánlott új modok</string>
     <string name="Last_Update_Mods">Latest Updates</string>
     <string name="SearchHint">Search Hint</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Home</string>
+    <string name="Homeweb">Otthon</string>
     <string name="Management">Management</string>
-    <string name="Settings">Settings</string>
+    <string name="Settings">“Settings</string>
     <string name="Feedback">Feedback</string>
     <string name="Translation">Translation</string>
     <string name="Share">Share</string>
-    <string name="Checkforupdate">Check for update</string>
+    <string name="Checkforupdate">Nézd meg az új frissítést</string>
     <string name="FollowusonTwitter">Follow us on Twitter </string>
     <string name="FollowusonFacebook">Follow us on Facebook</string>
     <!--设置页-->
