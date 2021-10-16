@@ -33,7 +33,7 @@
     <string name="Hot_Game_Mods">العاب معدلة شائعة</string>
     <string name="Recommended_App_Mods">تطبيقات معدلة موصى بها</string>
     <string name="Hot_App_Mods">تعديلات تطبيقات شائعة</string>
-    <string name="Recommended_New_Mods">تعديلات العاب جديدة</string>
+    <string name="Recommended_New_Mods">يوصى بتعديل جديد</string>
     <string name="Last_Update_Mods">آخر التحديثات</string>
     <string name="SearchHint">البحث عن تلميح</string>
     <string name="Homeweb">الصفحة الرئيسية</string>
@@ -56,7 +56,7 @@
     <string name="Downloading">جاري التحميل</string>
     <string name="Finished">اكتمل</string>
     <string name="No_Download">لم يتم العثور على الملف:(</string>
-    <string name="Pause">إيقاف مؤقت</string>
+    <string name="Pause">يوقف</string>
     <string name="Waiting_in_queue">في قائمة الانتظار..</string>
     <string name="Completed">مكتمل</string>
     <string name="UnZiping">جاري الاستخراج...</string>
