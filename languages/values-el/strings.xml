@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--希腊语-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">Όνομα εφαρμογής</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -39,7 +39,7 @@
     <!-- 侧滑-->
     <string name="Homeweb">Επίσημη Ιστοσελίδα</string>
     <string name="Management">Διαχείριση</string>
-    <string name="Settings">Ρύθμισεις</string>
+    <string name="Settings">Ρυθμίσεις</string>
     <string name="Feedback">Ανατροφοδότηση</string>
     <string name="Translation">Μετάφραση</string>
     <string name="Share">Κοινοποίηση</string>
@@ -103,7 +103,7 @@
     <string name="Disliked_it">Δεν μου αρέσει.</string>
     <string name="Its_ok">Είναι εντάξει.</string>
     <string name="Liked_it">Μου αρέσει.</string>
-    <string name="Loved_it">Το αγαπάω!</string>
+    <string name="Loved_it">Το λατρεύω!</string>
     <!--分享-->
     <string name="share_happymod">Κοινοποίηση HappyMod μέσω</string>
     <string name="share_subject">Πάρτε το HappyMod</string>
@@ -115,12 +115,12 @@
     <string name="nvisrti">Η νέα έκδοση είναι έτοιμη για εγκατάσταση.</string>
     <string name="OPEN">Άνοιγμα</string>
     <string name="OK">ΟΚ</string>
-    <string name="Loading">Φόρτωση...</string>
+    <string name="Loading">Φόρτωση…</string>
     <string name="updata_tip">Χρησιμοποιείτε την τελευταία έκδοση του HappyMod</string>
     <string name="xzzb">Παρακαλώ κατεβάστε το επίσημο HappyMod.</string>
     <string name="Continue">Συνεχίστε</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Δεν υπάρχει χώρος στη συσκευή</string>
+    <string name="No_space_left_on_device">Δεν υπάρχει διαθέσιμος αποθηκευτικός χώρος στη συσκευή</string>
     <string name="Is_this_app_you_need">Ψάχνετε για αυτήν την εφαρμογή;</string>
     <string name="No">Όχι</string>
     <string name="Yes">Ναι</string>
@@ -147,7 +147,7 @@
     <string name="uid">Αναγνωριστικό χρήστη</string>
     <string name="copysuccess">Το αναγνωριστικό χρήστη έχει αντιγραφεί στο πρόχειρο.</string>
     <string name="watchnow">Κοίτα τώρα</string>
-    <string name="ggdownloading">Η διαφήμιση είναι φόρτωση, παρακαλώ περιμένετε και κρατήστε happymod ανοιχτό.</string>
+    <string name="ggdownloading">Η διαφήμιση φορτώνει, παρακαλώ περιμένετε και κρατήστε το happymod ανοιχτό.</string>
     <string name="verificaing">Περιμένετε μέχρι την επαλήθευση.</string>
     <!-- 评价 -->
     <string name="Removeads">Κατάργηση διαφήμισης</string>
@@ -179,7 +179,7 @@
     <!-- 注册登录 -->
     <string name="Username">Όνομα χρήστη</string>
     <string name="Usernameinit">4-50 χαρακτήρες</string>
-    <string name="Usernametip">Μόνο τα γράμματα α-ζ, αριθμοί, @. - Παρακαλώ (χωρίς κενά ή άλλους ειδικούς χαρακτήρες). 4-50 χαρακτήρες.</string>
+    <string name="Usernametip">Μόνο τα γράμματα α-ζ, αριθμοί, και σύμβολα: @. - Παρακαλώ (χωρίς κενά ή άλλους ειδικούς χαρακτήρες). 4-50 χαρακτήρες.</string>
     <string name="Password">Κωδικός πρόσβασης</string>
     <string name="Enteryourpassword">6-8 χαρακτήρες</string>
     <string name="passwordtip">Μόνο τα γράμματα Α-Ζ, α-ζ, αριθμοί (χωρίς κενά ή ειδικούς χαρακτήρες). 6-8 χαρακτήρες.</string>
@@ -189,41 +189,41 @@
     <string name="Enteryouremail">Συμπληρώστε το email σας</string>
     <string name="Telephonenumber">Αριθμός τηλεφώνου</string>
     <string name="Enteryourtelephonenumber">Πληκτρολογήστε τον αριθμό τηλεφώνου σας</string>
-    <string name="phonetip">Εισαγάγετε ένα έγκυρο τηλέφωνο.</string>
+    <string name="phonetip">Εισαγάγετε έναν έγκυρο αριθμό τηλεφώνου.</string>
     <string name="emailtip">Εισάγετε μια έγκυρη διεύθυνση email.</string>
     <string name="Signup">Εγγραφείτε</string>
     <string name="tuiat">Αυτό το όνομα χρήστη έχει ήδη ληφθεί.</string>
     <string name="Login">Σύνδεση</string>
     <string name="Account">λογαριασμός</string>
-    <string name="forgotpassword">Forget password?</string>
+    <string name="forgotpassword">Ξεχάσατε τον κωδικό σας;</string>
     <string name="loginwithaccount">Ή συνδεθείτε με το όνομα χρήστη σας</string>
     <string name="newur">Νέα εγγραφή χρήστη</string>
     <string name="Usernameinitnew">Όνομα χρήστη (4-50 χαρακτήρες)</string>
-    <string name="Passwordnew">Κωδικός πρόσβασης (6-8 χαρακτήρες)</string>
+    <string name="Passwordnew">Κωδικός πρόσβασης: (6-8 χαρακτήρες)</string>
     <string name="Emailnew">ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ</string>
     <string name="PhoneNumber">Τηλεφωνικό νούμερο</string>
     <string name="Unknown">Αγνωστος</string>
     <string name="enteryEmail">Συμπληρώστε το email σας</string>
     <string name="enteryPhone">Πληκτρολόγησε τον αριθμό του τηλεφώνου σου</string>
-    <string name="signuptips">Όταν ξεχάσετε τον κωδικό πρόσβασής σας, θα χρειαστείτε "Αριθμός τηλεφώνου" ή "Email" για να το ανακτήσετε. Σας συνιστούμε να τις ολοκληρώσετε.</string>
+    <string name="signuptips">Σε περίπτωση που ξεχάσετε τον κωδικό πρόσβασής σας, θα χρειαστείτε τον αριθμό τηλεφώνου ή το Email σας για να το ανακτήσετε. Σας συνιστούμε να τα προσθέσετε.</string>
     <string name="confirmusername">Επιβεβαιώστε το όνομα χρήστη</string>
     <string name="next">Επόμενο</string>
     <string name="fblogdes">Παρακαλώ εισάγετε όνομα χρήστη. Το όνομα χρήστη είναι ένα πολύ σημαντικό αναγνωριστικό για την ανάκτηση του κωδικού πρόσβασης, παρακαλούμε να έχετε υπόψη σας.</string>
     <string name="selectusername">Επιλέξτε όνομα χρήστη</string>
     <string name="reselpass_desone">Εισαγάγετε το όνομα χρήστη του λογαριασμού σας για να επαναφέρετε τον κωδικό πρόσβασης. Έχετε κάποιο πρόβλημα σχετικά με την επαναφορά κωδικού πρόσβασης<u>contact us</u>.</string>
-    <string name="reselpass_destwo">Εισαγάγετε το email ή τον αριθμό τηλεφώνου. Έχετε κάποιο πρόβλημα σχετικά με την επαναφορά κωδικού πρόσβασης<u>contact us</u>.</string>
-    <string name="forgetgosingup">Δεν μπορώ να θυμηθώ κανένα από αυτά; Σας παρακαλούμε<u>sign up a new account</u>.</string>
+    <string name="reselpass_destwo">Εισαγάγετε το email ή τον αριθμό τηλεφώνου. Εάν έχετε κάποιο πρόβλημα σχετικά με την επαναφορά κωδικού πρόσβασης<u>contact us</u>.</string>
+    <string name="forgetgosingup">Δεν μπορείτε να θυμηθείτε κανένα από αυτά; Σας παρακαλούμε<u>sign up a new account</u>.</string>
     <string name="Resetpassword">Επαναφέρετε τον κωδικό πρόσβασης</string>
     <string name="NewPassword">Νέος κωδικός πρόσβασης</string>
     <string name="Enterthepasswordagain">Επιβεβαιώστε τον κωδικό πρόσβασης</string>
-    <string name="signuplimitdes">Η συσκευή σας έχει φτάσει στο μέγιστο αριθμό εγγεγραμμένων ονομάτων χρήστη. Επιλέξτε το όνομα χρήστη παρακάτω για να συνδεθείτε.</string>
+    <string name="signuplimitdes">Η συσκευή σας έχει φτάσει στο μέγιστο αριθμό εγγεγραμμένων ονομάτων χρήστη. Επιλέξτε τον λογαριασμό παρακάτω για να συνδεθείτε.</string>
     <string name="Register">Κανω ΕΓΓΡΑΦΗ</string>
     <string name="eyun">Εισαγάγετε το όνομα χρήστη σας</string>
     <string name="eypsw">Εισάγετε τον κωδικό σας</string>
-    <string name="loginerrortips">Εισαγάγετε ένα σωστό όνομα χρήστη και κωδικό πρόσβασης. Σημειώστε ότι στο πεδίο κωδικού πρόσβασης γίνεται διάκριση πεζών χαρακτήρων.</string>
+    <string name="loginerrortips">Εισαγάγετε ένα έγκυρο όνομα χρήστη και κωδικό πρόσβασης. Σημειώστε ότι στο πεδίο κωδικού πρόσβασης γίνεται διάκριση πεζών χαρακτήρων.</string>
     <string name="Resetpasswordfailed">Η επαναφορά του κωδικού πρόσβασης απέτυχε.</string>
     <string name="Theusernamewasnotregistered">Το όνομα χρήστη δεν καταχωρίστηκε.</string>
-    <string name="petceotn">Εισαγάγετε τον σωστό αριθμό ηλεκτρονικού ταχυδρομείου ή τηλεφώνου.</string>
+    <string name="petceotn">Εισαγάγετε ένα έγκυρο email ή τηλέφωνο.</string>
     <string name="fbrfail">Το μητρώο Facebook απέτυχε.</string>
     <string name="Registerfailed">Η καταχώριση απέτυχε, επιβεβαιώστε ότι η σύνδεσή σας στο δίκτυο είναι φυσιολογική, κάντε κλικ στο κουμπί καταχώρισης για να δοκιμάσετε ξανά.</string>
     <string name="Loginfailed">Η σύνδεση απέτυχε.</string>
@@ -232,7 +232,7 @@
     <string name="Myposts">τις θέσεις μου</string>
     <string name="passowrduploadok">Ο κωδικός άλλαξε επιτυχώς</string>
     <string name="logout">Αποσυνδέση</string>
-    <string name="passwordsame">Οι δύο κωδικοί πρόσβασης που καταχωρίσατε είναι ασυμβίβαστοι</string>
+    <string name="passwordsame">Οι δύο κωδικοί πρόσβασης που καταχωρίσατε δεν είναι ίδιοι.</string>
     <string name="PopularComments">Δημοφιλή σχόλια</string>
     <!--MyRequests-->
     <string name="Request">Αίτηση</string>
@@ -259,7 +259,7 @@
     <string name="obbfail">Zippyshare/Mediafire URL του αρχείου obb του.</string>
     <string name="worked">Εργάστηκε</string>
     <string name="Uploadsuccess">Ανεβάστε επιτυχία</string>
-    <string name="Requestsuccess">Αίτηση επιτυχίας</string>
+    <string name="Requestsuccess">Επιτυχές αίτημα</string>
     <string name="clickyes">Μπορείτε να επεξεργαστείτε και να υποβάλετε ξανά αυτό το αίτημα από την ουρά που εργάστηκε.</string>
     <string name="clickno">Το αίτημα αυτό θα προστεθεί ξανά στην ουρά.</string>
     <string name="downloadpush_remind">Εμφάνιση ειδοποίησης μετά την εγκατάσταση</string>
