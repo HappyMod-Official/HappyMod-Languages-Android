@@ -11,7 +11,7 @@
     <string name="Unable_to_connect_to_the_network">Não foi possível conectar-se à rede!</string>
     <string name="Hot_Game_Mods">Jogos populares modificados</string>
     <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
-    <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
+    <string name="Recommended_New_Mods">Miguel</string>
     <string name="SearchHint">Procurar</string>
     <string name="Homeweb">Website Oficial</string>
     <string name="Management">Gerenciamento</string>
@@ -153,8 +153,9 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">Anime</string>
-    <string name="REFRESH">Recarregar</string>
+    <string name="app_name">Anmiguel
+\nime</string>
+    <string name="REFRESH">Miguel</string>
     <string name="Recommended_Game_Mods">Jogos modificados recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
