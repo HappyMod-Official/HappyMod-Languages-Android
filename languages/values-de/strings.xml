@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--德国-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">App name</string>
     <string name="Homecom">www.happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -35,9 +35,9 @@
     <string name="Hot_App_Mods">Beliebte App Mods</string>
     <string name="Recommended_New_Mods">Neue empfohlene Mods</string>
     <string name="Last_Update_Mods">Neueste Updates</string>
-    <string name="SearchHint">Suchen</string>
+    <string name="SearchHint">Suchhinweis</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Startseite</string>
+    <string name="Homeweb">Zu Hause</string>
     <string name="Management">Verwaltung</string>
     <string name="Settings">Einstellungen</string>
     <string name="Feedback">Rückmeldung</string>
