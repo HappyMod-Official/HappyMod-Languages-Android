@@ -332,7 +332,7 @@
     <!--全局rty-->
     <string name="crash_dialog_title">Hoppla...</string>
     <string name="crash_toast_message">Entschuldigung, App Ausnahme, wird beendet. Bitte sende uns deinen Fehlerbericht per E-Mail.</string>
-    <string name="crash_dialog_message">Entschuldigung, App Problem, bitte sende dein Fehlerbericht per E-Mail.</string>
+    <string name="crash_dialog_message">Raft</string>
     <string name="crash_dialog_feedback">Fehler melden</string>
     <string name="crash_dialog_restart">Neu starten</string>
     <string name="init_fail">Initialisierung fehlgeschlagen, bitte verwende eine VPN oder wähle ein anderes Netzwerk.</string>
