@@ -28,7 +28,7 @@
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisieren</string>
-    <string name="Unable_to_connect_to_the_network">Kann_nicht_mit_dem_Netzwerk verbinden</string>
+    <string name="Unable_to_connect_to_the_network">Netzwerkverbindung kann nicht hergestellt werden</string>
     <string name="Recommended_Game_Mods">Empfohlene Spiele Mods</string>
     <string name="Hot_Game_Mods">Beliebte Spiele Mods</string>
     <string name="Recommended_App_Mods">Empfohlene App Mods</string>
@@ -332,7 +332,7 @@
     <!--全局rty-->
     <string name="crash_dialog_title">Hoppla...</string>
     <string name="crash_toast_message">Entschuldigung, App Ausnahme, wird beendet. Bitte sende uns deinen Fehlerbericht per E-Mail.</string>
-    <string name="crash_dialog_message">Raft</string>
+    <string name="crash_dialog_message">Entschuldigung, APP Ausnahme, bitte sende den Fehlerbericht per email.</string>
     <string name="crash_dialog_feedback">Fehler melden</string>
     <string name="crash_dialog_restart">Neu starten</string>
     <string name="init_fail">Initialisierung fehlgeschlagen, bitte verwende eine VPN oder wähle ein anderes Netzwerk.</string>
