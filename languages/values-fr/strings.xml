@@ -3,7 +3,7 @@
     <!--法语-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">HappyMod.com</string>
-    <string name="facebook_app_id"/>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -32,7 +32,7 @@
     <string name="Recommended_Game_Mods">Mods de jeu recommandés</string>
     <string name="Hot_Game_Mods">Mods de jeu tendance</string>
     <string name="Recommended_App_Mods">Mods d\'application recommandés</string>
-    <string name="Hot_App_Mods">Mods d\'applications tendance</string>
+    <string name="Hot_App_Mods">Mods d\'applications populaires</string>
     <string name="Recommended_New_Mods">Nouveaux Mods Recommandés</string>
     <string name="Last_Update_Mods">Dernières mises à jour</string>
     <string name="SearchHint">Rechercher</string>
@@ -44,7 +44,7 @@
     <string name="Translation">Traduction</string>
     <string name="Share">Partager</string>
     <string name="Checkforupdate">Vérifier la mise à jour</string>
-    <string name="FollowusonTwitter">Suis-nous sur Twitter</string>
+    <string name="FollowusonTwitter">Suivez nous sur Twitter </string>
     <string name="FollowusonFacebook">Suis-nous sur Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Alerte Réseau Mobile</string>
@@ -142,13 +142,13 @@
     <string name="mergerwait">Traitement final (besoin de 1–2 minutes)</string>
     <!-- 验证 -->
     <string name="Startverification">Lancer la vérification</string>
-    <string name="verificationShangXian">Oops! Vous avez atteint la limite de téléchargement quotidienne, essayez à nouveau après X heures.</string>
+    <string name="verificationShangXian">Oups! Vous avez atteint la limite de téléchargement quotidienne, essayez à nouveau après X heures.</string>
     <string name="verificationFail">La vérification a échoué. Merci d\'essayer de nouveau!</string>
     <string name="Morehelp">(Plus d\'aide)</string>
     <string name="uid">Identifiant d\'utilisateur</string>
     <string name="copysuccess">L\'identifiant de l\'utilisateur a été copié dans le presse-papier.</string>
     <string name="watchnow">Voir maintenant</string>
-    <string name="ggdownloading">Le chargement des annonces est en cours, veuillez patienter et laisser happymod ouvert.</string>
+    <string name="ggdownloading">Le chargement des annonces est en cours, veuillez patienter et laisser Happymod ouvert.</string>
     <string name="verificaing">Veuillez patienter pendant la vérification.</string>
     <!-- 评价 -->
     <string name="Removeads">Supprimer l\'annonce</string>
@@ -175,12 +175,12 @@
     <string name="Endless">Sans fin</string>
     <string name="Invincible">Invincible</string>
     <string name="Unlimitedhints">Indices Infinis</string>
-    <string name="Megamod">Mega mod</string>
+    <string name="Megamod">Méga mod</string>
     <string name="Full">Version complète</string>
     <!-- 注册登录 -->
     <string name="Username">Nom d\'utilisateur</string>
     <string name="Usernameinit">4–50 caractères</string>
-    <string name="Usernametip">Seules les lettres a–z, les chiffres, @. – _ s\'il vous plaît (pas d\'espaces ou d\'autres caractères spéciaux). 4–50 caractères.</string>
+    <string name="Usernametip">Les lettres de a-z, chiffres, symboles:@ . - _ (pas d\'espaces entre les caractères spéciaux) sont acceptés. Une limite de 4 à 50 caractères est obligatoire.</string>
     <string name="Password">Mot de passe</string>
     <string name="Enteryourpassword">6–8 caractères</string>
     <string name="passwordtip">Seules les lettres A à Z, a à z, chiffres (sans espaces ni caractères spéciaux). 6–8 caractères.</string>
@@ -206,12 +206,12 @@
     <string name="Unknown">Inconnu</string>
     <string name="enteryEmail">Entrer votre Email</string>
     <string name="enteryPhone">Entrez votre numéro de téléphone</string>
-    <string name="signuptips">Lorsque vous oubliez votre mot de passe, vous aurez besoin de «Numéro de téléphone» ou «Courriel» pour le récupérer. Nous vous recommandons de les compléter.</string>
+    <string name="signuptips">Lorsque vous oubliez votre mot de passe, vous aurez besoin d\'un numéro de téléphone ou d\'un E-mail pour le récupérer. Nous vous recommandons de les compléter.</string>
     <string name="confirmusername">Confirmer le nom d\'utilisateur</string>
     <string name="next">Suivant</string>
-    <string name="fblogdes">Merci d\'entrer un nom d\'utilisateur. Le nom d\'utilisateur est un identifiant très important pour la récupération du mot de passe, n\'oubliez pas.</string>
+    <string name="fblogdes">Merci d\'entrer un nom d\'utilisateur. Le nom d\'utilisateur est un identifiant très important pour la récupération de votre mot de passe, n\'oubliez pas.</string>
     <string name="selectusername">Sélectionnez un nom d\'utilisateur</string>
-    <string name="reselpass_desone">Entrez le nom d\'utilisateur de votre compte pour réinitialiser le mot de passe. Vous avez un problème avec la réinitialisation du mot de passe <u>contact us</u>.</string>
+    <string name="reselpass_desone">Entrez votre nom d\'utilisateur de votre compte. Si vous avez un problème à propos de modifier votre mot de passe: <u>contact us</u>.</string>
     <string name="reselpass_destwo">S\'il vous plaît entrez l\'email ou le numéro de téléphone. Vous avez un problème avec la réinitialisation du mot de passe <u>contact us</u>.</string>
     <string name="forgetgosingup">Vous ne vous en souvenez pas\? Veuillez vous <u>connecter à un nouveau compte</u>.</string>
     <string name="Resetpassword">Réinitialiser le mot de passe</string>
