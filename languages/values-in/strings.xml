@@ -59,7 +59,7 @@
     <string name="Downloads">Unduhan</string>
     <string name="Downloading">Mengunduh</string>
     <string name="Finished">Selesai</string>
-    <string name="No_Download">No File Found.</string>
+    <string name="No_Download">File Tidak Ditemukan.</string>
     <string name="Pause">Jeda</string>
     <string name="Waiting_in_queue">Menunggu dalam antrian</string>
     <string name="Completed">Selesai</string>
