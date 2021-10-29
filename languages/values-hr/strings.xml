@@ -29,10 +29,10 @@
     <string name="games">Igre</string>
     <string name="REFRESH">Osvježiti</string>
     <string name="Unable_to_connect_to_the_network">Nije moguće pristupiti internetu.</string>
-    <string name="Recommended_Game_Mods">Preporučeni modovi igre</string>
+    <string name="Recommended_Game_Mods">Preporuka za modove</string>
     <string name="Hot_Game_Mods">Hot Modovi igre</string>
     <string name="Recommended_App_Mods">Preporučeni modovi aplikacije</string>
-    <string name="Hot_App_Mods">Modovi vruće aplikacije</string>
+    <string name="Hot_App_Mods">Vruci modovi</string>
     <string name="Recommended_New_Mods">Preporučeni novi modovi</string>
     <string name="Last_Update_Mods">Najnovija ažuriranja</string>
     <string name="SearchHint">Traži..</string>
