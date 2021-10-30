@@ -47,28 +47,28 @@
     <string name="FollowusonTwitter">Следите за нами в Твиттере </string>
     <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
-    <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
+    <string name="settings_network_remind">Внимание! Вы используете мобильную сеть для скачивания</string>
     <string name="settings_auto_install">Автоматическая установка</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другое</string>
     <string name="settings_clear_cache">Очистить кэш</string>
-    <string name="Clean_up_the_complete">Кеш очищен.</string>
+    <string name="Clean_up_the_complete">Кэш очищен.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Ой! Результатов не найдено.</string>
     <!--下载管理页-->
     <string name="Downloads">Загрузки</string>
-    <string name="Downloading">Загрузка</string>
+    <string name="Downloading">Загрузка..</string>
     <string name="Finished">Завершенный</string>
     <string name="No_Download">Файл не найден.</string>
     <string name="Pause">Пауза</string>
-    <string name="Waiting_in_queue">Ожидание в очереди</string>
-    <string name="Completed">Завершенный</string>
+    <string name="Waiting_in_queue">Ожидание</string>
+    <string name="Completed">Завершилось</string>
     <string name="UnZiping">Распаковка</string>
     <string name="UnZip_succeed">Распаковка завершена</string>
     <string name="Rate">Оценить</string>
-    <string name="Rated">Оценённый</string>
+    <string name="Rated">Оценённые</string>
     <string name="Version">Версия</string>
-    <string name="Ratingsreviews">Рейтинги и отзывы</string>
+    <string name="Ratingsreviews">Рейтинги и Отзывы</string>
     <string name="Tryitlater">Попробуйте позже</string>
     <string name="Serviceisbusy">Подключение…</string>
     <!-- 下载删除的文字 -->
@@ -87,21 +87,21 @@
     <string name="Download">Скачать</string>
     <string name="Downloadobb">Скачать (APK+OBB)</string>
     <string name="Downloaddata">Скачать (APK+DATA)</string>
-    <string name="Downloadboundle">Скачать сборку (Bundle)</string>
-    <string name="Downloaded">Скачанный</string>
+    <string name="Downloadboundle">Скачать сборку (BUNDLE)</string>
+    <string name="Downloaded">Скачанные</string>
     <string name="Install">Установить</string>
     <string name="Connecting">Подключение…</string>
     <string name="readmore">Подробнее</string>
     <string name="modfeature">Информация о моде:</string>
     <string name="Moreversion">Больше версий</string>
-    <string name="Recommend">Рекомендовать</string>
-    <string name="Recommendmod">Рекомендуемый мод</string>
-    <string name="Moremods">Больше модов</string>
+    <string name="Recommend">Рекомендованные</string>
+    <string name="Recommendmod">Рекомендуемые моды</string>
+    <string name="Moremods">Последние версии</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
     <string name="Hated_it">Ненавижу это!</string>
     <string name="Disliked_it">Не нравится.</string>
-    <string name="Its_ok">Все нормально.</string>
+    <string name="Its_ok">Сойдёт.</string>
     <string name="Liked_it">Нравится.</string>
     <string name="Loved_it">Люблю это!</string>
     <!--分享-->
@@ -111,7 +111,7 @@
     <!--修改路径-->
     <string name="pref_location">Место хранения</string>
     <!--update -->
-    <string name="force_des">100% рабочие моды</string>
+    <string name="force_des">100% Рабочие Моды</string>
     <string name="nvisrti">Новая версия готова к установке.</string>
     <string name="OPEN">ОТКРЫТЬ</string>
     <string name="OK">Хорошо</string>
@@ -124,11 +124,11 @@
     <string name="Is_this_app_you_need">Вы ищете это приложение?</string>
     <string name="No">Нет</string>
     <string name="Yes">Да</string>
-    <string name="bcdes">. Освободите место и попробуйте снова.</string>
-    <string name="need">; Доступный:</string>
+    <string name="bcdes">Освободите место и попробуйте снова.</string>
+    <string name="need">Доступный:</string>
     <string name="No_enough_space_left_on_device">Недостаточно места. Необходимо:</string>
     <string name="updatenow">Обновить сейчас</string>
-    <string name="updateFail">Ошибка загрузки. Пожалуйста, закройте и откройте приложение снова</string>
+    <string name="updateFail">Ошибка загрузки. Пожалуйста, перезапустите приложение HappyMod</string>
     <string name="initializing">Инициализация</string>
     <string name="Retrying">Повторение</string>
     <string name="language">Язык</string>
@@ -138,23 +138,23 @@
     <string name="apps">Приложения</string>
     <!--大文件-->
     <string name="mergering">Финальная обработка</string>
-    <string name="mergerwait">Финальная обработка (требуется 1-2 минуты)</string>
+    <string name="mergerwait">Финальная обработка (Потребуется 1-2 минуты)</string>
     <!-- 验证 -->
     <string name="Startverification">Начать проверку</string>
-    <string name="verificationShangXian">Упс! Вы достигли дневного лимита загрузки, повторите попытку через X часов.</string>
+    <string name="verificationShangXian">Ой! Вы достигли дневного лимита загрузки, повторите попытку через X часов.</string>
     <string name="verificationFail">Ошибка проверки. Пожалуйста, попробуйте еще раз!</string>
     <string name="Morehelp">(Дополнительная помощь)</string>
     <string name="uid">Идентификатор пользователя</string>
     <string name="copysuccess">Идентификатор пользователя был скопирован в буфер обмена.</string>
     <string name="watchnow">Посмотреть сейчас</string>
-    <string name="ggdownloading">Реклама загружается, пожалуйста, держите happymod открытым и подождите.</string>
+    <string name="ggdownloading">Реклама загружается, пожалуйста, держите HappyMod открытым.</string>
     <string name="verificaing">Пожалуйста, дождитесь подтверждения.</string>
     <!-- 评价 -->
     <string name="Removeads">Убрать рекламу</string>
     <string name="Paidforfree">Бесплатно</string>
-    <string name="Unlimitedmoney">Бесконечные деньги</string>
-    <string name="Freepurchase">Бесплатные покупки</string>
-    <string name="Freeshopping">Бесплатные покупки</string>
+    <string name="Unlimitedmoney">Бесконечные Деньги</string>
+    <string name="Freepurchase">Бесплатные Покупки</string>
+    <string name="Freeshopping">Бесплатные Покупки</string>
     <string name="Unlocked">Разблокированное</string>
     <string name="Patched">Пропатчено</string>
     <string name="Premium">Премиум</string>
@@ -162,12 +162,12 @@
     <string name="ModLite">Компактная версия</string>
     <string name="Subscribed">Подписка</string>
     <string name="Prime">Прайм</string>
-    <string name="Plus">Версия плюс</string>
-    <string name="VIP">ВИП</string>
+    <string name="Plus">Версия Plus</string>
+    <string name="VIP">VIP</string>
     <string name="Substratum">Основание</string>
     <string name="Debloated">Без лишнего</string>
     <string name="Donate">Поддержать</string>
-    <string name="AOSPcompatible">AOSP совместимый</string>
+    <string name="AOSPcompatible">Совместимый с AOSP</string>
     <string name="Cracked">Взломанный</string>
     <string name="NoAds">Без рекламы</string>
     <string name="Infinite">Бесконечный</string>
@@ -175,22 +175,22 @@
     <string name="Invincible">Бессмертный</string>
     <string name="Unlimitedhints">Бесконечные подсказки</string>
     <string name="Megamod">Мега мод</string>
-    <string name="Full">Полная версия</string>
+    <string name="Full">Полная Версия</string>
     <!--注册登录-->
     <string name="Username">Имя пользователя</string>
-    <string name="Usernameinit">4-50 символов</string>
-    <string name="Usernametip">Только буквы (a-z), цифры, символы (@. - _), пожалуйста (без пробелов и других специальных символов). 4-50 символов.</string>
+    <string name="Usernameinit">4-50 Символов</string>
+    <string name="Usernametip">Только буквы (A-Z), цифры, символы (@. - _), пожалуйста без пробелов и других специальных символов. 4-50 символов.</string>
     <string name="Password">Пароль</string>
-    <string name="Enteryourpassword">6-8 символов</string>
+    <string name="Enteryourpassword">6-8 Символов</string>
     <string name="passwordtip">Только буквы (A-Z, a-z), цифры (без пробелов и специальных символов). 6-8 символов.</string>
-    <string name="nicknametip">Этот ник уже занят.</string>
-    <string name="Nickname">Ник</string>
+    <string name="nicknametip">Это имя уже занято.</string>
+    <string name="Nickname">Имя</string>
     <string name="Emailaddress">Адрес электронной почты</string>
     <string name="Enteryouremail">Введите адрес электронной почты</string>
-    <string name="Telephonenumber">Номер телефона</string>
+    <string name="Telephonenumber">Телефонный номер</string>
     <string name="Enteryourtelephonenumber">Введите свой номер телефона</string>
-    <string name="phonetip">Введите действительный номер телефона.</string>
-    <string name="emailtip">Введите корректный электронный адрес.</string>
+    <string name="phonetip">Введите ДЕЙСТВИТЕЛЬНЫЙ номер телефона.</string>
+    <string name="emailtip">Введите ДЕЙСТВИТЕЛЬНУЮ электронный почту.</string>
     <string name="Signup">Зарегистрироваться</string>
     <string name="tuiat">Это имя пользователя уже занято.</string>
     <string name="Login">Войти</string>
@@ -200,7 +200,7 @@
     <string name="newur">Регистрация нового пользователя</string>
     <string name="Usernameinitnew">Имя пользователя (4-50 символов)</string>
     <string name="Passwordnew">Пароль (6-8 символов)</string>
-    <string name="Emailnew">Эл. адрес</string>
+    <string name="Emailnew">Эл. почта</string>
     <string name="PhoneNumber">Номер телефона</string>
     <string name="Unknown">Неизвестно</string>
     <string name="enteryEmail">Введите адрес электронной почты</string>
@@ -208,24 +208,24 @@
     <string name="signuptips">Если вы забудете пароль, вам потребуется номер телефона или электронная почта для восстановления. Мы рекомендуем вам добавить их.</string>
     <string name="confirmusername">Подтвердите имя пользователя</string>
     <string name="next">Дальше</string>
-    <string name="fblogdes">Пожалуйста введите имя пользователя. Имя пользователя является очень важным идентификатором для получения пароля, имейте в виду.</string>
+    <string name="fblogdes">Пожалуйста введите имя пользователя. Имейте в виду что имя пользователя является очень важным идентификатором для получения пароля.</string>
     <string name="selectusername">Выберите имя пользователя</string>
     <string name="reselpass_desone">Введите имя пользователя, чтобы сбросить пароль. Если у вас есть проблемы по поводу сброса пароля<u>свяжитесь с нами</u>.</string>
     <string name="reselpass_destwo">Пожалуйста, введите ваш адрес электронной почты или номер телефона. Если у вас есть проблемы по поводу сброса пароля, <u>свяжитесь с нами</u>.</string>
     <string name="forgetgosingup">Не помните ничего из этого\? Пожалуйста, <u>создайте новый аккаунт</u>.</string>
     <string name="Resetpassword">Сброс пароля</string>
     <string name="NewPassword">Новый пароль</string>
-    <string name="Enterthepasswordagain">Подтвердите пароль</string>
+    <string name="Enterthepasswordagain">Подтвердите новый пароль</string>
     <string name="signuplimitdes">Ваше устройство достигло максимального количества зарегистрированных аккаунтов. Пожалуйста, выберите один из аккаунтов ниже, чтобы войти.</string>
-    <string name="Register">Регистрация</string>
+    <string name="Register">Зарегистрироваться</string>
     <string name="eyun">Введите имя пользователя</string>
     <string name="eypsw">Введите ваш пароль</string>
     <string name="loginerrortips">Пожалуйста, введите правильное имя пользователя и пароль. Обратите внимание, что поле пароля чувствительно к регистру.</string>
     <string name="Resetpasswordfailed">Сброс пароля не выполнен.</string>
     <string name="Theusernamewasnotregistered">Имя пользователя не было зарегистрировано.</string>
-    <string name="petceotn">Пожалуйста, введите правильный адрес электронной почты или номер телефона.</string>
+    <string name="petceotn">Пожалуйста, введите ДЕЙСТВИТЕЛЬНЫЙ адрес электронной почты или номер телефона.</string>
     <string name="fbrfail">Регистрация через Facebook не удалась.</string>
-    <string name="Registerfailed">Регистрация не удалась, пожалуйста, убедитесь, что ваше сетевое соединение стабильно, нажмите кнопку регистрации, чтобы повторить попытку.</string>
+    <string name="Registerfailed">Регистрация не удалась, пожалуйста, убедитесь, что ваше сетевое соединение стабильно, повторите попытку нажав на кнопку регистрации.</string>
     <string name="Loginfailed">Ошибка входа.</string>
     <string name="me">Я</string>
     <string name="Avatar">Аватар</string>
@@ -239,33 +239,33 @@
     <string name="Addrequest">Добавить запрос</string>
     <string name="Myrequests">Мои запросы</string>
     <string name="Myuploads">Мои загрузки</string>
-    <string name="Updated">Обновлённый</string>
+    <string name="Updated">Обновлённое</string>
     <string name="Comingsoon">Скоро</string>
     <string name="searchappyouwanttorequest">Найдите приложение, которое хотите запросить:</string>
     <string name="Addupload">Добавить загрузку</string>
-    <string name="requestdetailhint">Скажите больше о вашем запросе. (Не менее 50 символов)</string>
+    <string name="requestdetailhint">Расскажите больше о вашем запросе. (Не менее 50 символов)</string>
     <string name="requesterror">Опубликовать не удалось, повторите попытку позже.</string>
     <string name="detailserror">(100-4000 знаков)</string>
     <string name="view">Посмотреть</string>
-    <string name="isthiswork">Это работает?</string>
+    <string name="isthiswork">Оно сработало\?</string>
     <string name="edit">Редактировать</string>
-    <string name="APKZippyshareurl">Ссылка Zippyshare/Mediafire (на APK):</string>
-    <string name="OBBDataurl">Ссылка Zippyshare/Mediafire (на OBB / Data):(необязательно)</string>
+    <string name="APKZippyshareurl">Ссылка на APK: Zippyshare/Mediafire :</string>
+    <string name="OBBDataurl">Ссылка на OBB/Data Zippyshare/Mediafire :(необязательно)</string>
     <string name="Youarereupload">Вы загружаете:</string>
     <string name="Upload">Загрузить</string>
     <string name="Uploadfail">Загрузка не удалась.</string>
-    <string name="apkfail">Пожалуйста, введите apk-файл из Zippyshare/Mediafire (URL ссылка).</string>
-    <string name="obbfail">Пожалуйста, введите OBB-файл из Zippyshare/Mediafire (URL ссылка).</string>
-    <string name="worked">Работает</string>
+    <string name="apkfail">Пожалуйста, введите ссылку на APK-файл Zippyshare/Mediafire .</string>
+    <string name="obbfail">Пожалуйста, введите ссылку наOBB-файл из Zippyshare/Mediafire.</string>
+    <string name="worked">Сработало</string>
     <string name="Uploadsuccess">Успешная загрузка</string>
     <string name="Requestsuccess">Запрос одобрен</string>
     <string name="clickyes">Вы можете отредактировать и повторно отправить этот запрос из обработанной очереди.</string>
     <string name="clickno">Этот запрос будет добавлен в очередь в ближайшее время.</string>
     <string name="downloadpush_remind">Показать уведомление после установки</string>
     <string name="messages">Сообщения</string>
-    <string name="RecommendMods">Рекомендовать моды</string>
+    <string name="RecommendMods">Рекомендовать Моды</string>
     <string name="requestdetailserror">(50-4000 знаков)</string>
-    <string name="Changetheimage">Изменить изображение &gt;&gt;</string>
+    <string name="Changetheimage">Измените изображение &gt;&gt;</string>
     <string name="Typethecodeinthebox">Введите код в поле</string>
     <string name="Verificationerror">Проверка не удалась. Пожалуйста, попробуйте еще раз.</string>
     <string name="Verifing">Проверка …</string>
@@ -273,10 +273,10 @@
     <string name="fix_tips_title">Попробуйте другие сервера перед удалением</string>
     <string name="fix_tips_content">Вы хотите подключиться к другому серверу, чтобы попытаться загрузить его перед удалением\?</string>
     <string name="fix_progress_title">Сканирование серверов</string>
-    <string name="fix_progress_content">Чтобы найти самый быстрый сервер, может потребоваться несколько минут, подождите.</string>
+    <string name="fix_progress_content">Чтобы найти самый быстрый сервер для вас, может потребоваться несколько минут. Пожалуйста подождите</string>
     <string name="fix_failed_content">В настоящее время нет доступных серверов, повторите попытку позже.</string>
     <string name="fix_tips_failtitle">Нет больше серверов</string>
-    <string name="fix_ok">Попытаться</string>
+    <string name="fix_ok">Попробуйте</string>
     <!--社区 -->
     <string name="please_loginanddownload">Пожалуйста, сначала скачайте этот мод.</string>
     <string name="myvoted">Мои оценивания</string>
@@ -284,9 +284,9 @@
     <string name="inanhour">Пожалуйста, проголосуйте снова через час.</string>
     <string name="Review">Обзор</string>
     <string name="myreply">Мои ответы</string>
-    <string name="Post">Пост</string>
+    <string name="Post">Публикации</string>
     <string name="addavideo">Добавить видео</string>
-    <string name="enterthevideourlhere">Пожалуйста, введите URL-адрес видео с Youtube в поле.</string>
+    <string name="enterthevideourlhere">"Пожалуйста, введите URL-адрес видео  Youtube в поле."</string>
     <string name="onlysupportyoutube">Поддерживаются только видео с Youtube</string>
     <string name="searchorcreate">Найти или создать</string>
     <string name="hashtags">История хэштегов</string>
@@ -318,7 +318,7 @@
     <string name="Hothashtags">Горячие хэштеги</string>
     <string name="history">История</string>
     <string name="aboutthisgame">Об игре</string>
-    <string name="details">Детали</string>
+    <string name="details">Подробнее</string>
     <string name="sellallreviews">Посмотреть все отзывы</string>
     <string name="hfivetitle">Быстрые игры</string>
     <string name="Recommended">Рекомендуемое</string>
@@ -326,9 +326,9 @@
     <string name="h5_menu_reload">Перезагрузить</string>
     <string name="h5_menu_share">Поделиться</string>
     <string name="h5_menu_shortcut">Добавить на домашний экран</string>
-    <string name="installplaywitouthti">Мгновенная игра без необходимости установки</string>
+    <string name="installplaywitouthti">Играть без установки</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Упс.</string>
+    <string name="crash_dialog_title">Ой.</string>
     <string name="crash_toast_message">К сожалению, приложение будет закрыто, пожалуйста, отправьте свой отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_message">Произошла ошибка, пожалуйста, отправьте ваш отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_feedback">Сообщить об ошибках</string>
@@ -336,8 +336,8 @@
     <string name="init_fail">Инициализация не удалась, используйте VPN или подключитесь к другой сети.</string>
     <string name="error_file_des">Этот файл был удален и сейчас будет загружен снова.</string>
     <string name="sdpermission">Нам нужен доступ к вашему внешнему хранилищу. Убедитесь, что разрешение предоставлено.</string>
-    <string name="Night_Mode">Ночной режим</string>
-    <string name="thisty">Это имя уже занято. Попробуйте другое. Доступно:</string>
+    <string name="Night_Mode">Тёмная тема</string>
+    <string name="thisty">Это имя пользователя уже занято. Попробуйте другое. Доступно:</string>
     <!--home_feature-->
     <string name="Feature">Рекомендуемые</string>
     <string name="editorpick">Выбор редактора</string>
@@ -351,12 +351,12 @@
     <string name="searchappyouwanttoupload">Поиск приложения, которое вы хотите загрузить:</string>
     <string name="addapost">Добавить пост</string>
     <string name="launch_des">Найди тут 100% рабочие моды!
-\nЗагружено пользователями - проверено пользователями!</string>
+\nЗагружено пользователями; Проверено пользователями!</string>
     <string name="requestamod">Запросить мод</string>
     <string name="uploadamod">Загрузить мод</string>
     <!--boundle 新增-->
     <string name="Installing">Установка</string>
-    <string name="bundleneedsfive">Извините, этой сборке требуется Android версии 5.0 и выше.</string>
+    <string name="bundleneedsfive">Извините, этой сборке(Bundle) требуется Android версии 5.0 и выше.</string>
     <string name="parsingerror">Ошибка синтаксического анализа apk или установка была отменена.</string>
     <string name="tipsinstallok">Установка прошла успешно.</string>
     <string name="tipsinstallfail">Установка не удалась, пожалуйста, попробуйте еще раз.</string>
