@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="settings_auto_install">自動的にインストール</string>
+    <string name="settings_clear_cache">キャッシュの消去</string>
+    <string name="Download_Directory">ダウンロードディレクトリ</string>
+    <string name="settings_other">他の</string>
+</resources>
