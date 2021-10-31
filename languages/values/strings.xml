@@ -27,7 +27,7 @@
     <string name="Categories">Categories</string>
     <string name="games">Games</string>
     <string name="REFRESH">Refresh</string>
-    <string name="Unable_to_connect_to_the_network">Unable to connect to the network</string>
+    <string name="Unable_to_connect_to_the_network">;Unable to connect to the network</string>
     <string name="Recommended_Game_Mods">Recommended Game Mods</string>
     <string name="Hot_Game_Mods">Popular Mods for Games</string>
     <string name="Recommended_App_Mods">Recommended app mods</string>
