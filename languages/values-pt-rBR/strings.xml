@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Homecom">happymod.com</string>
+    <string name="Homecom">Modelo feliz.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
@@ -9,11 +9,11 @@
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="Unable_to_connect_to_the_network">Não foi possível conectar-se à rede</string>
-    <string name="Hot_Game_Mods">Mods popular para jogos</string>
+    <string name="Hot_Game_Mods">Modo popular para jogos</string>
     <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
-    <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
+    <string name="Recommended_New_Mods">Novos Modelo Recomendados</string>
     <string name="SearchHint">Dica de pesquisa</string>
-    <string name="Homeweb">Website Oficial</string>
+    <string name="Homeweb">Casa</string>
     <string name="Management">Gerenciamento</string>
     <string name="Settings">Configurações</string>
     <string name="Feedback">Comentários</string>
@@ -153,9 +153,9 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">ModFeliz</string>
+    <string name="app_name">Modelo feliz</string>
     <string name="REFRESH">atualizar</string>
-    <string name="Recommended_Game_Mods">Mods de jogos recomendados</string>
+    <string name="Recommended_Game_Mods">Modelos de jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <string name="des_no_serach_result">Ops! Nenhum resultado encontrado.</string>
