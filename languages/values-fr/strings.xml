@@ -33,9 +33,9 @@
     <string name="Hot_Game_Mods">Mods de jeu tendance</string>
     <string name="Recommended_App_Mods">Mods d\'application recommandés</string>
     <string name="Hot_App_Mods">Mods d\'applications populaires</string>
-    <string name="Recommended_New_Mods">Nouveaux Mods Recommandés</string>
+    <string name="Recommended_New_Mods">Nouveaux mods recommandés</string>
     <string name="Last_Update_Mods">Dernières mises à jour</string>
-    <string name="SearchHint">Rechercher</string>
+    <string name="SearchHint">Rechercher un indice</string>
     <!-- 侧滑-->
     <string name="Homeweb">Accueil</string>
     <string name="Management">Gestion</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Plus de Versions</string>
     <string name="Recommend">Recommander</string>
     <string name="Recommendmod">Mod recommandé</string>
-    <string name="Moremods">Nouvelles versions</string>
+    <string name="Moremods">Dernières versions</string>
     <!--评分-->
     <string name="Submit">Soumettre</string>
     <string name="Hated_it">Je déteste!</string>
