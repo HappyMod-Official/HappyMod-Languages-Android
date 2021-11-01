@@ -45,7 +45,7 @@
     <string name="Checkforupdate">فحص التحديثات</string>
     <string name="FollowusonTwitter">تابعنا على تويتر </string>
     <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
-    <string name="settings_network_remind">تنبيه شبكة الجوال</string>
+    <string name="settings_network_remind">الهاتف غير متصل بلشبكة</string>
     <string name="settings_auto_install">التثبيت التلقائي</string>
     <string name="Download_Directory">تحميل الدليل</string>
     <string name="settings_other">آخر</string>
@@ -76,7 +76,7 @@
     <string name="Downloadfailed">التنزيل فشل</string>
     <string name="Downloadistooslow">التنزيل بطيء جدًا</string>
     <string name="Mods">الإصدارات المعدلة</string>
-    <string name="Original">الإصدارات الاصلية</string>
+    <string name="Original">النسخة الاصلية</string>
     <string name="Previousversion">إصدارات قديمة</string>
     <string name="Download">تنزيل</string>
     <string name="Downloadobb">تنزيل (APK+OBB)</string>
