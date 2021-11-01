@@ -59,7 +59,7 @@
     <string name="Moreversion">نسخه های بیشتر</string>
     <string name="app_name">فروشگاه هپی مود</string>
     <string name="Paid">پرداخت شده</string>
-    <string name="Unable_to_connect_to_the_network">امکان اتصال به شبکه وجود ندارد</string>
+    <string name="Unable_to_connect_to_the_network">امکان اتصال به اینترنت وجود ندارد</string>
     <string name="Recommended_New_Mods">مودهای توصیه شده جدید</string>
     <string name="Checkforupdate">بررسی برای به روز رسانی</string>
     <string name="settings_network_remind">هشدار شبکه تلفن همراه</string>
