@@ -419,12 +419,12 @@
     <string name="Checkthenetwork">Verifica tu conexión</string>
     <string name="Configuringip">Configurando la IP disponible para usted</string>
     <string name="Configuringipfailed">La configuración falló, se detectó que 8 direcciones IP no están disponibles, intente usar VPN.</string>
-    <string name="Donatedes">HappyMod es completamente gratuito y odiamos los anuncios tanto como usted
+    <string name="Donatedes">¡HappyMod es completamente gratuito y odiamos los anuncios tanto como usted!
 \n
 \nNecesitamos su donación para proporcionar descargas más rápidas y seguras.
 \n
 \nTenga paciencia e intente ver los anuncios completos para completar la donación.
 \n
-\n¡Gracias! :)</string>
+\n¡Gracias!</string>
     <string name="viewstepdeti">Ver detalles los pasos</string>
 </resources>
