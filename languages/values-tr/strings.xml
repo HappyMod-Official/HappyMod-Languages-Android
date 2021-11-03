@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name"> uygulama ismi</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">facebook_app_id</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -28,14 +28,14 @@
     <string name="Categories">Kategoriler</string>
     <string name="games">Oyunlar</string>
     <string name="REFRESH">Yenile</string>
-    <string name="Unable_to_connect_to_the_network">İnternete erişilemiyor.</string>
+    <string name="Unable_to_connect_to_the_network">;Ağa bağlanılamıyor</string>
     <string name="Recommended_Game_Mods">Önerilen Modlanmış Oyunlar</string>
     <string name="Hot_Game_Mods">Popüler Oyun Modları</string>
     <string name="Recommended_App_Mods">Önerilen Uygulama Modları</string>
     <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
     <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
     <string name="Last_Update_Mods">En yeni güncellemeler</string>
-    <string name="SearchHint">Ara</string>
+    <string name="SearchHint">Aramaİpucu</string>
     <string name="Homeweb">Ana sayfa</string>
     <string name="Management">Yönetim</string>
     <string name="Settings">Ayarlar</string>
@@ -250,7 +250,7 @@
     <string name="downloadpush_remind">Yüklemeden sonra bildirimi göster</string>
     <string name="messages">Mesajlar</string>
     <string name="RecommendMods">Tavsiye Modlar</string>
-    <string name="requestdetailserror">(50-4000 karakter)</string>
+    <string name="requestdetailserror">requestdetailserror</string>
     <string name="Changetheimage">Resmi değiştir &gt;&gt;</string>
     <string name="Typethecodeinthebox">Kodu kutuya yazın</string>
     <string name="Verificationerror">Doğrulama başarısız. Lütfen tekrar deneyiniz.</string>
@@ -397,6 +397,12 @@
     <string name="Checkthenetwork">Ağı kontrol edin</string>
     <string name="Configuringip">Mevcut IP\'yi sizin için yapılandırma</string>
     <string name="Configuringipfailed">Yapılandırma başarısız oldu, 8 IP\'nin kullanılamadığı tespit edildi, lütfen VPN kullanmayı deneyin.</string>
-    <string name="Donatedes">"HappyMod tamamen ücretsizdir ve biz de sizin kadar reklamlardan nefret ediyoruz！  n  nDaha hızlı ve daha güvenli indirme sağlamak için bağışınıza ihtiyacımız var.  N  nLütfen sabırlı olun ve bağışı tamamlamak için tüm reklamları izlemeye çalışın.  N  nTeşekkürler!"</string>
+    <string name="Donatedes">HappyMod tamamen ücretsizdir ve reklamlardan sizin kadar nefret ediyoruz!
+\n
+\nSize daha hızlı ve daha güvenli indirmeler sağlamak için kullandığımız için bağışınız çok takdir edilmektedir.
+\n
+\nLütfen sabırlı olun ve bağışı tamamlamak için kısa reklamı izlemeye çalışın.
+\n
+\nTeşekkürler! :)</string>
     <string name="viewstepdeti">Adım ayrıntılarını görüntüleme</string>
 </resources>
