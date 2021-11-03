@@ -7,7 +7,7 @@
     <string name="Unable_to_connect_to_the_network">Yhteyden muodostaminen verkkoon ei onnistu</string>
     <string name="GAME">Peli</string>
     <string name="Homecom">happymod.com</string>
-    <string name="app_name">HappyMod</string>
+    <string name="app_name"> sovelluksen_nimi</string>
     <string name="Categories">Kategoriat</string>
     <string name="Last_Update_Mods">Viimeisimmät päivitykset</string>
     <string name="Recommended_App_Mods">Suositellut sovellusmodit</string>
@@ -374,11 +374,11 @@
     <string name="uploadbanner">Lataa banneri (720*406)</string>
     <string name="addexcusiveaddressixit">Tämä apk on jo olemassa.</string>
     <string name="nslnfsl">Ei nopeusrajoitusta. Ei tiedoston kokorajoitusta.</string>
-    <string name="Donatedes">HappyMod on täysin ilmainen, ja me vihaamme mainoksia yhtä paljon kuin sinäkin!
+    <string name="Donatedes">HappyMod on täysin ilmainen, ja vihaamme mainoksia yhtä paljon kuin sinäkin!
 \n
-\nLahjoitustasi arvostetaan suuresti, koska käytämme sen tarjotaksemme sinulle nopeampia ja turvallisempia latauksia.
+\nLahjoitustasi arvostetaan suuresti, sillä käytämme sitä nopeampien ja turvallisempien latausten tarjoamiseen.
 \n
-\nOle kärsivällinen ja yritä katsoa koko mainos lahjoituksen antamiseksi.
+\nOle kärsivällinen ja yritä katsoa lyhyt mainos lahjoituksen suorittamiseksi loppuun.
 \n
 \nKiitos! :)</string>
     <string name="Recommendmod">Suositeltu modi</string>
