@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--波兰语-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name"> Nazwa aplikacji</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">facebook_app_id</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -27,12 +27,12 @@
     <string name="Categories">Kategorie</string>
     <string name="games">Gry</string>
     <string name="REFRESH">Odśwież</string>
-    <string name="Unable_to_connect_to_the_network">Brak dostępu do sieci.</string>
-    <string name="Recommended_Game_Mods">Polecane mody gier</string>
+    <string name="Unable_to_connect_to_the_network">;Nie można połączyć się z siecią</string>
+    <string name="Recommended_Game_Mods">Polecane_mody_gry</string>
     <string name="Hot_Game_Mods">Popularne Mody gier</string>
     <string name="Recommended_App_Mods">Rekomendowane modyfikacje aplikacji</string>
     <string name="Hot_App_Mods">Top modyfikacje aplikacji</string>
-    <string name="Recommended_New_Mods">Nowe polecane modyfikacje</string>
+    <string name="Recommended_New_Mods">Polecane_Nowe_Mody</string>
     <string name="Last_Update_Mods">Najnowsze aktualizacje</string>
     <string name="SearchHint">Szukaj</string>
     <string name="Homeweb">Strona Głowna</string>
@@ -315,7 +315,7 @@
     <!--全局rty-->
     <string name="crash_dialog_title">Ups . . .</string>
     <string name="crash_toast_message">Przepraszamy, wyjątek APP zostanie zamknięty, prześlij zgłoszenie błędu e-mailem.</string>
-    <string name="crash_dialog_message">Przepraszamy, błąd pliku .APP, prześlij zgłoszenie błędu przez e-mail.</string>
+    <string name="crash_dialog_message">Przepraszamy, wyjątek APP, prosimy o przesłanie zgłoszenia błędu przez e-mail.</string>
     <string name="crash_dialog_feedback">Zgłoś błędy</string>
     <string name="crash_dialog_restart">Uruchom ponownie</string>
     <string name="init_fail">Inicjalizacja nie powiodła się, użyj VPN lub zmień sieć.</string>
@@ -403,12 +403,12 @@
     <string name="Checkthenetwork">Sprawdź połączenie</string>
     <string name="Configuringip">Konfigurowanie dostępnego adresu IP dla Ciebie</string>
     <string name="Configuringipfailed">Konfiguracja nie powiodła się, wykryto 8 adresów IP, które są niedostępne, spróbuj użyć VPN.</string>
-    <string name="Donatedes">HappyMod jest całkowicie darmowy i nienawidzimy reklam tak samo jak Ty!
+    <string name="Donatedes">HappyMod jest całkowicie darmowy, a my nienawidzimy reklam tak samo jak Ty!
 \n
-\nPotrzebujemy Twojej darowizny, aby zapewnić szybsze i bezpieczniejsze pobieranie.
+\nTwoja darowizna jest bardzo ceniona, ponieważ wykorzystujemy ją, aby zapewnić szybsze i bezpieczniejsze pobieranie.
 \n
-\nProsimy o cierpliwość i spróbuj obejrzeć całe reklamy, aby przekazać darowiznę.
+\nProsimy o cierpliwość i spróbuj obejrzeć krótką reklamę, aby zakończyć darowiznę.
 \n
-\nDziękujemy！:)</string>
+\nDziękuję Ci! :)</string>
     <string name="viewstepdeti">Zobacz szczegóły kroku</string>
 </resources>
