@@ -22,15 +22,15 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Payé</string>
-    <string name="GAME">Jeu</string>
+    <string name="GAME">Jeux</string>
     <string name="APP">Applications</string>
-    <string name="NEW">Nouveau</string>
+    <string name="NEW">Nouveaux</string>
     <string name="Categories">Catégories</string>
     <string name="games">Jeux</string>
     <string name="REFRESH">Rafraîchir</string>
-    <string name="Unable_to_connect_to_the_network">Impossible d\'accéder à Internet.</string>
+    <string name="Unable_to_connect_to_the_network">permettre de se connecter au réseau</string>
     <string name="Recommended_Game_Mods">Mods de jeu recommandés</string>
-    <string name="Hot_Game_Mods">Mods de jeu tendance</string>
+    <string name="Hot_Game_Mods">Mods de jeux populaire</string>
     <string name="Recommended_App_Mods">Mods d\'application recommandés</string>
     <string name="Hot_App_Mods">Mods d\'applications populaires</string>
     <string name="Recommended_New_Mods">Nouveaux mods recommandés</string>
