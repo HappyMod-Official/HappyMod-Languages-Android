@@ -46,7 +46,7 @@
     <string name="Delete">حذف</string>
     <string name="Downloadfailed">دانلود نشد</string>
     <string name="Downloadistooslow">دانلود بسیار کند است</string>
-    <string name="NotwhatIwant">آن چیزی که می خواستم نبود</string>
+    <string name="NotwhatIwant">اون چیزی که می خواستم نبود</string>
     <string name="Mods">مود ها</string>
     <string name="Original">اصلی</string>
     <string name="Previousversion">نسخه های قبلی</string>
@@ -57,7 +57,7 @@
     <string name="Connecting">در حال اتصال …</string>
     <string name="modfeature">اطلاعات مود :</string>
     <string name="Moreversion">نسخه های بیشتر</string>
-    <string name="app_name"> نام برنامه</string>
+    <string name="app_name"> فروشگاه هپی مود</string>
     <string name="Paid">پرداخت شده</string>
     <string name="Unable_to_connect_to_the_network">امکان اتصال به اینترنت وجود ندارد</string>
     <string name="Recommended_New_Mods">مودهای توصیه شده جدید</string>
