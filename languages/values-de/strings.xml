@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--德国-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name"> App Name</string>
     <string name="Homecom">www.happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -28,7 +28,7 @@
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisieren</string>
-    <string name="Unable_to_connect_to_the_network">Netzwerkverbindung kann nicht hergestellt werden</string>
+    <string name="Unable_to_connect_to_the_network">;Verbindung zum Netzwerk nicht möglich</string>
     <string name="Recommended_Game_Mods">Empfohlene Spiele Mods</string>
     <string name="Hot_Game_Mods">Beliebte Spiele Mods</string>
     <string name="Recommended_App_Mods">Empfohlene App Mods</string>
@@ -420,12 +420,12 @@
     <string name="Checkthenetwork">Überprüfe dein Netzwerk</string>
     <string name="Configuringip">Verfügbare Konfiguration IP</string>
     <string name="Configuringipfailed">Konfiguration fehlgeschlagen, 8 IPs wurden als nicht verfügbar erkannt. Versuche ein VPN zu verwenden.</string>
-    <string name="Donatedes">HappyMod ist vollkommen kostenlos und wir hassen Werbungen genauso wie du!
+    <string name="Donatedes">HappyMod ist völlig kostenlos und wir hassen Werbung genauso wie Sie!
 \n
-\nJedoch benötigen wir deine Spende, um schnellere und sicherere Downloads zu ermöglichen.
+\nIhre Spende wird sehr geschätzt, da wir sie verwenden, um Ihnen schnellere und sicherere Downloads zu ermöglichen.
 \n
-\nBitte habe etwas Geduld und schau die komplette Werbung an, um uns zu unterstützen.
+\nBitte haben Sie Geduld und schauen Sie sich die kurze Anzeige an, um die Spende abzuschließen.
 \n
-\nDanke! :)</string>
+\nDankeschön! :)</string>
     <string name="viewstepdeti">Details anzeigen</string>
 </resources>
