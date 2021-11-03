@@ -8,7 +8,7 @@
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
-    <string name="Unable_to_connect_to_the_network">Não foi possível conectar-se à rede</string>
+    <string name="Unable_to_connect_to_the_network">; Incapaz de conectar-se à rede</string>
     <string name="Hot_Game_Mods">Modo popular para jogos</string>
     <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
     <string name="Recommended_New_Mods">Novos Modelo Recomendados</string>
@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">Modelo feliz</string>
+    <string name="app_name"> nome do aplicativo</string>
     <string name="REFRESH">atualizar</string>
     <string name="Recommended_Game_Mods">Modelos de jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
@@ -366,11 +366,11 @@
     <string name="usehtgetspeed">Use HyperTorrent para conseguir 200%+ de velocidade de download.</string>
     <string name="speedfordownloading">200%~1,000%+ de velocidade para baixar arquivos grandes do HappyMod.</string>
     <string name="Configuringip">Configurando IP disponível para você</string>
-    <string name="Donatedes">HappyMod é totalmente gratuito, e odiamos anúncios tanto quanto você!
+    <string name="Donatedes">HappyMod é totalmente gratuito e odiamos anúncios tanto quanto você!
 \n
-\nNós gostamos da sua doação, pois a usamos para fornecer downloads mais rápidos e seguros.
+\nSua doação é muito apreciada, pois a usamos para fornecer downloads mais rápidos e seguros.
 \n
-\nPor favor, seja paciente e tente assistir ao anúncio por completo para concluir a doação.
+\nPor favor, seja paciente e tente assistir ao anúncio curto para completar a doação.
 \n
 \nObrigado! :)</string>
     <string name="clickno">Esta solicitação será adicionada à fila novamente em breve.</string>
