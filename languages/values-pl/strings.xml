@@ -29,8 +29,8 @@
     <string name="REFRESH">Odśwież</string>
     <string name="Unable_to_connect_to_the_network">;Nie można połączyć się z siecią</string>
     <string name="Recommended_Game_Mods">Polecane_mody_gry</string>
-    <string name="Hot_Game_Mods">Popularne Mody gier</string>
-    <string name="Recommended_App_Mods">Rekomendowane modyfikacje aplikacji</string>
+    <string name="Hot_Game_Mods">Popularne Mody do gier</string>
+    <string name="Recommended_App_Mods">Rekomendowane modyfikacje do aplikacji</string>
     <string name="Hot_App_Mods">Top modyfikacje aplikacji</string>
     <string name="Recommended_New_Mods">Polecane_Nowe_Mody</string>
     <string name="Last_Update_Mods">Najnowsze aktualizacje</string>
