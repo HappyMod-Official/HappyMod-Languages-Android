@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--意大利-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name"> nome dell\'applicazione</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -28,14 +28,14 @@
     <string name="Categories">Categorie</string>
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
-    <string name="Unable_to_connect_to_the_network">Impossibile connettersi ad Internet!</string>
-    <string name="Recommended_Game_Mods">Giochi moddati Raccomandati</string>
+    <string name="Unable_to_connect_to_the_network">;Impossibile connettersi alla rete</string>
+    <string name="Recommended_Game_Mods">Raccomandate_Game_Mods</string>
     <string name="Hot_Game_Mods">Giochi popolari moddati</string>
     <string name="Recommended_App_Mods">Applicazione consigliate con mod</string>
     <string name="Hot_App_Mods">Applicazioni popolari con mod</string>
-    <string name="Recommended_New_Mods">Nuove Mod Consigliate</string>
+    <string name="Recommended_New_Mods">Raccomandato_Nuove_Mods</string>
     <string name="Last_Update_Mods">Ultimi aggiornamenti</string>
-    <string name="SearchHint">Cerca qui</string>
+    <string name="SearchHint">CercaSuggerimento</string>
     <!-- 侧滑-->
     <string name="Homeweb">Pagina principale</string>
     <string name="Management">Gestione</string>
@@ -266,7 +266,7 @@
     <string name="downloadpush_remind">Mostra notifica dopo l\'installazione</string>
     <string name="messages">Messaggi</string>
     <string name="RecommendMods">Consiglia una/più Mod</string>
-    <string name="requestdetailserror">(50-4000 caratteri)</string>
+    <string name="requestdetailserror">requestdetailserror</string>
     <string name="Changetheimage">Cambia l\'immagine &gt;&gt;</string>
     <string name="Typethecodeinthebox">Digita il codice nella casella</string>
     <string name="Verificationerror">Verifica fallita. Per favore riprova.</string>
@@ -420,11 +420,11 @@
     <string name="Checkthenetwork">Controlla la tua connessione di rete</string>
     <string name="Configuringip">Configurando un IP disponibile per te</string>
     <string name="Configuringipfailed">Configurazione non riuscita, sono stati rilevati 8 IP non disponibili, prova a utilizzare una VPN.</string>
-    <string name="Donatedes">HappyMod è completamente gratuito, e odiamo gli annunci tanto quanto te!
+    <string name="Donatedes">HappyMod è completamente gratuito e odiamo gli annunci quanto te!
 \n
-\nLa tua donazione è molto apprezzata perché verrà usata per dotarti di download più veloci e più sicuri.
+\nLa tua donazione è molto apprezzata poiché la usiamo per fornirti download più veloci e sicuri.
 \n
-\nPer favore sii paziente e prova a guardare gli annunci completi per completare la donazione.
+\nPer favore sii paziente e prova a guardare il breve annuncio per completare la donazione.
 \n
 \nGrazie! :)</string>
     <string name="viewstepdeti">Visualizza il procedimento</string>
