@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="facebook_app_id">0858779216581828312849396</string>
+    <string name="facebook_app_id">658182831284939</string>
     <string name="Homecom">سایت فروشگاه هپی مود : happymod.com</string>
     <string name="GAME">بازی</string>
     <string name="APP">برنامه</string>
@@ -44,7 +44,7 @@
     <string name="deletethistask">این فایل حذف شود</string>
     <string name="Cancel">توقف</string>
     <string name="Delete">حذف</string>
-    <string name="Downloadfailed">"نصب  نا موفق بود"</string>
+    <string name="Downloadfailed">دانلود نشد</string>
     <string name="Downloadistooslow">دانلود بسیار کند است</string>
     <string name="NotwhatIwant">اون چیزی که می خواستم نبود</string>
     <string name="Mods">مود ها</string>
