@@ -44,7 +44,7 @@
     <string name="deletethistask">این فایل حذف شود</string>
     <string name="Cancel">توقف</string>
     <string name="Delete">حذف</string>
-    <string name="Downloadfailed">دانلود نشد</string>
+    <string name="Downloadfailed">"نصب  نا موفق بود"</string>
     <string name="Downloadistooslow">دانلود بسیار کند است</string>
     <string name="NotwhatIwant">اون چیزی که می خواستم نبود</string>
     <string name="Mods">مود ها</string>
