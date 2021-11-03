@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--俄羅斯-->
-    <string name="app_name">HарруМоd</string>
+    <string name="app_name"> nnạtạttlạtạlt HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -28,7 +28,7 @@
     <string name="Categories">Категории</string>
     <string name="games">Игры</string>
     <string name="REFRESH">Обновить</string>
-    <string name="Unable_to_connect_to_the_network">Не удалось получить доступ к интернету</string>
+    <string name="Unable_to_connect_to_the_network">; Nevozmozhno podklyuchit\'sya k seti</string>
     <string name="Recommended_Game_Mods">Рекомендуемые игровые моды</string>
     <string name="Hot_Game_Mods">Популярные игровые моды</string>
     <string name="Recommended_App_Mods">Рекомендуемые моды приложений</string>
@@ -418,12 +418,12 @@
     <string name="Checkthenetwork">Проверьте вашу сеть</string>
     <string name="Configuringip">Настройка доступного IP для вас</string>
     <string name="Configuringipfailed">Настройка не удалась, IP недоступны, пожалуйста, воспользуйтесь VPN.</string>
-    <string name="Donatedes">HappyMod полностью бесплатен, и мы ненавидим рекламу так же сильно, как и вы!
+    <string name="Donatedes">HappyMod polnost\'yu besplaten, i my nenavidim reklamu tak zhe, kak i vy!
 \n
-\nМы нуждаемся в вашей поддержке, чтобы обеспечить более быструю и безопасную загрузку.
+\nMy ochen\' tsenim vashe pozhertvovaniye, poskol\'ku my ispol\'zuyem yego, chtoby obespechit\' vam boleye bystruyu i bezopasnuyu zagruzku.
 \n
-\nПожалуйста, проявите терпение и посмотрите рекламу полностью, чтобы поддержать нас.
+\nNaberites\' terpeniya i poprobuyte posmotret\' korotkoye ob\"yavleniye, chtoby zavershit\' pozhertvovaniye.
 \n
-\nСпасибо! :)</string>
+\nSpasibo! :)</string>
     <string name="viewstepdeti">Просмотр сведений</string>
 </resources>
