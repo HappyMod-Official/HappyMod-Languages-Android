@@ -3,7 +3,7 @@
     <!--葡萄-->
     <string name="app_name">Nome do app</string>
     <string name="Homecom">Início</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">Facebook_app_id</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -28,14 +28,14 @@
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="REFRESH">Recarregar</string>
-    <string name="Unable_to_connect_to_the_network">Incapaz de se ligar à internet!</string>
-    <string name="Recommended_Game_Mods">Mods de Jogos recomendados</string>
-    <string name="Hot_Game_Mods">Mods populares para jogos</string>
-    <string name="Recommended_App_Mods">Mods de Aplicação Recomendados</string>
-    <string name="Hot_App_Mods">Mods em Alta</string>
-    <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
+    <string name="Unable_to_connect_to_the_network">; Incapaz de conectar-se à rede</string>
+    <string name="Recommended_Game_Mods">Mods_de_jogo_recomendados</string>
+    <string name="Hot_Game_Mods">Mods de jogo recomendados</string>
+    <string name="Recommended_App_Mods">Recomendado_App_Mods</string>
+    <string name="Hot_App_Mods">Hot_App_Mods</string>
+    <string name="Recommended_New_Mods">Recommended_New_Mods</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
-    <string name="SearchHint">Procurar</string>
+    <string name="SearchHint">SearchHint</string>
     <!-- 侧滑-->
     <string name="Homeweb">Casa</string>
     <string name="Management">Gerenciamento</string>
@@ -44,7 +44,7 @@
     <string name="Translation">Tradução</string>
     <string name="Share">Partilhar</string>
     <string name="Checkforupdate">Verificar por actualização</string>
-    <string name="FollowusonTwitter">Siga-nos no Twitter. </string>
+    <string name="FollowusonTwitter">Siga-nos no Twitter </string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
@@ -265,7 +265,7 @@
     <string name="downloadpush_remind">Mostrar notificação após a instalação</string>
     <string name="messages">Mensagens</string>
     <string name="RecommendMods">Recomendar Mods</string>
-    <string name="requestdetailserror">(50-4000 caracteres)</string>
+    <string name="requestdetailserror">requestdetailserror</string>
     <string name="Changetheimage">Mude a imagem &gt;&gt;</string>
     <string name="Typethecodeinthebox">Digite o código no campo</string>
     <string name="Verificationerror">Falha na verificação. Por favor tente novamente.</string>
@@ -418,11 +418,11 @@
     <string name="Checkthenetwork">Verifique sua rede</string>
     <string name="Configuringip">Configurando o IP disponível para você</string>
     <string name="Configuringipfailed">Falha na configuração, 8 IPs foram detectados como indisponíveis, tente usar VPN.</string>
-    <string name="Donatedes">HappyMod é completamente gratuito, e nós odiamos anúncios tanto quanto tu!
+    <string name="Donatedes">HappyMod é totalmente gratuito e odiamos anúncios tanto quanto você!
 \n
-\nO teu donativo é muito apreciado, pois nós usamo-lo para te proporcionar downloads mais rápidos e seguros.
+\nSua doação é muito apreciada, pois a usamos para fornecer downloads mais rápidos e seguros.
 \n
-\nPor favor sê paciente e tenta ver os anúncios completos para completar o donativo.
+\nPor favor, seja paciente e tente assistir ao anúncio curto para completar a doação.
 \n
 \nObrigado! :)</string>
     <string name="viewstepdeti">Ver detalhes da etapa</string>
