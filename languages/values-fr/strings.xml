@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--法语-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name"> Happy-Mod</string>
     <string name="Homecom">HappyMod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -28,10 +28,10 @@
     <string name="Categories">Catégories</string>
     <string name="games">Jeux</string>
     <string name="REFRESH">Rafraîchir</string>
-    <string name="Unable_to_connect_to_the_network">permettre de se connecter au réseau</string>
-    <string name="Recommended_Game_Mods">Mods de jeu recommandés</string>
+    <string name="Unable_to_connect_to_the_network">Nous ne pouvons pas se connecter au réseau</string>
+    <string name="Recommended_Game_Mods">Jeux recommandé</string>
     <string name="Hot_Game_Mods">Mods de jeux populaire</string>
-    <string name="Recommended_App_Mods">Mods d\'application recommandés</string>
+    <string name="Recommended_App_Mods">Application moddé recommandé</string>
     <string name="Hot_App_Mods">Mods d\'applications populaires</string>
     <string name="Recommended_New_Mods">Nouveaux mods recommandés</string>
     <string name="Last_Update_Mods">Dernières mises à jour</string>
@@ -43,7 +43,7 @@
     <string name="Feedback">Retour d\'information</string>
     <string name="Translation">Traduction</string>
     <string name="Share">Partager</string>
-    <string name="Checkforupdate">Vérifier la mise à jour</string>
+    <string name="Checkforupdate">Vérifier les mises à jours</string>
     <string name="FollowusonTwitter">Suivez nous sur Twitter </string>
     <string name="FollowusonFacebook">Suis-nous sur Facebook</string>
     <!--设置页-->
@@ -92,18 +92,18 @@
     <string name="Install">Installer</string>
     <string name="Connecting">Connexion…</string>
     <string name="readmore">Lire la suite</string>
-    <string name="modfeature">Mod info:</string>
+    <string name="modfeature">Informations sur le mod:</string>
     <string name="Moreversion">Plus de Versions</string>
     <string name="Recommend">Recommander</string>
     <string name="Recommendmod">Mod recommandé</string>
     <string name="Moremods">Dernières versions</string>
     <!--评分-->
     <string name="Submit">Soumettre</string>
-    <string name="Hated_it">Je déteste!</string>
+    <string name="Hated_it">Je n\'aime pas!</string>
     <string name="Disliked_it">Je n\'aime pas.</string>
     <string name="Its_ok">C\'est OK.</string>
-    <string name="Liked_it">J\'aime ça.</string>
-    <string name="Loved_it">J\'adore!</string>
+    <string name="Liked_it">Like</string>
+    <string name="Loved_it">J\'aime</string>
     <!--分享-->
     <string name="share_happymod">Partager \'HappyMod\' via</string>
     <string name="share_subject">Obtenez HappyMod</string>
@@ -352,7 +352,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Recherchez l\'application que vous souhaitez télécharger:</string>
     <string name="addapost">Ajouter un article</string>
-    <string name="launch_des">"Trouver des mods 100% fonctionnels  Mis en ligne par les utilisateurs; Vérifiés par les utilisateurs!"</string>
+    <string name="launch_des">"Trouver des mods 100% fonctionnels  
+\nMis en ligne par les utilisateurs; Vérifiés par les utilisateurs!"</string>
     <string name="requestamod">Demander un mod</string>
     <string name="uploadamod">Téléchargez un mod</string>
     <!--boundle 新增-->
@@ -374,7 +375,7 @@
     <string name="finditin">Trouvez-le dans X</string>
     <string name="needhelp">Besoin d\'aide?</string>
     <string name="peoplealsoplaygames">Les gens ont également joué à ce jeu:</string>
-    <string name="opencommunitydes">Si vous trouvez un adulte ou un mauvais post, veuillez cliquer sur le bouton de rapport dans le coin supérieur droit du post, et nous supprimerons le post et bloquerons l\'affiche dans un premier temps! Veuillez parler de manière civilisée!</string>
+    <string name="opencommunitydes">Si vous trouvez un contenu pornographique ou un mauvais post, veuillez cliquer sur le bouton de rapport dans le coin supérieur droit du post, et nous supprimerons le post et bloquerons l\'affiche dans un premier temps! Veuillez parler de manière civilisée!</string>
     <string name="myreviews">Mes avis</string>
     <string name="tagthisapp">Signaler cette application</string>
     <string name="appuploader">Application téléchargée par</string>
