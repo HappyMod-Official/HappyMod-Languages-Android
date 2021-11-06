@@ -2,7 +2,7 @@
 <resources>
     <!--希伯来语-->
     <string name="app_name"> מוד שמח</string>
-    <string name="Homecom">הכואהואה6א</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -45,7 +45,7 @@
     <string name="Translation">תרגום</string>
     <string name="Share">שתף</string>
     <string name="Checkforupdate">בדוק עדכונים</string>
-    <string name="FollowusonTwitter">עקבו אחרינו בטוויטר</string>
+    <string name="FollowusonTwitter">עקבו אחרינו בטוויטר </string>
     <string name="FollowusonFacebook">עקבו אחרינו בפייסבוק</string>
     <!--设置页-->
     <string name="settings_network_remind">התראה ברשת לנייד</string>
