@@ -212,7 +212,7 @@
     <string name="fblogdes">Merci d\'entrer un nom d\'utilisateur. Le nom d\'utilisateur est un identifiant très important pour la récupération de votre mot de passe, n\'oubliez pas.</string>
     <string name="selectusername">Sélectionnez un nom d\'utilisateur</string>
     <string name="reselpass_desone">Entrez votre nom d\'utilisateur de votre compte. Si vous avez un problème à propos de modifier votre mot de passe: <u>contact us</u>.</string>
-    <string name="reselpass_destwo">S\'il vous plaît entrez l\'email ou le numéro de téléphone. Vous avez un problème avec la réinitialisation du mot de passe <u>contact us</u>.</string>
+    <string name="reselpass_destwo">S\'il vous plaît entrez l\'email ou le numéro de téléphone. Vous avez un problème avec la réinitialisation du mot de passe <u>Contactez-nous</u>.</string>
     <string name="forgetgosingup">Vous ne vous en souvenez pas\? Veuillez vous <u>connecter à un nouveau compte</u>.</string>
     <string name="Resetpassword">Réinitialiser le mot de passe</string>
     <string name="NewPassword">Nouveau mot de passe</string>
@@ -245,7 +245,7 @@
     <string name="Comingsoon">Arrive bientôt</string>
     <string name="searchappyouwanttorequest">Recherchez l\'application que vous souhaitez demander:</string>
     <string name="Addupload">Ajouter upload</string>
-    <string name="requestdetailhint">Montrer plus sur votre demande. (50 caractères au moins)</string>
+    <string name="requestdetailhint">Dites-en plus sur votre demande. (50 caractères au moins)</string>
     <string name="requesterror">Échec de la soumission, veuillez réessayer ultérieurement.</string>
     <string name="detailserror">(100–4000 caractères)</string>
     <string name="view">Vu</string>
@@ -314,7 +314,8 @@
     <string name="speaksomething">Veuillez entrer au moins 20 caractères</string>
     <string name="speaktoolong">Le nombre de caractères dépasse la limite. Vous pouvez entrer jusqu\'à 4000 caractères.</string>
     <string name="tapandholdptodelete">Tapez et maintenez la photo pour la supprimer.</string>
-    <string name="addvideofaild">Échec de l\'ajout d\'une vidéo make Assurez-vous que votre réseau peut parcourir la vidéo Youtube et l\'ajouter à nouveau.</string>
+    <string name="addvideofaild">Échec de l\'ajout d\'une vidéo 
+\nAssurez-vous que votre réseau peut parcourir la vidéo Youtube et l\'ajouter à nouveau.</string>
     <string name="Video">Vidéo</string>
     <string name="Hotsearches">Recherches tendances</string>
     <string name="Hothashtags">Hashtags tendances</string>
@@ -331,7 +332,7 @@
     <string name="installplaywitouthti">Jeu instantané sans avoir à installer</string>
     <!--全局rty-->
     <string name="crash_dialog_title">Oops...</string>
-    <string name="crash_toast_message">Désolé, exception de l\'APP, sera fermée. Veuillez soumettre votre rapport de bug par e-mail.</string>
+    <string name="crash_toast_message">Désolé, exception de l\'APP, elle va être fermée. Veuillez soumettre votre rapport de bug par e-mail.</string>
     <string name="crash_dialog_message">Désolé, exception de l\'APP, veuillez soumettre votre rapport de bogue par e-mail.</string>
     <string name="crash_dialog_feedback">Signaler des bugs</string>
     <string name="crash_dialog_restart">Redémarrer</string>
@@ -374,7 +375,7 @@
     <string name="toopenitquickntime">Pour l\'ouvrir rapidement la prochaine fois, veuillez:</string>
     <string name="finditin">Trouvez-le dans X</string>
     <string name="needhelp">Besoin d\'aide?</string>
-    <string name="peoplealsoplaygames">Les gens ont également joué à ce jeu:</string>
+    <string name="peoplealsoplaygames">Les utilisateurs ont également joué à ce jeu:</string>
     <string name="opencommunitydes">Si vous trouvez un contenu pornographique ou un mauvais post, veuillez cliquer sur le bouton de rapport dans le coin supérieur droit du post, et nous supprimerons le post et bloquerons l\'affiche dans un premier temps! Veuillez parler de manière civilisée!</string>
     <string name="myreviews">Mes avis</string>
     <string name="tagthisapp">Signaler cette application</string>
@@ -426,6 +427,6 @@
 \n
 \nVeuillez patienter et essayez de regarder l\'intégralité des publicités pour compléter le don.
 \n
-\nMerci！</string>
+\nMerci ! :)</string>
     <string name="viewstepdeti">Afficher les détails de l\'étape</string>
 </resources>
