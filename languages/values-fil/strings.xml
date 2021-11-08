@@ -9,8 +9,8 @@
     <string name="REFRESH">Refresh</string>
     <string name="Unable_to_connect_to_the_network">Hindi ma-access ang internet.</string>
     <string name="Hot_Game_Mods">Mga Hot Game Mod</string>
-    <string name="Recommended_App_Mods">Mga Inirekumendang App Mod</string>
-    <string name="Hot_App_Mods">Mga Hot Mod na App</string>
+    <string name="Recommended_App_Mods">Mga Inirekumendang App Mods</string>
+    <string name="Hot_App_Mods">Hot modified apps</string>
     <string name="Recommended_New_Mods">Inirekumenda na Mga Bagong Mod</string>
     <string name="Last_Update_Mods">Mga Pinakabagong Update</string>
     <string name="SearchHint">Maghanap..</string>
@@ -20,12 +20,12 @@
     <string name="Feedback">Puna</string>
     <string name="Share">Magbahagi</string>
     <string name="Checkforupdate">Suriin ang Update</string>
-    <string name="FollowusonTwitter">Sundan kami sa Twitter</string>
+    <string name="FollowusonTwitter">Sundan kami sa Twitter </string>
     <string name="FollowusonFacebook">Sundan kami sa Facebook</string>
     <string name="settings_auto_install">Awtomatikong Pag-install</string>
     <string name="Download_Directory">Direktoryo ng Pag-download</string>
     <string name="settings_other">Iba pa</string>
-    <string name="settings_clear_cache">Malinaw na Cache</string>
+    <string name="settings_clear_cache">Burahin ang Cache</string>
     <string name="Clean_up_the_complete">Ang cache ay nabura.</string>
     <string name="des_no_serach_result">Naku! Walang natagpuang resulta.</string>
     <string name="Downloads">Mga Pag-download</string>
@@ -84,10 +84,9 @@
     <string name="No_enough_space_left_on_device">Hindi sapat na imbakan. Kailangan:</string>
     <string name="updatenow">I-update Ngayon</string>
     <string name="updateFail">Nabigo ang pag-download. Mangyaring isara at muling buksan</string>
-    <string name="app_name">…Maligaya Gran
-\n Modos</string>
-    <string name="Homecom">Maligayang mods.com</string>
-    <string name="Recommended_Game_Mods">Inirekumendang Mga Game Mod</string>
+    <string name="app_name"> Happymod</string>
+    <string name="Homecom">Happymod.com</string>
+    <string name="Recommended_Game_Mods">Inirekumendang Mga mods</string>
     <string name="Translation">Pagsasalin</string>
     <string name="settings_network_remind">Alerto sa Mobile Network</string>
     <string name="Finished">Tapos na</string>
@@ -103,4 +102,5 @@
     <string name="Yes">Oo</string>
     <string name="bcdes">. Magbakante ng imbakan at subukang muli.</string>
     <string name="Retrying">Inuulit...</string>
+    <string name="facebook_app_id">658182831284939</string>
 </resources>
