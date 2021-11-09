@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name"> نناتاتتلاتالتHappyMod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -32,18 +32,18 @@
     <string name="Hot_Game_Mods">Popular Mods for Games</string>
     <string name="Recommended_App_Mods">Recommended app mods</string>
     <string name="Hot_App_Mods">Hot app mods</string>
-    <string name="Recommended_New_Mods">"تعديل جديد موصى به "</string>
-    <string name="Last_Update_Mods">"آخر التحديثات "</string>
-    <string name="SearchHint">"تلميح البحث "</string>
+    <string name="Recommended_New_Mods">Recommended New Mods</string>
+    <string name="Last_Update_Mods">Latest Updates</string>
+    <string name="SearchHint">Search hint</string>
     <!-- 侧滑-->
-    <string name="Homeweb">"الصفحة الرئيسية "</string>
-    <string name="Management">"إدارة "</string>
+    <string name="Homeweb">Home</string>
+    <string name="Management">Management</string>
     <string name="Settings">Settings</string>
     <string name="Feedback">Feedback</string>
     <string name="Translation">Translation</string>
     <string name="Share">Share</string>
     <string name="Checkforupdate">Check for update</string>
-    <string name="FollowusonTwitter">Follow us on Twitter </string>
+    <string name="FollowusonTwitter">Follow us on Twitter</string>
     <string name="FollowusonFacebook">Follow us on Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobile Network Alert</string>
