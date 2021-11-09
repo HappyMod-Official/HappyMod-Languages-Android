@@ -32,12 +32,12 @@
     <string name="Hot_Game_Mods">Popular Mods for Games</string>
     <string name="Recommended_App_Mods">Recommended app mods</string>
     <string name="Hot_App_Mods">Hot app mods</string>
-    <string name="Recommended_New_Mods">Recommended New Mods</string>
-    <string name="Last_Update_Mods">Latest Updates</string>
-    <string name="SearchHint">Search Hint</string>
+    <string name="Recommended_New_Mods">"تعديل جديد موصى به "</string>
+    <string name="Last_Update_Mods">"آخر التحديثات "</string>
+    <string name="SearchHint">"تلميح البحث "</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Home</string>
-    <string name="Management">Management</string>
+    <string name="Homeweb">"الصفحة الرئيسية "</string>
+    <string name="Management">"إدارة "</string>
     <string name="Settings">Settings</string>
     <string name="Feedback">Feedback</string>
     <string name="Translation">Translation</string>
