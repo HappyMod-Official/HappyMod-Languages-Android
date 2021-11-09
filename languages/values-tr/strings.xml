@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name"> HappyMod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">facebook_app_id</string>
     <!--原APP大图 -->
@@ -35,7 +35,7 @@
     <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
     <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
     <string name="Last_Update_Mods">En yeni güncellemeler</string>
-    <string name="SearchHint">Aramaİpucu</string>
+    <string name="SearchHint">Arama ipucu</string>
     <string name="Homeweb">Ana sayfa</string>
     <string name="Management">Yönetim</string>
     <string name="Settings">Ayarlar</string>
@@ -43,7 +43,7 @@
     <string name="Translation">Çeviri</string>
     <string name="Share">Paylaş</string>
     <string name="Checkforupdate">Güncellemeleri kontrol et</string>
-    <string name="FollowusonTwitter">Bizi Twitter\'da takip edin </string>
+    <string name="FollowusonTwitter">Bizi Twitter\'da takip edin</string>
     <string name="FollowusonFacebook">Bizi Facebook\'tan takip edin</string>
     <string name="settings_network_remind">Hücresel Veri Uyarısı</string>
     <string name="settings_auto_install">Otomatik olarak yükle</string>
@@ -244,7 +244,7 @@
     <string name="obbfail">Lütfen obb dosyasının Zippyshare/Mediafire URL\'sini girin.</string>
     <string name="worked">işlenmiş</string>
     <string name="Uploadsuccess">Yükleme başarılı</string>
-    <string name="Requestsuccess">İsteğiniz Başarılı!</string>
+    <string name="Requestsuccess">İsteğiniz Başarılı</string>
     <string name="clickyes">Bu isteği çalışılan Sırasından düzenleyebilir ve yeniden gönderebilirsiniz.</string>
     <string name="clickno">Bu istek yakında tekrar sıraya eklenecek.</string>
     <string name="downloadpush_remind">Yüklemeden sonra bildirimi göster</string>
@@ -271,7 +271,7 @@
     <string name="Post">İleti</string>
     <string name="addavideo">Video ekle</string>
     <string name="enterthevideourlhere">Lütfen buraya Youtube video URL\'sini girin.</string>
-    <string name="onlysupportyoutube">Sadece Youtube videoları Desteklenmektedir.</string>
+    <string name="onlysupportyoutube">Sadece YouTube videoları desteklenmektedir</string>
     <string name="searchorcreate">Ara ya da oluştur</string>
     <string name="hashtags">Tarihçe hashtagleri</string>
     <string name="featuredhash">Öne çıkan hashtag\'ler</string>
@@ -392,7 +392,7 @@
     <string name="nslnfsl">Hız limiti yok. Dosya boyutu sınırı yok.</string>
     <string name="Clean">Temiz</string>
     <string name="Cdnoadfree">Sade tasarım, reklam yok ve %100 bedava!</string>
-    <string name="wrhtdbf">HyperTorrent\'in büyük dosyaları indirmesini öneriyoruz.</string>
+    <string name="wrhtdbf">HyperTorrent nasıl kullanılır\?</string>
     <string name="nothanks">Hayır teşekkürler</string>
     <string name="Checkthenetwork">Ağı kontrol edin</string>
     <string name="Configuringip">Mevcut IP\'yi sizin için yapılandırma</string>
