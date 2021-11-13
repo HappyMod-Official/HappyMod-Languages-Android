@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--葡萄-->
-    <string name="app_name">FelizMod</string>
-    <string name="Homecom">Início</string>
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">Facebook_app_id</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -23,115 +23,115 @@
     <!--首页-->
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
-    <string name="APP">Aplicativo</string>
+    <string name="APP">Aplicação</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
-    <string name="REFRESH">Recarregar</string>
-    <string name="Unable_to_connect_to_the_network">; Incapaz de conectar-se à rede</string>
-    <string name="Recommended_Game_Mods">Modos de Jogo Recomendados</string>
-    <string name="Hot_Game_Mods">Modos de Jogos Populares</string>
-    <string name="Recommended_App_Mods">Mods de Aplicativos Recomendados</string>
-    <string name="Hot_App_Mods">Apps em alta</string>
-    <string name="Recommended_New_Mods">Novos Mods Recomendados</string>
-    <string name="Last_Update_Mods">Últimas Atualizações</string>
+    <string name="REFRESH">Atualizar</string>
+    <string name="Unable_to_connect_to_the_network">;Impossível ligar à rede</string>
+    <string name="Recommended_Game_Mods">Mods de Jogos Recomendados</string>
+    <string name="Hot_Game_Mods">Mods de Jogos Populares</string>
+    <string name="Recommended_App_Mods">Mods de Aplicações Recomendados</string>
+    <string name="Hot_App_Mods">Mods de Aplicações em Alta</string>
+    <string name="Recommended_New_Mods">Mods Novos Recomendados</string>
+    <string name="Last_Update_Mods">Atualizações Mais Recentes</string>
     <string name="SearchHint">Dica de Pesquisa</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Casa</string>
-    <string name="Management">Gerenciamento</string>
+    <string name="Homeweb">Início</string>
+    <string name="Management">Gestão</string>
     <string name="Settings">Definições</string>
-    <string name="Feedback">Comentários</string>
+    <string name="Feedback">Críticas</string>
     <string name="Translation">Tradução</string>
-    <string name="Share">Compartilhar</string>
-    <string name="Checkforupdate">Verificar por Atualizações</string>
-    <string name="FollowusonTwitter">Siga-nos no Twitter</string>
-    <string name="FollowusonFacebook">Siga-nos no Facebook</string>
+    <string name="Share">Partilhar</string>
+    <string name="Checkforupdate">Verificar Atualizações</string>
+    <string name="FollowusonTwitter">Segue-nos no Twitter</string>
+    <string name="FollowusonFacebook">Segue-nos no Facebook</string>
     <!--设置页-->
-    <string name="settings_network_remind">Alerta de Rede Móvel</string>
+    <string name="settings_network_remind">Aviso de Rede Móvel</string>
     <string name="settings_auto_install">Instalar Automaticamente</string>
-    <string name="Download_Directory">Diretório de Download</string>
+    <string name="Download_Directory">Pasta de Transferências</string>
     <string name="settings_other">Outros</string>
     <string name="settings_clear_cache">Limpar Cache</string>
-    <string name="Clean_up_the_complete">A cache está limpa.</string>
+    <string name="Clean_up_the_complete">A Cache está Limpa.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Oops! Não foram encontrados resultados.</string>
     <!--下载管理页-->
-    <string name="Downloads">Downloads</string>
-    <string name="Downloading">Baixando</string>
+    <string name="Downloads">Transferências</string>
+    <string name="Downloading">A Transferir</string>
     <string name="Finished">Concluído</string>
-    <string name="No_Download">Nenhum Arquivo Encontrado.</string>
-    <string name="Pause">Pausar</string>
-    <string name="Waiting_in_queue">Esperando na fila</string>
+    <string name="No_Download">Nenhum Ficheiro Encontrado.</string>
+    <string name="Pause">Interromper</string>
+    <string name="Waiting_in_queue">A Aguardar na Lista</string>
     <string name="Completed">Concluído</string>
-    <string name="UnZiping">Extraindo</string>
-    <string name="UnZip_succeed">Extracão Acabada</string>
-    <string name="Rate">Avaliar</string>
-    <string name="Rated">Avaliado</string>
+    <string name="UnZiping">A Extrair</string>
+    <string name="UnZip_succeed">Extração Concluída</string>
+    <string name="Rate">Classificar</string>
+    <string name="Rated">Classificado</string>
     <string name="Version">Versão</string>
-    <string name="Ratingsreviews">Avaliações e Revisões</string>
-    <string name="Tryitlater">Tente mais tarde</string>
-    <string name="Serviceisbusy">Conectando…</string>
+    <string name="Ratingsreviews">Classificações e Críticas</string>
+    <string name="Tryitlater">Tente novamente mais tarde</string>
+    <string name="Serviceisbusy">A Ligar…</string>
     <!-- 下载删除的文字= -->
     <string name="Notice">Aviso</string>
-    <string name="deletethistask">Apagar este arquivo</string>
+    <string name="deletethistask">Apagar este Ficheiro</string>
     <string name="Cancel">Cancelar</string>
     <string name="Delete">Apagar</string>
-    <string name="Whydeletethisdownload">Porquê apagar este download\?</string>
-    <string name="NotwhatIwant">Não é o que eu quero</string>
-    <string name="Downloadfailed">Falha no download</string>
-    <string name="Downloadistooslow">O Download é muito lento</string>
+    <string name="Whydeletethisdownload">Porquê apagar esta transferência\?</string>
+    <string name="NotwhatIwant">Não é o que quero</string>
+    <string name="Downloadfailed">Falha na Transferência</string>
+    <string name="Downloadistooslow">A Transferência está muito lenta</string>
     <!--APP详情页-->
-    <string name="Mods">Modificações</string>
+    <string name="Mods">Mods</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Versão Anterior</string>
-    <string name="Download">Descarregar</string>
-    <string name="Downloadobb">Download (APK+OBB)</string>
-    <string name="Downloaddata">Download (APK+DATA)</string>
-    <string name="Downloadboundle">Download PACOTE</string>
-    <string name="Downloaded">Baixado</string>
+    <string name="Download">Transferir</string>
+    <string name="Downloadobb">Transferir (APK+OBB)</string>
+    <string name="Downloaddata">Transferir (APK+DATA)</string>
+    <string name="Downloadboundle">Transferir PACOTE</string>
+    <string name="Downloaded">Transferido</string>
     <string name="Install">Instalar</string>
-    <string name="Connecting">Conectando…</string>
+    <string name="Connecting">A Ligar…</string>
     <string name="readmore">Ler Mais</string>
     <string name="modfeature">Informação do mod:</string>
     <string name="Moreversion">Mais Versões</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Versões Mais Recentes :)</string>
+    <string name="Moremods">Versões Mais Recentes</string>
     <!--评分-->
-    <string name="Submit">Comfirmar</string>
+    <string name="Submit">Submeter</string>
     <string name="Hated_it">Odiei!</string>
     <string name="Disliked_it">Não gostei.</string>
     <string name="Its_ok">Está OK.</string>
     <string name="Liked_it">Gostei.</string>
     <string name="Loved_it">Adorei!</string>
     <!--分享-->
-    <string name="share_happymod">Compartilhar ‘HappyMod’ via</string>
+    <string name="share_happymod">Partilhar ‘HappyMod’ via</string>
     <string name="share_subject">Obter HappyMod</string>
-    <string name="share_text">Baixe Mods 100% funcionais com @HappyMod
+    <string name="share_text">Transfere Mods 100% operacionais com @HappyMod
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Local de armazenamento</string>
     <!--update -->
-    <string name="force_des">Mods 100% Funcionais</string>
+    <string name="force_des">Mods 100% Operacionais</string>
     <string name="nvisrti">Uma nova versão está pronta para ser instalada.</string>
     <string name="OPEN">ABRIR</string>
     <string name="OK">OK</string>
-    <string name="Loading">Carregando…</string>
-    <string name="updata_tip">Você está utilizando a última versão estável do HappyMod</string>
-    <string name="xzzb">Por favor, instale o HappyMod oficial.</string>
+    <string name="Loading">A Carregar…</string>
+    <string name="updata_tip">Estás a usar a última versão estável do HappyMod</string>
+    <string name="xzzb">Por favor, instala o HappyMod oficial.</string>
     <string name="Continue">Continuar</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Não há espaço de armazenamento suficiente no dispositivo</string>
-    <string name="Is_this_app_you_need">Está procurando este aplicativo\?</string>
+    <string name="No_space_left_on_device">Não há espaço suficiente no armazenamento do dispositivo</string>
+    <string name="Is_this_app_you_need">Procuras esta aplicação\?</string>
     <string name="No">Não</string>
     <string name="Yes">Sim</string>
-    <string name="bcdes">. Libere espaço no armazenamento e tente novamente.</string>
+    <string name="bcdes">. Liberta espaço no teu armazenamento e tenta novamente.</string>
     <string name="need">; Disponível:</string>
-    <string name="No_enough_space_left_on_device">Não há espaço de armazenamento suficiente. Necessário:</string>
+    <string name="No_enough_space_left_on_device">Não há espaço suficiente no armazenamento. É preciso:</string>
     <string name="updatenow">Atualizar Agora</string>
-    <string name="updateFail">O descarregamento falhou. Por favor reabrir a aplicação</string>
+    <string name="updateFail">A transferência falhou. Por favor reinicia</string>
     <string name="initializing">Inicializando</string>
-    <string name="Retrying">Tentando novamente</string>
+    <string name="Retrying">A tentar novamente</string>
     <string name="language">Idioma</string>
     <!--类别界面 -->
     <string name="Popular">Popular</string>
@@ -139,17 +139,17 @@
     <string name="apps">Aplicações</string>
     <!--大文件-->
     <string name="mergering">Processamento final</string>
-    <string name="mergerwait">Processamento final (Necessário 1-2 minutos)</string>
+    <string name="mergerwait">Processamento final (1-2 minutos necessários)</string>
     <!-- 验证 -->
     <string name="Startverification">Iniciar Verificação</string>
-    <string name="verificationShangXian">Oops! Atingiste o seu limite diário de descarregamento, tente novamente após X horas.</string>
-    <string name="verificationFail">A verificação falhou, por favor tente novamente!</string>
+    <string name="verificationShangXian">Oops! Atingiste o teu limite diário de transferênciad, tenta novamente após X horas.</string>
+    <string name="verificationFail">A verificação falhou, por favor tenta novamente!</string>
     <string name="Morehelp">(Mais ajuda)</string>
-    <string name="uid">ID Do Utilizador</string>
-    <string name="copysuccess">O ID do utilizador foi copiado para a área de transferência.</string>
+    <string name="uid">Identificação do Utilizador</string>
+    <string name="copysuccess">A Identificação do Utilizador foi copiada para a área de transferência.</string>
     <string name="watchnow">Ver agora</string>
-    <string name="ggdownloading">Os anúncios estão sendo carregados, por favor, espere e mantenha HappyMod aberto.</string>
-    <string name="verificaing">Verificando, por favor, aguarde.</string>
+    <string name="ggdownloading">Os anúncios estão a carregar, por favor aguarda e mantém o HappyMod aberto.</string>
+    <string name="verificaing">A verificar, por favor, aguarda.</string>
     <!-- 评价 -->
     <string name="Removeads">Remover anúncios</string>
     <string name="Paidforfree">Pago de graça</string>
@@ -159,20 +159,20 @@
     <string name="Unlocked">Desbloqueado</string>
     <string name="Patched">Corrigido</string>
     <string name="Premium">Premium</string>
-    <string name="Pro">Versão profissional</string>
-    <string name="ModLite">Versão compacta</string>
-    <string name="Subscribed">Subscrever</string>
+    <string name="Pro">Pro</string>
+    <string name="ModLite">Mod Leve</string>
+    <string name="Subscribed">Subscrito</string>
     <string name="Prime">Principal</string>
-    <string name="Plus">Versão Plus</string>
+    <string name="Plus">Plus</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Camada inferior</string>
     <string name="Debloated">Excluir inútil</string>
-    <string name="Donate">Doação</string>
+    <string name="Donate">Doar</string>
     <string name="AOSPcompatible">Compatível com AOSP</string>
-    <string name="Cracked">Crack</string>
+    <string name="Cracked">Crackado</string>
     <string name="NoAds">Sem anúncios</string>
-    <string name="Infinite">Sem fim</string>
-    <string name="Endless">Infinito</string>
+    <string name="Infinite">Infinito</string>
+    <string name="Endless">Sem Fim</string>
     <string name="Invincible">Invencível</string>
     <string name="Unlimitedhints">Prompt infinito</string>
     <string name="Megamod">Vários mods</string>
