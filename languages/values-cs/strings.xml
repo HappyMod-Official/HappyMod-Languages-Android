@@ -32,7 +32,7 @@
     <string name="Recommended_Game_Mods">Doporučené hry Mods</string>
     <string name="Hot_Game_Mods">Populární hry Mods</string>
     <string name="Recommended_App_Mods">Doporučené aplikace Mods</string>
-    <string name="Hot_App_Mods">Top App Mods</string>
+    <string name="Hot_App_Mods"></string>
     <string name="Recommended_New_Mods">Doporučené nové mody</string>
     <string name="Last_Update_Mods">Poslední aktualizace</string>
     <string name="SearchHint">Hledat:</string>
