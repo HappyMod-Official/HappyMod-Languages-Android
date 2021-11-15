@@ -5,4 +5,17 @@
     <string name="GAME">spil</string>
     <string name="Paid">Betalt</string>
     <string name="app_name">HappyMod</string>
+    <string name="Settings">Indstillinger</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Hot_Game_Mods">Populære mods til spil</string>
+    <string name="Recommended_App_Mods">Anbefalede app-mods</string>
+    <string name="Last_Update_Mods">Seneste opdateringer</string>
+    <string name="SearchHint">Søgetip</string>
+    <string name="REFRESH">Opdater</string>
+    <string name="Recommended_Game_Mods">Anbefalede spilmods</string>
+    <string name="Homeweb">Hjem</string>
+    <string name="Translation">Oversættelse</string>
+    <string name="Unable_to_connect_to_the_network">Kan ikke oprette forbindelse til netværket</string>
+    <string name="Recommended_New_Mods">Anbefalede nye mods</string>
+    <string name="Management">Ledelse</string>
 </resources>
