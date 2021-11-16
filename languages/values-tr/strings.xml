@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name">HappyMod</string>
-    <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="app_name">YEŞILMOD</string>
+    <string name="Homecom">YEŞILMOD</string>
+    <string name="facebook_app_id">Farebook</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -21,12 +21,12 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Ücretli</string>
-    <string name="GAME">Oyun</string>
+    <string name="Paid">Ücuretsis</string>
+    <string name="GAME">Games</string>
     <string name="APP">Uygulama</string>
     <string name="NEW">Yeni</string>
     <string name="Categories">Kategoriler</string>
-    <string name="games">Oyunlar</string>
+    <string name="games">Gamrs</string>
     <string name="REFRESH">Yenile</string>
     <string name="Unable_to_connect_to_the_network">;Ağa bağlanılamıyor</string>
     <string name="Recommended_Game_Mods">Önerilen Modlanmış Oyunlar</string>
