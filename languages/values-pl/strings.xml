@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--波兰语-->
-    <string name="app_name"> Nazwa aplikacji</string>
+    <string name="app_name">Nanatattalat HappyMod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="facebook_app_id">858182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -20,21 +20,21 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-    <string name="Paid">Płatne</string>
+    <string name="Paid">Płatny</string>
     <string name="GAME">Gra</string>
     <string name="APP">Aplikacja</string>
-    <string name="NEW">Nowy</string>
+    <string name="NEW">Nowe</string>
     <string name="Categories">Kategorie</string>
     <string name="games">Gry</string>
     <string name="REFRESH">Odśwież</string>
     <string name="Unable_to_connect_to_the_network">;Nie można połączyć się z siecią</string>
-    <string name="Recommended_Game_Mods">Polecane_mody_gry</string>
-    <string name="Hot_Game_Mods">Popularne Mody do gier</string>
-    <string name="Recommended_App_Mods">Rekomendowane modyfikacje do aplikacji</string>
-    <string name="Hot_App_Mods">Top modyfikacje aplikacji</string>
+    <string name="Recommended_Game_Mods">Polecane Zmodowane Gry</string>
+    <string name="Hot_Game_Mods">Popularne Zmodowane Gry</string>
+    <string name="Recommended_App_Mods">Polecane Zmodyfikowane Aplikacje</string>
+    <string name="Hot_App_Mods">Najlepsze Zmodowane Aplikacje</string>
     <string name="Recommended_New_Mods">Polecane_Nowe_Mody</string>
     <string name="Last_Update_Mods">Najnowsze aktualizacje</string>
-    <string name="SearchHint">Szukaj</string>
+    <string name="SearchHint">Szukaj podpowiedzi</string>
     <string name="Homeweb">Strona Głowna</string>
     <string name="Management">Zarządzanie</string>
     <string name="Settings">Ustawienia</string>
@@ -42,11 +42,11 @@
     <string name="Translation">Tłumaczenie</string>
     <string name="Share">Udostępnij</string>
     <string name="Checkforupdate">Sprawdź aktualizacje</string>
-    <string name="FollowusonTwitter">Obserwuj nas na Twitterze </string>
+    <string name="FollowusonTwitter">Zaobserwuj nas na Twitterze</string>
     <string name="FollowusonFacebook">Obserwuj nas na Facebooku</string>
-    <string name="settings_network_remind">Błąd sieci komórkowej</string>
+    <string name="settings_network_remind">Wystąpił błąd Internetu</string>
     <string name="settings_auto_install">Automatyczna instalacja</string>
-    <string name="Download_Directory">Katalog pobrań</string>
+    <string name="Download_Directory">Historia Pobierania</string>
     <string name="settings_other">Inny</string>
     <string name="settings_clear_cache">Wyczyść pamięć podręczną</string>
     <string name="Clean_up_the_complete">Pamięć podręczna została wyczyszczona.</string>
@@ -73,7 +73,7 @@
     <string name="Whydeletethisdownload">Dlaczego chcesz usunąć ten plik\?</string>
     <string name="NotwhatIwant">Nie to, czego potrzebuje</string>
     <string name="Downloadfailed">Pobieranie nieudane</string>
-    <string name="Downloadistooslow">Pobieranie jest zbyt wolne</string>
+    <string name="Downloadistooslow">Pobieranie jest za wolne</string>
     <string name="Mods">Mody</string>
     <string name="Original">Oryginalny</string>
     <string name="Previousversion">Poprzednia wersja</string>
@@ -101,17 +101,17 @@
     <string name="share_text">Pobierz modyfikacje działające w 100% z @HappyMod
 \nhttps://www.happymod.com/</string>
     <string name="pref_location">Miejsce przechowywania</string>
-    <string name="force_des">100% działających modów</string>
+    <string name="force_des">Wszystkie Zmodyfikowane Aplikacje działają w 100 procentach</string>
     <string name="nvisrti">Nowa wersja jest gotowa do instalacji.</string>
     <string name="OPEN">OTWARTY</string>
-    <string name="OK">OK</string>
+    <string name="OK">Okej</string>
     <string name="Loading">Ładowanie…</string>
     <string name="updata_tip">Używasz najnowszej stabilnej wersji HappyMod</string>
     <string name="xzzb">Proszę pobrać oficjalną wersję HappyMod.</string>
     <string name="Continue">Kontynuuj</string>
     <string name="appobb">APK+OBB</string>
     <string name="No_space_left_on_device">Brak miejsca na urządzeniu</string>
-    <string name="Is_this_app_you_need">Czy tej aplikacji szukasz \?</string>
+    <string name="Is_this_app_you_need">Czy masz na myśli tą aplikację\?</string>
     <string name="No">Nie</string>
     <string name="Yes">Tak</string>
     <string name="bcdes">Zwolnij miejsce i spróbuj ponownie.</string>
@@ -144,8 +144,8 @@
     <string name="Unlocked">Odblokowany</string>
     <string name="Patched">Połatany</string>
     <string name="Premium">Premium</string>
-    <string name="Pro">Pro</string>
-    <string name="ModLite">Mod Lite</string>
+    <string name="Pro">Premium</string>
+    <string name="ModLite">Lekki Mod</string>
     <string name="Subscribed">Subskrybowane</string>
     <string name="Prime">Premium</string>
     <string name="Plus">Plus</string>
@@ -164,7 +164,7 @@
     <string name="Full">Pełny</string>
     <string name="Username">Nazwa Użytkownika</string>
     <string name="Usernameinit">4-50 znaków</string>
-    <string name="Usernametip">"Tylko litery a-z, liczby oraz symbole: @. - _ .  (bez spacji lub innych znaków specjalnych). 4-50 znaków."</string>
+    <string name="Usernametip">Tylko litery a-z, liczby, oraz symbole: @. - _ (bez spacji lub innych znaków specjalnych). Od 4 do 50 znaków.</string>
     <string name="Password">Hasło</string>
     <string name="Enteryourpassword">6-8 znaków</string>
     <string name="passwordtip">Tylko litery A-Z, a-z, liczby (bez spacji lub znaków specjalnych). 6-8 znaków.</string>
@@ -226,7 +226,7 @@
     <string name="Myuploads">Moje przesłane pliki</string>
     <string name="Updated">Zaktualizowano</string>
     <string name="Comingsoon">Wkrótce</string>
-    <string name="searchappyouwanttorequest">Wyszukaj aplikację, którą chcesz zgłosić:</string>
+    <string name="searchappyouwanttorequest">Wyszukaj Aplikację o którą chcesz po prosić:</string>
     <string name="Addupload">Dodaj przesyłanie</string>
     <string name="requestdetailhint">Powiedz więcej o swojej prośbie. (Minimum 50 znaków)</string>
     <string name="requesterror">Prześlij nie powiodło się, spróbuj ponownie później.</string>
@@ -351,10 +351,10 @@
     <string name="installfailed">Instalacja nie powiodła się.</string>
     <string name="miuides">Włącz Opcje programisty, wyłącz optymalizację MIUI i spróbuj ponownie.</string>
     <string name="playdes">Graj</string>
-    <string name="todayhotgame">Dzisiejsza Top Lista</string>
+    <string name="todayhotgame">Dzisiejsze Najlepsze Aplikacje</string>
     <string name="newcoming">Nowe nadchodzące</string>
     <string name="recentlyplayed">Ostatnio grane</string>
-    <string name="toopenitquickntime">Aby następnym razem szybko je otworzyć:</string>
+    <string name="toopenitquickntime">Jak byś następnym razem chciał to znaleźć, możesz:</string>
     <string name="finditin">Znajdź w X</string>
     <string name="needhelp">Potrzebujesz pomocy\?</string>
     <string name="peoplealsoplaygames">Ludzie, którzy grali w tą grę, lubią też</string>
