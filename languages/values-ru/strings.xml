@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--俄羅斯-->
-    <string name="app_name">nnạtạttlạtạlt HappyMod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">858182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -44,7 +44,7 @@
     <string name="Translation">Перевод</string>
     <string name="Share">Поделиться</string>
     <string name="Checkforupdate">Проверить обновления</string>
-    <string name="FollowusonTwitter">Следите за нами в Твиттере </string>
+    <string name="FollowusonTwitter">Следите за нами в Твиттере</string>
     <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
     <string name="settings_network_remind">Внимание! Вы используете мобильную сеть для скачивания</string>
@@ -57,7 +57,7 @@
     <string name="des_no_serach_result">Ой! Результатов не найдено.</string>
     <!--下载管理页-->
     <string name="Downloads">Загрузки</string>
-    <string name="Downloading">Загрузка..</string>
+    <string name="Downloading">Загрузка</string>
     <string name="Finished">Завершенный</string>
     <string name="No_Download">Файл не найден.</string>
     <string name="Pause">Пауза</string>
@@ -273,7 +273,7 @@
     <string name="fix_tips_title">Попробуйте другие сервера перед удалением</string>
     <string name="fix_tips_content">Вы хотите подключиться к другому серверу, чтобы попытаться загрузить его перед удалением\?</string>
     <string name="fix_progress_title">Сканирование серверов</string>
-    <string name="fix_progress_content">Чтобы найти самый быстрый сервер для вас, может потребоваться несколько минут. Пожалуйста подождите</string>
+    <string name="fix_progress_content">Чтобы найти самый быстрый сервер для вас, может потребоваться несколько минут. Пожалуйста подождите.</string>
     <string name="fix_failed_content">В настоящее время нет доступных серверов, повторите попытку позже.</string>
     <string name="fix_tips_failtitle">Нет больше серверов</string>
     <string name="fix_ok">Попробуйте</string>
@@ -286,7 +286,7 @@
     <string name="myreply">Мои ответы</string>
     <string name="Post">Публикации</string>
     <string name="addavideo">Добавить видео</string>
-    <string name="enterthevideourlhere">"Пожалуйста, введите URL-адрес видео  Youtube в поле."</string>
+    <string name="enterthevideourlhere">Пожалуйста, введите URL-адрес видео Youtube в поле.</string>
     <string name="onlysupportyoutube">Поддерживаются только видео с Youtube</string>
     <string name="searchorcreate">Найти или создать</string>
     <string name="hashtags">История хэштегов</string>
