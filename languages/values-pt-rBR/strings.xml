@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Homecom">Modelo feliz.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">858182831284939</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
     <string name="APP">Aplicativo</string>
@@ -20,7 +20,7 @@
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
     <string name="Checkforupdate">Procurar por atualizações</string>
-    <string name="FollowusonTwitter">Siga-nos no Twitter </string>
+    <string name="FollowusonTwitter">Siga-nos no Twitter</string>
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
     <string name="settings_auto_install">Instalar Automaticamente</string>
     <string name="Download_Directory">Diretório de Downloads</string>
@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name"> nome do aplicativo</string>
+    <string name="app_name">HappyMod</string>
     <string name="REFRESH">atualizar</string>
     <string name="Recommended_Game_Mods">Modelos de jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
