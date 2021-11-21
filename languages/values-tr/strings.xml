@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name">YEŞILMOD</string>
-    <string name="Homecom">YEŞILMOD</string>
-    <string name="facebook_app_id">Farebook</string>
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">happymod.com</string>
+    <string name="facebook_app_id">Facebook</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -21,21 +21,21 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Ücuretsis</string>
-    <string name="GAME">Games</string>
+    <string name="Paid">Ücretsiz</string>
+    <string name="GAME">Oyun</string>
     <string name="APP">Uygulama</string>
     <string name="NEW">Yeni</string>
     <string name="Categories">Kategoriler</string>
-    <string name="games">Gamrs</string>
+    <string name="games">Oyunlar</string>
     <string name="REFRESH">Yenile</string>
-    <string name="Unable_to_connect_to_the_network">;Ağa bağlanılamıyor</string>
+    <string name="Unable_to_connect_to_the_network">Ağa bağlanılamıyor</string>
     <string name="Recommended_Game_Mods">Önerilen Modlanmış Oyunlar</string>
     <string name="Hot_Game_Mods">Popüler Oyun Modları</string>
     <string name="Recommended_App_Mods">Önerilen Uygulama Modları</string>
     <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
     <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
     <string name="Last_Update_Mods">En yeni güncellemeler</string>
-    <string name="SearchHint">Arama ipucu</string>
+    <string name="SearchHint">Arama ipucusu</string>
     <string name="Homeweb">Ana sayfa</string>
     <string name="Management">Yönetim</string>
     <string name="Settings">Ayarlar</string>
@@ -47,7 +47,7 @@
     <string name="FollowusonFacebook">Bizi Facebook\'tan takip edin</string>
     <string name="settings_network_remind">Hücresel Veri Uyarısı</string>
     <string name="settings_auto_install">Otomatik olarak yükle</string>
-    <string name="Download_Directory">İndirme Dizini</string>
+    <string name="Download_Directory">İndirme dizini</string>
     <string name="settings_other">Diğer</string>
     <string name="settings_clear_cache">Önbelleği temizle</string>
     <string name="Clean_up_the_complete">Önbellek temizlendi.</string>
@@ -60,7 +60,7 @@
     <string name="Waiting_in_queue">Kuyrukta bekliyor</string>
     <string name="Completed">Tamamlandı</string>
     <string name="UnZiping">Ayıklanıyor</string>
-    <string name="UnZip_succeed">Bitmiş Ayıklanıyor</string>
+    <string name="UnZip_succeed">Bitmiş çıkarma</string>
     <string name="Rate">Oy Ver</string>
     <string name="Rated">Oy Verildi</string>
     <string name="Version">versiyon</string>
