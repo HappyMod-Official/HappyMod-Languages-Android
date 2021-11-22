@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Ücretsiz</string>
+    <string name="Paid">Mod</string>
     <string name="GAME">Oyun</string>
     <string name="APP">Uygulama</string>
     <string name="NEW">Yeni</string>
