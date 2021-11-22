@@ -3,7 +3,7 @@
     <!--阿拉伯-->
     <string name="app_name">هابي مود</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">٦٥٨١٨٢٨٣١٢٨٤٩٣٩</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">‍مدفوع</string>
+    <string name="Paid">الوضع</string>
     <string name="GAME">لعبة</string>
     <string name="APP">‌تطبيق</string>
     <string name="NEW">جديد</string>
@@ -75,7 +75,7 @@
     <string name="NotwhatIwant">ليس ما أريد</string>
     <string name="Downloadfailed">التنزيل فشل</string>
     <string name="Downloadistooslow">التنزيل بطيء جدًا</string>
-    <string name="Mods">الإصدارات المعدلة</string>
+    <string name="Mods">تعديل</string>
     <string name="Original">النسخة الاصلية</string>
     <string name="Previousversion">إصدارات قديمة</string>
     <string name="Download">تنزيل</string>
