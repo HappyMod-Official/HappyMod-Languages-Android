@@ -2,7 +2,7 @@
 <resources>
     <string name="Homecom">Modelo feliz.com</string>
     <string name="facebook_app_id">858182831284939</string>
-    <string name="Paid">Pago</string>
+    <string name="Paid">Modo</string>
     <string name="GAME">Jogo</string>
     <string name="APP">Aplicativo</string>
     <string name="NEW">Novo</string>
