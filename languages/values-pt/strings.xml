@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Pago</string>
+    <string name="Paid">Modo</string>
     <string name="GAME">Jogo</string>
     <string name="APP">Aplicação</string>
     <string name="NEW">Novo</string>
