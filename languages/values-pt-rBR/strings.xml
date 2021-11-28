@@ -3,13 +3,13 @@
     <string name="Homecom">Modelo feliz.com</string>
     <string name="facebook_app_id">858182831284939</string>
     <string name="Paid">Modo</string>
-    <string name="GAME">Jogo</string>
+    <string name="GAME">"Jogo "</string>
     <string name="APP">Aplicativo</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
-    <string name="Unable_to_connect_to_the_network">; Incapaz de conectar-se à rede</string>
-    <string name="Hot_Game_Mods">Modo popular para jogos</string>
+    <string name="Unable_to_connect_to_the_network">Incapaz de conectar se à rede</string>
+    <string name="Hot_Game_Mods">Mods populares para jogos</string>
     <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
     <string name="Recommended_New_Mods">Novos Modelo Recomendados</string>
     <string name="SearchHint">Dica de pesquisa</string>
