@@ -28,15 +28,15 @@
     <string name="games">العاب</string>
     <string name="REFRESH">Refresh</string>
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network</string>
-    <string name="Recommended_Game_Mods">العاب موصى بها</string>
+    <string name="Recommended_Game_Mods">العاب مهاكرا موصى بها</string>
     <string name="Hot_Game_Mods">Hot Game Mod</string>
     <string name="Recommended_App_Mods">Recommended App Mods</string>
-    <string name="Hot_App_Mods">التطبيق النشط</string>
-    <string name="Recommended_New_Mods">جديدة الموصى به</string>
-    <string name="Last_Update_Mods">آخر التحديثات</string>
+    <string name="Hot_App_Mods">تطبيقات متهاكرا مشهورا</string>
+    <string name="Recommended_New_Mods">"تطبيقات متهاكرا موصي بها "</string>
+    <string name="Last_Update_Mods">اجداد تطبيقات متهاكرا</string>
     <string name="SearchHint">تلميح البحث</string>
     <!-- 侧滑-->
-    <string name="Homeweb">المنزل</string>
+    <string name="Homeweb">الشباك المنزلي</string>
     <string name="Management">الإدارة</string>
     <string name="Settings">الإعدادات</string>
     <string name="Feedback">استجابة</string>
