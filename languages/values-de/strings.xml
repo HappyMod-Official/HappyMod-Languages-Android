@@ -23,21 +23,21 @@
     <!--首页-->
     <string name="Paid">Bezahlt</string>
     <string name="GAME">Spiel</string>
-    <string name="APP">Anwendungen</string>
+    <string name="APP">App</string>
     <string name="NEW">Neu</string>
-    <string name="Categories">Kategorien</string>
+    <string name="Categories">Kategorie</string>
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisieren</string>
-    <string name="Unable_to_connect_to_the_network">;Verbindung zum Netzwerk nicht möglich</string>
-    <string name="Recommended_Game_Mods">Empfohlene Spiele Mods</string>
-    <string name="Hot_Game_Mods">Beliebte Spiele Mods</string>
+    <string name="Unable_to_connect_to_the_network">Verbindung zum Netzwerk nicht möglich.</string>
+    <string name="Recommended_Game_Mods">Empfohlende Spiel-Mods</string>
+    <string name="Hot_Game_Mods">Beliebte Spiel Mods</string>
     <string name="Recommended_App_Mods">Empfohlene App Mods</string>
     <string name="Hot_App_Mods">Beliebte App Mods</string>
     <string name="Recommended_New_Mods">Neue empfohlene Mods</string>
     <string name="Last_Update_Mods">Neueste Updates</string>
-    <string name="SearchHint">Suchhinweis</string>
+    <string name="SearchHint">Such Geheimnis</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Übersicht</string>
+    <string name="Homeweb">Startseite</string>
     <string name="Management">Verwaltung</string>
     <string name="Settings">Einstellungen</string>
     <string name="Feedback">Rückmeldung</string>
