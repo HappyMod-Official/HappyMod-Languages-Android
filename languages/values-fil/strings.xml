@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Paid">Binayaran</string>
-    <string name="GAME">Laro</string>
+    <string name="GAME">"Laro "</string>
     <string name="APP">Application</string>
     <string name="NEW">Bago</string>
     <string name="Categories">Mga kategorya</string>
@@ -13,7 +13,7 @@
     <string name="Hot_App_Mods">Hot modified apps</string>
     <string name="Recommended_New_Mods">Inirekumenda na Mga Bagong Mod</string>
     <string name="Last_Update_Mods">Mga Pinakabagong Update</string>
-    <string name="SearchHint">Maghanap..</string>
+    <string name="SearchHint">Pahiwatig sa Paghahanap</string>
     <string name="Homeweb">Opisyal na website</string>
     <string name="Management">Pamamahala</string>
     <string name="Settings">Mga setting</string>
@@ -84,7 +84,7 @@
     <string name="No_enough_space_left_on_device">Hindi sapat na imbakan. Kailangan:</string>
     <string name="updatenow">I-update Ngayon</string>
     <string name="updateFail">Nabigo ang pag-download. Mangyaring isara at muling buksan</string>
-    <string name="app_name"> Happymod</string>
+    <string name="app_name">Happymod</string>
     <string name="Homecom">Happymod.com</string>
     <string name="Recommended_Game_Mods">Inirekumendang Mga mods</string>
     <string name="Translation">Pagsasalin</string>
