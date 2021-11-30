@@ -28,11 +28,11 @@
     <string name="Categories">Категории</string>
     <string name="games">Игры</string>
     <string name="REFRESH">Обновить</string>
-    <string name="Unable_to_connect_to_the_network">Невозможно подключиться к вайфай/сети</string>
+    <string name="Unable_to_connect_to_the_network">Невозможно подключиться к сети</string>
     <string name="Recommended_Game_Mods">Рекомендуемые игровые моды</string>
     <string name="Hot_Game_Mods">Популярные игровые моды</string>
     <string name="Recommended_App_Mods">Рекомендуемые моды приложений</string>
-    <string name="Hot_App_Mods">Горячие моды приложений</string>
+    <string name="Hot_App_Mods">Популярные моды приложений</string>
     <string name="Recommended_New_Mods">Новые рекомендуемые моды</string>
     <string name="Last_Update_Mods">Последние обновления</string>
     <string name="SearchHint">Поиск</string>
@@ -44,10 +44,10 @@
     <string name="Translation">Перевод</string>
     <string name="Share">Поделиться</string>
     <string name="Checkforupdate">Проверить обновления</string>
-    <string name="FollowusonTwitter">Следите за нами в Твиттере</string>
+    <string name="FollowusonTwitter">Следите за нами в Твиттере </string>
     <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
-    <string name="settings_network_remind">Внимание! Вы используете мобильную сеть для скачивания</string>
+    <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
     <string name="settings_auto_install">Автоматическая установка</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другое</string>
