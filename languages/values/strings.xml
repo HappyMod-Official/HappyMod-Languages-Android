@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">اسم_التطبيق</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">858182831284939</string>
     <!--原APP大图 -->
@@ -23,34 +23,34 @@
     <string name="Paid">Mode</string>
     <string name="GAME">GAME</string>
     <string name="APP">App</string>
-    <string name="NEW">Nuovo</string>
-    <string name="Categories">Categorie</string>
-    <string name="games">العاب</string>
+    <string name="NEW">New</string>
+    <string name="Categories">Categories</string>
+    <string name="games">Games</string>
     <string name="REFRESH">Refresh</string>
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network</string>
-    <string name="Recommended_Game_Mods">العاب مهاكرا موصى بها</string>
+    <string name="Recommended_Game_Mods">Recommended Game Mods</string>
     <string name="Hot_Game_Mods">Hot Game Mod</string>
     <string name="Recommended_App_Mods">Recommended App Mods</string>
-    <string name="Hot_App_Mods">تطبيقات متهاكرا مشهورا</string>
-    <string name="Recommended_New_Mods">"تطبيقات متهاكرا موصي بها "</string>
-    <string name="Last_Update_Mods">اجداد تطبيقات متهاكرا</string>
-    <string name="SearchHint">تلميح البحث</string>
+    <string name="Hot_App_Mods">Hot app mods</string>
+    <string name="Recommended_New_Mods">Recommended New Mods</string>
+    <string name="Last_Update_Mods">Latest Updates</string>
+    <string name="SearchHint">Search</string>
     <!-- 侧滑-->
-    <string name="Homeweb">الشباك المنزلي</string>
-    <string name="Management">Yönetim</string>
-    <string name="Settings">Ayarlar</string>
-    <string name="Feedback">Geri bildirim</string>
-    <string name="Translation">Çeviri</string>
-    <string name="Share">Paylaş</string>
-    <string name="Checkforupdate">Güncellemeleri kontrol et</string>
-    <string name="FollowusonTwitter">Twitter da takip et</string>
-    <string name="FollowusonFacebook">Facebook ta takip et</string>
+    <string name="Homeweb">Home</string>
+    <string name="Management">Management</string>
+    <string name="Settings">Settings</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Translation">Translation</string>
+    <string name="Share">Share</string>
+    <string name="Checkforupdate">Check for update</string>
+    <string name="FollowusonTwitter">Follow us on Twitter </string>
+    <string name="FollowusonFacebook">Follow us on Facebook</string>
     <!--设置页-->
-    <string name="settings_network_remind">Ağ ayarları</string>
-    <string name="settings_auto_install">Otomatik indirme ayarları</string>
-    <string name="Download_Directory">Dizini indir</string>
-    <string name="settings_other">Diğer ayarlar</string>
-    <string name="settings_clear_cache">ayarlar önbelleği temizle</string>
+    <string name="settings_network_remind">Mobile Network Alert</string>
+    <string name="settings_auto_install">Automatically Install</string>
+    <string name="Download_Directory">Download Directory</string>
+    <string name="settings_other">Other</string>
+    <string name="settings_clear_cache">Clear cache</string>
     <string name="Clean_up_the_complete">The cache is cleared.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Oops! No results found.</string>
