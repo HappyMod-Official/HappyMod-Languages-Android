@@ -21,13 +21,13 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Куплено</string>
+    <string name="Paid">Заплачено</string>
     <string name="GAME">Игра</string>
     <string name="APP">Приложение</string>
     <string name="NEW">Новинки</string>
     <string name="Categories">Категории</string>
     <string name="games">Игры</string>
-    <string name="REFRESH">Обновить</string>
+    <string name="REFRESH">Обновить страницу</string>
     <string name="Unable_to_connect_to_the_network">; Nevozmozhno podklyuchit\'sya k seti</string>
     <string name="Recommended_Game_Mods">Рекомендуемые игровые моды</string>
     <string name="Hot_Game_Mods">Популярные игровые моды</string>
