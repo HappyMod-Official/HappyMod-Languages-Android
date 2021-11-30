@@ -37,20 +37,20 @@
     <string name="SearchHint">تلميح البحث</string>
     <!-- 侧滑-->
     <string name="Homeweb">الشباك المنزلي</string>
-    <string name="Management">الإدارة</string>
-    <string name="Settings">الإعدادات</string>
-    <string name="Feedback">استجابة</string>
-    <string name="Translation">الترجمه</string>
-    <string name="Share">المشاركه</string>
-    <string name="Checkforupdate">التحقق من التحديث</string>
-    <string name="FollowusonTwitter">تابعونا على تويتر</string>
-    <string name="FollowusonFacebook">تابعونا على فيسبوك</string>
+    <string name="Management">Yönetim</string>
+    <string name="Settings">Ayarlar</string>
+    <string name="Feedback">Geri bildirim</string>
+    <string name="Translation">Çeviri</string>
+    <string name="Share">Paylaş</string>
+    <string name="Checkforupdate">Güncellemeleri kontrol et</string>
+    <string name="FollowusonTwitter">Twitter da takip et</string>
+    <string name="FollowusonFacebook">Facebook ta takip et</string>
     <!--设置页-->
-    <string name="settings_network_remind">تنبيه شبكة الهاتف المحمول</string>
-    <string name="settings_auto_install">التثبيت تلقائيا</string>
-    <string name="Download_Directory">تنزيل الدليل</string>
-    <string name="settings_other">أخرى</string>
-    <string name="settings_clear_cache">إعدادات مسح ذاكرة التخزين المؤقت</string>
+    <string name="settings_network_remind">Ağ ayarları</string>
+    <string name="settings_auto_install">Otomatik indirme ayarları</string>
+    <string name="Download_Directory">Dizini indir</string>
+    <string name="settings_other">Diğer ayarlar</string>
+    <string name="settings_clear_cache">ayarlar önbelleği temizle</string>
     <string name="Clean_up_the_complete">The cache is cleared.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Oops! No results found.</string>
