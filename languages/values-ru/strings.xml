@@ -28,7 +28,7 @@
     <string name="Categories">Категории</string>
     <string name="games">Игры</string>
     <string name="REFRESH">Обновить страницу</string>
-    <string name="Unable_to_connect_to_the_network">; Nevozmozhno podklyuchit\'sya k seti</string>
+    <string name="Unable_to_connect_to_the_network">Невозможно подключиться к вайфай/сети</string>
     <string name="Recommended_Game_Mods">Рекомендуемые игровые моды</string>
     <string name="Hot_Game_Mods">Популярные игровые моды</string>
     <string name="Recommended_App_Mods">Рекомендуемые моды приложений</string>
