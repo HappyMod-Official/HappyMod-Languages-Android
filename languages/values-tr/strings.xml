@@ -21,8 +21,8 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Mod</string>
-    <string name="GAME">Oyun</string>
+    <string name="Paid">Paralı</string>
+    <string name="GAME">OYUN</string>
     <string name="APP">Uygulama</string>
     <string name="NEW">Yeni</string>
     <string name="Categories">Kategoriler</string>
@@ -35,7 +35,7 @@
     <string name="Hot_App_Mods">Popüler Uygulama Modları</string>
     <string name="Recommended_New_Mods">Önerilen Yeni Modlar</string>
     <string name="Last_Update_Mods">En yeni güncellemeler</string>
-    <string name="SearchHint">Arama ipucusu</string>
+    <string name="SearchHint">Arama</string>
     <string name="Homeweb">Ana sayfa</string>
     <string name="Management">Yönetim</string>
     <string name="Settings">Ayarlar</string>
@@ -43,7 +43,7 @@
     <string name="Translation">Çeviri</string>
     <string name="Share">Paylaş</string>
     <string name="Checkforupdate">Güncellemeleri kontrol et</string>
-    <string name="FollowusonTwitter">Bizi Twitter\'da takip edin</string>
+    <string name="FollowusonTwitter">Bizi Twitter\'da takip edin </string>
     <string name="FollowusonFacebook">Bizi Facebook\'tan takip edin</string>
     <string name="settings_network_remind">Hücresel Veri Uyarısı</string>
     <string name="settings_auto_install">Otomatik olarak yükle</string>
