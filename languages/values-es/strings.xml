@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">ModFeliz</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">Facebook_aplicacion_id</string>
     <!--原APP大图 -->
@@ -22,20 +22,20 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--homepage-->
     <string name="Paid">Modo</string>
-    <string name="GAME">"Como una broma jajaja "</string>
+    <string name="GAME">JUEGO</string>
     <string name="APP">Aplicacion</string>
-    <string name="NEW">Nuevo Uovo</string>
+    <string name="NEW">Nuevo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Volver a cargar</string>
-    <string name="Unable_to_connect_to_the_network">Cállate conchetumare hijo de puta no se puede conectar a la puta Red de 💩</string>
+    <string name="Unable_to_connect_to_the_network">No se puede conectar a la red</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods populares para descargar</string>
     <string name="Recommended_App_Mods">Recomendaciones de juegos de mierda</string>
     <string name="Hot_App_Mods">Mods de app populares</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
-    <string name="SearchHint">Buscar pista</string>
+    <string name="SearchHint">Buscar</string>
     <!-- slide-->
     <string name="Homeweb">Inicio</string>
     <string name="Management">Administración</string>
@@ -44,7 +44,7 @@
     <string name="Translation">Traducción</string>
     <string name="Share">Compartir</string>
     <string name="Checkforupdate">Buscar actualizaciones</string>
-    <string name="FollowusonTwitter">Síguenos en Twitter</string>
+    <string name="FollowusonTwitter">Síguenos en Twitter </string>
     <string name="FollowusonFacebook">Síguenos en Facebook</string>
     <!--settings-->
     <string name="settings_network_remind">Alerta de red móvil</string>
