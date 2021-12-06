@@ -57,9 +57,9 @@
     <string name="Connecting">در حال اتصال …</string>
     <string name="modfeature">اطلاعات مود :</string>
     <string name="Moreversion">نسخه های بیشتر</string>
-    <string name="app_name"> فروشگاه هپی مود</string>
+    <string name="app_name">فروشگاه هپی مود</string>
     <string name="Paid">پرداخت شده</string>
-    <string name="Unable_to_connect_to_the_network">؛ امکان اتصال به شبکه وجود ندارد</string>
+    <string name="Unable_to_connect_to_the_network">امکان اتصال به شبکه وجود ندارد</string>
     <string name="Recommended_New_Mods">مودهای توصیه شده جدید</string>
     <string name="Checkforupdate">بررسی برای به روز رسانی</string>
     <string name="settings_network_remind">هشدار شبکه تلفن همراه</string>
@@ -250,7 +250,7 @@
     <string name="installplaywitouthti">بازی فوری بدون نیاز به نصب</string>
     <string name="crash_dialog_title">اوه.</string>
     <string name="crash_dialog_message">متاسفم لطفا گزارش اشکال خود را از طریق ایمیل ارسال کنید.</string>
-    <string name="crash_dialog_feedback">گزارش اشکالات</string>
+    <string name="crash_dialog_feedback">گزارش مشکلات</string>
     <string name="crash_dialog_restart">راه اندازی مجدد</string>
     <string name="error_file_des">این فایل حذف شده است و در حال دانلود دوباره است.</string>
     <string name="Night_Mode">پس زمینه تاریک</string>
@@ -340,7 +340,7 @@
     <string name="reselpass_destwo">لطفا ایمیل یا شماره تلفن خود را وارد کنید اگر در مورد بازنشانی گذرواژه خود مشکلی دارید <u> با ما تماس بگیرید </u>.</string>
     <string name="signuplimitdes">دستگاه شما به بیشترین تعداد حساب های ثبت شده رسیده است لطفا از حساب(های) زیر برای ورود استفاده کنید.</string>
     <string name="petceotn">لطفا یک ایمیل یا شماره تلفن معتبر را وارد کنید.</string>
-    <string name="Registerfailed">ثبت نام انجام نشد لطفا مطمئن شوید که وضعیت اتصال شبکه شما خوب است دکمه ثبت نام را انتخاب کنید تا دوباره امتحان کنید.</string>
+    <string name="Registerfailed">ثبت نام انجام نشد لطفا مطمئن شوید که وضعیت اتصال شبکه شما خوب است سپس برای انجام تلاش دوباره دکمه ثبت نام را انتخاب کنید.</string>
     <string name="Myrequests">درخواست های من</string>
     <string name="searchappyouwanttorequest">برنامه ای را که می خواهید درخواست کنید جستجو کنید :</string>
     <string name="requesterror">ارسال ناموفق بود لطفا بعدا دوباره امتحان کنید.</string>
