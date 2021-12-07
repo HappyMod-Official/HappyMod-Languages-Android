@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="facebook_app_id">858182831284939</string>
+    <string name="facebook_app_id">658182831284939</string>
     <string name="APP">Sovellus</string>
     <string name="NEW">Uusi</string>
     <string name="games">Pelit</string>
-    <string name="Unable_to_connect_to_the_network">;Verkkoyhteyden muodostus ei onnistu</string>
-    <string name="GAME">Peli</string>
+    <string name="Unable_to_connect_to_the_network">Ei voida muodostaa yhteyttä verkkoon</string>
+    <string name="GAME">PELI</string>
     <string name="Homecom">happymod.com</string>
     <string name="app_name">HappyMod</string>
     <string name="Categories">Kategoriat</string>
     <string name="Last_Update_Mods">Viimeisimmät päivitykset</string>
     <string name="Recommended_App_Mods">Suositellut sovellusmodit</string>
     <string name="Hot_App_Mods">Suositut sovellusmodit</string>
-    <string name="Recommended_New_Mods">Suositellut uuden modit</string>
-    <string name="SearchHint">Hakuvinkki</string>
+    <string name="Recommended_New_Mods">Suositellut uudet modit</string>
+    <string name="SearchHint">Haku</string>
     <string name="Settings">Asetukset</string>
     <string name="Feedback">Palaute</string>
     <string name="Translation">Käännös</string>
     <string name="Share">Jaa</string>
     <string name="Checkforupdate">Tarkista päivitykset</string>
-    <string name="FollowusonTwitter">Seuraa meitä Twitterissä</string>
+    <string name="FollowusonTwitter">Seuraa meitä Twitterissä </string>
     <string name="FollowusonFacebook">Seuraa meitä Facebookissa</string>
     <string name="settings_auto_install">Asenna automaattisesti</string>
     <string name="settings_other">Muut</string>
@@ -46,7 +46,7 @@
     <string name="requestamod">Pyydä modia</string>
     <string name="Homeweb">Koti</string>
     <string name="Hot_Game_Mods">Suositut pelimodit</string>
-    <string name="Paid">Maksettu</string>
+    <string name="Paid">Espanja</string>
     <string name="Recommended_Game_Mods">Suositellut pelimodit</string>
     <string name="Download_Directory">Lataushakemisto</string>
     <string name="Tryitlater">Yritä myöhemmin uudelleen</string>
@@ -105,7 +105,7 @@
     <string name="nolimits">Ei rajoituksia</string>
     <string name="Clean">Siisti</string>
     <string name="Cdnoadfree">Siisti ulkoasu, ei mainoksia &amp; 100% ilmainen!</string>
-    <string name="wrhtdbf">Miten HyperTorrentia käytetään\?</string>
+    <string name="wrhtdbf">Espanja Espanja</string>
     <string name="nothanks">Ei kiitos</string>
     <string name="Checkthenetwork">Tarkista verkkosi</string>
     <string name="Configuringip">Käytettävissä olevan IP-osoitteen määrittäminen puolestasi</string>
