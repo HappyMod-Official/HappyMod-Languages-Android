@@ -12,7 +12,7 @@
     <string name="games">یارییەکان</string>
     <string name="Hot_Game_Mods">گرنگترین یارییە مۆدەکان</string>
     <string name="APP">ئەپ</string>
-    <string name="Unable_to_connect_to_the_network">نەتوانرا پەیوەندی بکرێت بە ئینتەرنێتەوە !</string>
+    <string name="Unable_to_connect_to_the_network">نەتوانرا پەیوەندی بکرێت بە ئینتەرنێتەوە</string>
     <string name="tapandholdptodelete">کلیک یان کرتە لە وێنەکە بکە بۆ سڕینەوەی.</string>
     <string name="speaktoolong">ژمارەی پیتەکان سنووری تێپەڕاندووە، تا 4000 نووسە دەکرێت داخڵ بکرێت.</string>
     <string name="safedes">ئەم بەرنامەیە تاقیکردنەوەی ئاسایشی ڤایرۆسی تێپەڕاند، بەدخۆراک. ئیمزایەکی دیجیتاڵی باوەڕپێکراو و پشتڕاستکراوەی بەکارهێناوە.</string>
@@ -54,7 +54,7 @@
     <string name="Last_Update_Mods">کۆتا ئەپدەیت</string>
     <string name="Hot_App_Mods">خۆشترین یاریەکان</string>
     <string name="Settings">ڕێکخستن</string>
-    <string name="Feedback">فیدباک</string>
+    <string name="Feedback">کاردانەوە</string>
     <string name="Downloading">دادەبەزێت</string>
     <string name="Finished">تەواو بوو</string>
     <string name="Pause">وەستان</string>
@@ -279,7 +279,7 @@
     <string name="description">وەسف:</string>
     <string name="fastdownloader">داگرتنی خێراتر</string>
     <string name="fasterspeed">خێرایی خێراتر</string>
-    <string name="wrhtdbf">چۆن هایپەرتۆرنت بەکار بهێنین؟</string>
+    <string name="wrhtdbf">چۆن هایپەرتۆرنت بەکار بهێنین</string>
     <string name="itisworkingonyourdevice">ئایا کاریکرد لەسەر ئامێرەکەی تۆ ؟</string>
     <string name="less">کەمتر</string>
     <string name="nomalware">بێ ماڵوێر</string>
@@ -290,7 +290,7 @@
     <string name="no_working">کارناکات</string>
     <string name="oagputc">یان زیادکردنی لینکی Google Play بۆ بەردەوامبوون</string>
     <string name="pleaseentergoogleaddress">تکایە ناسنامەی بەرنامەکە یان لینکی لە Google Play دابنێ.</string>
-    <string name="Download_Directory">دابەزاندنی دایرێکتەری</string>
+    <string name="Download_Directory">داگرتنی ڕێبەرنامە</string>
     <string name="enterthevideourlhere">تکایە لینکی ڤیدیۆی یوتیوب لێرە دابنێ.</string>
     <string name="Checkforupdate">پشکنین بۆ وەشانی نوێ</string>
     <string name="Moremods">نوێترین وەشان</string>
