@@ -21,13 +21,13 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--homepage-->
-    <string name="Paid">Modo</string>
+    <string name="Paid">Pago</string>
     <string name="GAME">JUEGO</string>
     <string name="APP">Aplicacion</string>
     <string name="NEW">Nuevo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Juegos</string>
-    <string name="REFRESH">Volver a cargar</string>
+    <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se puede conectar a la red</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Mods populares para descargar</string>
