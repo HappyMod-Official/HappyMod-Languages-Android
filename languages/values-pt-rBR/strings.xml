@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Homecom">Modelo feliz.com</string>
+    <string name="Homecom">Happymod.com</string>
     <string name="facebook_app_id">858182831284939</string>
     <string name="Paid">Modo</string>
     <string name="GAME">Jogo</string>
@@ -20,7 +20,7 @@
     <string name="Translation">Tradução</string>
     <string name="Share">Compartilhar</string>
     <string name="Checkforupdate">Procurar por atualizações</string>
-    <string name="FollowusonTwitter">Siga-nos no Twitter</string>
+    <string name="FollowusonTwitter">Siga-nos no Twitter </string>
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
     <string name="settings_auto_install">Instalar Automaticamente</string>
     <string name="Download_Directory">Diretório de Downloads</string>
@@ -47,7 +47,7 @@
     <string name="Delete">Deletar</string>
     <string name="Whydeletethisdownload">Por que deletar este download\?</string>
     <string name="NotwhatIwant">Não é o que eu quero</string>
-    <string name="Downloadfailed">Download falhou</string>
+    <string name="Downloadfailed">O Download falhou</string>
     <string name="Mods">Modificações</string>
     <string name="Original">Original</string>
     <string name="Previousversion">Versão Anterior</string>
@@ -63,7 +63,7 @@
     <string name="Recommend">Recomendado</string>
     <string name="Recommendmod">Mod Recomendado</string>
     <string name="Moremods">Versões Mais Recentes</string>
-    <string name="Submit">enviar</string>
+    <string name="Submit">Enviar</string>
     <string name="Hated_it">Odiei!</string>
     <string name="Its_ok">Está OK.</string>
     <string name="Liked_it">Gostei.</string>
@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">Feliz edição</string>
+    <string name="app_name">App</string>
     <string name="REFRESH">atualizar</string>
     <string name="Recommended_Game_Mods">Modelos de jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
