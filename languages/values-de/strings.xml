@@ -47,9 +47,9 @@
     <string name="FollowusonTwitter">Folge uns auf Twitter </string>
     <string name="FollowusonFacebook">Folge uns auf Facebook</string>
     <!--设置页-->
-    <string name="settings_network_remind">Mobiles Netzwerk Warnung</string>
+    <string name="settings_network_remind">Warnung vor der Nutzung mobiler Daten</string>
     <string name="settings_auto_install">Automatische Installation</string>
-    <string name="Download_Directory">Heruntergeladen</string>
+    <string name="Download_Directory">Verzeichnis der heruntergeladenen Apps</string>
     <string name="settings_other">Weitere</string>
     <string name="settings_clear_cache">Cache leeren</string>
     <string name="Clean_up_the_complete">Cache wurde geleert.</string>
