@@ -5,9 +5,9 @@
     <string name="GAME">یاری</string>
     <string name="REFRESH">نوێکردنەوە</string>
     <string name="Recommended_Game_Mods">یارییە پێشنیارکراوەکان</string>
-    <string name="app_name">ھەپی مۆد</string>
+    <string name="app_name">بەرنامەی ھەپی مۆد</string>
     <string name="facebook_app_id">658182831284939</string>
-    <string name="Paid">کڕدراو</string>
+    <string name="Paid">کڕدراوە</string>
     <string name="Categories">ژانەرەکان</string>
     <string name="games">یارییەکان</string>
     <string name="Hot_Game_Mods">گرنگترین یارییە مۆدەکان</string>
@@ -146,7 +146,7 @@
     <string name="Username">ناوی بەکارھێنەر</string>
     <string name="Usernameinit">٤-٥٠ پیت</string>
     <string name="Password">وشەی نھێنی</string>
-    <string name="FollowusonTwitter">فالۆومان بکە لە تویتەر </string>
+    <string name="FollowusonTwitter">فۆڵۆومان بکە لە تویتەر </string>
     <string name="Enteryourpassword">٦-٨ پیت</string>
     <string name="Nickname">نازناو</string>
     <string name="Emailaddress">ناونیشانی ئیمەیل</string>
@@ -300,7 +300,7 @@
     <string name="Management">بەڕێوبەر</string>
     <string name="Translation">زمان</string>
     <string name="Share">ھاوبەشیکردن</string>
-    <string name="FollowusonFacebook">فالۆومان بکە لە فەیسبوک</string>
+    <string name="FollowusonFacebook">فۆڵۆومان بکە لە فەیسبوک</string>
     <string name="settings_auto_install">دامەزرادندنی ئۆتۆماتیکی</string>
     <string name="settings_other">زیاتر</string>
     <string name="settings_clear_cache">سڕینەوەی خەزنکراو</string>
