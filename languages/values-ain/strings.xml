@@ -4,4 +4,5 @@
     <string name="settings_clear_cache">キャッシュの消去</string>
     <string name="Download_Directory">ダウンロードディレクトリ</string>
     <string name="settings_other">他の</string>
+    <string name="app_name">HappyModアプリ</string>
 </resources>
