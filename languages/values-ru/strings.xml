@@ -62,7 +62,7 @@
     <string name="No_Download">Файл не найден.</string>
     <string name="Pause">Пауза</string>
     <string name="Waiting_in_queue">Ожидание</string>
-    <string name="Completed">Завершилось</string>
+    <string name="Completed">Завершено</string>
     <string name="UnZiping">Распаковка</string>
     <string name="UnZip_succeed">Распаковка завершена</string>
     <string name="Rate">Оценить</string>
