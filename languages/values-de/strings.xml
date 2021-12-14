@@ -2,8 +2,8 @@
 <resources>
     <!--德国-->
     <string name="app_name">Anwendung</string>
-    <string name="Homecom">Glücklich</string>
-    <string name="facebook_app_id">858182831284939</string>
+    <string name="Homecom">happymod.com</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -23,19 +23,19 @@
     <!--首页-->
     <string name="Paid">Bezahlt</string>
     <string name="GAME">Spiel</string>
-    <string name="APP">App</string>
+    <string name="APP">Anwendung</string>
     <string name="NEW">Neu</string>
-    <string name="Categories">Kategorie</string>
+    <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
     <string name="REFRESH">Aktualisieren</string>
-    <string name="Unable_to_connect_to_the_network">Verbindung zum Netzwerk nicht möglich.</string>
-    <string name="Recommended_Game_Mods">Empfohlende Spiel-Mods</string>
-    <string name="Hot_Game_Mods">Beliebte Spiel Mods</string>
+    <string name="Unable_to_connect_to_the_network">Verbindung zum Internet nicht möglich.</string>
+    <string name="Recommended_Game_Mods">Empfohlende Spiele-Mods</string>
+    <string name="Hot_Game_Mods">Beliebte Spiele Mods</string>
     <string name="Recommended_App_Mods">Empfohlene App Mods</string>
     <string name="Hot_App_Mods">Beliebte App Mods</string>
     <string name="Recommended_New_Mods">Neue empfohlene Mods</string>
     <string name="Last_Update_Mods">Neueste Updates</string>
-    <string name="SearchHint">Such Geheimnis</string>
+    <string name="SearchHint">Suche</string>
     <!-- 侧滑-->
     <string name="Homeweb">Startseite</string>
     <string name="Management">Verwaltung</string>
@@ -44,24 +44,24 @@
     <string name="Translation">Übersetzung</string>
     <string name="Share">Teilen</string>
     <string name="Checkforupdate">Auf Updates prüfen</string>
-    <string name="FollowusonTwitter">Folge uns auf Twitter </string>
-    <string name="FollowusonFacebook">Folge uns auf Facebook</string>
+    <string name="FollowusonTwitter">Folgt uns auf Twitter </string>
+    <string name="FollowusonFacebook">Folgt uns auf Facebook</string>
     <!--设置页-->
-    <string name="settings_network_remind">Warnung vor der Nutzung mobiler Daten</string>
+    <string name="settings_network_remind">Mobilfunknetz-Warnung</string>
     <string name="settings_auto_install">Automatische Installation</string>
-    <string name="Download_Directory">Verzeichnis der heruntergeladenen Apps</string>
+    <string name="Download_Directory">Verzeichnis der Downloads</string>
     <string name="settings_other">Weitere</string>
     <string name="settings_clear_cache">Cache leeren</string>
     <string name="Clean_up_the_complete">Cache wurde geleert.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Hoppla! Kein passendes Ergebnis für deine Suchanfrage gefunden.</string>
     <!--下载管理页-->
-    <string name="Downloads">Heruntergeladen</string>
+    <string name="Downloads">Downloads</string>
     <string name="Downloading">Wird heruntergeladen</string>
     <string name="Finished">Fertig</string>
     <string name="No_Download">Keine Dateien gefunden.</string>
     <string name="Pause">Pausieren</string>
-    <string name="Waiting_in_queue">Warteschlange</string>
+    <string name="Waiting_in_queue">Warten in Warteschlange</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="UnZiping">Extrahieren</string>
     <string name="UnZip_succeed">Extrahierung beendet</string>
@@ -72,14 +72,14 @@
     <string name="Tryitlater">Versuche es später noch einmal</string>
     <string name="Serviceisbusy">Verbinden…</string>
     <!-- 下载删除的文字 -->
-    <string name="Notice">Beachten</string>
+    <string name="Notice">Hinweis</string>
     <string name="deletethistask">Datei löschen</string>
     <string name="Cancel">Abbrechen</string>
     <string name="Delete">Löschen</string>
-    <string name="Whydeletethisdownload">Warum hast du den Download gelöscht\?</string>
+    <string name="Whydeletethisdownload">Warum willst du diesen Download löschen\?</string>
     <string name="NotwhatIwant">Nicht das was ich wollte</string>
     <string name="Downloadfailed">Herunterladen fehlgeschlagen</string>
-    <string name="Downloadistooslow">Download ist zu langsam</string>
+    <string name="Downloadistooslow">Der Download ist zu langsam</string>
     <!--APP详情页-->
     <string name="Mods">Modifikationen</string>
     <string name="Original">Original</string>
@@ -99,38 +99,38 @@
     <string name="Moremods">Neuste Versionen</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
-    <string name="Hated_it">Ich habe es gehasst!</string>
+    <string name="Hated_it">Fand ich furchtbar!</string>
     <string name="Disliked_it">Mir hat es nicht gefallen.</string>
     <string name="Its_ok">Okay.</string>
-    <string name="Liked_it">Hat mir gefallen.</string>
+    <string name="Liked_it">Es hat mir gefallen.</string>
     <string name="Loved_it">Ich liebe es!</string>
     <!--分享-->
     <string name="share_happymod">Teile \'HappyMod\' über</string>
     <string name="share_subject">Hol dir HappyMod</string>
-    <string name="share_text">Lade 100% Funktionierende Mods herunter mit @HappyMod
+    <string name="share_text">Lade 100% funktionierende Mods herunter mit @HappyMod
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Speicherort</string>
     <!--update -->
-    <string name="force_des">100% Funktionierende Mods</string>
-    <string name="nvisrti">Neue Version ist bereit zum Installieren.</string>
-    <string name="OPEN">ÖFFNEN</string>
-    <string name="OK">OK</string>
+    <string name="force_des">100% funktionierende Mods</string>
+    <string name="nvisrti">Eine neue Version ist zum Installieren bereit.</string>
+    <string name="OPEN">Offen</string>
+    <string name="OK">Ok</string>
     <string name="Loading">Wird geladen…</string>
-    <string name="updata_tip">Du verwendest die neueste stabile Version von HappyMod</string>
+    <string name="updata_tip">Du verwendest die neueste und stabilste Version von HappyMod</string>
     <string name="xzzb">Bitte lade die offizielle HappyMod App herunter.</string>
     <string name="Continue">Fortsetzen</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Nicht genügend Speicherplatz</string>
+    <string name="No_space_left_on_device">Es ist nicht genügend Speicherplatz auf deinem Gerät vorhanden</string>
     <string name="Is_this_app_you_need">Suchst du diese App\?</string>
     <string name="No">Nein</string>
     <string name="Yes">Ja</string>
-    <string name="bcdes">.Lösche Dateien vom Gerät und versuchen es erneut.</string>
+    <string name="bcdes">Lösche Dateien und versuche es erneut.</string>
     <string name="need">; Verfügbar:</string>
     <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. :</string>
     <string name="updatenow">Jetzt aktualisieren</string>
-    <string name="updateFail">Herunterladen fehlgeschlagen. Bitte schließen und wieder öffnen</string>
-    <string name="initializing">Initialisierung</string>
+    <string name="updateFail">Herunterladen fehlgeschlagen. Bitte starte die HappyMod neu</string>
+    <string name="initializing">Vorbereiten</string>
     <string name="Retrying">Wiederholen</string>
     <string name="language">Sprache</string>
     <!--类别界面 -->
@@ -139,7 +139,7 @@
     <string name="apps">Anwendungen</string>
     <!-- 大文件 -->
     <string name="mergering">Fertigstellen</string>
-    <string name="mergerwait">Fertigstellen (Ca. 1-2 Minuten)</string>
+    <string name="mergerwait">Fertigstellen (Benötigt 1-2 Minuten)</string>
     <!-- 验证 -->
     <string name="Startverification">Verifizierung starten</string>
     <string name="verificationShangXian">Hoppla! Du hast das tägliche Downloadlimit erreicht. Versuchen es nach X Stunden erneut.</string>
@@ -415,16 +415,16 @@
     <string name="nslnfsl">Keine Geschwindigkeitsbegrenzung. Keine Dateigrößenbeschränkung.</string>
     <string name="Clean">Leeren</string>
     <string name="Cdnoadfree">Sieht gut aus , keine Werbung &amp; 100% kostenlos!</string>
-    <string name="wrhtdbf">Wie benutzt man HyperTorrent\?</string>
+    <string name="wrhtdbf">Wie benutzt man HyperTorrent</string>
     <string name="nothanks">Nein Danke</string>
     <string name="Checkthenetwork">Überprüfe dein Netzwerk</string>
     <string name="Configuringip">Verfügbare Konfiguration IP</string>
     <string name="Configuringipfailed">Konfiguration fehlgeschlagen, 8 IPs wurden als nicht verfügbar erkannt. Versuche ein VPN zu verwenden.</string>
-    <string name="Donatedes">HappyMod ist völlig kostenlos und wir hassen Werbung genauso wie Sie!
+    <string name="Donatedes">HappyMod ist völlig kostenlos und wir hassen Werbung genauso wie Du!
 \n
-\nIhre Spende wird sehr geschätzt, da wir sie verwenden, um Ihnen schnellere und sicherere Downloads zu ermöglichen.
+\nDeine Spende wird sehr geschätzt, da wir sie verwenden, um dir schnellere und sicherere Downloads zu ermöglichen.
 \n
-\nBitte haben Sie Geduld und schauen Sie sich die kurze Anzeige an, um die Spende abzuschließen.
+\nBitte habe Geduld und schaue dir eine kurze Anzeige an, um die Spende abzuschließen.
 \n
 \nDankeschön! :)</string>
     <string name="viewstepdeti">Details anzeigen</string>
