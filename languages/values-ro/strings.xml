@@ -27,7 +27,7 @@
 \n</string>
     <string name="NEW">Nou</string>
     <string name="Categories">Categorii</string>
-    <string name="games">Jocuri</string>
+    <string name="games">Jocurile</string>
     <string name="REFRESH">Reîmprospătare</string>
     <string name="Unable_to_connect_to_the_network">Nu ne putem conecta la internet.</string>
     <string name="Recommended_Game_Mods">Jocuri modificate recomandate</string>
@@ -36,7 +36,7 @@
     <string name="Hot_App_Mods">Top moduri de aplicație</string>
     <string name="Recommended_New_Mods">Noi moduri recomandate</string>
     <string name="Last_Update_Mods">Ultimele actualizări</string>
-    <string name="SearchHint">Căutare</string>
+    <string name="SearchHint">Caută</string>
     <!-- 侧滑-->
     <string name="Homeweb">Acasa</string>
     <string name="Management">Administrare</string>
@@ -53,9 +53,9 @@
     <string name="Download_Directory">Descărcați directorul</string>
     <string name="settings_other">Altele</string>
     <string name="settings_clear_cache">Ștergeți memoria cache</string>
-    <string name="Clean_up_the_complete">Cache-ul este șters.</string>
+    <string name="Clean_up_the_complete">Cache-ul a fost sters!</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Hopa! Niciun rezultat găsit.</string>
+    <string name="des_no_serach_result">Hopa! Nici-un rezultat găsit.</string>
     <!--下载管理页-->
     <string name="Downloads">Descărcări</string>
     <string name="Downloading">Descărcări</string>
