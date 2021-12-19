@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--葡萄-->
-    <string name="app_name">HappyMod</string>
-    <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">858182831284939</string>
+    <string name="app_name">App</string>
+    <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -21,21 +21,21 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Modo</string>
-    <string name="GAME">Jogo</string>
+    <string name="Paid">Копать уголь</string>
+    <string name="GAME">JOGO</string>
     <string name="APP">Aplicação</string>
     <string name="NEW">Novo</string>
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="REFRESH">Atualizar</string>
-    <string name="Unable_to_connect_to_the_network">;Impossível ligar à rede</string>
+    <string name="Unable_to_connect_to_the_network">Impossível ligar à rede</string>
     <string name="Recommended_Game_Mods">Mods de Jogos Recomendados</string>
     <string name="Hot_Game_Mods">Mods de Jogos Populares</string>
     <string name="Recommended_App_Mods">Mods de Aplicações Recomendados</string>
     <string name="Hot_App_Mods">Mods de aplicações populares</string>
     <string name="Recommended_New_Mods">Mods Novos Recomendados</string>
     <string name="Last_Update_Mods">Atualizações Mais Recentes</string>
-    <string name="SearchHint">Dica de Pesquisa</string>
+    <string name="SearchHint">Pesquisar</string>
     <!-- 侧滑-->
     <string name="Homeweb">Início</string>
     <string name="Management">Gestão</string>
@@ -44,7 +44,7 @@
     <string name="Translation">Tradução</string>
     <string name="Share">Partilhar</string>
     <string name="Checkforupdate">Verificar Atualizações</string>
-    <string name="FollowusonTwitter">Segue-nos no Twitter</string>
+    <string name="FollowusonTwitter">Segue-nos no Twitter </string>
     <string name="FollowusonFacebook">Segue-nos no Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Aviso de Rede Móvel</string>
