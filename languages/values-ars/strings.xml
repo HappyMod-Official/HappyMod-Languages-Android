@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">التعديل المرح</string>
+    <string name="app_name">التعديل المرح برنامج</string>
     <string name="Paid">مدفوع</string>
     <string name="GAME">لعبة</string>
     <string name="APP">تطبيق</string>
     <string name="Categories">الاقسام</string>
-    <string name="facebook_app_id">عربية</string>
+    <string name="facebook_app_id">658182831284939</string>
     <string name="games">العاب</string>
     <string name="Recommended_Game_Mods">العاب معدلة يوصى بها</string>
     <string name="NEW">جديد</string>
@@ -17,7 +17,7 @@
     <string name="Completed">تم</string>
     <string name="settings_other">اخر</string>
     <string name="settings_auto_install">التنزيل التلقائي</string>
-    <string name="Homecom">عنوان الويب</string>
+    <string name="Homecom">ttps://play.google.com/store/apps/details\?id=com.anghami</string>
     <string name="REFRESH">تحديث</string>
     <string name="Feedback">استعلم</string>
     <string name="Version">الاصدار</string>
@@ -63,5 +63,5 @@
     <string name="SearchHint">بحث</string>
     <string name="Recommended_App_Mods">برامج معدلة يوصى بها</string>
     <string name="Recommended_New_Mods">التطبيقات الجديدة المعدلة</string>
-    <string name="FollowusonTwitter"></string>
+    <string name="FollowusonTwitter"/>
 </resources>
