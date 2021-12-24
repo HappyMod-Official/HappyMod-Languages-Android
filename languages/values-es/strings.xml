@@ -3,7 +3,7 @@
     <!--西班牙-->
     <string name="app_name">Aplicación</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">Facebook_aplicacion_id</string>
+    <string name="facebook_app_id">Facebook_id_de_aplicación</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
