@@ -21,7 +21,10 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">أَلْوضعِ</string>
+    <string name="Paid">العربيه
+\n
+\n
+\nأَلْوضعِ</string>
     <string name="GAME">لعبة</string>
     <string name="APP">‌تطبيق</string>
     <string name="NEW">جديد</string>
