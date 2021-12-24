@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="facebook_app_id">658182831284939</string>
-    <string name="Homecom">سایت فروشگاه هپی مود : happymod.com</string>
+    <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
     <string name="GAME">بازی</string>
     <string name="APP">برنامه</string>
     <string name="NEW">جدید</string>
@@ -10,10 +10,10 @@
     <string name="REFRESH">تازه سازی</string>
     <string name="Recommended_Game_Mods">بازی های مود شده توصیه شده</string>
     <string name="Hot_Game_Mods">بازی های مود شده دوست داشتنی</string>
-    <string name="Recommended_App_Mods">برنامه های مود توصیه شده</string>
-    <string name="Hot_App_Mods">برنامه مود برتر</string>
+    <string name="Recommended_App_Mods">مودهای برنامه پیشنهادی</string>
+    <string name="Hot_App_Mods">مودهای برنامه دوست داشتنی</string>
     <string name="Last_Update_Mods">آخرین به روزرسانی ها</string>
-    <string name="SearchHint">راهنمای جستجو</string>
+    <string name="SearchHint">جستجو</string>
     <string name="Homeweb">صفحه اصلی</string>
     <string name="Management">مدیریت</string>
     <string name="Settings">تنظیمات</string>
@@ -57,10 +57,10 @@
     <string name="Connecting">در حال اتصال …</string>
     <string name="modfeature">اطلاعات مود :</string>
     <string name="Moreversion">نسخه های بیشتر</string>
-    <string name="app_name">فروشگاه هپی مود</string>
+    <string name="app_name">برنامه هپی مود</string>
     <string name="Paid">پرداخت شده</string>
     <string name="Unable_to_connect_to_the_network">امکان اتصال به شبکه وجود ندارد</string>
-    <string name="Recommended_New_Mods">مودهای توصیه شده جدید</string>
+    <string name="Recommended_New_Mods">مود های توصیه شده جدید</string>
     <string name="Checkforupdate">بررسی برای به روز رسانی</string>
     <string name="settings_network_remind">هشدار شبکه تلفن همراه</string>
     <string name="des_no_serach_result">نتیجه ای یافت نشد (نام برنامه یا بازی را به صورت کامل و درست وارد کنید و در صورت موجود نبودن در فروشگاه هپی مود آن را درخواست کنید).</string>
@@ -314,7 +314,7 @@
     <string name="nolimits">بدون محدودیت</string>
     <string name="Cdnoadfree">طراحی تمیز و بدون تبلیغات و ۱۰۰٪ رایگان!</string>
     <string name="Clean">تمیز</string>
-    <string name="wrhtdbf">چگونه از HYPERTORRENT استفاده کنیم؟</string>
+    <string name="wrhtdbf">چگونه از HyperTorrent استفاده کنیم؟</string>
     <string name="nothanks">نه ممنون</string>
     <string name="Checkthenetwork">شبکه خود را بررسی کنید</string>
     <string name="viewstepdeti">مشاهده گام بعدی جزییات</string>
