@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">App</string>
+    <string name="app_name">happymod</string>
     <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">facebook app id</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -20,7 +20,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Копать уголь</string>
+    <string name="Paid">Paid</string>
     <string name="GAME">GAME</string>
     <string name="APP">App</string>
     <string name="NEW">New</string>
@@ -29,14 +29,14 @@
     <string name="REFRESH">Refresh</string>
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network</string>
     <string name="Recommended_Game_Mods">Recommended Game Mods</string>
-    <string name="Hot_Game_Mods">Hot Game Mod</string>
+    <string name="Hot_Game_Mods">Hot Game Mods</string>
     <string name="Recommended_App_Mods">Recommended App Mods</string>
     <string name="Hot_App_Mods">Hot app mods</string>
     <string name="Recommended_New_Mods">Recommended New Mods</string>
     <string name="Last_Update_Mods">Latest Updates</string>
     <string name="SearchHint">Search</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Home</string>
+    <string name="Homeweb">Homeweb</string>
     <string name="Management">Management</string>
     <string name="Settings">Settings</string>
     <string name="Feedback">Feedback</string>
@@ -47,35 +47,35 @@
     <string name="FollowusonFacebook">Follow us on Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobile Network Alert</string>
-    <string name="settings_auto_install">Automatically Install</string>
+    <string name="settings_auto_install">settings auto Install</string>
     <string name="Download_Directory">Download Directory</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_clear_cache">Clear cache</string>
-    <string name="Clean_up_the_complete">The cache is cleared.</string>
+    <string name="settings_other">settings Other</string>
+    <string name="settings_clear_cache">settings Clear cache</string>
+    <string name="Clean_up_the_complete">The cache has been cleared</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Oops! No results found.</string>
+    <string name="des_no_serach_result">No results found (enter the full name of the program or game and request it if it is not available in the Happy Mode store)</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Downloading</string>
     <string name="Finished">Finished</string>
-    <string name="No_Download">No File Found.</string>
+    <string name="No_Download">File not found</string>
     <string name="Pause">Pause</string>
-    <string name="Waiting_in_queue">Waiting in queue</string>
+    <string name="Waiting_in_queue">waiting in line</string>
     <string name="Completed">Completed</string>
-    <string name="UnZiping">Extracting</string>
-    <string name="UnZip_succeed">Finished Extracting</string>
+    <string name="UnZiping">UnZiping</string>
+    <string name="UnZip_succeed">UnZip succeed</string>
     <string name="Rate">Rate</string>
     <string name="Rated">Rated</string>
     <string name="Version">Version</string>
-    <string name="Ratingsreviews">Ratings &amp; Reviews</string>
-    <string name="Tryitlater">Try again later</string>
-    <string name="Serviceisbusy">Connecting…</string>
+    <string name="Ratingsreviews">Ratings and Reviews</string>
+    <string name="Tryitlater">Try it later</string>
+    <string name="Serviceisbusy">Connecting ...</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Notice</string>
-    <string name="deletethistask">Delete this file</string>
+    <string name="deletethistask">Delete this task</string>
     <string name="Cancel">Cancel</string>
     <string name="Delete">Delete</string>
-    <string name="Whydeletethisdownload">Why delete this download?</string>
+    <string name="Whydeletethisdownload">Why deleting this download\?</string>
     <string name="NotwhatIwant">Not what I want</string>
     <string name="Downloadfailed">Download failed</string>
     <string name="Downloadistooslow">Download is too slow</string>
@@ -89,30 +89,30 @@
     <string name="Downloadboundle">Download BUNDLE</string>
     <string name="Downloaded">Downloaded</string>
     <string name="Install">Install</string>
-    <string name="Connecting">Connecting…</string>
+    <string name="Connecting">Connecting</string>
     <string name="readmore">Read More</string>
-    <string name="modfeature">Mod info:</string>
-    <string name="Moreversion">More Versions</string>
+    <string name="modfeature">mod feature</string>
+    <string name="Moreversion">More Version</string>
     <string name="Recommend">Recommend</string>
     <string name="Recommendmod">Recommended Mod</string>
-    <string name="Moremods">Latest Versions</string>
+    <string name="Moremods">More mods</string>
     <!--评分-->
     <string name="Submit">Submit</string>
-    <string name="Hated_it">Hated it!</string>
-    <string name="Disliked_it">Disliked it.</string>
-    <string name="Its_ok">It\'s OK.</string>
-    <string name="Liked_it">Liked it.</string>
-    <string name="Loved_it">Loved it!</string>
+    <string name="Hated_it">Hated it</string>
+    <string name="Disliked_it">Disliked it</string>
+    <string name="Its_ok">It\'s OK</string>
+    <string name="Liked_it">Liked it</string>
+    <string name="Loved_it">Loved it</string>
     <!--分享-->
-    <string name="share_happymod">Share ‘HappyMod’ via</string>
-    <string name="share_subject">Get HappyMod</string>
-    <string name="share_text">Download 100% working mods with @HappyMod
-\nhttps://www.happymod.com/</string>
+    <string name="share_happymod">share happymod</string>
+    <string name="share_subject">share subject</string>
+    <string name="share_text">Download modded apps and games from Happy Mode
+\nhttps://www.happymod.com</string>
     <!--修改路径-->
     <string name="pref_location">Storage location</string>
     <!--update -->
-    <string name="force_des">100% Working Mods</string>
-    <string name="nvisrti">A new version is ready to install.</string>
+    <string name="force_des">100% Working Mod</string>
+    <string name="nvisrti">A new version is ready to install</string>
     <string name="OPEN">OPEN</string>
     <string name="OK">OK</string>
     <string name="Loading">Loading…</string>
@@ -242,7 +242,7 @@
     <string name="Myuploads">My uploads</string>
     <string name="Updated">Updated</string>
     <string name="Comingsoon">Coming soon</string>
-    <string name="searchappyouwanttorequest">Search for the app you want to request:</string>
+    <string name="searchappyouwanttorequest">search app you want to request :</string>
     <string name="Addupload">Add upload</string>
     <string name="requestdetailhint">Tell more about your request. (Atleast 50 characters)</string>
     <string name="requesterror">Submit failed, please try again later.</string>
@@ -332,7 +332,7 @@
     <string name="h5_menu_shortcut">Add To Homescreen</string>
     <string name="installplaywitouthti">Instant play without having to install</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Oops.</string>
+    <string name="crash_dialog_title">Oops</string>
     <string name="crash_toast_message">Sorry, APP exception, will be exited, please submit your bug report via email.</string>
     <string name="crash_dialog_message">Sorry, APP exception, please submit your bug report via email.</string>
     <string name="crash_dialog_feedback">Report bugs</string>
@@ -416,7 +416,7 @@
     <string name="nslnfsl">No speed limit. No file size limit.</string>
     <string name="Clean">Clean</string>
     <string name="Cdnoadfree">Clean design, no ad &amp; 100% free!</string>
-    <string name="wrhtdbf">Español Español</string>
+    <string name="wrhtdbf">How to use HyperTorrent\?</string>
     <string name="nothanks">No thanks</string>
     <string name="Checkthenetwork">Check your network</string>
     <string name="Configuringip">Configuring available IP for you</string>
