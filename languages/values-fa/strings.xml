@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">شناسه برنامه فیسبوک</string>
     <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
     <string name="GAME">بازی</string>
     <string name="APP">برنامه</string>
@@ -9,7 +9,7 @@
     <string name="games">بازی ها</string>
     <string name="REFRESH">تازه سازی</string>
     <string name="Recommended_Game_Mods">بازی های مود شده توصیه شده</string>
-    <string name="Hot_Game_Mods">بازی های مود شده دوست داشتنی</string>
+    <string name="Hot_Game_Mods">بازی های دوست داشتنی مود شده</string>
     <string name="Recommended_App_Mods">مودهای برنامه پیشنهادی</string>
     <string name="Hot_App_Mods">مودهای برنامه دوست داشتنی</string>
     <string name="Last_Update_Mods">آخرین به روزرسانی ها</string>
@@ -26,20 +26,20 @@
     <string name="Download_Directory">پوشه دانلود</string>
     <string name="settings_other">دیگر</string>
     <string name="settings_clear_cache">پاک کردن حافظه پنهان</string>
-    <string name="Clean_up_the_complete">حافظه پنهان پاک شده است.</string>
+    <string name="Clean_up_the_complete">حافظه پنهان پاک شده است</string>
     <string name="Downloads">دانلود ها</string>
     <string name="Downloading">در حال دانلود</string>
     <string name="Finished">تمام شده</string>
-    <string name="No_Download">فایلی یافت نشد.</string>
+    <string name="No_Download">فایلی یافت نشد</string>
     <string name="Pause">مکث</string>
     <string name="Waiting_in_queue">در صف انتظار</string>
     <string name="Completed">تکمیل شده</string>
-    <string name="UnZiping">در حال استخراج کردن</string>
-    <string name="UnZip_succeed">استخراج به پایان رسید</string>
+    <string name="UnZiping">در حال استخراج فایل فشرده شده</string>
+    <string name="UnZip_succeed">استخراج فایل فشرده به پایان رسید</string>
     <string name="Rate">رتبه بندی</string>
     <string name="Version">نسخه</string>
     <string name="Ratingsreviews">رتبه بندی ها و بررسی ها</string>
-    <string name="Tryitlater">بعدا دوباره تلاش کنید</string>
+    <string name="Tryitlater">دوباره امتحان کنید</string>
     <string name="Notice">اعلان</string>
     <string name="deletethistask">این فایل حذف شود</string>
     <string name="Cancel">توقف</string>
@@ -54,16 +54,16 @@
     <string name="Downloadboundle">دانلود BUNDLE</string>
     <string name="Downloaded">دانلود شد</string>
     <string name="Install">نصب</string>
-    <string name="Connecting">در حال اتصال …</string>
-    <string name="modfeature">اطلاعات مود :</string>
+    <string name="Connecting">در حال اتصال</string>
+    <string name="modfeature">ویژگی مود</string>
     <string name="Moreversion">نسخه های بیشتر</string>
-    <string name="app_name">برنامه هپی مود</string>
+    <string name="app_name">هپی مود</string>
     <string name="Paid">پرداخت شده</string>
     <string name="Unable_to_connect_to_the_network">امکان اتصال به شبکه وجود ندارد</string>
     <string name="Recommended_New_Mods">مود های توصیه شده جدید</string>
     <string name="Checkforupdate">بررسی برای به روز رسانی</string>
     <string name="settings_network_remind">هشدار شبکه تلفن همراه</string>
-    <string name="des_no_serach_result">نتیجه ای یافت نشد (نام برنامه یا بازی را به صورت کامل و درست وارد کنید و در صورت موجود نبودن در فروشگاه هپی مود آن را درخواست کنید).</string>
+    <string name="des_no_serach_result">نتیجه ای یافت نشد (نام برنامه یا بازی را به صورت کامل و درست وارد کنید و در صورت موجود نبودن در فروشگاه هپی مود آن را درخواست کنید)</string>
     <string name="Rated">رتبه بندی شده</string>
     <string name="Serviceisbusy">در حال اتصال …</string>
     <string name="Whydeletethisdownload">چرا این دانلود را حذف می کنید؟</string>
@@ -72,17 +72,17 @@
     <string name="readmore">مشاهده بیشتر</string>
     <string name="Moremods">مود های بیشتر</string>
     <string name="Submit">ارسال</string>
-    <string name="Its_ok">خوبه.</string>
-    <string name="Liked_it">آن را دوست دارم.</string>
-    <string name="Disliked_it">آن را دوست ندارم.</string>
-    <string name="Hated_it">از آن متنفرم!</string>
+    <string name="Its_ok">خوبه</string>
+    <string name="Liked_it">آن را دوست دارم</string>
+    <string name="Disliked_it">آن را دوست ندارم</string>
+    <string name="Hated_it">از آن متنفرم</string>
     <string name="share_happymod">اشتراک گذاری هپی مود از طریق</string>
     <string name="share_subject">هپی مود را دریافت کنید</string>
     <string name="share_text">برنامه ها و بازی های مود شده را از هپی مود دانلود کنید
 \n/https://www.happymod.com</string>
     <string name="pref_location">محل ذخیره سازی</string>
     <string name="force_des">مود ها ۱۰۰٪ کار می کنند</string>
-    <string name="nvisrti">یک نسخه جدید آماده نصب است.</string>
+    <string name="nvisrti">یک نسخه جدید آماده نصب است</string>
     <string name="OPEN">باز شود</string>
     <string name="OK">بله</string>
     <string name="Loading">در حال بارگذاری …</string>
@@ -111,7 +111,7 @@
     <string name="Recommend">توصیه</string>
     <string name="Recommendmod">مود توصیه شده</string>
     <string name="verificationFail">تایید نشد، لطفا دوباره امتحان کنید!</string>
-    <string name="Loved_it">عاشق آن هستم 😍!</string>
+    <string name="Loved_it">عاشق آن هستم 😍</string>
     <string name="Paidforfree">به صورت رایگان پرداخت می شود</string>
     <string name="Unlimitedmoney">پول نامحدود</string>
     <string name="Freepurchase">خرید رایگان</string>
@@ -248,7 +248,7 @@
     <string name="h5_menu_reload">تازه سازی</string>
     <string name="h5_menu_share">اشتراک گذاری</string>
     <string name="installplaywitouthti">بازی فوری بدون نیاز به نصب</string>
-    <string name="crash_dialog_title">اوه.</string>
+    <string name="crash_dialog_title">اوه</string>
     <string name="crash_dialog_message">متاسفم لطفا گزارش اشکال خود را از طریق ایمیل ارسال کنید.</string>
     <string name="crash_dialog_feedback">گزارش مشکلات</string>
     <string name="crash_dialog_restart">راه اندازی مجدد</string>
@@ -342,7 +342,7 @@
     <string name="petceotn">لطفا یک ایمیل یا شماره تلفن معتبر را وارد کنید.</string>
     <string name="Registerfailed">ثبت نام انجام نشد لطفا مطمئن شوید که وضعیت اتصال شبکه شما خوب است سپس برای انجام تلاش دوباره دکمه ثبت نام را انتخاب کنید.</string>
     <string name="Myrequests">درخواست های من</string>
-    <string name="searchappyouwanttorequest">برنامه ای را که می خواهید درخواست کنید جستجو کنید :</string>
+    <string name="searchappyouwanttorequest">برنامه ای را که می خواهید جستجو کرده و آن را درخواست کنید :</string>
     <string name="requesterror">ارسال ناموفق بود لطفا بعدا دوباره امتحان کنید.</string>
     <string name="Youarereupload">شما در حال آپلود هستید :</string>
     <string name="OBBDataurl">آدرس اینترنتی obb / دیتا در زیپی شیر / مدیا فایر : (اختیاری)</string>
@@ -377,13 +377,13 @@
     <string name="nslnfsl">بدون محدودیت سرعت و بدون محدودیت اندازه فایل.</string>
     <string name="Configuringip">پیکربندیIP برای شما موجود است</string>
     <string name="Configuringipfailed">پیکربندی شکست خورد ۸ IP شناسایی شده در دسترس نیستند لطفا سعی کنید از فیلترشکن استفاده کنید.</string>
-    <string name="Donatedes">HappyMod کاملا رایگان است و ما به اندازه شما از تبلیغات متنفریم!
+    <string name="Donatedes">هپی مود کاملا رایگان است و ما به اندازه شما از تبلیغات متنفریم
 \n
-\nکمک مالی شما بسیار قدردانی می شود زیرا ما از آن برای ارائه دانلودهای سریعتر و ایمن تر به شما استفاده می کنیم.
+\nاما برای ارائه دانلود های سریع تر و امن تر به کمک های مالی شما نیازمندیم
 \n
-\nلطفا صبور باشید و سعی کنید آگهی کوتاه را برای تکمیل اهدا تماشا کنید.
+\nلطفا صبور باشید و سعی کنید آگهی کوتاه را تماشا کنید تا کمک مالی شما کامل شود
 \n
-\nمتشکرم! :)</string>
+\nاز همگی شما ممنونم🌹</string>
     <string name="safedes">این یک امضای دیجیتال به معنای مورد اعتماد و تایید شده است این APK آزمایش امنیتی تشخیص نرم افزار های مخرب و ویروس یابی را با موفقیت گذرانده است و امن است.</string>
     <string name="Usernametip">فقط حروف a – z و اعداد و نمادها : @ . - _ لطفا (بدون فاصله یا دیگر نوشته های خاص). ۴ تا ۵۰ نوشته.</string>
     <string name="opencommunitydes">اگر شما یک پست نامناسب یا بد پیدا کردید لطفا دکمه گزارش را در گوشه سمت راست بالای پست انتخاب کنید ما آن پست را بررسی کرده و در صورت نقض قوانین ما پست را حذف خواهیم کرد ! و پوستر را مسدود می کنیم!</string>
