@@ -24,18 +24,18 @@
     <string name="Paid">Payé</string>
     <string name="GAME">Jeux</string>
     <string name="APP">Applications</string>
-    <string name="NEW">Nouveaux</string>
+    <string name="NEW">Nouveau</string>
     <string name="Categories">Catégories</string>
     <string name="games">Jeux</string>
     <string name="REFRESH">Rafraîchir</string>
     <string name="Unable_to_connect_to_the_network">Nous ne pouvons pas se connecter au réseau</string>
-    <string name="Recommended_Game_Mods">Jeux recommandé</string>
+    <string name="Recommended_Game_Mods">Mods de Jeu recommandés</string>
     <string name="Hot_Game_Mods">Mods de jeux populaire</string>
-    <string name="Recommended_App_Mods">Application moddé recommandé</string>
+    <string name="Recommended_App_Mods">Mods d\'application recommandés</string>
     <string name="Hot_App_Mods">Mods d\'applications populaires</string>
     <string name="Recommended_New_Mods">Nouveaux mods recommandés</string>
     <string name="Last_Update_Mods">Dernières mises à jour</string>
-    <string name="SearchHint">Rechercher un indice</string>
+    <string name="SearchHint">Rechercher</string>
     <!-- 侧滑-->
     <string name="Homeweb">Accueil</string>
     <string name="Management">Gestion</string>
@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Vider le cache</string>
     <string name="Clean_up_the_complete">Le cache est effacé.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Oops! Aucun résultat trouvé.</string>
+    <string name="des_no_serach_result">Oops! Aucun résultat trouvé (entrer le nom entier du programme ou du jeu et demander s\'il n\'est pas valable dans la bibliothèque HappyMod)</string>
     <!--下载管理页-->
     <string name="Downloads">Téléchargements</string>
     <string name="Downloading">Téléchargement</string>
@@ -92,18 +92,18 @@
     <string name="Install">Installer</string>
     <string name="Connecting">Connexion…</string>
     <string name="readmore">Lire la suite</string>
-    <string name="modfeature">Informations sur le mod:</string>
+    <string name="modfeature">Caractéristiques du mode :</string>
     <string name="Moreversion">Plus de Versions</string>
     <string name="Recommend">Recommander</string>
     <string name="Recommendmod">Mod recommandé</string>
-    <string name="Moremods">Dernières versions</string>
+    <string name="Moremods">Plus de modes</string>
     <!--评分-->
     <string name="Submit">Soumettre</string>
     <string name="Hated_it">Je n\'aime pas!</string>
     <string name="Disliked_it">Je n\'aime pas.</string>
-    <string name="Its_ok">C\'est OK.</string>
-    <string name="Liked_it">Like</string>
-    <string name="Loved_it">J\'aime</string>
+    <string name="Its_ok">Ça va</string>
+    <string name="Liked_it">Je l\'ai aimé</string>
+    <string name="Loved_it">Je l\'ai aimé</string>
     <!--分享-->
     <string name="share_happymod">Partager \'HappyMod\' via</string>
     <string name="share_subject">Obtenez HappyMod</string>
@@ -314,8 +314,8 @@
     <string name="speaksomething">Veuillez entrer au moins 20 caractères</string>
     <string name="speaktoolong">Le nombre de caractères dépasse la limite. Vous pouvez entrer jusqu\'à 4000 caractères.</string>
     <string name="tapandholdptodelete">Tapez et maintenez la photo pour la supprimer.</string>
-    <string name="addvideofaild">Échec de l\'ajout d\'une vidéo 
-\nAssurez-vous que votre réseau peut parcourir la vidéo Youtube et l\'ajouter à nouveau.</string>
+    <string name="addvideofaild">Échec de l\'ajout d\'une vidéo!
+\nAssurez-vous que votre réseau peut parcourir des vidéos Youtube et rajouter le à nouveau.</string>
     <string name="Video">Vidéo</string>
     <string name="Hotsearches">Recherches tendances</string>
     <string name="Hothashtags">Hashtags tendances</string>
@@ -354,7 +354,7 @@
     <string name="searchappyouwanttoupload">Recherchez l\'application que vous souhaitez télécharger:</string>
     <string name="addapost">Ajouter un article</string>
     <string name="launch_des">"Trouver des mods 100% fonctionnels  
-\nMis en ligne par les utilisateurs; Vérifiés par les utilisateurs!"</string>
+\nMis en ligne par les utilisateurs; Vérifiés par les utilisateurs !"</string>
     <string name="requestamod">Demander un mod</string>
     <string name="uploadamod">Téléchargez un mod</string>
     <!--boundle 新增-->
