@@ -3,7 +3,7 @@
     <!--俄羅斯-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">658182831284939</string>
+    <string name="facebook_app_id">"Феизбук приложение  айд"</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -50,8 +50,8 @@
     <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
     <string name="settings_auto_install">Автоматическая установка</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
-    <string name="settings_other">Другое</string>
-    <string name="settings_clear_cache">Очистить кэш</string>
+    <string name="settings_other">Другие настройки</string>
+    <string name="settings_clear_cache">Настройки Очистить кэш</string>
     <string name="Clean_up_the_complete">Кэш очищен.</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Ой! Результатов не найдено.</string>
@@ -70,7 +70,7 @@
     <string name="Version">Версия</string>
     <string name="Ratingsreviews">Рейтинги и Отзывы</string>
     <string name="Tryitlater">Попробуйте позже</string>
-    <string name="Serviceisbusy">Подключение…</string>
+    <string name="Serviceisbusy">Подключение к сети...</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Уведомление</string>
     <string name="deletethistask">Удалить этот файл</string>
@@ -90,29 +90,29 @@
     <string name="Downloadboundle">Скачать сборку (BUNDLE)</string>
     <string name="Downloaded">Скачанные</string>
     <string name="Install">Установить</string>
-    <string name="Connecting">Подключение…</string>
+    <string name="Connecting">Соеденение...</string>
     <string name="readmore">Подробнее</string>
     <string name="modfeature">Информация о моде:</string>
-    <string name="Moreversion">Больше версий</string>
+    <string name="Moreversion">Есть другие версии</string>
     <string name="Recommend">Рекомендованные</string>
     <string name="Recommendmod">Рекомендуемые моды</string>
-    <string name="Moremods">Последние версии</string>
+    <string name="Moremods">"Другие  версии"</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
     <string name="Hated_it">Ненавижу это!</string>
-    <string name="Disliked_it">Не нравится.</string>
-    <string name="Its_ok">Сойдёт.</string>
-    <string name="Liked_it">Нравится.</string>
+    <string name="Disliked_it">Не нравится</string>
+    <string name="Its_ok">Хорошо</string>
+    <string name="Liked_it">Мне нравится</string>
     <string name="Loved_it">Люблю это!</string>
     <!--分享-->
-    <string name="share_happymod">Поделиться приложением ‘HappyMod’ через</string>
-    <string name="share_subject">Получить HappyMod</string>
+    <string name="share_happymod">Поделиться приложением ‘HappyMod’ через приложение</string>
+    <string name="share_subject">"Отправить  объект"</string>
     <string name="share_text">Скачать 100% рабочие моды с @HappyMod\nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Место хранения</string>
     <!--update -->
     <string name="force_des">100% Рабочие Моды</string>
-    <string name="nvisrti">Новая версия готова к установке.</string>
+    <string name="nvisrti">Новая версия началась загружаться</string>
     <string name="OPEN">ОТКРЫТЬ</string>
     <string name="OK">Хорошо</string>
     <string name="Loading">Загрузка…</string>
@@ -328,7 +328,7 @@
     <string name="h5_menu_shortcut">Добавить на домашний экран</string>
     <string name="installplaywitouthti">Играть без установки</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Ой.</string>
+    <string name="crash_dialog_title">Упс...</string>
     <string name="crash_toast_message">К сожалению, приложение будет закрыто, пожалуйста, отправьте свой отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_message">Произошла ошибка, пожалуйста, отправьте ваш отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_feedback">Сообщить об ошибках</string>
