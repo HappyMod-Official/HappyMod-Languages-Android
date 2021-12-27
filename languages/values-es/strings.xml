@@ -38,7 +38,7 @@
     <string name="SearchHint">Buscar</string>
     <!-- slide-->
     <string name="Homeweb">Inicio</string>
-    <string name="Management">Administración games</string>
+    <string name="Management">Gestión</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
     <string name="Translation">Traducción</string>
@@ -50,7 +50,7 @@
     <string name="settings_network_remind">Alerta de red móvil</string>
     <string name="settings_auto_install">Instalar automaticámente</string>
     <string name="Download_Directory">Directorio de descargas</string>
-    <string name="settings_other">Otros</string>
+    <string name="settings_other">Otros ajustes</string>
     <string name="settings_clear_cache">Limpiar caché</string>
     <string name="Clean_up_the_complete">El caché se limpió.</string>
     <!--nodata-->
@@ -65,10 +65,10 @@
     <string name="Completed">Terminado</string>
     <string name="UnZiping">Extrayendo</string>
     <string name="UnZip_succeed">Extracción Terminada</string>
-    <string name="Rate">Valorar</string>
-    <string name="Rated">Valorado</string>
+    <string name="Rate">Calificar</string>
+    <string name="Rated">Calificado</string>
     <string name="Version">Versión</string>
-    <string name="Ratingsreviews">Calificaciones &amp; Opiniones</string>
+    <string name="Ratingsreviews">Calificaciones y Opiniones</string>
     <string name="Tryitlater">Inténtalo de nuevo más tarde</string>
     <string name="Serviceisbusy">Conectando…</string>
     <!-- delete words -->
@@ -82,7 +82,7 @@
     <string name="Downloadistooslow">La descarga es muy lenta</string>
     <!--APP details-->
     <string name="Mods">Modificaciones</string>
-    <string name="Original">Original</string>
+    <string name="Original">Originál</string>
     <string name="Previousversion">Versión previa</string>
     <string name="Download">Descargar</string>
     <string name="Downloadobb">Descargar (APK+OBB)</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Más versiones</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Versiones anteriores</string>
+    <string name="Moremods">Más Mods</string>
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">¡Lo odio!</string>
@@ -109,7 +109,7 @@
     <string name="share_subject">Obtener HappyMod</string>
     <string name="share_text">Descarga mods 100% funcionales con @HappyMod\nhttps://www.happymod.com/</string>
     <!--path-->
-    <string name="pref_location">Ubicación del almacenamiento</string>
+    <string name="pref_location">Ubicación de almacenamiento</string>
     <!--update -->
     <string name="force_des">Mods 100% funcionales</string>
     <string name="nvisrti">Una nueva versión está lista para instalar.</string>
@@ -124,12 +124,12 @@
     <string name="Is_this_app_you_need">¿Estás buscando esta aplicación\?</string>
     <string name="No">No</string>
     <string name="Yes">Sí</string>
-    <string name="bcdes">. Libere almacenamiento e intente nuevamente.</string>
+    <string name="bcdes">. Libera más almacenamiento e intenta de nuevo.</string>
     <string name="need">; Disponible:</string>
-    <string name="No_enough_space_left_on_device">No hay suficiente almacenamiento. Necesitar:</string>
+    <string name="No_enough_space_left_on_device">Necesitas más espacio en el dispositivo:</string>
     <string name="updatenow">Actualizar ahora</string>
-    <string name="updateFail">La descarga fracasó. Por favor, cierre y vuelva a abrir la app</string>
-    <string name="initializing">Inicializando</string>
+    <string name="updateFail">La descarga fallo por favor sierra y vuelve a abrir la aplicación</string>
+    <string name="initializing">Iniciando</string>
     <string name="Retrying">Reintentando</string>
     <string name="language">Idioma</string>
     <!--category -->
@@ -141,14 +141,14 @@
     <string name="mergerwait">Proceso final (Se necesitan de uno a dos minutos)</string>
     <!-- verify -->
     <string name="Startverification">Iniciar la verificación</string>
-    <string name="verificationShangXian">Ups! Has alcanzado el límite de descargas diarias, inténtelo de nuevo después de X horas.</string>
+    <string name="verificationShangXian">Ups! Has alcanzado el límite de descargas diarias, inténtalo de nuevo después de algunas horas</string>
     <string name="verificationFail">¡Verificación fallida. Por favor intenta de nuevo!</string>
     <string name="Morehelp">(Más ayuda)</string>
     <string name="uid">ID de usuario</string>
     <string name="copysuccess">ID de usuario copiado al portapapeles.</string>
     <string name="watchnow">Ver ahora</string>
-    <string name="ggdownloading">Los anuncios están cargando, porfavor, espere y mantenga HappyMod abierto.</string>
-    <string name="verificaing">Verificando, por favor espere.</string>
+    <string name="ggdownloading">Los anuncios están cargando, por favor, espera y mantén happymod abierto.</string>
+    <string name="verificaing">Verificando, por favor espera.</string>
     <!-- comments-->
     <string name="Removeads">Eliminar anuncios</string>
     <string name="Paidforfree">Pagado gratis</string>
@@ -160,13 +160,13 @@
     <string name="Premium">Versión Premium</string>
     <string name="Pro">Version Pro</string>
     <string name="ModLite">Mod lite (no completo)</string>
-    <string name="Subscribed">Suscribirse</string>
+    <string name="Subscribed">Suscrito</string>
     <string name="Prime">Principal</string>
     <string name="Plus">Versión plus</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Sustrato</string>
     <string name="Debloated">Debatido</string>
-    <string name="Donate">Donacion</string>
+    <string name="Donate">Donación</string>
     <string name="AOSPcompatible">Compatible con AOSP</string>
     <string name="Cracked">Agrietado</string>
     <string name="NoAds">Sin anuncios</string>
@@ -195,8 +195,8 @@
     <string name="tuiat">Este nombre de usuario ya está en uso.</string>
     <string name="Login">Iniciar sesión</string>
     <string name="Account">Cuenta</string>
-    <string name="forgotpassword">¿Olvidó su contraseña\?</string>
-    <string name="loginwithaccount">O inicie sesión con su nombre de usuario</string>
+    <string name="forgotpassword">¿Has olvidado tú contraseña\?</string>
+    <string name="loginwithaccount">O inicia sesión con tu nombre de usuario</string>
     <string name="newur">Registro de nuevo usuario</string>
     <string name="Usernameinitnew">Nombre de usuario (4-50 caracteres)</string>
     <string name="Passwordnew">Contraseña (6-8 caracteres)</string>
@@ -204,7 +204,7 @@
     <string name="PhoneNumber">Número de teléfono</string>
     <string name="Unknown">Desconocido</string>
     <string name="enteryEmail">Introduce tu correo electrónico</string>
-    <string name="enteryPhone">Ingrese su número telefónico</string>
+    <string name="enteryPhone">Ingresa tu número telefónico</string>
     <string name="signuptips">Si olvida su contraseña, necesitará un número de teléfono o una dirección de correo electrónico para recuperarla. Le recomendamos que los agregue.</string>
     <string name="confirmusername">Confirme nombre de usuario</string>
     <string name="next">Siguiente</string>
