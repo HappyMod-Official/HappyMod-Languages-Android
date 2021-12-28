@@ -29,7 +29,7 @@
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi alla rete</string>
-    <string name="Recommended_Game_Mods">Mod Giochi Raccomandate</string>
+    <string name="Recommended_Game_Mods">Mod dei giochi raccomandati</string>
     <string name="Hot_Game_Mods">Mod Giochi Popolari</string>
     <string name="Recommended_App_Mods">Mod di app raccomandate</string>
     <string name="Hot_App_Mods">Mod di app popolari</string>
@@ -50,7 +50,7 @@
     <string name="settings_network_remind">Avviso di Rete Mobile</string>
     <string name="settings_auto_install">Installa Automaticamente</string>
     <string name="Download_Directory">Cartella di Download</string>
-    <string name="settings_other">Altro</string>
+    <string name="settings_other">Altre impostazioni</string>
     <string name="settings_clear_cache">Cancella la Cache</string>
     <string name="Clean_up_the_complete">La cache è stata cancellata.</string>
     <!--空数据页-->
@@ -59,7 +59,7 @@
     <string name="Downloads">Download</string>
     <string name="Downloading">In fase di Download</string>
     <string name="Finished">Terminato</string>
-    <string name="No_Download">Nessun file trovato.</string>
+    <string name="No_Download">File non trovato</string>
     <string name="Pause">Pausa</string>
     <string name="Waiting_in_queue">In coda</string>
     <string name="Completed">Completato</string>
@@ -76,7 +76,7 @@
     <string name="deletethistask">Elimina questo file</string>
     <string name="Cancel">Annulla</string>
     <string name="Delete">Elimina</string>
-    <string name="Whydeletethisdownload">Perché vuoi cancellare il download\?</string>
+    <string name="Whydeletethisdownload">Perché vuoi annullare il download\?</string>
     <string name="NotwhatIwant">Non è cosa voglio</string>
     <string name="Downloadfailed">Scaricamento fallito</string>
     <string name="Downloadistooslow">Il download è troppo lento</string>
