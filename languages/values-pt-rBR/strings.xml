@@ -9,7 +9,7 @@
     <string name="Categories">Categori</string>
     <string name="games">Jogos</string>
     <string name="Unable_to_connect_to_the_network">Incapaz de conectar se à rede</string>
-    <string name="Hot_Game_Mods">Mods populares para jogos</string>
+    <string name="Hot_Game_Mods">Mods para jogos quentes</string>
     <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
     <string name="Recommended_New_Mods">Novos Modelo Recomendados</string>
     <string name="SearchHint">Procurar</string>
@@ -22,11 +22,11 @@
     <string name="Checkforupdate">Procurar por atualizações</string>
     <string name="FollowusonTwitter">Siga-nos em Twitter </string>
     <string name="settings_network_remind">Alerta de Rede Móvel</string>
-    <string name="settings_auto_install">Instalar Automaticamente</string>
+    <string name="settings_auto_install">Configurações De Instalação Automatica</string>
     <string name="Download_Directory">Diretório de Downloads</string>
     <string name="settings_other">Outras Configurações</string>
     <string name="settings_clear_cache">Limpar Cache</string>
-    <string name="Clean_up_the_complete">O cache está limpo.</string>
+    <string name="Clean_up_the_complete">O cache foi limpo.</string>
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Baixando</string>
     <string name="Finished">Finalizado</string>
@@ -42,10 +42,10 @@
     <string name="Ratingsreviews">Avaliações e Comentários</string>
     <string name="Serviceisbusy">Conectando …</string>
     <string name="Notice">Notícia</string>
-    <string name="deletethistask">Deleta esse arquivo</string>
+    <string name="deletethistask">Deletar arquivo</string>
     <string name="Cancel">Cancelar</string>
     <string name="Delete">Deletar</string>
-    <string name="Whydeletethisdownload">Por que deletar este download\?</string>
+    <string name="Whydeletethisdownload">Por que excluir este download\?</string>
     <string name="NotwhatIwant">Não é o que eu quero</string>
     <string name="Downloadfailed">O Download falhou</string>
     <string name="Mods">Modificações</string>
@@ -65,13 +65,13 @@
     <string name="Moremods">Mais mods</string>
     <string name="Submit">Enviar</string>
     <string name="Hated_it">Odiei isso</string>
-    <string name="Its_ok">Está OK.</string>
+    <string name="Its_ok">Tudo bem!</string>
     <string name="Liked_it">Gostei disso</string>
     <string name="Loved_it">Amei isso</string>
     <string name="share_happymod">Compartilhar ‘HappyMod’ via</string>
     <string name="share_subject">Compartilhe a HappyMod</string>
     <string name="pref_location">Local de armazenamento</string>
-    <string name="force_des">100% de Mods Funcionando</string>
+    <string name="force_des">100% de Mods Funcionais</string>
     <string name="nvisrti">Uma nova versão está pronta para instalar.</string>
     <string name="OPEN">ABRIR / Aberto</string>
     <string name="OK">OK</string>
@@ -158,13 +158,13 @@
     <string name="Recommended_Game_Mods">Modelos de jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
     <string name="FollowusonFacebook">Siga-nos no Facebook</string>
-    <string name="des_no_serach_result">Ops! Nenhum resultado encontrado.</string>
-    <string name="Tryitlater">Volte mais tarde</string>
+    <string name="des_no_serach_result">Ops! Nenhum resultado encontrado.(digite o nome completo do programa ou jogo e solicite-o se não estiver disponível na loja Happy Mode)</string>
+    <string name="Tryitlater">Tente mais tarde</string>
     <string name="Downloadistooslow">O Download é muito lento</string>
     <string name="Connecting">Conectando…</string>
     <string name="modfeature">Informações sobre o mod:</string>
     <string name="Disliked_it">Não gostei.</string>
-    <string name="share_text">Baixe mods 100% funcionando com
+    <string name="share_text">Baixe mods 100% funcionais com
 \n@HappyMod
 \nhttps://www.happymod.com/</string>
     <string name="updata_tip">Você está utilizando a última versão estável do HappyMod</string>
@@ -383,7 +383,7 @@
     <string name="nslnfsl">Sem limite de velocidade. Sem limite de tamanho do arquivo.</string>
     <string name="Clean">Limpo</string>
     <string name="Cdnoadfree">Desing limpo, sem anúncios e 100% grátis!</string>
-    <string name="wrhtdbf">Espanhol Espanhol</string>
+    <string name="wrhtdbf">Como usar o HyperTorrent\?</string>
     <string name="nothanks">Não, obrigado</string>
     <string name="Checkthenetwork">Verifique sua rede</string>
     <string name="Configuringipfailed">Configuração falhou, 8 IPs foram detectados como indisponíveis, por favor tente usar uma VPN.</string>
