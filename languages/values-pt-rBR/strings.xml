@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Homecom">modfeliz.com</string>
-    <string name="facebook_app_id">Facebook</string>
+    <string name="facebook_app_id">facebook id</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
     <string name="APP">Aplicativo</string>
@@ -12,7 +12,7 @@
     <string name="Hot_Game_Mods">Mods para jogos quentes</string>
     <string name="Recommended_App_Mods">Aplicativos modificados Recomendados</string>
     <string name="Recommended_New_Mods">Novos Modelo Recomendados</string>
-    <string name="SearchHint">Procurar</string>
+    <string name="SearchHint">Procure</string>
     <string name="Homeweb">WebCasa</string>
     <string name="Management">Gerenciamento</string>
     <string name="Settings">Configurações</string>
@@ -26,11 +26,11 @@
     <string name="Download_Directory">Diretório de Downloads</string>
     <string name="settings_other">Outras Configurações</string>
     <string name="settings_clear_cache">Limpar Cache</string>
-    <string name="Clean_up_the_complete">O cache foi limpo.</string>
+    <string name="Clean_up_the_complete">A cache foi limpa.</string>
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Baixando</string>
     <string name="Finished">Finalizado</string>
-    <string name="No_Download">Arquivo Não Encontrado.</string>
+    <string name="No_Download">Nada Encontrado.</string>
     <string name="Pause">Pausar</string>
     <string name="Waiting_in_queue">Em Aguardo</string>
     <string name="Completed">Concluído</string>
@@ -65,14 +65,14 @@
     <string name="Moremods">Mais mods</string>
     <string name="Submit">Enviar</string>
     <string name="Hated_it">Odiei isso</string>
-    <string name="Its_ok">Tudo bem!</string>
+    <string name="Its_ok">Tudo OK</string>
     <string name="Liked_it">Gostei disso</string>
     <string name="Loved_it">Amei isso</string>
     <string name="share_happymod">Compartilhar ‘HappyMod’ via</string>
     <string name="share_subject">Compartilhe a HappyMod</string>
     <string name="pref_location">Local de armazenamento</string>
     <string name="force_des">100% de Mods Funcionais</string>
-    <string name="nvisrti">Uma nova versão está pronta para instalar.</string>
+    <string name="nvisrti">Nova versão disponível pra instalo.</string>
     <string name="OPEN">ABRIR / Aberto</string>
     <string name="OK">OK</string>
     <string name="Loading">Carregando…</string>
@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">happymod</string>
     <string name="REFRESH">atualizar</string>
     <string name="Recommended_Game_Mods">Modelos de jogos recomendados</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
@@ -161,12 +161,10 @@
     <string name="des_no_serach_result">Ops! Nenhum resultado encontrado.(digite o nome completo do programa ou jogo e solicite-o se não estiver disponível na loja Happy Mode)</string>
     <string name="Tryitlater">Tente mais tarde</string>
     <string name="Downloadistooslow">O Download é muito lento</string>
-    <string name="Connecting">Conectando…</string>
-    <string name="modfeature">Informações sobre o mod:</string>
-    <string name="Disliked_it">Não gostei.</string>
-    <string name="share_text">Baixe mods 100% funcionais com
-\n@HappyMod
-\nhttps://www.happymod.com/</string>
+    <string name="Connecting">Conectando</string>
+    <string name="modfeature">Recursos do Mod</string>
+    <string name="Disliked_it">Não gostei disso</string>
+    <string name="share_text">Baixe apps , com mod funcionais com a @HappyMod https://www.happymod.com</string>
     <string name="updata_tip">Você está utilizando a última versão estável do HappyMod</string>
     <string name="No_enough_space_left_on_device">Sem espaço suficiente. Necessidade:</string>
     <string name="mergerwait">Processamento final (Necessário de 1–2 minutos)</string>
@@ -296,7 +294,7 @@
     <string name="h5_menu_reload">Recarregar</string>
     <string name="h5_menu_share">Compartilhar</string>
     <string name="installplaywitouthti">Jogue imediatamente sem precisar instalar</string>
-    <string name="crash_dialog_title">Oopa!</string>
+    <string name="crash_dialog_title">Oopa</string>
     <string name="crash_dialog_message">Desculpe, a exceção do APP será encerrada, por favor envie seu relatório de bug por e-mail.</string>
     <string name="crash_dialog_feedback">Reportar erros</string>
     <string name="crash_dialog_restart">Reiniciar</string>
