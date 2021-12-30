@@ -30,7 +30,7 @@
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi alla rete</string>
     <string name="Recommended_Game_Mods">Mod dei giochi raccomandati</string>
-    <string name="Hot_Game_Mods">Mod Giochi Popolari</string>
+    <string name="Hot_Game_Mods">Giochi Popolari Con mod</string>
     <string name="Recommended_App_Mods">Mod di app raccomandate</string>
     <string name="Hot_App_Mods">Mod di app popolari</string>
     <string name="Recommended_New_Mods">Nuove Mod Raccomandate</string>
@@ -61,7 +61,7 @@
     <string name="Finished">Terminato</string>
     <string name="No_Download">File non trovato</string>
     <string name="Pause">Pausa</string>
-    <string name="Waiting_in_queue">In coda</string>
+    <string name="Waiting_in_queue">Aspettando la coda</string>
     <string name="Completed">Completato</string>
     <string name="UnZiping">Estrazione</string>
     <string name="UnZip_succeed">Estrazione terminata</string>
@@ -69,8 +69,8 @@
     <string name="Rated">Valutato</string>
     <string name="Version">Versione</string>
     <string name="Ratingsreviews">Giudizi &amp; Recensioni</string>
-    <string name="Tryitlater">Riprova più tardi</string>
-    <string name="Serviceisbusy">Collegamento…</string>
+    <string name="Tryitlater">Ci scusi per il disagio,Riprova più tardi</string>
+    <string name="Serviceisbusy">Collegamento al server…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Avviso</string>
     <string name="deletethistask">Elimina questo file</string>
