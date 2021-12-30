@@ -21,10 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">العربيه
-\n
-\n
-\nأَلْوضعِ</string>
+    <string name="Paid">مدفوع</string>
     <string name="GAME">لعبة</string>
     <string name="APP">‌تطبيق</string>
     <string name="NEW">جديد</string>
@@ -51,7 +48,7 @@
     <string name="settings_network_remind">الهاتف غير متصل بلشبكة</string>
     <string name="settings_auto_install">التثبيت التلقائي</string>
     <string name="Download_Directory">تحميل الدليل</string>
-    <string name="settings_other">آخر</string>
+    <string name="settings_other">أعدادات اخرى</string>
     <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
     <string name="Clean_up_the_complete">ذاكرة التخزين المؤقت انحذفت</string>
     <string name="des_no_serach_result">أوه! لم يتم العثور على نتائج.</string>
