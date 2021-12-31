@@ -69,7 +69,7 @@
     <string name="Version">Version</string>
     <string name="Ratingsreviews">Ratings and Reviews</string>
     <string name="Tryitlater">Try it later</string>
-    <string name="Serviceisbusy">Connecting ...</string>
+    <string name="Serviceisbusy">Connecting</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Notice</string>
     <string name="deletethistask">Delete this task</string>
@@ -216,7 +216,7 @@
     <string name="Resetpassword">Reset password</string>
     <string name="NewPassword">New password</string>
     <string name="Enterthepasswordagain">Confirm password</string>
-    <string name="signuplimitdes">Your device has reached the maximum number of registered accounts. Please select the account(s) below to log in.</string>
+    <string name="signuplimitdes">"На вашем устройстве достигнуто максимальное количество зарегистрированных учетных записей.  Пожалуйста, выберите учетные записи ниже, чтобы войти в систему."</string>
     <string name="Register">Register</string>
     <string name="eyun">Enter your username</string>
     <string name="eypsw">Enter your password</string>
