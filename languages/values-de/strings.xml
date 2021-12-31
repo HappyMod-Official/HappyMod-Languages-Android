@@ -54,14 +54,14 @@
     <string name="settings_clear_cache">Cache leeren</string>
     <string name="Clean_up_the_complete">Cache wurde geleert.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Hoppla! Kein passendes Ergebnis für deine Suchanfrage gefunden.</string>
+    <string name="des_no_serach_result">Hoppla! Es wurde kein passendes Ergebnis für deine Suchanfrage gefunden.</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Wird heruntergeladen</string>
     <string name="Finished">Fertig</string>
     <string name="No_Download">Keine Dateien gefunden.</string>
     <string name="Pause">Pausieren</string>
-    <string name="Waiting_in_queue">Warten in Warteschlange</string>
+    <string name="Waiting_in_queue">In der Warteschlange</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="UnZiping">Extrahieren</string>
     <string name="UnZip_succeed">Extrahierung beendet</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">Weitere Versionen</string>
     <string name="Recommend">Empfohlen</string>
     <string name="Recommendmod">Empfohlener Mod</string>
-    <string name="Moremods">Neuste Versionen</string>
+    <string name="Moremods">Mehr Versionen</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
     <string name="Hated_it">Fand ich furchtbar!</string>
