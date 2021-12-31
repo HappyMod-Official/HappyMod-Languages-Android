@@ -3,7 +3,7 @@
     <!--俄羅斯-->
     <string name="app_name">Весёлый Мод</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">"Феизбук приложение  айд"</string>
+    <string name="facebook_app_id">Феизбук приложение айд</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -70,10 +70,10 @@
     <string name="Version">Версия</string>
     <string name="Ratingsreviews">Рейтинги и Отзывы</string>
     <string name="Tryitlater">Попробуйте позже</string>
-    <string name="Serviceisbusy">Подключение к сети...</string>
+    <string name="Serviceisbusy">Подключение к сети</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Уведомление</string>
-    <string name="deletethistask">"Удалить эту  задачу"</string>
+    <string name="deletethistask">Удалить эту задачу</string>
     <string name="Cancel">Отмена</string>
     <string name="Delete">Удалить</string>
     <string name="Whydeletethisdownload">Почему вы хотите удалить эту загрузку\?</string>
@@ -92,11 +92,11 @@
     <string name="Install">Установить</string>
     <string name="Connecting">Соеденение</string>
     <string name="readmore">Подробнее</string>
-    <string name="modfeature">Информация о моде:</string>
+    <string name="modfeature">Информация о моде</string>
     <string name="Moreversion">Есть другие версии</string>
     <string name="Recommend">Рекомендованные</string>
     <string name="Recommendmod">Рекомендуемые моды</string>
-    <string name="Moremods">"Другие  версии"</string>
+    <string name="Moremods">Другие версии</string>
     <!--评分-->
     <string name="Submit">Отправить</string>
     <string name="Hated_it">Ненавижу это</string>
@@ -106,7 +106,7 @@
     <string name="Loved_it">Люблю это</string>
     <!--分享-->
     <string name="share_happymod">Поделиться приложением ‘HappyMod’ через приложение</string>
-    <string name="share_subject">"Отправить  объект"</string>
+    <string name="share_subject">Отправить объект</string>
     <string name="share_text">Скачать 100% рабочие моды с @HappyMod
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
@@ -217,7 +217,7 @@
     <string name="Resetpassword">Сброс пароля</string>
     <string name="NewPassword">Новый пароль</string>
     <string name="Enterthepasswordagain">Подтвердите новый пароль</string>
-    <string name="signuplimitdes">Ваше устройство достигло максимального количества зарегистрированных аккаунтов. Пожалуйста, выберите один из аккаунтов ниже, чтобы войти.</string>
+    <string name="signuplimitdes">На вашем устройстве достигнуто максимальное количество зарегистрированных учетных записей. Пожалуйста, выберите учетные записи ниже, чтобы войти в систему.</string>
     <string name="Register">Зарегистрироваться</string>
     <string name="eyun">Введите имя пользователя</string>
     <string name="eypsw">Введите ваш пароль</string>
