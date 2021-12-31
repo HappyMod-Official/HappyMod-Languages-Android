@@ -213,7 +213,7 @@
     <string name="selectusername">Selectați numele de utilizator</string>
     <string name="reselpass_desone">Introduceți numele de utilizator. Dacă aveți probleme cu resetarea parolei, <u>contactați-ne</u> .</string>
     <string name="reselpass_destwo">Introduceți adresa de e-mail sau numărul de telefon. Aveți probleme cu resetarea parolei<u>contactează-ne</u>.</string>
-    <string name="forgetgosingup">Nu-mi amintesc niciuna dintre.Poti sa creezi un cont nou aici.</string>
+    <string name="forgetgosingup">Nu-ți amintești nici unul dintre ei\? \u0020Puteți crea un cont nou <u>aici</u>.</string>
     <string name="Resetpassword">Reseteaza parola</string>
     <string name="NewPassword">Parolă Nouă</string>
     <string name="Enterthepasswordagain">Confirmați parola</string>
