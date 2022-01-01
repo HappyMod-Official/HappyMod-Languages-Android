@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--波兰语-->
-    <string name="app_name">Nanatattalat HappyMod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">858182831284939</string>
+    <string name="facebook_app_id">Identyfikator Facebooka</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -20,14 +20,14 @@
         <item>Accordion</item>
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
-    <string name="Paid">Płatny</string>
+    <string name="Paid">Płatna</string>
     <string name="GAME">Gra</string>
     <string name="APP">Aplikacja</string>
     <string name="NEW">Nowe</string>
     <string name="Categories">Kategorie</string>
     <string name="games">Gry</string>
     <string name="REFRESH">Odśwież</string>
-    <string name="Unable_to_connect_to_the_network">;Nie można połączyć się z siecią</string>
+    <string name="Unable_to_connect_to_the_network">Nie można połączyć się z siecią</string>
     <string name="Recommended_Game_Mods">Polecane Zmodowane Gry</string>
     <string name="Hot_Game_Mods">Popularne Zmodowane Gry</string>
     <string name="Recommended_App_Mods">Polecane Zmodyfikowane Aplikacje</string>
@@ -35,7 +35,7 @@
     <string name="Recommended_New_Mods">Polecane_Nowe_Mody</string>
     <string name="Last_Update_Mods">Najnowsze aktualizacje</string>
     <string name="SearchHint">Szukaj podpowiedzi</string>
-    <string name="Homeweb">Strona Głowna</string>
+    <string name="Homeweb">Strona Główna</string>
     <string name="Management">Zarządzanie</string>
     <string name="Settings">Ustawienia</string>
     <string name="Feedback">Opinia</string>
@@ -47,7 +47,7 @@
     <string name="settings_network_remind">Wystąpił błąd Internetu</string>
     <string name="settings_auto_install">Automatyczna instalacja</string>
     <string name="Download_Directory">Historia Pobierania</string>
-    <string name="settings_other">Inny</string>
+    <string name="settings_other">Inne</string>
     <string name="settings_clear_cache">Wyczyść pamięć podręczną</string>
     <string name="Clean_up_the_complete">Pamięć podręczna została wyczyszczona.</string>
     <string name="des_no_serach_result">Ups! Nie znaleziono żadnych wyników.</string>
