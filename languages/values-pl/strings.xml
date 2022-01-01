@@ -50,7 +50,7 @@
     <string name="settings_other">Inne</string>
     <string name="settings_clear_cache">Wyczyść pamięć podręczną</string>
     <string name="Clean_up_the_complete">Pamięć podręczna została wyczyszczona.</string>
-    <string name="des_no_serach_result">Ups! Nie znaleziono żadnych wyników.</string>
+    <string name="des_no_serach_result">Ups! Nie znaleziono żadnych wyników. (Wprowadź cała nazwę programu lub gry i poproś o nią jeżeli nie jest dostępna w sklepie)</string>
     <string name="Downloads">Pobrane</string>
     <string name="Downloading">Pobieranie</string>
     <string name="Finished">Zakończone</string>
@@ -67,7 +67,7 @@
     <string name="Tryitlater">Spróbuj ponownie później</string>
     <string name="Serviceisbusy">Łączenie…</string>
     <string name="Notice">Powiadomienie</string>
-    <string name="deletethistask">Usuń ten plik</string>
+    <string name="deletethistask">Usuń plik</string>
     <string name="Cancel">Anuluj</string>
     <string name="Delete">Usuń</string>
     <string name="Whydeletethisdownload">Dlaczego chcesz usunąć ten plik\?</string>
