@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Homecom">modfeliz.com</string>
-    <string name="facebook_app_id">facebook id</string>
+    <string name="facebook_app_id">"aplicativo  Facebook  Id"</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
     <string name="APP">Aplicativo</string>
