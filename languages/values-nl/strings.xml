@@ -22,7 +22,7 @@
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">Betaald</string>
     <string name="GAME">Spel</string>
-    <string name="APP">Applicaties</string>
+    <string name="APP">Applicatie</string>
     <string name="NEW">Nieuw</string>
     <string name="Categories">Categorieën</string>
     <string name="games">Spellen</string>
@@ -35,7 +35,7 @@
     <string name="Recommended_New_Mods">Aanbevolen Nieuwe Mods</string>
     <string name="Last_Update_Mods">Recentste Updates</string>
     <string name="SearchHint">Zoek</string>
-    <string name="Homeweb">Thuis</string>
+    <string name="Homeweb">Thuis Pagina</string>
     <string name="Management">Beheer</string>
     <string name="Settings">Instellingen</string>
     <string name="Feedback">Feedback</string>
