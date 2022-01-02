@@ -2,8 +2,8 @@
 <resources>
     <!--阿拉伯-->
     <string name="app_name">هابي مود</string>
-    <string name="Homecom">سعيد .com</string>
-    <string name="facebook_app_id">٦٥٨١٨٢٨٣١٢٨٤٩٣٩</string>
+    <string name="Homecom">happymod.com</string>
+    <string name="facebook_app_id">رقم تطبيق فيسبوك التعريفي</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -56,41 +56,41 @@
     <string name="Downloading">جار التحميل</string>
     <string name="Finished">اكتمل</string>
     <string name="No_Download">لم يتم العثور على ملف.</string>
-    <string name="Pause">يوقف</string>
+    <string name="Pause">ايقاف</string>
     <string name="Waiting_in_queue">في قائمة الانتظار</string>
     <string name="Completed">مكتمل</string>
     <string name="UnZiping">جاري الاستخراج</string>
     <string name="UnZip_succeed">تم الإنتهاء من الاستخراج</string>
     <string name="Rate">تقييم</string>
-    <string name="Rated">تقيم</string>
-    <string name="Version">الإصدار</string>
-    <string name="Ratingsreviews">التقييمات والمراجعات</string>
-    <string name="Tryitlater">جرب في وقت لاحق</string>
+    <string name="Rated">تم تقييمه</string>
+    <string name="Version">إصدار</string>
+    <string name="Ratingsreviews">التقييمات و المراجعات</string>
+    <string name="Tryitlater">جرب مجددا في وقت لاحق</string>
     <string name="Serviceisbusy">جارٍ الاتصال…</string>
     <string name="Notice">تنويه</string>
-    <string name="deletethistask">أحذف هذا الملف</string>
+    <string name="deletethistask">حذف هذا الملف</string>
     <string name="Cancel">إلغاء</string>
     <string name="Delete">حذف</string>
     <string name="Whydeletethisdownload">لماذا حذفت هذا التنزيل؟</string>
     <string name="NotwhatIwant">ليس ما أريد</string>
-    <string name="Downloadfailed">التنزيل فشل</string>
+    <string name="Downloadfailed">فشل التنزيل</string>
     <string name="Downloadistooslow">التنزيل بطيء جدًا</string>
-    <string name="Mods">مهكرة</string>
-    <string name="Original">الاصلية</string>
-    <string name="Previousversion">التحديثات الاقدم</string>
+    <string name="Mods">تطبيقات معدلة</string>
+    <string name="Original">الاصلي</string>
+    <string name="Previousversion">الاصدارات السابقة</string>
     <string name="Download">تنزيل</string>
     <string name="Downloadobb">تنزيل (البرنامج+ملف obb)</string>
     <string name="Downloaddata">تحميل (البرنامج+ملف DATA)</string>
-    <string name="Downloadboundle">تنزيل النسخة</string>
+    <string name="Downloadboundle">تنزيل الحزمة</string>
     <string name="Downloaded">تم التنزيل</string>
     <string name="Install">تثبيت</string>
     <string name="Connecting">جار الاتصال …</string>
     <string name="readmore">قراءة المزيد</string>
-    <string name="modfeature">‌معلومات التعديل:</string>
+    <string name="modfeature">معلومات عن التطبيق المعدل</string>
     <string name="Moreversion">المزيد من الإصدارات</string>
     <string name="Recommend">موصى به</string>
     <string name="Recommendmod">تعديل موصى به</string>
-    <string name="Moremods">الاصدارات الأخيرة</string>
+    <string name="Moremods">المزيد من التعديلات</string>
     <string name="Submit">ارسال</string>
     <string name="Hated_it">اكرهها!</string>
     <string name="Disliked_it">لم يعجبني.</string>
@@ -316,16 +316,16 @@
     <string name="crash_dialog_title">أوه‏.</string>
     <string name="crash_toast_message">عذرًا ، سيتم استثناء APP ، submit الرجاء إرسال تقرير الأخطاء عبر البريد الإلكتروني.</string>
     <string name="crash_dialog_message">عذرًا ، استثناء APP ، يرجى إرسال تقرير الأخطاء عبر البريد الإلكتروني.</string>
-    <string name="crash_dialog_feedback">تقرير البق</string>
-    <string name="crash_dialog_restart">إعادة بدء</string>
-    <string name="init_fail">فشلت التهيئة ، يرجى استخدام VPN أو التغيير إلى شبكات أخرى.</string>
+    <string name="crash_dialog_feedback">تقرير الأخطاء</string>
+    <string name="crash_dialog_restart">إعادة التشغيل</string>
+    <string name="init_fail">فشل التنزيل ، يرجى استخدام VPN أو التغيير إلى شبكات أخرى.</string>
     <string name="error_file_des">تم حذف هذا الملف ويتم إعادة تنزيله الآن.</string>
-    <string name="sdpermission">نحتاج إلى الوصول إلى وحدة التخزين الخارجية الخاصة بك ، يرجى التأكد من منح الإذن.</string>
+    <string name="sdpermission">نحتاج إلى الوصول إلى وحدة التخزين الخارجية الخاصة بك ، يرجى منح الإذن.</string>
     <string name="Night_Mode">الوضع المظلم</string>
-    <string name="thisty">اسم المستخدم هذا مأخوذ. جرب شئ اخر. متاح:</string>
+    <string name="thisty">اسم المستخدم هذا مأخوذ. جرب اسم اخر متاح:</string>
     <!--home_feature-->
-    <string name="Feature">متميز</string>
-    <string name="editorpick">اختيار المحرر</string>
+    <string name="Feature">مقترح</string>
+    <string name="editorpick">اختيار المحررين</string>
     <string name="PopularInlast">شائع في آخر 24 ساعة</string>
     <string name="Latestupdated">آخر تحديث</string>
     <string name="paidforfree">مدفوع مجانًا</string>
@@ -341,7 +341,7 @@
     <string name="uploadamod">تحميل وزارة الدفاع</string>
     <!--boundle 新增-->
     <string name="Installing">التثبيت</string>
-    <string name="bundleneedsfive">عذرًا ، يحتاج Bundle إلى Android 5.0 والإصدارات الأحدث.</string>
+    <string name="bundleneedsfive">"عذرًا ، تحتاج تلك الحزمة  إلى Android 5.0 او الأحدث."</string>
     <string name="parsingerror">حدث خطأ أثناء تحليل ملف apk أو تم إلغاؤه.</string>
     <string name="tipsinstallok">تم التثبيت بنجاح.</string>
     <string name="tipsinstallfail">فشل التثبيت ، يرجى المحاولة مرة أخرى.</string>
