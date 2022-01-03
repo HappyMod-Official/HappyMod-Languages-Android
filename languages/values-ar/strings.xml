@@ -46,11 +46,11 @@
     <string name="FollowusonTwitter">تابعنا على تويتر </string>
     <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
     <string name="settings_network_remind">الهاتف غير متصل بلشبكة</string>
-    <string name="settings_auto_install">التثبيت التلقائي‮‭‭</string>
+    <string name="settings_auto_install">إعدادات التثبيت التلقائي‮‭‭</string>
     <string name="Download_Directory">تحميل الدليل</string>
     <string name="settings_other">أعدادات اخرى</string>
     <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
-    <string name="Clean_up_the_complete">ذاكرة التخزين المؤقت انحذفت</string>
+    <string name="Clean_up_the_complete">تم حذف ذاكرة التخزين المؤقت</string>
     <string name="des_no_serach_result">أوه! لم يتم العثور على نتائج.</string>
     <string name="Downloads">التحميلات</string>
     <string name="Downloading">جار التحميل</string>
@@ -98,7 +98,7 @@
     <string name="Liked_it">اعجبني.</string>
     <string name="Loved_it">احببته!</string>
     <string name="share_happymod">مشاركة "HappyMod" عبر</string>
-    <string name="share_subject">احصل على HappyMod</string>
+    <string name="share_subject">شارك المحتوي</string>
     <string name="share_text">نزل تطبيقات والعاب معدلة تعمل 100% مع HappyMod@
 \n/https://www.happymod.com</string>
     <string name="pref_location">مكان التخزين</string>
