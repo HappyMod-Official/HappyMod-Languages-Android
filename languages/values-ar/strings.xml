@@ -36,7 +36,7 @@
     <string name="Recommended_New_Mods">تطبيقات معدلة يوصى بها</string>
     <string name="Last_Update_Mods">اخر التحديثات</string>
     <string name="SearchHint">بحث</string>
-    <string name="Homeweb">الصفحه الرئيسيه</string>
+    <string name="Homeweb">الصفحهل الرئيسيه</string>
     <string name="Management">إدارة</string>
     <string name="Settings">الإعدادات</string>
     <string name="Feedback">تعليق</string>
@@ -46,7 +46,7 @@
     <string name="FollowusonTwitter">تابعنا على تويتر </string>
     <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
     <string name="settings_network_remind">الهاتف غير متصل بلشبكة</string>
-    <string name="settings_auto_install">التثبيت التلقائي</string>
+    <string name="settings_auto_install">التثبيت التلقائي‮‭‭</string>
     <string name="Download_Directory">تحميل الدليل</string>
     <string name="settings_other">أعدادات اخرى</string>
     <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
