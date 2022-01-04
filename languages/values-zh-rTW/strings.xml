@@ -35,7 +35,7 @@
     <string name="Hot_App_Mods">熱門App Mods</string>
     <string name="Recommended_New_Mods">推薦的新 Mods</string>
     <string name="Last_Update_Mods">最新更新</string>
-    <string name="SearchHint">搜索..</string>
+    <string name="SearchHint">搜索</string>
     <!-- 侧滑-->
     <string name="Homeweb">官方網站</string>
     <string name="Management">管理</string>
@@ -44,10 +44,10 @@
     <string name="Translation">翻譯</string>
     <string name="Share">分享</string>
     <string name="Checkforupdate">檢查更新</string>
-    <string name="FollowusonTwitter">在推特上關注我們</string>
+    <string name="FollowusonTwitter">在推特上關注我們 </string>
     <string name="FollowusonFacebook">在Facebook的上關注我們</string>
     <!--设置页-->
-    <string name="settings_network_remind">移動網絡警報</string>
+    <string name="settings_network_remind">行動數據警報</string>
     <string name="settings_auto_install">自動安裝</string>
     <string name="Download_Directory">下載目錄</string>
     <string name="settings_other">其他</string>
@@ -70,7 +70,7 @@
     <string name="Version">版</string>
     <string name="Ratingsreviews">評級 &amp; 評測</string>
     <string name="Tryitlater">稍後再試</string>
-    <string name="Serviceisbusy">連接...</string>
+    <string name="Serviceisbusy">正在連接...</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">注意</string>
     <string name="deletethistask">刪除此文件</string>
@@ -90,7 +90,7 @@
     <string name="Downloadboundle">下載 BUNDLE</string>
     <string name="Downloaded">已下載</string>
     <string name="Install">安裝</string>
-    <string name="Connecting">連接...</string>
+    <string name="Connecting">正在連接...</string>
     <string name="readmore">閱讀更多</string>
     <string name="modfeature">Mod信息：</string>
     <string name="Moreversion">更多版本</string>
@@ -107,7 +107,8 @@
     <!--分享-->
     <string name="share_happymod">分享\'HappyMod\'來自</string>
     <string name="share_subject">得到HappyMod</string>
-    <string name="share_text">使用 @HappyMod\nhttps://www.happymod.com/下載100％好用的Mod</string>
+    <string name="share_text">使用 @HappyMod
+\nhttps://www.happymod.com/下載100％好用的Mod</string>
     <!--修改路径-->
     <string name="pref_location">存儲位置</string>
     <!--update -->
@@ -115,7 +116,7 @@
     <string name="nvisrti">新版本已準備好安裝。</string>
     <string name="OPEN">打開</string>
     <string name="OK">好</string>
-    <string name="Loading">數據加載中......</string>
+    <string name="Loading">數據加載中...…</string>
     <string name="updata_tip"><您正在使用最新版本的HappyMod/></string>
     <string name="xzzb">請下載官方的HappyMod。</string>
     <string name="Continue">繼續</string>
@@ -271,12 +272,12 @@
     <string name="fix_tips_title">刪除前請嘗試其他服務器</string>
     <string name="fix_tips_content">是否要在刪除之前連接到另一台服務器以嘗試下載？</string>
     <string name="fix_progress_title">掃描所有服務器</string>
-    <string name="fix_progress_content">正在為您尋找最快的服務器，可能花費幾分鐘時間，請稍等</string>
+    <string name="fix_progress_content">正在為您尋找最快的服務器，可能花費幾分鐘時間，請稍等。</string>
     <string name="fix_failed_content">當前沒有您可用的服務器，請稍後再嘗試</string>
     <string name="fix_tips_failtitle">沒有更多的服務器</string>
     <string name="fix_ok">試一試</string>
     <!--社区 -->
-    <string name="please_loginanddownload">請先下載</string>
+    <string name="please_loginanddownload">請先下載。</string>
     <string name="myvoted">我的投票</string>
     <string name="working">好用</string>
     <string name="inanhour">請一個小時後再投票</string>
