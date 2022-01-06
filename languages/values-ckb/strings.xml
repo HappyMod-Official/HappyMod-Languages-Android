@@ -5,12 +5,12 @@
     <string name="GAME">یاری</string>
     <string name="REFRESH">نوێکردنەوە</string>
     <string name="Recommended_Game_Mods">یارییە پێشنیارکراوەکان</string>
-    <string name="app_name">بەرنامەی ھەپی مۆد</string>
+    <string name="app_name">ئەپی ھەپی مۆد</string>
     <string name="facebook_app_id">658182831284939</string>
-    <string name="Paid">کڕدراوە</string>
+    <string name="Paid">دراوە</string>
     <string name="Categories">ژانەرەکان</string>
     <string name="games">یارییەکان</string>
-    <string name="Hot_Game_Mods">گرنگترین یارییە مۆدەکان</string>
+    <string name="Hot_Game_Mods">گرینگترین یارییە مۆدەکان</string>
     <string name="APP">ئەپ</string>
     <string name="Unable_to_connect_to_the_network">نەتوانرا پەیوەندی بکرێت بە ئینتەرنێتەوە</string>
     <string name="tapandholdptodelete">کلیک یان کرتە لە وێنەکە بکە بۆ سڕینەوەی.</string>
@@ -22,7 +22,7 @@
     <string name="votedresult">تۆ پێشتر دەنگت بۆ ئەم بەرنامەیە داوە.</string>
     <string name="reportfail">ڕاپۆرتەکەت سەرکەوتوو نەبوو لە پێشکەش کردن.</string>
     <string name="onlysupportyoutube">تەنھا ڤیدیۆی یوتوب سەپۆرتی دەکرێ</string>
-    <string name="Clean_up_the_complete">خەزنەکە پاککرایەوە.</string>
+    <string name="Clean_up_the_complete">هەموو زیادەکان پاککرانەوە</string>
     <string name="Recommend">پێشنیارکراوەکات</string>
     <string name="No_Download">هیچ فایلێک نەدۆزرایەوە.</string>
     <string name="SearchHint">گەڕان</string>
@@ -39,7 +39,7 @@
     <string name="sendfailed">سەرکەوتوو نەبوو</string>
     <string name="Reviews">پێداچوونەوەکان</string>
     <string name="success">سەرکەوتوو بوو</string>
-    <string name="Homeweb">سەرەکی</string>
+    <string name="Homeweb">وێبی سەرەکی</string>
     <string name="repliedtouser">وەڵامدانەوە بۆ</string>
     <string name="Group">گروپ</string>
     <string name="speaksomething">تکایە بەلایەنی کەمەوە 20 پیت بنووسە</string>
@@ -301,9 +301,9 @@
     <string name="Translation">زمان</string>
     <string name="Share">ھاوبەشیکردن</string>
     <string name="FollowusonFacebook">فۆڵۆومان بکە لە فەیسبوک</string>
-    <string name="settings_auto_install">دامەزرادندنی ئۆتۆماتیکی</string>
-    <string name="settings_other">زیاتر</string>
-    <string name="settings_clear_cache">سڕینەوەی خەزنکراو</string>
+    <string name="settings_auto_install">دامەزراندنی خۆکار ڕێکبەندەکان</string>
+    <string name="settings_other">ڕێکخستنەکانیتر</string>
+    <string name="settings_clear_cache">ڕێکخستنی پاککردنەوەی زیادە</string>
     <string name="Downloads">داگرتنەکان</string>
     <string name="UnZiping">دەرهێنان</string>
     <string name="Downloadboundle">داگرتنی بەندێڵ</string>
@@ -325,7 +325,7 @@
     <string name="ModLite">مۆد لایت</string>
     <string name="AOSPcompatible">ئەی ئۆ ئێس پی گونجاوە</string>
     <string name="Unlimitedhints">ئاماژە بێسنوورەکان</string>
-    <string name="des_no_serach_result">واووو! هیچ ئەنجامێک نەدۆزرایەوە.</string>
+    <string name="des_no_serach_result">هیچ ئەنجامێک نەدۆزرایەوە (ناوی تەواوی بەرنامە یان یاریەکە تێبنووسە و داوای لێ بکە ئەگەر لە کۆگای مۆدی دڵخۆش بەردەست نەبێت)</string>
     <string name="Usernametip">تەنها پیتەکانی a-z، ژمارەکان، و هێماکان: @ . -_ تکایە (هیچ بۆشاییەک یان پیتی تایبەتی تر). 4-50 پیت.</string>
     <string name="passwordtip">تەنها پیتەکانی A-Z, a-z, ژمارە (بێ بۆشایی یان پیتی تایبەت). 6-8 پیت.</string>
     <string name="nicknametip">ئەم نازناوە پێشتر وەرگیراوە.</string>
