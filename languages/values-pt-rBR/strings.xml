@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Homecom">modfeliz.com</string>
-    <string name="facebook_app_id">"aplicativo  Facebook  Id"</string>
+    <string name="facebook_app_id">Mods espetaculares para você</string>
     <string name="Paid">Pago</string>
     <string name="GAME">Jogo</string>
     <string name="APP">Aplicativo</string>
@@ -209,7 +209,7 @@
     <string name="Myuploads">Meus envios</string>
     <string name="Updated">Enviado</string>
     <string name="Comingsoon">Em breve</string>
-    <string name="searchappyouwanttorequest">Procure o app que quer achar:</string>
+    <string name="searchappyouwanttorequest">Instagram</string>
     <string name="Addupload">Adicionar envio</string>
     <string name="requesterror">Falha no envio, por favor, tente novamente mais tarde.</string>
     <string name="detailserror">(100-4000 caracteres)</string>
