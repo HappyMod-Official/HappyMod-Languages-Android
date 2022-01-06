@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">happymod</string>
     <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
-    <string name="facebook_app_id">facebook app id</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
