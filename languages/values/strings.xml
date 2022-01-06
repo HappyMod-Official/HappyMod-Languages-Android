@@ -332,7 +332,7 @@
     <string name="h5_menu_shortcut">Add To Homescreen</string>
     <string name="installplaywitouthti">Instant play without having to install</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Oops</string>
+    <string name="crash_dialog_title">Oops!</string>
     <string name="crash_toast_message">Sorry, APP exception, will be exited, please submit your bug report via email.</string>
     <string name="crash_dialog_message">Sorry, APP exception, please submit your bug report via email.</string>
     <string name="crash_dialog_feedback">Report bugs</string>
