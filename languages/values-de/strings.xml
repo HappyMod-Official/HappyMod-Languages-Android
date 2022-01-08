@@ -30,10 +30,10 @@
     <string name="REFRESH">Aktualisieren</string>
     <string name="Unable_to_connect_to_the_network">Verbindung zum Netzwerk nicht möglich</string>
     <string name="Recommended_Game_Mods">Empfohlene Spiele-Mods</string>
-    <string name="Hot_Game_Mods">Beliebte Spiele Mods</string>
-    <string name="Recommended_App_Mods">Empfohlene App Mods</string>
-    <string name="Hot_App_Mods">Beliebte App Mods</string>
-    <string name="Recommended_New_Mods">Neue empfohlene Mods</string>
+    <string name="Hot_Game_Mods">Beliebte Spiele-Mods</string>
+    <string name="Recommended_App_Mods">Empfohlene App-Mods</string>
+    <string name="Hot_App_Mods">Beliebte App-Mods</string>
+    <string name="Recommended_New_Mods">Empfohlene neue Mods</string>
     <string name="Last_Update_Mods">Neueste Updates</string>
     <string name="SearchHint">Suche</string>
     <!-- 侧滑-->
@@ -48,13 +48,13 @@
     <string name="FollowusonFacebook">Folgt uns auf Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobilfunknetz-Warnung</string>
-    <string name="settings_auto_install">Einstellungen für Automatische Installation</string>
-    <string name="Download_Directory">Verzeichnis der Downloads</string>
-    <string name="settings_other">Weitere Einstellungen</string>
+    <string name="settings_auto_install">Einstellungen für automatische Installation</string>
+    <string name="Download_Directory">Download-Verzeichnis</string>
+    <string name="settings_other">Sonstige Einstellungen</string>
     <string name="settings_clear_cache">Cache leeren</string>
-    <string name="Clean_up_the_complete">Cache wurde geleert</string>
+    <string name="Clean_up_the_complete">Der Cache wurde geleert</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Es wurde kein passendes Ergebnis für deine Suchanfrage gefunden(Stelle sich den korrekten und vollständigen Namen der App angegeben zu haben)</string>
+    <string name="des_no_serach_result">Es wurde kein passendes Ergebnis für Ihre Suchanfrage gefunden (Stellen Sie sicher, den korrekten und vollständigen Namen der App angegeben zu haben)</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Wird heruntergeladen</string>
@@ -69,15 +69,15 @@
     <string name="Rated">Bewertet</string>
     <string name="Version">Version</string>
     <string name="Ratingsreviews">Bewertungen &amp; Rezensionen</string>
-    <string name="Tryitlater">Versuche es später noch einmal</string>
+    <string name="Tryitlater">Versuchen Sie es später noch einmal</string>
     <string name="Serviceisbusy">Verbinden…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Hinweis</string>
     <string name="deletethistask">Vorgang abbrechen</string>
     <string name="Cancel">Abbrechen</string>
     <string name="Delete">Löschen</string>
-    <string name="Whydeletethisdownload">Warum willst du diesen Download löschen\?</string>
-    <string name="NotwhatIwant">Nicht das was ich wollte</string>
+    <string name="Whydeletethisdownload">Warum wollen Sie diesen Download löschen\?</string>
+    <string name="NotwhatIwant">Nicht das, was ich will</string>
     <string name="Downloadfailed">Herunterladen fehlgeschlagen</string>
     <string name="Downloadistooslow">Der Download ist zu langsam</string>
     <!--APP详情页-->
@@ -86,26 +86,26 @@
     <string name="Previousversion">Vorherige Version</string>
     <string name="Download">Herunterladen</string>
     <string name="Downloadobb">Herunterladen (APK+OBB)</string>
-    <string name="Downloaddata">Herunterladen(APK+DATA)</string>
-    <string name="Downloadboundle">Herunterladen (PAKET)</string>
+    <string name="Downloaddata">Herunterladen (APK+DATA)</string>
+    <string name="Downloadboundle">Paket Herunterladen</string>
     <string name="Downloaded">Heruntergeladen</string>
     <string name="Install">Installieren</string>
     <string name="Connecting">Verbinden…</string>
     <string name="readmore">Weiterlesen</string>
-    <string name="modfeature">Mod Info</string>
+    <string name="modfeature">Mod-Funktion</string>
     <string name="Moreversion">Weitere Versionen</string>
     <string name="Recommend">Empfohlen</string>
-    <string name="Recommendmod">Empfohlener Mod</string>
+    <string name="Recommendmod">Empfohlene Mod</string>
     <string name="Moremods">Mehr Mods</string>
     <!--评分-->
     <string name="Submit">Einreichen</string>
-    <string name="Hated_it">Furchtbar</string>
-    <string name="Disliked_it">Mir hat es nicht gefallen.</string>
-    <string name="Its_ok">Ist ok</string>
+    <string name="Hated_it">Ich hasse es</string>
+    <string name="Disliked_it">Ich mag es nicht</string>
+    <string name="Its_ok">Es ist ok</string>
     <string name="Liked_it">Hat mir gefallen</string>
-    <string name="Loved_it">Ich liebe es!</string>
+    <string name="Loved_it">Ich liebe es</string>
     <!--分享-->
-    <string name="share_happymod">Teile \'HappyMod\' über</string>
+    <string name="share_happymod">Teile HappyMod</string>
     <string name="share_subject">Hol dir HappyMod</string>
     <string name="share_text">Lade 100% funktionierende Mods von Spielen und Apps mit HappyMod herunter!
 \nhttps://www.happymod.com/</string>
@@ -113,23 +113,23 @@
     <string name="pref_location">Speicherort</string>
     <!--update -->
     <string name="force_des">100% funktionierende Mod</string>
-    <string name="nvisrti">Eine neue Version ist zum Installieren bereit!</string>
+    <string name="nvisrti">Eine neue Version ist zur Installation bereit!</string>
     <string name="OPEN">Offen</string>
     <string name="OK">Ok</string>
     <string name="Loading">Wird geladen…</string>
-    <string name="updata_tip">Du verwendest die neueste und stabilste Version von HappyMod</string>
+    <string name="updata_tip">Du verwendest die neueste stabile Version von HappyMod</string>
     <string name="xzzb">Bitte lade die offizielle HappyMod App herunter.</string>
     <string name="Continue">Fortsetzen</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Es ist nicht genügend Speicherplatz auf deinem Gerät vorhanden</string>
+    <string name="No_space_left_on_device">Es ist nicht genügend Speicherplatz auf dem Gerät vorhanden</string>
     <string name="Is_this_app_you_need">Suchst du diese App\?</string>
     <string name="No">Nein</string>
     <string name="Yes">Ja</string>
-    <string name="bcdes">Lösche Dateien und versuche es erneut.</string>
+    <string name="bcdes">Geben Sie Speicherplatz frei und versuchen es erneut.</string>
     <string name="need">; Verfügbar:</string>
-    <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. :</string>
+    <string name="No_enough_space_left_on_device">Nicht genug Speicherplatz. Erforderlich:</string>
     <string name="updatenow">Jetzt aktualisieren</string>
-    <string name="updateFail">Herunterladen fehlgeschlagen. Bitte starte die HappyMod neu</string>
+    <string name="updateFail">Herunterladen fehlgeschlagen. Bitte starten Sie die App neu</string>
     <string name="initializing">Vorbereiten</string>
     <string name="Retrying">Wiederholen</string>
     <string name="language">Sprache</string>
@@ -142,28 +142,28 @@
     <string name="mergerwait">Fertigstellen (Benötigt 1-2 Minuten)</string>
     <!-- 验证 -->
     <string name="Startverification">Verifizierung starten</string>
-    <string name="verificationShangXian">Hoppla! Du hast das tägliche Downloadlimit erreicht. Versuchen es nach X Stunden erneut.</string>
-    <string name="verificationFail">Verifizierung fehlgeschlagen. Bitte versuche es erneut!</string>
+    <string name="verificationShangXian">Hoppla! Sie haben das tägliche Downloadlimit erreicht. Versuchen Sie es nach X Stunden erneut.</string>
+    <string name="verificationFail">Verifizierung fehlgeschlagen. Bitte versuchen Sie es erneut!</string>
     <string name="Morehelp">(Mehr Hilfe)</string>
-    <string name="uid">NutzerID</string>
-    <string name="copysuccess">NutzerID wurde in die Zwischenablage kopiert.</string>
+    <string name="uid">Nutzer-ID</string>
+    <string name="copysuccess">Die Nutzer-ID wurde in die Zwischenablage kopiert.</string>
     <string name="watchnow">Jetzt ansehen</string>
-    <string name="ggdownloading">Werbung wird geladen, bitte warten und schließe HappyMod nicht.</string>
+    <string name="ggdownloading">Werbung wird geladen, bitte warten Sie und schließen HappyMod nicht.</string>
     <string name="verificaing">Verifizierung, bitte warten.</string>
     <!-- 评价 -->
     <string name="Removeads">Werbung entfernt</string>
     <string name="Paidforfree">Kostenlos</string>
     <string name="Unlimitedmoney">Unbegrenztes Geld</string>
     <string name="Freepurchase">Kostenlos</string>
-    <string name="Freeshopping">Gratis</string>
+    <string name="Freeshopping">Kostenlose InApp-Käufe</string>
     <string name="Unlocked">Entsperrt</string>
     <string name="Patched">Gepatcht</string>
     <string name="Premium">Premium</string>
-    <string name="Pro">Pro Version</string>
+    <string name="Pro">Pro-Version</string>
     <string name="ModLite">Kompakte Version</string>
     <string name="Subscribed">Abonniert</string>
     <string name="Prime">Premium</string>
-    <string name="Plus">Plus Version</string>
+    <string name="Plus">Plus-Version</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Oberfläche</string>
     <string name="Debloated">Bloatware entfernt</string>
@@ -175,18 +175,18 @@
     <string name="Endless">Unendlich</string>
     <string name="Invincible">Unbesiegbar</string>
     <string name="Unlimitedhints">Unendliche Hinweise</string>
-    <string name="Megamod">Super Mod</string>
+    <string name="Megamod">Mega-Mod</string>
     <string name="Full">Vollversion</string>
     <!-- 注册登录 -->
     <string name="Username">Benutzername</string>
     <string name="Usernameinit">4-50 Zeichen</string>
-    <string name="Usernametip">Nur Buchstaben a-z, Zahlen und die Symbole: @. - _ bitte (keine Leerzeichen oder anderen Sonderzeichen). 4-50 Zeichen.</string>
+    <string name="Usernametip">Nur Buchstaben a-z, Zahlen und die Symbole: @. - _ bitte (Keine Leerzeichen oder anderen Sonderzeichen). 4-50 Zeichen.</string>
     <string name="Password">Passwort</string>
     <string name="Enteryourpassword">6-8 Zeichen</string>
-    <string name="passwordtip">Nur Buchstaben A-Z, a-z, Zahlen (keine Leerzeichen oder Sonderzeichen). 6-8 Zeichen.</string>
+    <string name="passwordtip">Nur Buchstaben A-Z, a-z, Zahlen (Keine Leerzeichen oder Sonderzeichen). 6-8 Zeichen.</string>
     <string name="nicknametip">Dieser Benutzername wird bereits verwendet.</string>
-    <string name="Nickname">Spitzname</string>
-    <string name="Emailaddress">E-Mail Adresse</string>
+    <string name="Nickname">Benutzername</string>
+    <string name="Emailaddress">E-Mail-Adresse</string>
     <string name="Enteryouremail">E-Mail Adresse eingeben</string>
     <string name="Telephonenumber">Telefonnummer</string>
     <string name="Enteryourtelephonenumber">Telefonnummer eingeben</string>
@@ -204,16 +204,16 @@
     <string name="Emailnew">Email</string>
     <string name="PhoneNumber">Telefonnummer</string>
     <string name="Unknown">Unbekannt</string>
-    <string name="enteryEmail">Geben sie ihre E-Mail Adresse ein</string>
-    <string name="enteryPhone">Geben sie ihre Telefonnummer ein</string>
-    <string name="signuptips">Falls sie ihr Passwort vergessen sollten, benötigen sie eine Telefonnummer oder E-Mail Adresse um ihr Passwort zurücksetzen. Wir empfehlen ihnen eines davon hinzuzufügen.</string>
+    <string name="enteryEmail">Geben Sie Ihre E-Mail Adresse ein</string>
+    <string name="enteryPhone">Geben Sie Ihre Telefonnummer ein</string>
+    <string name="signuptips">Falls Sie ihr Passwort vergessen sollten, benötigen Sie eine Telefonnummer oder E-Mail Adresse um Ihr Passwort zurücksetzen. Wir empfehlen Ihnen eines davon hinzuzufügen.</string>
     <string name="confirmusername">Benutzernamen bestätigen</string>
     <string name="next">Weiter</string>
     <string name="fblogdes">Bitte geben sie ihren zukünftigen Benutzernamen ein. Der Benutzername ist wichtig zum Abrufen des Passworts. Bitte beachten sie das.</string>
     <string name="selectusername">Benutzernamen auswählen</string>
-    <string name="reselpass_desone">Geben sie den Benutzernamen ihres Kontos ein, um das Kennwort zurückzusetzen. Wenn es Problem mit dem Zurücksetzen des Passworts gibt <u>Kontaktiere uns</u>.</string>
-    <string name="reselpass_destwo">Bitte E-Mail oder Ihre Telefonnummer eingeben. Gibt es ein Problem mit dem Zurücksetzen des Passworts <u>kontaktiere uns</u>.</string>
-    <string name="forgetgosingup">Vergessen\? Du <u>kannst ein neues Konto erstellen</u>.</string>
+    <string name="reselpass_desone">Geben sie den Benutzernamen ihres Kontos ein, um das Kennwort zurückzusetzen. Wenn es Problem mit dem Zurücksetzen des Passworts gibt,<u>kontaktieren Sie uns</u>.</string>
+    <string name="reselpass_destwo">Bitte E-Mail oder Ihre Telefonnummer eingeben. Gibt es ein Problem mit dem Zurücksetzen des Passworts, <u>kontaktieren Sie uns</u>.</string>
+    <string name="forgetgosingup">Vergessen\? Sie können <u>ein neues Konto erstellen</u>.</string>
     <string name="Resetpassword">Passwort zurücksetzen</string>
     <string name="NewPassword">Neues Passwort</string>
     <string name="Enterthepasswordagain">Passwort bestätigen</string>
