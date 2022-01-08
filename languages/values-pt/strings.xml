@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--葡萄-->
-    <string name="app_name">App</string>
+    <string name="app_name">Happhmod</string>
     <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
