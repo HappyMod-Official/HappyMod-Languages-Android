@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">happymod</string>
-    <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -47,35 +47,35 @@
     <string name="FollowusonFacebook">Follow us on Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobile Network Alert</string>
-    <string name="settings_auto_install">settings auto Install</string>
+    <string name="settings_auto_install">Automatically Install</string>
     <string name="Download_Directory">Download Directory</string>
-    <string name="settings_other">settings Other</string>
-    <string name="settings_clear_cache">settings Clear cache</string>
+    <string name="settings_other">Other</string>
+    <string name="settings_clear_cache">Clear cache</string>
     <string name="Clean_up_the_complete">The cache has been cleared</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">No results found (enter the full name of the program or game and request it if it is not available in the Happy Mode store)</string>
+    <string name="des_no_serach_result">Oops! No results found.</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Downloading</string>
     <string name="Finished">Finished</string>
     <string name="No_Download">File not found</string>
     <string name="Pause">Pause</string>
-    <string name="Waiting_in_queue">waiting in line</string>
+    <string name="Waiting_in_queue">Waiting in queue</string>
     <string name="Completed">Completed</string>
-    <string name="UnZiping">UnZiping</string>
-    <string name="UnZip_succeed">UnZip succeed</string>
+    <string name="UnZiping">Extracting</string>
+    <string name="UnZip_succeed">Finished Extracting</string>
     <string name="Rate">Rate</string>
     <string name="Rated">Rated</string>
     <string name="Version">Version</string>
     <string name="Ratingsreviews">Ratings and Reviews</string>
-    <string name="Tryitlater">Try it later</string>
+    <string name="Tryitlater">Try again later</string>
     <string name="Serviceisbusy">Connecting</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Notice</string>
-    <string name="deletethistask">Delete this task</string>
+    <string name="deletethistask">Delete this file</string>
     <string name="Cancel">Cancel</string>
     <string name="Delete">Delete</string>
-    <string name="Whydeletethisdownload">Why deleting this download\?</string>
+    <string name="Whydeletethisdownload">Why delete this download\?</string>
     <string name="NotwhatIwant">Not what I want</string>
     <string name="Downloadfailed">Download failed</string>
     <string name="Downloadistooslow">Download is too slow</string>
