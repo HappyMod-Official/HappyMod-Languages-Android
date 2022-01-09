@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--俄羅斯-->
-    <string name="app_name">Весёлый Мод</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">Феизбук приложение айд</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -51,10 +51,10 @@
     <string name="settings_auto_install">Автоматически устанавливать</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другие настройки</string>
-    <string name="settings_clear_cache">Настройки Очистить кэш</string>
+    <string name="settings_clear_cache">Очистить кэш</string>
     <string name="Clean_up_the_complete">Кэш очищен</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Ничего не найдено (введите полное название программы или игры и запросите его, если его нет в магазине Happy Mode)</string>
+    <string name="des_no_serach_result">Ничего не найдено (введите полное название программы или игры и запросите его, если такового нет в Happy Mod)</string>
     <!--下载管理页-->
     <string name="Downloads">Загрузки</string>
     <string name="Downloading">Загрузка</string>
