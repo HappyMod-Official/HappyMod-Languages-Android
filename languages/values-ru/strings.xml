@@ -38,7 +38,7 @@
     <string name="SearchHint">Поиск</string>
     <!-- 侧滑-->
     <string name="Homeweb">Официальный веб-сайт</string>
-    <string name="Management">Управление</string>
+    <string name="Management">Загрузки</string>
     <string name="Settings">Настройки</string>
     <string name="Feedback">Обратная связь</string>
     <string name="Translation">Перевод</string>
@@ -48,7 +48,7 @@
     <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
     <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
-    <string name="settings_auto_install">Автоматическая установка настроек</string>
+    <string name="settings_auto_install">Автоматически устанавливать</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другие настройки</string>
     <string name="settings_clear_cache">Настройки Очистить кэш</string>
@@ -58,7 +58,7 @@
     <!--下载管理页-->
     <string name="Downloads">Загрузки</string>
     <string name="Downloading">Загрузка</string>
-    <string name="Finished">Завершенный</string>
+    <string name="Finished">Завершено</string>
     <string name="No_Download">Файл не найден</string>
     <string name="Pause">Пауза</string>
     <string name="Waiting_in_queue">Ожидание</string>
