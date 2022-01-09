@@ -107,7 +107,7 @@
     <!--分享-->
     <string name="share_happymod">Поделиться приложением ‘HappyMod’ через приложение</string>
     <string name="share_subject">Отправить объект</string>
-    <string name="share_text">Скачивай 100% рабочие моды в @HappyMod
+    <string name="share_text">Скачивай 100% рабочие моды с @HappyMod
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Место хранения</string>
@@ -242,7 +242,7 @@
     <string name="Myuploads">Мои загрузки</string>
     <string name="Updated">Обновлённое</string>
     <string name="Comingsoon">Скоро</string>
-    <string name="searchappyouwanttorequest">Найдите приложение, которое хотите запросить:</string>
+    <string name="searchappyouwanttorequest">Найдите приложение, которое хотите запросить</string>
     <string name="Addupload">Добавить загрузку</string>
     <string name="requestdetailhint">Расскажите больше о вашем запросе. (Не менее 50 символов)</string>
     <string name="requesterror">Опубликовать не удалось, повторите попытку позже.</string>
