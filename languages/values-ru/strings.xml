@@ -107,7 +107,7 @@
     <!--分享-->
     <string name="share_happymod">Поделиться приложением ‘HappyMod’ через приложение</string>
     <string name="share_subject">Отправить объект</string>
-    <string name="share_text">Скачать 100% рабочие моды с @HappyMod
+    <string name="share_text">Скачивай 100% рабочие моды в @HappyMod
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Место хранения</string>
