@@ -50,11 +50,11 @@
     <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
     <string name="settings_auto_install">Автоматически устанавливать</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
-    <string name="settings_other">Другие настройки</string>
+    <string name="settings_other">Другое</string>
     <string name="settings_clear_cache">Очистить кэш</string>
     <string name="Clean_up_the_complete">Кэш очищен</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Ничего не найдено (введите полное название программы или игры и запросите его, если такового нет в Happy Mod)</string>
+    <string name="des_no_serach_result">Ой! Результатов не найдено.</string>
     <!--下载管理页-->
     <string name="Downloads">Загрузки</string>
     <string name="Downloading">Загрузка</string>
@@ -329,7 +329,7 @@
     <string name="h5_menu_shortcut">Добавить на домашний экран</string>
     <string name="installplaywitouthti">Играть без установки</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Упс...</string>
+    <string name="crash_dialog_title">Ой!</string>
     <string name="crash_toast_message">К сожалению, приложение будет закрыто, пожалуйста, отправьте свой отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_message">Произошла ошибка, пожалуйста, отправьте ваш отчет об ошибке по электронной почте.</string>
     <string name="crash_dialog_feedback">Сообщить об ошибках</string>
