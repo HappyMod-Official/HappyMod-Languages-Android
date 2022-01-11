@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--葡萄-->
-    <string name="app_name">Happhmod</string>
-    <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
+    <string name="app_name">HappyMod</string>
+    <string name="Homecom">Happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -28,12 +28,12 @@
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="REFRESH">Atualizar</string>
-    <string name="Unable_to_connect_to_the_network">Impossível ligar à rede</string>
+    <string name="Unable_to_connect_to_the_network">Impossível se conectar na rede</string>
     <string name="Recommended_Game_Mods">Mods de Jogos Recomendados</string>
     <string name="Hot_Game_Mods">Mods de Jogos Populares</string>
-    <string name="Recommended_App_Mods">Mods de Aplicações Recomendados</string>
-    <string name="Hot_App_Mods">Mods de aplicações populares</string>
-    <string name="Recommended_New_Mods">Mods Novos Recomendados</string>
+    <string name="Recommended_App_Mods">Mods de Aplicativos Recomendados</string>
+    <string name="Hot_App_Mods">Mods de aplicativos populares</string>
+    <string name="Recommended_New_Mods">Recomendações de novos mods</string>
     <string name="Last_Update_Mods">Atualizações Mais Recentes</string>
     <string name="SearchHint">Pesquisar</string>
     <!-- 侧滑-->
