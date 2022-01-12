@@ -48,13 +48,13 @@
     <string name="FollowusonFacebook">Folgt uns auf Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Mobilfunknetz-Warnung</string>
-    <string name="settings_auto_install">Einstellungen für automatische Installation</string>
+    <string name="settings_auto_install">Automatische Installation</string>
     <string name="Download_Directory">Download-Verzeichnis</string>
-    <string name="settings_other">Sonstige Einstellungen</string>
+    <string name="settings_other">Andere</string>
     <string name="settings_clear_cache">Cache leeren</string>
     <string name="Clean_up_the_complete">Der Cache wurde geleert</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Es wurde kein passendes Ergebnis für Ihre Suchanfrage gefunden (Stellen Sie sicher, den korrekten und vollständigen Namen der App angegeben zu haben)</string>
+    <string name="des_no_serach_result">Hoppla! Keine Ergebnisse gefunden.</string>
     <!--下载管理页-->
     <string name="Downloads">Downloads</string>
     <string name="Downloading">Wird heruntergeladen</string>
@@ -64,7 +64,7 @@
     <string name="Waiting_in_queue">In der Warteschlange</string>
     <string name="Completed">Abgeschlossen</string>
     <string name="UnZiping">Extrahieren</string>
-    <string name="UnZip_succeed">Extrahierung erfolgreich</string>
+    <string name="UnZip_succeed">Abgeschlossene Extraktion</string>
     <string name="Rate">Bewerten</string>
     <string name="Rated">Bewertet</string>
     <string name="Version">Version</string>
@@ -73,10 +73,10 @@
     <string name="Serviceisbusy">Verbinden…</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Hinweis</string>
-    <string name="deletethistask">Vorgang abbrechen</string>
+    <string name="deletethistask">Diese Datei löschen</string>
     <string name="Cancel">Abbrechen</string>
     <string name="Delete">Löschen</string>
-    <string name="Whydeletethisdownload">Warum wollen Sie diesen Download löschen\?</string>
+    <string name="Whydeletethisdownload">Warum möchten Sie diesen Download löschen\?</string>
     <string name="NotwhatIwant">Nicht das, was ich will</string>
     <string name="Downloadfailed">Herunterladen fehlgeschlagen</string>
     <string name="Downloadistooslow">Der Download ist zu langsam</string>
@@ -107,7 +107,7 @@
     <!--分享-->
     <string name="share_happymod">Teile HappyMod</string>
     <string name="share_subject">Hol dir HappyMod</string>
-    <string name="share_text">Lade 100% funktionierende Mods von Spielen und Apps mit HappyMod herunter!
+    <string name="share_text">Laden Sie 100% funktionierende Mods mit @HappyMo herunter. 
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Speicherort</string>
