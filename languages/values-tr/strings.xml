@@ -28,7 +28,7 @@
     <string name="Categories">Kategoriler</string>
     <string name="games">Oyunlar</string>
     <string name="REFRESH">Yenile</string>
-    <string name="Unable_to_connect_to_the_network">İnternete bağlanılamıyor.</string>
+    <string name="Unable_to_connect_to_the_network">Ağa bağlanılamıyor</string>
     <string name="Recommended_Game_Mods">Önerilen Oyun Modları</string>
     <string name="Hot_Game_Mods">Popüler Oyun Modları</string>
     <string name="Recommended_App_Mods">Önerilen Uygulama Modları</string>
