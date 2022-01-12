@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--土耳其-->
-    <string name="app_name">My chıld lebensborn</string>
+    <string name="app_name">happymod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">Facebook</string>
     <!--原APP大图 -->
@@ -90,14 +90,14 @@
     <string name="Moreversion">Daha Fazla Sürüm</string>
     <string name="Recommend">Tavsiye Edilen</string>
     <string name="Recommendmod">Önerilen Mod</string>
-    <string name="Moremods">En Son Sürüm</string>
+    <string name="Moremods">Daha Fazla Mod</string>
     <string name="Submit">Gönder</string>
     <string name="Hated_it">Hiç Sevmedim.</string>
     <string name="Disliked_it">Beğenmedim.</string>
     <string name="Its_ok">Fena Değil.</string>
     <string name="Liked_it">Beğendim.</string>
     <string name="Loved_it">Bayıldım!</string>
-    <string name="share_happymod">‘HappyMod’ üzerinden paylaş</string>
+    <string name="share_happymod">Happy Modu paylaş.</string>
     <string name="share_subject">Konuyu Paylaş</string>
     <string name="share_text">\@HappyMod ile tamamen çalışan modları keşfedin!
 \nhttps://www.happymod.com/</string>
@@ -392,7 +392,7 @@
     <string name="nslnfsl">Hız limiti yok. Dosya boyutu sınırı yok.</string>
     <string name="Clean">Temiz</string>
     <string name="Cdnoadfree">Sade tasarım, reklam yok ve %100 bedava!</string>
-    <string name="wrhtdbf">İspanyolca</string>
+    <string name="wrhtdbf">HyperTorrent nasıl kullanılır\?</string>
     <string name="nothanks">Hayır teşekkürler</string>
     <string name="Checkthenetwork">Ağı kontrol edin</string>
     <string name="Configuringip">Mevcut IP\'yi sizin için yapılandırma</string>
