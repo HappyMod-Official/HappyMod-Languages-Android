@@ -9,8 +9,8 @@
     <string name="Categories">Categorias</string>
     <string name="games">Jogos</string>
     <string name="Unable_to_connect_to_the_network">Incapaz de se conectar à rede</string>
-    <string name="Hot_Game_Mods">Mods para jogos quentes</string>
-    <string name="Recommended_App_Mods">Recomendações de aplicativo modificados</string>
+    <string name="Hot_Game_Mods">Mods para jogos em alta</string>
+    <string name="Recommended_App_Mods">Recomendações de mods de aplicativo</string>
     <string name="Recommended_New_Mods">Recomendação de Novos Mods</string>
     <string name="SearchHint">Procurar</string>
     <string name="Homeweb">Web-Casa</string>
