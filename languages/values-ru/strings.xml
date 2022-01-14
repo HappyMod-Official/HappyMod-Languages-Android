@@ -22,7 +22,7 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Заплачено</string>
-    <string name="GAME">Игра</string>
+    <string name="GAME">Игры</string>
     <string name="APP">Приложение</string>
     <string name="NEW">Новинки</string>
     <string name="Categories">Категории</string>
@@ -48,7 +48,7 @@
     <string name="FollowusonFacebook">Следите за нами в Фейсбуке</string>
     <!--设置页-->
     <string name="settings_network_remind">Предупреждение при использовании мобильной сети</string>
-    <string name="settings_auto_install">Автоматически устанавливать</string>
+    <string name="settings_auto_install">Автоматическая установка</string>
     <string name="Download_Directory">Расположение скачанных файлов</string>
     <string name="settings_other">Другое</string>
     <string name="settings_clear_cache">Очистить кэш</string>
@@ -113,7 +113,7 @@
     <string name="pref_location">Место хранения</string>
     <!--update -->
     <string name="force_des">100% Рабочие Моды</string>
-    <string name="nvisrti">Новая версия началась загружаться</string>
+    <string name="nvisrti">Загрузка новой версии</string>
     <string name="OPEN">ОТКРЫТЬ</string>
     <string name="OK">Хорошо</string>
     <string name="Loading">Загрузка…</string>
@@ -293,7 +293,7 @@
     <string name="hashtags">История хэштегов</string>
     <string name="featuredhash">Избранные хэштеги</string>
     <string name="newhshstag">Новый хэштег</string>
-    <string name="hot">Горячее</string>
+    <string name="hot">Популярное</string>
     <string name="Comments">Комментарии</string>
     <string name="replies">Ответы</string>
     <string name="community">Сообщество</string>
@@ -315,8 +315,8 @@
     <string name="tapandholdptodelete">Нажмите и удерживайте картинку, чтобы удалить ее.</string>
     <string name="addvideofaild">Не удалось добавить видео! Убедитесь, что ваша сеть может просматривать видео Youtube и повторно добавьте его.</string>
     <string name="Video">Видео</string>
-    <string name="Hotsearches">Поиск горячего</string>
-    <string name="Hothashtags">Горячие хэштеги</string>
+    <string name="Hotsearches">Поиск популярного</string>
+    <string name="Hothashtags">Популярные хэштеги</string>
     <string name="history">История</string>
     <string name="aboutthisgame">Об игре</string>
     <string name="details">Подробнее</string>
@@ -346,7 +346,7 @@
     <string name="Latestupdated">Недавно обновлённые</string>
     <string name="paidforfree">Бесплатные</string>
     <string name="ToadyRecommend">Сегодняшние рекомендации</string>
-    <string name="hotmods">Горячие моды</string>
+    <string name="hotmods">Популярные моды</string>
     <string name="hotrecommended">Рекомендуемые горячие</string>
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Поиск приложения, которое вы хотите загрузить:</string>
@@ -367,7 +367,7 @@
     <string name="installfailed">Установка не удалась.</string>
     <string name="miuides">Пожалуйста, включите опции разработчика, выключите оптимизацию MIUI и попробуйте снова.</string>
     <string name="playdes">Играть</string>
-    <string name="todayhotgame">Горячее на сегодня</string>
+    <string name="todayhotgame">Популярное на сегодня</string>
     <string name="newcoming">Новое входящее</string>
     <string name="recentlyplayed">Недавно сыгранные</string>
     <string name="toopenitquickntime">Чтобы найти его быстрее в следующий раз, пожалуйста:</string>
