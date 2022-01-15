@@ -3,7 +3,7 @@
     <!--阿拉伯-->
     <string name="app_name">هابي مود</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">رقم تطبيق فيسبوك التعريفي</string>
+    <string name="facebook_app_id">رقم تبيق فيسبوك التعريفي</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
