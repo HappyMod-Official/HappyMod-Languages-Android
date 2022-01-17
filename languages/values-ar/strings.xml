@@ -3,7 +3,8 @@
     <!--阿拉伯-->
     <string name="app_name">هابي مود</string>
     <string name="Homecom">هابي_مود.com</string>
-    <string name="facebook_app_id">رقم تبيق فيسبوك التعريفي</string>
+    <string name="facebook_app_id">‭
+\n658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -48,7 +49,7 @@
     <string name="settings_network_remind">الهاتف غير متصل بلشبكة</string>
     <string name="settings_auto_install">إعدادات التثبيت التلقائي‮‭‭</string>
     <string name="Download_Directory">تحميل الدليل</string>
-    <string name="settings_other">أعدادات اخرى</string>
+    <string name="settings_other">658182831284939</string>
     <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
     <string name="Clean_up_the_complete">تم حذف ذاكرة التخزين المؤقت</string>
     <string name="des_no_serach_result">أوه! لم يتم العثور على نتائج.</string>
