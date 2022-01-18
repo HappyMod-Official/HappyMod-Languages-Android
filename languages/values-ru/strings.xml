@@ -315,7 +315,7 @@
     <string name="tapandholdptodelete">Нажмите и удерживайте картинку, чтобы удалить ее.</string>
     <string name="addvideofaild">Не удалось добавить видео! Убедитесь, что ваша сеть может просматривать видео Youtube и повторно добавьте его.</string>
     <string name="Video">Видео</string>
-    <string name="Hotsearches">Поиск популярного</string>
+    <string name="Hotsearches">Горячий поиск</string>
     <string name="Hothashtags">Популярные хэштеги</string>
     <string name="history">История</string>
     <string name="aboutthisgame">Об игре</string>
