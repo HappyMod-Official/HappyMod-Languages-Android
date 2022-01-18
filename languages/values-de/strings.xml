@@ -2,7 +2,7 @@
 <resources>
     <!--德国-->
     <string name="app_name">HappyMod</string>
-    <string name="Homecom">happymod.com</string>
+    <string name="Homecom">Glücklichmodifikation.kom</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -21,7 +21,7 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">kostenpflichtig</string>
+    <string name="Paid">bezahlt</string>
     <string name="GAME">Spiel</string>
     <string name="APP">App</string>
     <string name="NEW">Neu</string>
