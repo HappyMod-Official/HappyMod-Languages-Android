@@ -24,20 +24,20 @@
     <string name="Paid">Dibayar</string>
     <string name="GAME">Permainan</string>
     <string name="APP">Aplikasi</string>
-    <string name="NEW">BARU</string>
+    <string name="NEW">Baru</string>
     <string name="Categories">Kategori</string>
     <string name="games">Permainan</string>
-    <string name="REFRESH">Segarkan</string>
+    <string name="REFRESH">Ulang</string>
     <string name="Unable_to_connect_to_the_network">Tidak dapat mengakses internet.</string>
-    <string name="Recommended_Game_Mods">Game Mod yang Direkomendasikan</string>
-    <string name="Hot_Game_Mods">Game Mod Popular</string>
+    <string name="Recommended_Game_Mods">Rekomendasi Game Mod</string>
+    <string name="Hot_Game_Mods">Game Mod Populer</string>
     <string name="Recommended_App_Mods">Aplikasi Mods yang direcomendasikan</string>
     <string name="Hot_App_Mods">Aplikasi Mod Populer</string>
-    <string name="Recommended_New_Mods">Mod Baru yang Direkomendasikan</string>
-    <string name="Last_Update_Mods">Pembaruan Terbaru</string>
+    <string name="Recommended_New_Mods">Rekomendasi Mod Baru</string>
+    <string name="Last_Update_Mods">Update Terbaru</string>
     <string name="SearchHint">Pencarian</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Rumah</string>
+    <string name="Homeweb">Home</string>
     <string name="Management">Pengelolaan</string>
     <string name="Settings">Pengaturan</string>
     <string name="Feedback">Umpan balik</string>
@@ -48,7 +48,7 @@
     <string name="FollowusonFacebook">Follow kami di Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Peringatan Jaringan Seluler</string>
-    <string name="settings_auto_install">Instal secara otomatis</string>
+    <string name="settings_auto_install">Instal otomatis</string>
     <string name="Download_Directory">Direktori Unduhan</string>
     <string name="settings_other">Lainnya</string>
     <string name="settings_clear_cache">Bersihkan Cache</string>
@@ -92,18 +92,18 @@
     <string name="Install">Pasang</string>
     <string name="Connecting">Menghubungkan Kembali …</string>
     <string name="readmore">Baca selengkapnya</string>
-    <string name="modfeature">Info Mod:</string>
+    <string name="modfeature">Fitur Mod:</string>
     <string name="Moreversion">Versi lainnya</string>
     <string name="Recommend">Disarankan</string>
     <string name="Recommendmod">Mod yang direkomendasikan</string>
-    <string name="Moremods">Versi Terbaru</string>
+    <string name="Moremods">Mod terbaru</string>
     <!--评分-->
     <string name="Submit">Kirim</string>
-    <string name="Hated_it">Saya benci ini!</string>
+    <string name="Hated_it">Saya membenci ini!</string>
     <string name="Disliked_it">Saya tidak suka ini.</string>
-    <string name="Its_ok">Tidak apa-apa.</string>
-    <string name="Liked_it">Saya suka ini.</string>
-    <string name="Loved_it">Saya benar-benar suka ini!</string>
+    <string name="Its_ok">Biasanya saja.</string>
+    <string name="Liked_it">Suka ini.</string>
+    <string name="Loved_it">Benar-benar menyukai ini!</string>
     <!--分享-->
     <string name="share_happymod">Bagikan \'HappyMod\' via</string>
     <string name="share_subject">Dapatkan HappyMod</string>
@@ -112,7 +112,7 @@
     <string name="pref_location">Lokasi penyimpanan</string>
     <!--update -->
     <string name="force_des">100% Mod Bekerja</string>
-    <string name="nvisrti">Versi baru siap dipasang.</string>
+    <string name="nvisrti">Versi terbaru siap untuk di-instal.</string>
     <string name="OPEN">BUKA</string>
     <string name="OK">Oke</string>
     <string name="Loading">Memuat…</string>
@@ -242,9 +242,9 @@
     <string name="Myuploads">Unggahan saya</string>
     <string name="Updated">Diperbarui</string>
     <string name="Comingsoon">Segera akan datang</string>
-    <string name="searchappyouwanttorequest">Cari aplikasi yang ingin Anda minta:</string>
+    <string name="searchappyouwanttorequest">Cari aplikasi yang kamu minta.</string>
     <string name="Addupload">Tambahkan unggahan</string>
-    <string name="requestdetailhint">Beritahu lebih banyak tentang permintaan Anda. (minimal 50 karakter)</string>
+    <string name="requestdetailhint">Beritahu lebih banyak permintaan kamu. (Se banyak 50 karakter)</string>
     <string name="requesterror">Pengiriman gagal, coba lagi nanti.</string>
     <string name="detailserror">(100–4000 karakter)</string>
     <string name="view">Melihat</string>
@@ -329,7 +329,7 @@
     <string name="h5_menu_shortcut">Tambahkan ke homescreen</string>
     <string name="installplaywitouthti">Main instan tanpa harus menginstal</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Ups...</string>
+    <string name="crash_dialog_title">Ups!</string>
     <string name="crash_toast_message">Maaf, pengecualian APP, akan keluar ， kirimkan laporan bug Anda melalui email.</string>
     <string name="crash_dialog_message">Maaf, pengecualian APP, silakan kirim laporan bug Anda melalui email.</string>
     <string name="crash_dialog_feedback">Laporkan bug</string>
@@ -351,7 +351,8 @@
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Cari aplikasi yang ingin Anda unggah:</string>
     <string name="addapost">Tambahkan posting</string>
-    <string name="launch_des">Temukan 100% Mod yang Bekerja Diunggah oleh pengguna; Diverifikasi oleh pengguna!</string>
+    <string name="launch_des">Temukan 100% Mod berkerja
+\nDiunggah oleh pengguna; Diverifikasi oleh pengguna!</string>
     <string name="requestamod">Minta mod</string>
     <string name="uploadamod">Unggah mod</string>
     <!--boundle 新增-->
@@ -418,11 +419,16 @@
     <string name="Checkthenetwork">Periksa jaringan kamu</string>
     <string name="Configuringip">Mengonfigurasi IP yang tersedia untuk Anda</string>
     <string name="Configuringipfailed">Konfigurasi gagal, 8 IP terdeteksi tidak tersedia, coba gunakan VPN.</string>
-    <string name="Donatedes">HappyMod sepenuhnya gratis, dan kami membenci iklan seperti apa yang anda rasakan!
+    <string name="Donatedes">HappyMod ini 100% gratis, dan kami membenci iklan seperti kamu membencinya!
+\n 
 \n
-\nDonasi anda sangat kami apresiasi dan akan kami gunakan untuk melayani anda dengan kecepatan dan keamanan unduhan.
+\nDonasi anda sangat berharga untuk kami dan akan kami gunakan untuk melayani anda dengan kecepatan dan keamanan unduhan.
+\n
+\n
 \n
 \nHarap bersabar dan coba tonton iklan lengkapnya untuk menyelesaikan donasi.
+\n
+\n
 \n
 \nTerima kasih! :)</string>
     <string name="viewstepdeti">Lihat detail langkah</string>
