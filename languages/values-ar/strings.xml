@@ -2,7 +2,7 @@
 <resources>
     <!--阿拉伯-->
     <string name="app_name">هابي مود</string>
-    <string name="Homecom">happymod.com</string>
+    <string name="Homecom">هابي_مود.com</string>
     <string name="facebook_app_id">رقم تبيق فيسبوك التعريفي</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -65,13 +65,13 @@
     <string name="Rated">تم تقييمه</string>
     <string name="Version">إصدار</string>
     <string name="Ratingsreviews">التقييمات و المراجعات</string>
-    <string name="Tryitlater">جرب مجددا في وقت لاحق</string>
+    <string name="Tryitlater">جرب تاني في وقت لاحق</string>
     <string name="Serviceisbusy">جارٍ الاتصال…</string>
     <string name="Notice">تنويه</string>
     <string name="deletethistask">حذف هذا الملف</string>
     <string name="Cancel">إلغاء</string>
     <string name="Delete">حذف</string>
-    <string name="Whydeletethisdownload">لماذا حذفت هذا التنزيل؟</string>
+    <string name="Whydeletethisdownload">ليه حذفت هذا التنزيل؟</string>
     <string name="NotwhatIwant">ليس ما أريد</string>
     <string name="Downloadfailed">فشل التنزيل</string>
     <string name="Downloadistooslow">التنزيل بطيء جدًا</string>
@@ -93,7 +93,7 @@
     <string name="Moremods">المزيد من التعديلات</string>
     <string name="Submit">ارسال</string>
     <string name="Hated_it">اكرهها! لا دخل لي</string>
-    <string name="Disliked_it">لم يعجبني.💩</string>
+    <string name="Disliked_it">لم يعجبني.وهذا رائي</string>
     <string name="Its_ok">أنه جيد.🍑</string>
     <string name="Liked_it">اعجبني. God damn your mother</string>
     <string name="Loved_it">احببته! ربي يعطي كف وا خرا</string>
@@ -227,7 +227,7 @@
     <string name="Myuploads">مركز الرفع الخاص بي</string>
     <string name="Updated">محدث</string>
     <string name="Comingsoon">قريبا</string>
-    <string name="searchappyouwanttorequest">ابحث في التطبيق الذي تريد طلبه:</string>
+    <string name="searchappyouwanttorequest">ابحث في التطبيق الذي تريد تنزيله:</string>
     <string name="Addupload">رفع تطبيق</string>
     <string name="requestdetailhint">أكتب المزيد عن سءالك او طلبك على الاقل ٥٠ حرف</string>
     <string name="requesterror">فشل الإرسال ، يرجى المحاولة مرة أخرى لاحقًا.</string>
