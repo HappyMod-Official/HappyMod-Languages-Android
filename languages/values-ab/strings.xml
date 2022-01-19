@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bjbbvy</string>
+    <string name="app_name">Mod feliz</string>
+    <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
+    <string name="Last_Update_Mods">Últimas actualizaciones</string>
+    <string name="GAME">Juego</string>
+    <string name="NEW">Nuevo</string>
+    <string name="Categories">Categorias</string>
+    <string name="games">Juegos</string>
+    <string name="SearchHint">Busqueda</string>
+    <string name="REFRESH">Refrescar</string>
+    <string name="Homecom">Mod feliz.com</string>
+    <string name="Paid">Paga</string>
+    <string name="APP">Aplicación</string>
+    <string name="Unable_to_connect_to_the_network">No se puede conectar a la red</string>
+    <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
+    <string name="facebook_app_id">658182831284939</string>
 </resources>
