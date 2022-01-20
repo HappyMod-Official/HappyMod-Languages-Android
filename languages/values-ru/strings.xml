@@ -293,7 +293,7 @@
     <string name="hashtags">История хэштегов</string>
     <string name="featuredhash">Избранные хэштеги</string>
     <string name="newhshstag">Новый хэштег</string>
-    <string name="hot">Популярное</string>
+    <string name="hot">Горячие</string>
     <string name="Comments">Комментарии</string>
     <string name="replies">Ответы</string>
     <string name="community">Сообщество</string>
@@ -346,7 +346,7 @@
     <string name="Latestupdated">Недавно обновлённые</string>
     <string name="paidforfree">Бесплатные</string>
     <string name="ToadyRecommend">Сегодняшние рекомендации</string>
-    <string name="hotmods">Популярные моды</string>
+    <string name="hotmods">Новые моды</string>
     <string name="hotrecommended">Рекомендуемые горячие</string>
     <!--upload 新增-->
     <string name="searchappyouwanttoupload">Поиск приложения, которое вы хотите загрузить:</string>
