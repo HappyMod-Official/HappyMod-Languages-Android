@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--希伯来语-->
-    <string name="app_name"> מוד שמח</string>
+    <string name="app_name">‌‌‍‎‎‏‌ מוד שמח</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -23,24 +23,23 @@
     <!--首页-->
     <string name="Paid">שולם</string>
     <string name="GAME">משחק</string>
-    <string name="APP">יישום
-\n</string>
-    <string name="NEW">האחרונה</string>
-    <string name="Categories">קפה</string>
+    <string name="APP">יישום</string>
+    <string name="NEW">חדש</string>
+    <string name="Categories">קטגוריות</string>
     <string name="games">משחק</string>
     <string name="REFRESH">רענן</string>
     <string name="Unable_to_connect_to_the_network">לא ניתן לגשת לאינטרנט.</string>
     <string name="Recommended_Game_Mods">משחקים מומלצים</string>
     <string name="Hot_Game_Mods">משחקים פופולריים</string>
-    <string name="Recommended_App_Mods">אופציות מומלצות לאפליקציות</string>
-    <string name="Hot_App_Mods">למעלה מודולים App</string>
+    <string name="Recommended_App_Mods">מודים מומלצים לאפליקציות</string>
+    <string name="Hot_App_Mods">מודים פופולרים</string>
     <string name="Recommended_New_Mods">מודים חדשים ומומלצים</string>
     <string name="Last_Update_Mods">עדכון אחרון</string>
     <string name="SearchHint">חיפוש</string>
     <!-- 侧滑-->
-    <string name="Homeweb">האתר הרשמי</string>
+    <string name="Homeweb">אתר הבית</string>
     <string name="Management">ניהול</string>
-    <string name="Settings">הגדרה</string>
+    <string name="Settings">הגדרות</string>
     <string name="Feedback">משוב</string>
     <string name="Translation">תרגום</string>
     <string name="Share">שתף</string>
