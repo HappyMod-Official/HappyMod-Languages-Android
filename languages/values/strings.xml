@@ -21,7 +21,7 @@
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
     <string name="Paid">Paid</string>
-    <string name="GAME">GAME</string>
+    <string name="GAME">Game</string>
     <string name="APP">App</string>
     <string name="NEW">New</string>
     <string name="Categories">Categories</string>
