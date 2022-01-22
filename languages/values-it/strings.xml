@@ -21,30 +21,30 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">Pagato</string>
-    <string name="GAME">GIOCO</string>
+    <string name="Paid">Pagata</string>
+    <string name="GAME">Gioco</string>
     <string name="APP">Applicazzione</string>
-    <string name="NEW">Nuovo</string>
+    <string name="NEW">Hot</string>
     <string name="Categories">Categorie</string>
     <string name="games">Giochi</string>
     <string name="REFRESH">Ricarica</string>
     <string name="Unable_to_connect_to_the_network">Impossibile connettersi alla rete</string>
     <string name="Recommended_Game_Mods">Mod dei giochi raccomandati</string>
     <string name="Hot_Game_Mods">Giochi Popolari Con mod</string>
-    <string name="Recommended_App_Mods">Mod di app raccomandate</string>
-    <string name="Hot_App_Mods">Mod di app popolari</string>
-    <string name="Recommended_New_Mods">Nuove Mod Raccomandate</string>
-    <string name="Last_Update_Mods">Ultimi Aggiornamenti</string>
-    <string name="SearchHint">Ricerca</string>
+    <string name="Recommended_App_Mods">Mod app raccomandate</string>
+    <string name="Hot_App_Mods">Mod app popolari</string>
+    <string name="Recommended_New_Mods">Mod Raccomandate</string>
+    <string name="Last_Update_Mods">Aggiornamenti Recenti</string>
+    <string name="SearchHint">Cerca</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Pagina principale</string>
+    <string name="Homeweb">Pagina internet</string>
     <string name="Management">Gestione</string>
     <string name="Settings">Impostazioni</string>
     <string name="Feedback">Feedback (opinione)</string>
     <string name="Translation">Traduzione</string>
     <string name="Share">Condividi</string>
-    <string name="Checkforupdate">Controlla aggiornamenti</string>
-    <string name="FollowusonTwitter">Seguici su Twitter </string>
+    <string name="Checkforupdate">Controllare aggiornamenti</string>
+    <string name="FollowusonTwitter">Segui noi su Twitter </string>
     <string name="FollowusonFacebook">Seguici su Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Avviso di Rete Mobile</string>
@@ -52,7 +52,7 @@
     <string name="Download_Directory">Cartella di Download</string>
     <string name="settings_other">Altre impostazioni</string>
     <string name="settings_clear_cache">Cancella la Cache</string>
-    <string name="Clean_up_the_complete">La cache è stata cancellata.</string>
+    <string name="Clean_up_the_complete">La cache è stata cancellata</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Oops! Nessun risultato trovato.</string>
     <!--下载管理页-->
@@ -61,16 +61,16 @@
     <string name="Finished">Terminato</string>
     <string name="No_Download">File non trovato</string>
     <string name="Pause">Pausa</string>
-    <string name="Waiting_in_queue">Aspettando la coda</string>
+    <string name="Waiting_in_queue">Aspettando la linea</string>
     <string name="Completed">Completato</string>
     <string name="UnZiping">Estrazione</string>
     <string name="UnZip_succeed">Estrazione terminata</string>
     <string name="Rate">Dai un Voto</string>
     <string name="Rated">Valutato</string>
     <string name="Version">Versione</string>
-    <string name="Ratingsreviews">Giudizi &amp; Recensioni</string>
-    <string name="Tryitlater">Ci scusi per il disagio,Riprova più tardi</string>
-    <string name="Serviceisbusy">Collegamento al server…</string>
+    <string name="Ratingsreviews">Giudizi e Recensioni</string>
+    <string name="Tryitlater">Riprova più tardi</string>
+    <string name="Serviceisbusy">Connettendo</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Avviso</string>
     <string name="deletethistask">Elimina questo file</string>
@@ -90,30 +90,30 @@
     <string name="Downloadboundle">Scaricare il BUNDLE</string>
     <string name="Downloaded">File Scaricati</string>
     <string name="Install">Installa</string>
-    <string name="Connecting">Collegamento…</string>
+    <string name="Connecting">Collegamento</string>
     <string name="readmore">Leggi di più</string>
-    <string name="modfeature">Informazioni sulla mod:</string>
-    <string name="Moreversion">Altre Versioni</string>
+    <string name="modfeature">funzionaltà mod</string>
+    <string name="Moreversion">Altra Versione</string>
     <string name="Recommend">Consigliato</string>
     <string name="Recommendmod">Mod Consigliata</string>
-    <string name="Moremods">Ultime Versioni</string>
+    <string name="Moremods">Più mod</string>
     <!--评分-->
     <string name="Submit">Invia</string>
-    <string name="Hated_it">Lo Odio!</string>
-    <string name="Disliked_it">Non mi piace.</string>
-    <string name="Its_ok">Ci sta.</string>
-    <string name="Liked_it">Mi è piaciuto.</string>
-    <string name="Loved_it">Lo adoro!</string>
+    <string name="Hated_it">L\'ho odiato</string>
+    <string name="Disliked_it">Non mi piace</string>
+    <string name="Its_ok">Ci sta</string>
+    <string name="Liked_it">Mi è piaciuto</string>
+    <string name="Loved_it">Lo adoro</string>
     <!--分享-->
-    <string name="share_happymod">Condividi \"HappyMod\" attraverso</string>
-    <string name="share_subject">Ottieni HappyMod</string>
+    <string name="share_happymod">condividi \"happyhod\" via</string>
+    <string name="share_subject">condividi soggetto</string>
     <string name="share_text">Scarica Mod funzionanti al 100% con @HappyMod! 
 \nhttps: //www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Percorso di Archiviazione</string>
     <!--update -->
-    <string name="force_des">MOD Funzionanti al 100%</string>
-    <string name="nvisrti">Una nuova versione è pronta per l\'installazione.</string>
+    <string name="force_des">Mod funzionanti al 100%</string>
+    <string name="nvisrti">Una nuova versione è pronta per l\'installazione</string>
     <string name="OPEN">APRI</string>
     <string name="OK">OK</string>
     <string name="Loading">Caricando…</string>
@@ -175,7 +175,7 @@
     <string name="Endless">A non finire</string>
     <string name="Invincible">Invincibilita\'</string>
     <string name="Unlimitedhints">Aiuti Infiniti</string>
-    <string name="Megamod">Mega Mod</string>
+    <string name="Megamod">Grande Mod</string>
     <string name="Full">Versione Completa</string>
     <!-- 注册登录 -->
     <string name="Username">Nome utente</string>
@@ -217,7 +217,7 @@
     <string name="Resetpassword">Resetta la password</string>
     <string name="NewPassword">Nuova password</string>
     <string name="Enterthepasswordagain">Conferma la tua password</string>
-    <string name="signuplimitdes">Il tuo dispositivo ha raggiunto il numero massimo di nomi utenti registrati. Per favore seleziona il nome utente qui sotto per accedere.</string>
+    <string name="signuplimitdes">На вашем устройстве достигнуто максимальное количество зарегистрированных учетных записей. Пожалуйста, выберите учетные записи ниже, чтобы войти в систему.</string>
     <string name="Register">Registrare</string>
     <string name="eyun">Inserisci il tuo nome utente</string>
     <string name="eypsw">Inserisci la tua password</string>
@@ -243,7 +243,7 @@
     <string name="Myuploads">I miei caricamenti</string>
     <string name="Updated">Aggiornato</string>
     <string name="Comingsoon">Prossimamente</string>
-    <string name="searchappyouwanttorequest">Cerca l\'app che desideri richiedere:</string>
+    <string name="searchappyouwanttorequest">Cerca l\'app che desideri richiedere</string>
     <string name="Addupload">Aggiungi un caricamento</string>
     <string name="requestdetailhint">Dicci di più sulla tua richiesta. (Almeno 50 caratteri)</string>
     <string name="requesterror">Invio non riuscito, riprova più tardi.</string>
@@ -251,7 +251,7 @@
     <string name="view">Vedi</string>
     <string name="isthiswork">Funziona?</string>
     <string name="edit">Modificare</string>
-    <string name="APKZippyshareurl">APK Zippyshare/Mediafire URL:</string>
+    <string name="APKZippyshareurl">APK Zippyshare/Url Mediafire:</string>
     <string name="OBBDataurl">OBB/Data Zippyshare/Mediafire URL: (facoltativo)</string>
     <string name="Youarereupload">Stai caricando:</string>
     <string name="Upload">Caricare</string>
@@ -330,7 +330,7 @@
     <string name="h5_menu_shortcut">Aggiungi alla schermata Home</string>
     <string name="installplaywitouthti">Gioca instantaneamente a questo gioco senza installarlo</string>
     <!--全局rty-->
-    <string name="crash_dialog_title">Oops..</string>
+    <string name="crash_dialog_title">Ops!</string>
     <string name="crash_toast_message">Siamo spiacenti, è accaduto un errore, l\'app si chiuderà da sola, si prega di inviare la segnalazione di bug via e-mail.</string>
     <string name="crash_dialog_message">Siamo spiacenti, un errore è accaduto, si prega di inviare la segnalazione di bug via e-mail.</string>
     <string name="crash_dialog_feedback">Segnala un bug</string>
