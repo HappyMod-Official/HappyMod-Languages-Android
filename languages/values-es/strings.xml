@@ -3,7 +3,7 @@
     <!--西班牙-->
     <string name="app_name">Happymod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">Facebook_id_de_aplicación</string>
+    <string name="facebook_app_id">id_aplicación_facebook</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -21,17 +21,17 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--homepage-->
-    <string name="Paid">Pago</string>
-    <string name="GAME">JUEGO</string>
-    <string name="APP">Aplicacion</string>
+    <string name="Paid">De pago</string>
+    <string name="GAME">Juego</string>
+    <string name="APP">Aplicación</string>
     <string name="NEW">Nuevo</string>
-    <string name="Categories">Categorias</string>
+    <string name="Categories">Categorías</string>
     <string name="games">Juegos</string>
     <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se puede conectar a la red</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
     <string name="Hot_Game_Mods">Juegos de modificación populares</string>
-    <string name="Recommended_App_Mods">Recomendaciones de juegos de mierda</string>
+    <string name="Recommended_App_Mods">Recomendaciones de juegos modificados</string>
     <string name="Hot_App_Mods">Mods de app populares</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
