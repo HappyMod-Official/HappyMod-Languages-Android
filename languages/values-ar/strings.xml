@@ -2,9 +2,8 @@
 <resources>
     <!--阿拉伯-->
     <string name="app_name">هابي مود</string>
-    <string name="Homecom">هابي_مود.com</string>
-    <string name="facebook_app_id">‭
-\n658182831284939</string>
+    <string name="Homecom">happymod.com</string>
+    <string name="facebook_app_id">٦٥٨١٨٢٨٣١٢٨٤٩٣٩</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -22,51 +21,51 @@
     </string-array>
     <!-- ↑  以上不用多语言翻译-->
     <!--首页-->
-    <string name="Paid">مدفوع</string>
+    <string name="Paid">دفع</string>
     <string name="GAME">لعبة</string>
     <string name="APP">‌تطبيق</string>
     <string name="NEW">جديد</string>
     <string name="Categories">الفئات</string>
-    <string name="games">العاب</string>
-    <string name="REFRESH">إعادة تحميلsaw</string>
-    <string name="Unable_to_connect_to_the_network">فشل في الاتصال بالشبكة</string>
-    <string name="Recommended_Game_Mods">العاب معدلة موصى بها</string>
-    <string name="Hot_Game_Mods">العاب معدلة ذات شعبية</string>
-    <string name="Recommended_App_Mods">تطبيقات مهكرة نحن نوصي بها</string>
-    <string name="Hot_App_Mods">العاب مهكرة راعة</string>
-    <string name="Recommended_New_Mods">موصى به تعديلات جديدة</string>
-    <string name="Last_Update_Mods">اخر التحديثات</string>
+    <string name="games">ألعاب</string>
+    <string name="REFRESH">تحديث</string>
+    <string name="Unable_to_connect_to_the_network">غير قادر على الاتصال بالشبكة</string>
+    <string name="Recommended_Game_Mods">ألعاب معدلة موصى بها</string>
+    <string name="Hot_Game_Mods">ألعاب معدلة رائجة</string>
+    <string name="Recommended_App_Mods">تطبيقات معدلة موصى بها</string>
+    <string name="Hot_App_Mods">تطبيقات معدلة رائجة</string>
+    <string name="Recommended_New_Mods">تطبيقات معدلة جديدة</string>
+    <string name="Last_Update_Mods">آخر التحديثات</string>
     <string name="SearchHint">بحث</string>
-    <string name="Homeweb">الصفحهل الرئيسيه</string>
+    <string name="Homeweb">الصفحة الرئيسية</string>
     <string name="Management">إدارة</string>
     <string name="Settings">الإعدادات</string>
     <string name="Feedback">تعليق</string>
-    <string name="Translation">الترجمة</string>
+    <string name="Translation">ترجمة</string>
     <string name="Share">مشاركة</string>
-    <string name="Checkforupdate">فحص التحديثات</string>
+    <string name="Checkforupdate">التحقق من وجود تحديث</string>
     <string name="FollowusonTwitter">تابعنا على تويتر </string>
     <string name="FollowusonFacebook">تابعنا على فيسبوك</string>
-    <string name="settings_network_remind">الهاتف غير متصل بلشبكة</string>
-    <string name="settings_auto_install">إعدادات التثبيت التلقائي‮‭‭</string>
+    <string name="settings_network_remind">الهاتف غير متصل بالشبكة</string>
+    <string name="settings_auto_install">التثبيت التلقائي</string>
     <string name="Download_Directory">تحميل الدليل</string>
-    <string name="settings_other">658182831284939</string>
-    <string name="settings_clear_cache">مسح ذاكرة التخزين</string>
+    <string name="settings_other">آخر</string>
+    <string name="settings_clear_cache">مسح ذاكرة التخزين المؤقت</string>
     <string name="Clean_up_the_complete">تم حذف ذاكرة التخزين المؤقت</string>
     <string name="des_no_serach_result">أوه! لم يتم العثور على نتائج.</string>
     <string name="Downloads">التحميلات</string>
-    <string name="Downloading">جار التحميل</string>
-    <string name="Finished">اكتمل</string>
-    <string name="No_Download">لم يتم العثور على ملف.</string>
-    <string name="Pause">ايقاف</string>
+    <string name="Downloading">جارٍ التحميل ...</string>
+    <string name="Finished">إنتهى</string>
+    <string name="No_Download">لم يتم العثور على الملف</string>
+    <string name="Pause">إيقاف مؤقت</string>
     <string name="Waiting_in_queue">في قائمة الانتظار</string>
-    <string name="Completed">مكتمل</string>
-    <string name="UnZiping">جاري الاستخراج</string>
+    <string name="Completed">إكتمل</string>
+    <string name="UnZiping">إستخراج</string>
     <string name="UnZip_succeed">تم الإنتهاء من الاستخراج</string>
     <string name="Rate">تقييم</string>
     <string name="Rated">تم تقييمه</string>
     <string name="Version">إصدار</string>
     <string name="Ratingsreviews">التقييمات و المراجعات</string>
-    <string name="Tryitlater">جرب تاني في وقت لاحق</string>
+    <string name="Tryitlater">حاول مرة أخرى لاحقاً</string>
     <string name="Serviceisbusy">جارٍ الاتصال…</string>
     <string name="Notice">تنويه</string>
     <string name="deletethistask">حذف هذا الملف</string>
@@ -85,7 +84,7 @@
     <string name="Downloadboundle">تنزيل الحزمة</string>
     <string name="Downloaded">تم التنزيل</string>
     <string name="Install">تثبيت</string>
-    <string name="Connecting">جار الاتصال …</string>
+    <string name="Connecting">جارٍ الاتصال …</string>
     <string name="readmore">قراءة المزيد</string>
     <string name="modfeature">معلومات عن التطبيق المعدل</string>
     <string name="Moreversion">المزيد من الإصدارات</string>
@@ -94,17 +93,17 @@
     <string name="Moremods">المزيد من التعديلات</string>
     <string name="Submit">ارسال</string>
     <string name="Hated_it">اكرهها! لا دخل لي</string>
-    <string name="Disliked_it">لم يعجبني.وهذا رائي</string>
-    <string name="Its_ok">أنه جيد.🍑</string>
+    <string name="Disliked_it">لم يعجبني</string>
+    <string name="Its_ok">لا بأس به</string>
     <string name="Liked_it">اعجبني. God damn your mother</string>
     <string name="Loved_it">احببته! ربي يعطي كف وا خرا</string>
-    <string name="share_happymod">مشاركة "HappyMod" عبر</string>
+    <string name="share_happymod">مشاركة تطبيق هابي مود</string>
     <string name="share_subject">شارك المحتوي</string>
     <string name="share_text">نزل تطبيقات والعاب معدلة تعمل 100% مع HappyMod@
 \n/https://www.happymod.com</string>
     <string name="pref_location">مكان التخزين</string>
-    <string name="force_des">تطبيقات معدلة تعمل 100%</string>
-    <string name="nvisrti">الإصدار الجديد جاهز للتثبيت.</string>
+    <string name="force_des">تطبيقات معدلة تعمل ١٠٠٪</string>
+    <string name="nvisrti">نسخة جديدة جاهزة للتثبيت</string>
     <string name="OPEN">فتح</string>
     <string name="OK">حسنا</string>
     <string name="Loading">جار التحميل…</string>
@@ -203,7 +202,7 @@
     <string name="Resetpassword">إعادة تعيين كلمة المرور</string>
     <string name="NewPassword">كلمة السر الجديدة</string>
     <string name="Enterthepasswordagain">تأكيد كلمة المرور</string>
-    <string name="signuplimitdes">وصل جهازك إلى الحد الأقصى لعدد الحسابات الجديدة. يرجى اختيار اسم المستخدم أدناه لتسجيل الدخول.</string>
+    <string name="signuplimitdes">وصل جهازك إلى الحد الأقصى لعدد الحسابات المسجلة ، الرجاء تحديد الحسابات أدناه لتسجيل الدخول</string>
     <string name="Register">تسجيل</string>
     <string name="eyun">أدخل اسم المستخدم الخاص بك</string>
     <string name="eypsw">ادخل كلمة السر الخاصة بك</string>
@@ -228,7 +227,7 @@
     <string name="Myuploads">مركز الرفع الخاص بي</string>
     <string name="Updated">محدث</string>
     <string name="Comingsoon">قريبا</string>
-    <string name="searchappyouwanttorequest">ابحث في التطبيق الذي تريد تنزيله:</string>
+    <string name="searchappyouwanttorequest">ابحث عن التطبيق الذي تريده</string>
     <string name="Addupload">رفع تطبيق</string>
     <string name="requestdetailhint">أكتب المزيد عن سءالك او طلبك على الاقل ٥٠ حرف</string>
     <string name="requesterror">فشل الإرسال ، يرجى المحاولة مرة أخرى لاحقًا.</string>
@@ -314,7 +313,7 @@
     <string name="h5_menu_share">شارك</string>
     <string name="h5_menu_shortcut">أضف إلى الشاشة الرئيسية</string>
     <string name="installplaywitouthti">اللعب الفوري دون الحاجة إلى تثبيت</string>
-    <string name="crash_dialog_title">أوه‏.</string>
+    <string name="crash_dialog_title">أوه!</string>
     <string name="crash_toast_message">عذرًا ، سيتم استثناء APP ، submit الرجاء إرسال تقرير الأخطاء عبر البريد الإلكتروني.</string>
     <string name="crash_dialog_message">عذرًا ، استثناء APP ، يرجى إرسال تقرير الأخطاء عبر البريد الإلكتروني.</string>
     <string name="crash_dialog_feedback">تقرير الأخطاء</string>
