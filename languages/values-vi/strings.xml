@@ -217,7 +217,7 @@
     <string name="NewPassword">Mật khẩu mới</string>
     <string name="Enterthepasswordagain">Xác nhận mật khẩu</string>
     <string name="signuplimitdes">Thiết bị của bạn đã đạt đến số lượng người dùng đã đăng ký tối đa. Vui lòng chọn tên người dùng bên dưới để đăng nhập.</string>
-    <string name="Register">Ghi danh</string>
+    <string name="Register">Đăng ký</string>
     <string name="eyun">Nhập tên người dùng của bạn</string>
     <string name="eypsw">Nhập mật khẩu của bạn</string>
     <string name="loginerrortips">Vui lòng nhập đúng tên người dùng và mật khẩu. Lưu ý rằng trường mật khẩu là trường nhạy cảm.</string>
@@ -243,7 +243,7 @@
     <string name="Comingsoon">Sắp có</string>
     <string name="searchappyouwanttorequest">Tìm kiếm ứng dụng mà bạn muốn yêu cầu:</string>
     <string name="Addupload">Thêm tải lên</string>
-    <string name="requestdetailhint">Hiển thị thêm về yêu cầu của bạn. (Ít nhất 50 ký tự)</string>
+    <string name="requestdetailhint">Hãy cho biết thêm về yêu cầu của bạn. (Nhập ít nhất 50 ký tự)</string>
     <string name="requesterror">Gửi thất bại, vui lòng thử lại sau.</string>
     <string name="detailserror">(100-4000 ký tự)</string>
     <string name="view">Lượt xem</string>
@@ -266,14 +266,14 @@
     <string name="RecommendMods">Đề nghị Mod</string>
     <string name="requestdetailserror">(50-4000 ký tự)</string>
     <string name="Changetheimage">Thay đổi hình ảnh &gt;&gt;</string>
-    <string name="Typethecodeinthebox">Nhập mã vào ô</string>
+    <string name="Typethecodeinthebox">Hãy nhập mã vào ô trống</string>
     <string name="Verificationerror">Mã xác nhận thất bại. Vui lòng thử lại.</string>
     <string name="Verifing">Đang xác minh</string>
     <!--补偿下载-->
     <string name="fix_tips_title">Hãy thử các máy chủ khác trước khi xóa</string>
-    <string name="fix_tips_content">Bạn có muốn kết nối với một máy chủ khác để thử tải xuống trước khi xóa nó không?</string>
+    <string name="fix_tips_content">Bạn có muốn kết nối với server khác để thử tải xuống trước khi xóa nó không\?</string>
     <string name="fix_progress_title">Máy chủ quét</string>
-    <string name="fix_progress_content">Có thể mất vài phút để tìm kiếm máy chủ nhanh nhất cho bạn, vui lòng đợi.</string>
+    <string name="fix_progress_content">Quá trình tìm kiếm server nhanh nhất cho bạn có thể mất vài phút, vui lòng đợi.</string>
     <string name="fix_failed_content">Hiện tại không có máy chủ có sẵn cho bạn, vui lòng thử lại sau.</string>
     <string name="fix_tips_failtitle">Không còn máy chủ</string>
     <string name="fix_ok">Thử nó</string>
@@ -286,7 +286,7 @@
     <string name="myreply">Câu trả lời của tôi</string>
     <string name="Post">Bài đăng</string>
     <string name="addavideo">Thêm một video</string>
-    <string name="enterthevideourlhere">Vui lòng nhập url video Youtube tại đây.</string>
+    <string name="enterthevideourlhere">Vui lòng nhập URL video Youtube tại đây.</string>
     <string name="onlysupportyoutube">Chỉ hỗ trợ video Youtube</string>
     <string name="searchorcreate">Tìm kiếm hoặc tạo</string>
     <string name="hashtags">Lịch sử hashtags</string>
@@ -309,10 +309,10 @@
     <string name="deletefailed">Không thể xóa</string>
     <string name="Group">Nhóm</string>
     <string name="repliedtouser">trả lời cho</string>
-    <string name="speaksomething">Vui lòng nhập ít nhất 20 nhà tài trợ</string>
+    <string name="speaksomething">Vui lòng nhập ít nhất 20 ký tự</string>
     <string name="speaktoolong">Số lượng ký tự vượt quá giới hạn, có thể nhập tối đa 4000 ký tự.</string>
     <string name="tapandholdptodelete">Chạm và giữ hình ảnh để xóa nó.</string>
-    <string name="addvideofaild">Thêm video không thành công！ Vui lòng đảm bảo rằng mạng của bạn có thể duyệt video Youtube và thêm lại.</string>
+    <string name="addvideofaild">Thêm video thất bại！ Vui lòng đảm bảo rằng mạng của bạn có thể duyệt video Youtube và thêm lại.</string>
     <string name="Video">Video</string>
     <string name="Hotsearches">Tìm kiếm hấp dẫn</string>
     <string name="Hothashtags">Hashtags nóng</string>
@@ -333,10 +333,10 @@
     <string name="crash_dialog_message">Xin lỗi, ngoại lệ APP, vui lòng gửi báo cáo lỗi của bạn qua email.</string>
     <string name="crash_dialog_feedback">Báo cáo lỗi</string>
     <string name="crash_dialog_restart">Khởi động lại</string>
-    <string name="init_fail">Khởi tạo thất bại, vui lòng sử dụng VPN hoặc thay đổi sang các mạng khác.</string>
+    <string name="init_fail">Khởi động thất bại, vui lòng sử dụng VPN hoặc thay đổi sang mạng khác rồi thử lại.</string>
     <string name="error_file_des">Tập tin này đã bị xóa và hiện đang được tải xuống lại.</string>
-    <string name="sdpermission">Chúng tôi cần truy cập vào bộ nhớ ngoài của bạn. Vui lòng đảm bảo rằng quyền được cấp.</string>
-    <string name="Night_Mode">Chế độ ban đêm</string>
+    <string name="sdpermission">Chúng tôi cần truy cập vào bộ nhớ ngoài của bạn. Vui lòng đảm bảo rằng bạn đã cấp quyền truy cập vào bộ nhớ ngoài</string>
+    <string name="Night_Mode">Chế độ tối</string>
     <string name="thisty">Tên người dùng đó đã được sử dụng. Thử cái khác. Có sẵn:</string>
     <!--home_feature-->
     <string name="Feature">Đặc sắc</string>
@@ -344,7 +344,7 @@
     <string name="PopularInlast">Phổ biến trong 24 giờ qua</string>
     <string name="Latestupdated">Cập nhật mới nhất</string>
     <string name="paidforfree">Được trả tiền miễn phí</string>
-    <string name="ToadyRecommend">Đề nghị của Toady</string>
+    <string name="ToadyRecommend">Đề xuất hôm nay</string>
     <string name="hotmods">Mod nóng</string>
     <string name="hotrecommended">Khuyến nghị nóng</string>
     <!--upload 新增-->
@@ -363,7 +363,7 @@
     <string name="maxmbperimage">Tối đa 10 MB cho mỗi hình ảnh.</string>
     <string name="Imagesmustbelessthan">Hình ảnh phải nhỏ hơn 10 MB, vui lòng giảm kích thước hình ảnh, lưu lại hoặc xuất lại tệp của bạn và thử tải lên lại.</string>
     <string name="installfailed">Cài đặt thất bại.</string>
-    <string name="miuides">Vui lòng bật Tùy chọn nhà phát triển, tắt tối ưu hóa MIUI và thử lại.</string>
+    <string name="miuides">Vui lòng bật Tùy chọn nhà phát triển và tắt tối ưu hóa MIUI rồi thử lại.</string>
     <string name="playdes">Chơi</string>
     <string name="todayhotgame">Hôm nay nóng</string>
     <string name="newcoming">Mới đến</string>
@@ -371,8 +371,8 @@
     <string name="toopenitquickntime">Để mở nhanh vào lần sau, vui lòng:</string>
     <string name="finditin">Tìm nó trong X</string>
     <string name="needhelp">Cần giúp đỡ?</string>
-    <string name="peoplealsoplaygames">Những người đã chơi trò chơi này cũng đã chơi:</string>
-    <string name="opencommunitydes">Nếu phát hiện người lớn hoặc bài nào xấu, vui lòng bấm vào nút report ở góc trên bên phải bài, chúng tôi sẽ xóa bài và chặn người đăng trong lần đầu tiên! Hãy ăn nói văn minh!</string>
+    <string name="peoplealsoplaygames">Những người đã chơi trò chơi này cũng thích:</string>
+    <string name="opencommunitydes">Nếu phát hiện nội dung người lớn hoặc bài viết nào đó sử dụng ngôn từ không phù hợp thì vui lòng bấm vào nút \'Báo cáo\' hoặc \'report\' ở góc trên bên phải bài, chúng tôi sẽ xóa bài và chặn người đăng trong lần đầu tiên! Hãy nói chuyện một cách văn minh lên nhé!</string>
     <string name="myreviews">Đánh giá của tôi</string>
     <string name="tagthisapp">Gắn cờ ứng dụng này</string>
     <string name="appuploader">Ứng dụng được tải lên bởi</string>
@@ -390,7 +390,7 @@
     <string name="pleaseentergoogleaddress">Vui lòng nhập id hoặc URL ứng dụng trên Google Play.</string>
     <string name="thisposthasbeendeleted">Bài viết đã bị xóa.</string>
     <string name="add">Thêm vào</string>
-    <string name="oagputc">Hoặc thêm URL Google play để tiếp tục</string>
+    <string name="oagputc">Hoặc thêm URL Google Play để tiếp tục</string>
     <string name="description">Sự miêu tả:</string>
     <string name="uploadbanner">Tải lên biểu ngữ (720 * 406)</string>
     <string name="noedituploadtips">Bạn không thể gửi nó mà không thực hiện bất kỳ thay đổi nào.</string>
@@ -411,12 +411,12 @@
     <string name="nolimits">Không giới hạn</string>
     <string name="nslnfsl">Không giới hạn tốc độ. Không có giới hạn kích thước tệp.</string>
     <string name="Clean">Dọn dẹp</string>
-    <string name="Cdnoadfree">Thiết kế sạch sẽ, không có quảng cáo &amp; 100% miễn phí!</string>
+    <string name="Cdnoadfree">Thiết kế gọn gàng, không có quảng cáo &amp; 100% miễn phí!</string>
     <string name="wrhtdbf">Chúng tôi khuyên bạn nên dùng HyperTorrent để tải xuống các tệp lớn.</string>
     <string name="nothanks">Không cám ơn</string>
-    <string name="Checkthenetwork">Kiểm tra mạng</string>
+    <string name="Checkthenetwork">Kiểm tra kết nối mạng</string>
     <string name="Configuringip">Định cấu hình IP khả dụng cho bạn</string>
     <string name="Configuringipfailed">Cấu hình không thành công, 8 IP được phát hiện là không khả dụng, vui lòng thử sử dụng VPN.</string>
-    <string name="Donatedes">HappyMod hoàn toàn miễn phí và chúng tôi cũng ghét quảng cáo như bạn！ \ n \ nChúng tôi cần sự đóng góp của bạn để tải xuống nhanh hơn và an toàn hơn. \ N \ nHãy kiên nhẫn và cố gắng xem toàn bộ quảng cáo để hoàn thành việc đóng góp. \ N \ nCảm ơn bạn！</string>
+    <string name="Donatedes">"HappyMod hoàn toàn miễn phí và chúng tôi cũng ghét quảng cáo cũng giống như bạn！  n  nChúng tôi cần sự đóng góp của bạn để tải xuống nhanh hơn và an toàn hơn.  N  nHãy kiên nhẫn và cố gắng xem toàn bộ quảng cáo để hoàn thành việc đóng góp.  N  nCảm ơn bạn！"</string>
     <string name="viewstepdeti">Xem chi tiết các bước</string>
 </resources>
