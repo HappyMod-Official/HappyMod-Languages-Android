@@ -70,7 +70,7 @@
     <string name="Version">Version</string>
     <string name="Ratingsreviews">Bewertungen &amp; Rezensionen</string>
     <string name="Tryitlater">Versuchen Sie es später noch einmal</string>
-    <string name="Serviceisbusy">Verbinden…</string>
+    <string name="Serviceisbusy">Verbinden</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Hinweis</string>
     <string name="deletethistask">Diese Datei löschen</string>
@@ -90,7 +90,7 @@
     <string name="Downloadboundle">Paket Herunterladen</string>
     <string name="Downloaded">Heruntergeladen</string>
     <string name="Install">Installieren</string>
-    <string name="Connecting">Verbinden…</string>
+    <string name="Connecting">Verbinden</string>
     <string name="readmore">Weiterlesen</string>
     <string name="modfeature">Mod-Funktion</string>
     <string name="Moreversion">Weitere Versionen</string>
@@ -113,8 +113,8 @@
     <string name="pref_location">Speicherort</string>
     <!--update -->
     <string name="force_des">100% funktionierende Mod</string>
-    <string name="nvisrti">Eine neue Version ist zur Installation bereit!</string>
-    <string name="OPEN">Offen</string>
+    <string name="nvisrti">Eine neue Version ist zur Installation bereit</string>
+    <string name="OPEN">Öffnen</string>
     <string name="OK">Ok</string>
     <string name="Loading">Wird geladen…</string>
     <string name="updata_tip">Du verwendest die neueste stabile Version von HappyMod</string>
