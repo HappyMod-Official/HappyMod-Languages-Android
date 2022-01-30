@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Limpiar caché</string>
     <string name="Clean_up_the_complete">El caché fue vaciado</string>
     <!--nodata-->
-    <string name="des_no_serach_result">No se encontraron resultados. Ingrese el nombre completo de la aplicación y solicítela si no está disponible.</string>
+    <string name="des_no_serach_result">¡UPS! No se han encontrado resultados.</string>
     <!--download manage-->
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
