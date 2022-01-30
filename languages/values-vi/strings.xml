@@ -27,94 +27,98 @@
     <string name="NEW">Mới</string>
     <string name="Categories">Thể loại</string>
     <string name="games">Trò chơi</string>
-    <string name="REFRESH">Làm tươi</string>
+    <string name="REFRESH">Làm mới</string>
     <string name="Unable_to_connect_to_the_network">Không thể truy cập internet.</string>
-    <string name="Recommended_Game_Mods">Mod trò chơi được đề xuất</string>
-    <string name="Hot_Game_Mods">Các mods phổ biến cho games</string>
-    <string name="Recommended_App_Mods">Mod ứng dụng được đề xuất</string>
-    <string name="Hot_App_Mods">Mod ứng dụng nóng</string>
+    <string name="Recommended_Game_Mods">Trò chơi mod được đề xuất</string>
+    <string name="Hot_Game_Mods">Các game mods phổ biến</string>
+    <string name="Recommended_App_Mods">Ứng dụng được đề xuất mod</string>
+    <string name="Hot_App_Mods">Ứng dụng được mod phổ biến</string>
     <string name="Recommended_New_Mods">Đề xuất Mod mới</string>
-    <string name="Last_Update_Mods">Cập nhật mới nhất</string>
+    <string name="Last_Update_Mods">Bản cập nhật mới nhất</string>
     <string name="SearchHint">Tìm kiếm</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Trang web chinh thưc</string>
-    <string name="Management">Sự quản lý</string>
+    <string name="Homeweb">Trang web chính thức</string>
+    <string name="Management">Quản lý</string>
     <string name="Settings">Cài đặt</string>
     <string name="Feedback">Phản hồi</string>
     <string name="Translation">Dịch</string>
     <string name="Share">Chia sẻ</string>
-    <string name="Checkforupdate">Kiểm tra cập nhật</string>
-    <string name="FollowusonTwitter">theo dõi chúng tối trên Twitter</string>
-    <string name="FollowusonFacebook">Hãy theo dõi chúng tôi trên Facebook</string>
+    <string name="Checkforupdate">Kiểm tra các bản cập nhật</string>
+    <string name="FollowusonTwitter">theo dõi chúng tôi trên Twitter </string>
+    <string name="FollowusonFacebook">Theo dõi chúng tôi trên Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Cảnh báo mạng di động</string>
     <string name="settings_auto_install">Tự động cài đặt</string>
-    <string name="Download_Directory">Tải xuống thư mục</string>
+    <string name="Download_Directory">Chọn đường dẫn thư mục tải xuống</string>
     <string name="settings_other">Khác</string>
-    <string name="settings_clear_cache">Xóa bộ nhớ đệm</string>
-    <string name="Clean_up_the_complete">Bộ nhớ cache bị xóa.</string>
+    <string name="settings_clear_cache">Xóa bộ nhớ đệm (cache)</string>
+    <string name="Clean_up_the_complete">Đã xoá hết bộ nhớ cache.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Rất tiếc ! Không có kết quả.</string>
+    <string name="des_no_serach_result">Rất tiếc! Không có kết quả nào được tìm thấy.</string>
     <!--下载管理页-->
-    <string name="Downloads">Tải xuống</string>
+    <string name="Downloads">Ứng dụng đã tải xuống</string>
     <string name="Downloading">Đang tải xuống</string>
     <string name="Finished">Đã kết thúc</string>
-    <string name="No_Download">Không có hồ sơ nào được tìm thấy.</string>
-    <string name="Pause">Tạm ngừng</string>
-    <string name="Waiting_in_queue">Chờ đợi đến lượt</string>
+    <string name="No_Download">Không tìm thấy tệp tin nào.</string>
+    <string name="Pause">Tạm dừng</string>
+    <string name="Waiting_in_queue">Đang chờ đến lượt</string>
     <string name="Completed">Đã hoàn thành</string>
     <string name="UnZiping">Trích xuất</string>
     <string name="UnZip_succeed">Hoàn thành trích xuất</string>
     <string name="Rate">Tỷ lệ</string>
     <string name="Rated">Xếp hạng</string>
     <string name="Version">Phiên bản</string>
-    <string name="Ratingsreviews">Xếp hạng &amp; Nhận xét</string>
-    <string name="Tryitlater">Thử lại sau nhé</string>
-    <string name="Serviceisbusy">Kết nối...</string>
+    <string name="Ratingsreviews">Nhận xét &amp; đánh giá</string>
+    <string name="Tryitlater">Tải xuống thất bại, vui lòng thử lại sau nhé</string>
+    <string name="Serviceisbusy">Đang kết nối...</string>
     <!-- 下载删除的文字 -->
     <string name="Notice">Để ý</string>
     <string name="deletethistask">Xóa tập tin này</string>
-    <string name="Cancel">Hủy bỏ</string>
-    <string name="Delete">Xóa bỏ</string>
-    <string name="Whydeletethisdownload">Tại sao xóa bản tải xuống này?</string>
-    <string name="NotwhatIwant">Không phải những gì tôi muốn</string>
+    <string name="Cancel">Hủy</string>
+    <string name="Delete">Xóa</string>
+    <string name="Whydeletethisdownload">Hãy cho chúng tôi biết vì sao bạn lại xóa bản tải xuống này\?</string>
+    <string name="NotwhatIwant">Đây không phải là ứng dụng/game tôi mong muốn</string>
     <string name="Downloadfailed">Tải xuống thất bại</string>
-    <string name="Downloadistooslow">Tải xuống quá chậm</string>
+    <string name="Downloadistooslow">Tốc độ tải xuống chậm vãi nồi</string>
     <!--APP详情页-->
-    <string name="Mods">Mod</string>
-    <string name="Original">Nguyên</string>
-    <string name="Previousversion">Phiên bản trước</string>
-    <string name="Download">Tải về</string>
-    <string name="Downloadobb">Tải về (APK + OBB)</string>
-    <string name="Downloaddata">Tải về (APK + DATA)</string>
-    <string name="Downloadboundle">Tải về BUNDLE</string>
+    <string name="Mods">Mods</string>
+    <string name="Original">Bản gốc</string>
+    <string name="Previousversion">Phiên bản cũ</string>
+    <string name="Download">Tải xuống</string>
+    <string name="Downloadobb">Tải xuống (APK+OBB)</string>
+    <string name="Downloaddata">Tải xuống (APK+DATA)</string>
+    <string name="Downloadboundle">Tải xuống BUNDLE</string>
     <string name="Downloaded">Đã tải xuống</string>
-    <string name="Install">cài đặt, dựng lên</string>
-    <string name="Connecting">Kết nối...</string>
+    <string name="Install">Cài đặt Ư.dụng</string>
+    <string name="Connecting">Đang kết nối...</string>
     <string name="readmore">Đọc thêm</string>
-    <string name="modfeature">Thông tin mod:</string>
-    <string name="Moreversion">Các phiên bản khác</string>
+    <string name="modfeature">Tính năng mod:</string>
+    <string name="Moreversion">Phiên bản khác</string>
     <string name="Recommend">Giới thiệu</string>
-    <string name="Recommendmod">Đề xuất Mod</string>
-    <string name="Moremods">Phiên bản mới nhất</string>
+    <string name="Recommendmod">Bản Mod đề xuất</string>
+    <string name="Moremods">Bản Mod khác</string>
     <!--评分-->
-    <string name="Submit">Gửi đi</string>
+    <string name="Submit">Gửi</string>
     <string name="Hated_it">Ghét nó!</string>
     <string name="Disliked_it">Không thích nó.</string>
     <string name="Its_ok">Ổn mà.</string>
     <string name="Liked_it">Thích nó.</string>
     <string name="Loved_it">Yêu nó!</string>
     <!--分享-->
-    <string name="share_happymod">Chia sẻ ‘HappyMod, qua</string>
+    <string name="share_happymod">Chia sẻ \'HappyMod\' qua</string>
     <string name="share_subject">Nhận HappyMod</string>
-    <string name="share_text">Tải về mod hoạt động 100% với @HappyMod\nhttps://www.happymod.com/</string>
+    <string name="share_text">Tải về ngay ứng dụng và game Mod hoạt động 100% đúng như yêu cầu lun với @HappyMod
+\nhttps://www.happymod.com/
+\n
+\n
+\n*À mà có một số bản mod bị đánh giá ko chơi được nhé, do mấy thằng tào lao đăng bậy ấy :)</string>
     <!--修改路径-->
-    <string name="pref_location">Khu vực lưu trữ</string>
+    <string name="pref_location">Vị trí lưu trữ</string>
     <!--update -->
-    <string name="force_des">100% chế độ làm việc</string>
+    <string name="force_des">Bản Mod của bạn sẽ hoạt động 100% luôn!</string>
     <string name="nvisrti">phiên bản mới đã sẵn sàng để cài đặt.</string>
     <string name="OPEN">MỞ</string>
-    <string name="OK">được</string>
+    <string name="OK">OK</string>
     <string name="Loading">Đang tải…</string>
     <string name="updata_tip">Bạn đang sử dụng phiên bản ổn định mới nhất của HappyMod</string>
     <string name="xzzb">Vui lòng tải HappyMod bản chính thức.</string>
