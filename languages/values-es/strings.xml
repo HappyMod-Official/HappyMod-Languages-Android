@@ -92,7 +92,7 @@
     <string name="Install">Instalar</string>
     <string name="Connecting">Conectando …</string>
     <string name="readmore">Leer más</string>
-    <string name="modfeature">Información del mod:</string>
+    <string name="modfeature">función de modificación</string>
     <string name="Moreversion">Más versiones</string>
     <string name="Recommend">Recomendar</string>
     <string name="Recommendmod">Mod Recomendado</string>
@@ -106,7 +106,7 @@
     <string name="Loved_it">Lo amo</string>
     <!--share-->
     <string name="share_happymod">Comparte HappyMod a través de</string>
-    <string name="share_subject">Obtener HappyMod</string>
+    <string name="share_subject">compartir tema</string>
     <string name="share_text">Descarga mods 100% funcionales con @HappyMod\nhttps://www.happymod.com/</string>
     <!--path-->
     <string name="pref_location">Ubicación de almacenamiento</string>
