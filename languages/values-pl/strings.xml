@@ -29,7 +29,7 @@
     <string name="REFRESH">Odśwież</string>
     <string name="Unable_to_connect_to_the_network">Nie można połączyć się z siecią</string>
     <string name="Recommended_Game_Mods">Polecane Zmodowane Gry</string>
-    <string name="Hot_Game_Mods">Popularne Zmodowane Gry</string>
+    <string name="Hot_Game_Mods">Popularne mody do Gry</string>
     <string name="Recommended_App_Mods">Polecane Zmodyfikowane Aplikacje</string>
     <string name="Hot_App_Mods">Najlepsze Zmodowane Aplikacje</string>
     <string name="Recommended_New_Mods">Polecane_Nowe_Mody</string>
@@ -89,7 +89,7 @@
     <string name="Moreversion">Więcej wersji</string>
     <string name="Recommend">Polecane</string>
     <string name="Recommendmod">Polecany mod</string>
-    <string name="Moremods">Najnowsze wersje</string>
+    <string name="Moremods">Więcej wersji</string>
     <string name="Submit">Potwierdź</string>
     <string name="Hated_it">Nienawidzę tego!</string>
     <string name="Disliked_it">Nie lubię tego.</string>
@@ -97,7 +97,7 @@
     <string name="Liked_it">Lubię to.</string>
     <string name="Loved_it">Kocham to!</string>
     <string name="share_happymod">Udostępnij „HappyMod” za pośrednictwem</string>
-    <string name="share_subject">Zdobądź HappyMod</string>
+    <string name="share_subject">udostępnij temat</string>
     <string name="share_text">Pobierz modyfikacje działające w 100% z @HappyMod
 \nhttps://www.happymod.com/</string>
     <string name="pref_location">Miejsce przechowywania</string>
