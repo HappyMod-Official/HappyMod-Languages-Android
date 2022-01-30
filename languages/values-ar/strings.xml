@@ -202,7 +202,7 @@
     <string name="Resetpassword">إعادة تعيين كلمة المرور</string>
     <string name="NewPassword">كلمة السر الجديدة</string>
     <string name="Enterthepasswordagain">تأكيد كلمة المرور</string>
-    <string name="signuplimitdes">وصل جهازك إلى الحد الأقصى لعدد الحسابات المسجلة ، الرجاء تحديد الحسابات أدناه لتسجيل الدخول</string>
+    <string name="signuplimitdes">"وصل جهازك إلى الحد الأقصى لعدد الحسابات المسجلة ، الرجاء تحديد الحسابات أدناه لتسجيل الدخول "</string>
     <string name="Register">تسجيل</string>
     <string name="eyun">أدخل اسم المستخدم الخاص بك</string>
     <string name="eypsw">ادخل كلمة السر الخاصة بك</string>
