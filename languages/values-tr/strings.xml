@@ -202,7 +202,7 @@
     <string name="Resetpassword">Şifreyi sıfırla</string>
     <string name="NewPassword">Yeni Şifre</string>
     <string name="Enterthepasswordagain">Şifreyi onayla</string>
-    <string name="signuplimitdes">Cihazınız maksimum kayıtlı kullanıcı adı sayısına ulaştı. Lütfen giriş yapmak için aşağıdan kullanıcı adını seçin.</string>
+    <string name="signuplimitdes">"Cihazınız maksimum kayıtlı kullanıcı adı sayısına ulaştı. Lütfen giriş yapmak için aşağıdan kullanıcı adını seçin. "</string>
     <string name="Register">Kayıt ol</string>
     <string name="eyun">Kullanıcı adınızı giriniz</string>
     <string name="eypsw">Şifrenizi girin</string>
