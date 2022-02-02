@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--法语-->
-    <string name="app_name"> Happy-Mod</string>
-    <string name="Homecom">HappyMod.com</string>
+    <string name="app_name">Mode heureux</string>
+    <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
@@ -40,7 +40,7 @@
     <string name="Homeweb">Accueil</string>
     <string name="Management">Gestion</string>
     <string name="Settings">Paramètres</string>
-    <string name="Feedback">Retour d\'information</string>
+    <string name="Feedback">Avis</string>
     <string name="Translation">Traduction</string>
     <string name="Share">Partager</string>
     <string name="Checkforupdate">Vérifier les mises à jours</string>
@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Vider le cache</string>
     <string name="Clean_up_the_complete">Le cache est effacé.</string>
     <!--空数据页-->
-    <string name="des_no_serach_result">Oops! Aucun résultat trouvé (entrer le nom entier du programme ou du jeu et demander s\'il n\'est pas valable dans la bibliothèque HappyMod)</string>
+    <string name="des_no_serach_result">Oops! Aucun résultat trouvé (entrer le nom entier du programme ou du jeu)</string>
     <!--下载管理页-->
     <string name="Downloads">Téléchargements</string>
     <string name="Downloading">Téléchargement</string>
@@ -105,8 +105,8 @@
     <string name="Liked_it">Je l\'ai aimé</string>
     <string name="Loved_it">Je l\'ai aimé</string>
     <!--分享-->
-    <string name="share_happymod">Partager \'HappyMod\' via</string>
-    <string name="share_subject">Obtenez HappyMod</string>
+    <string name="share_happymod">Partager \'HappyMod\'</string>
+    <string name="share_subject">Partager le sujet</string>
     <string name="share_text">Télécharger des mods 100% fonctionnels avec @HappyMod
 \nhttps://www.happymod.com/</string>
     <!--修改路径-->
@@ -121,7 +121,7 @@
     <string name="xzzb">S\'il vous plaît téléchargez la version officielle de HappyMod</string>
     <string name="Continue">Continuer</string>
     <string name="appobb">APK+OBB</string>
-    <string name="No_space_left_on_device">Pas d\'espace disponible sur le périphérique</string>
+    <string name="No_space_left_on_device">Pas d\'espace disponible sur l\'appareil</string>
     <string name="Is_this_app_you_need">Cherchez-vous cette application\?</string>
     <string name="No">Non</string>
     <string name="Yes">Oui</string>
@@ -217,7 +217,7 @@
     <string name="Resetpassword">Réinitialiser le mot de passe</string>
     <string name="NewPassword">Nouveau mot de passe</string>
     <string name="Enterthepasswordagain">Confirmer le mot de passe</string>
-    <string name="signuplimitdes">Votre appareil a atteint le nombre maximal de noms d\'utilisateur enregistrés. Veuillez sélectionner le nom d\'utilisateur ci-dessous pour vous connecter.</string>
+    <string name="signuplimitdes">"Votre appareil a atteint le nombre maximal de noms d\'utilisateur enregistrés. Veuillez sélectionner le nom d\'utilisateur ci-dessous pour vous connecter. "</string>
     <string name="Register">S\'enregistrer</string>
     <string name="eyun">Entrez votre nom d\'utilisateur</string>
     <string name="eypsw">Tapez votre mot de passe</string>
