@@ -30,11 +30,11 @@
     <string name="REFRESH">רענן</string>
     <string name="Unable_to_connect_to_the_network">לא ניתן לגשת לאינטרנט.</string>
     <string name="Recommended_Game_Mods">משחקים מומלצים</string>
-    <string name="Hot_Game_Mods">משחקים פופולריים</string>
+    <string name="Hot_Game_Mods">מודים למשחקים חמים</string>
     <string name="Recommended_App_Mods">מודים מומלצים לאפליקציות</string>
     <string name="Hot_App_Mods">מודים פופולרים</string>
     <string name="Recommended_New_Mods">מודים חדשים ומומלצים</string>
-    <string name="Last_Update_Mods">עדכון אחרון</string>
+    <string name="Last_Update_Mods">עדכונים אחרונים</string>
     <string name="SearchHint">חיפוש</string>
     <!-- 侧滑-->
     <string name="Homeweb">אתר הבית</string>
@@ -47,8 +47,8 @@
     <string name="FollowusonTwitter">עקבו אחרינו בטוויטר </string>
     <string name="FollowusonFacebook">עקבו אחרינו בפייסבוק</string>
     <!--设置页-->
-    <string name="settings_network_remind">התראה ברשת לנייד</string>
-    <string name="settings_auto_install">התקנה אוטומטית</string>
+    <string name="settings_network_remind">אזהרת האינטרנט של הטלפון</string>
+    <string name="settings_auto_install">התקנה אוטומטית של ההגדרות</string>
     <string name="Download_Directory">הורד את המדריך</string>
     <string name="settings_other">אחר</string>
     <string name="settings_clear_cache">נקה מטמון</string>
