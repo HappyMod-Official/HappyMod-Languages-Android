@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--俄羅斯-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">Весёлый мод</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -217,7 +217,7 @@
     <string name="Resetpassword">Сброс пароля</string>
     <string name="NewPassword">Новый пароль</string>
     <string name="Enterthepasswordagain">Подтвердите новый пароль</string>
-    <string name="signuplimitdes">На вашем устройстве достигнуто максимальное количество зарегистрированных учетных записей. Пожалуйста, выберите учетные записи ниже, чтобы войти в систему.</string>
+    <string name="signuplimitdes">"На вашем устройстве достигнуто максимальное количество зарегистрированных учетных записей. Пожалуйста, выберите учетные записи ниже, чтобы войти в систему. "</string>
     <string name="Register">Зарегистрироваться</string>
     <string name="eyun">Введите имя пользователя</string>
     <string name="eypsw">Введите ваш пароль</string>
