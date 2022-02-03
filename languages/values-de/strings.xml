@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--德国-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">Happymod</string>
     <string name="Homecom">Glücklichmodifikation.kom</string>
     <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
@@ -23,7 +23,7 @@
     <!--首页-->
     <string name="Paid">bezahlt</string>
     <string name="GAME">Spiel</string>
-    <string name="APP">App</string>
+    <string name="APP">Spiel</string>
     <string name="NEW">Neu</string>
     <string name="Categories">Kategorien</string>
     <string name="games">Spiele</string>
@@ -217,7 +217,7 @@
     <string name="Resetpassword">Passwort zurücksetzen</string>
     <string name="NewPassword">Neues Passwort</string>
     <string name="Enterthepasswordagain">Passwort bestätigen</string>
-    <string name="signuplimitdes">Dein Gerät hat die maximale Anzahl an registrierten Benutzernamen erreicht. Bitte wählen einen Konto aus, um dich anzumelden.</string>
+    <string name="signuplimitdes">"Dein Gerät hat die maximale Anzahl an registrierten Accounts erreicht. Bitte wähle ein Konto aus, um dich anzumelden. "</string>
     <string name="Register">Registrieren</string>
     <string name="eyun">Benutzernamen eingeben</string>
     <string name="eypsw">Passwort eingeben</string>
