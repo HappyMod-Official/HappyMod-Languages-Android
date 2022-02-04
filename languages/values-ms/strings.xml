@@ -22,10 +22,10 @@
     <!-- ↑  以上不用多语言翻译-->
     <string name="Paid">Dibayar</string>
     <string name="GAME">Permainan</string>
-    <string name="APP">Apl</string>
+    <string name="APP">Aplikasi</string>
     <string name="NEW">Baru</string>
     <string name="Categories">Kategori</string>
-    <string name="games">Free fire</string>
+    <string name="games">Permainan</string>
     <string name="REFRESH">minecraft</string>
     <string name="Unable_to_connect_to_the_network">Unable to connect to the network !</string>
     <string name="Recommended_Game_Mods">Mod Permainan yang Disyorkan</string>
@@ -143,7 +143,7 @@
     <string name="Unlocked">Dikunci</string>
     <string name="Patched">Patched</string>
     <string name="Premium">Premium</string>
-    <string name="Pro">Pro</string>
+    <string name="Pro">Pakar</string>
     <string name="ModLite">Mod Lite</string>
     <string name="Subscribed">Dilanggan</string>
     <string name="Prime">Perdana</string>
