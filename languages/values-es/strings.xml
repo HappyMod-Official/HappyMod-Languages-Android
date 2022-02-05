@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--西班牙-->
-    <string name="app_name">Mod Feliz</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
     <string name="facebook_app_id">id_aplicación_facebook</string>
     <!--原APP大图 -->
