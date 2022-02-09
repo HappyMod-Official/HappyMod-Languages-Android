@@ -63,7 +63,7 @@
     <string name="Pause">暫停</string>
     <string name="Waiting_in_queue">排隊等候</string>
     <string name="Completed">已完成</string>
-    <string name="UnZiping">提取</string>
+    <string name="UnZiping">提取中</string>
     <string name="UnZip_succeed">完成提取</string>
     <string name="Rate">評級</string>
     <string name="Rated">已評級</string>
@@ -96,7 +96,7 @@
     <string name="Moreversion">更多版本</string>
     <string name="Recommend">推薦</string>
     <string name="Recommendmod">推薦的Mod</string>
-    <string name="Moremods">最新版本</string>
+    <string name="Moremods">更多應用mods</string>
     <!--评分-->
     <string name="Submit">提交</string>
     <string name="Hated_it">討厭它！</string>
@@ -105,10 +105,11 @@
     <string name="Liked_it">喜歡它。</string>
     <string name="Loved_it">愛它！</string>
     <!--分享-->
-    <string name="share_happymod">分享\'HappyMod\'來自</string>
-    <string name="share_subject">得到HappyMod</string>
+    <string name="share_happymod">分享\'HappyMod\'</string>
+    <string name="share_subject">分享標題</string>
     <string name="share_text">使用 @HappyMod
-\nhttps://www.happymod.com/下載100％好用的Mod</string>
+\nhttps://www.happymod.com/
+\n下載100％有效的Mod</string>
     <!--修改路径-->
     <string name="pref_location">存儲位置</string>
     <!--update -->
@@ -223,7 +224,7 @@
     <string name="eypsw">輸入您的密碼</string>
     <string name="loginerrortips">請輸入正確的用戶名和密碼。請注意，密碼字段區分大小寫。</string>
     <string name="Resetpasswordfailed">重置密碼失敗。</string>
-    <string name="Theusernamewasnotregistered">用戶名未註冊。</string>
+    <string name="Theusernamewasnotregistered">用戶名未被註冊。</string>
     <string name="petceotn">請輸入正確的電子郵件或電話號碼。</string>
     <string name="fbrfail">Facebook註冊失敗。</string>
     <string name="Registerfailed">註冊失敗，請確認您的網絡連接正常，單擊註冊按鈕再試一次。</string>
