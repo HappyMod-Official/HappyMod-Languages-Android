@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--印度尼西亞-->
-    <string name="app_name">Happymod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">Indonesia</string>
+    <string name="facebook_app_id">Baris Angka</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -216,7 +216,7 @@
     <string name="Resetpassword">Setel ulang kata sandi</string>
     <string name="NewPassword">Kata sandi baru</string>
     <string name="Enterthepasswordagain">Konfirmasi kata sandi</string>
-    <string name="signuplimitdes">Perangkat Anda telah mencapai jumlah maksimum akun terdaftar. Silakan pilih akun di bawah ini untuk masuk.</string>
+    <string name="signuplimitdes">"Perangkat anda telah mencapai jumlah maksimum akun terdaftar. Silakan pilih akun di bawah ini untuk masuk. "</string>
     <string name="Register">Daftar</string>
     <string name="eyun">Masukkan nama pengguna Anda</string>
     <string name="eypsw">Masukkan kata sandi Anda</string>
