@@ -217,7 +217,7 @@
     <string name="Resetpassword">Resetta la password</string>
     <string name="NewPassword">Nuova password</string>
     <string name="Enterthepasswordagain">Conferma la tua password</string>
-    <string name="signuplimitdes">На вашем устройстве достигнуто максимальное количество зарегистрированных учетных записей. Пожалуйста, выберите учетные записи ниже, чтобы войти в систему.</string>
+    <string name="signuplimitdes">"Il tuo dispositivo ha raggiunto il numero massimo di account registrati.  Seleziona gli account di seguito per accedere. "</string>
     <string name="Register">Registrare</string>
     <string name="eyun">Inserisci il tuo nome utente</string>
     <string name="eypsw">Inserisci la tua password</string>
