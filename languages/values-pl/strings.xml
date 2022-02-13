@@ -201,7 +201,7 @@
     <string name="Resetpassword">Zresetuj hasło</string>
     <string name="NewPassword">Nowe hasło</string>
     <string name="Enterthepasswordagain">Potwierdź hasło</string>
-    <string name="signuplimitdes">Twoje urządzenie osiągnęło maksymalną liczbę zarejestrowanych kont. Wybierz konto poniżej, aby się zalogować.</string>
+    <string name="signuplimitdes">"Twoje urządzenie osiągnęło maksymalną liczbę zarejestrowanych kont. Wybierz konto poniżej, aby się zalogować. "</string>
     <string name="Register">Zarejestruj</string>
     <string name="eyun">Wpisz swoją nazwę użytkownika</string>
     <string name="eypsw">Wprowadź hasło</string>
