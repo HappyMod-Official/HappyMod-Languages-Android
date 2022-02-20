@@ -23,29 +23,28 @@
     <!--首页-->
     <string name="Paid">Plătit</string>
     <string name="GAME">Joc</string>
-    <string name="APP">Aplicație
-\n</string>
+    <string name="APP">Aplicație</string>
     <string name="NEW">Nou</string>
     <string name="Categories">Categorii</string>
     <string name="games">Jocurile</string>
     <string name="REFRESH">Reîmprospătare</string>
-    <string name="Unable_to_connect_to_the_network">Nu ne putem conecta la internet.</string>
-    <string name="Recommended_Game_Mods">Jocuri modificate recomandate</string>
-    <string name="Hot_Game_Mods">moduri de jocuri hot</string>
-    <string name="Recommended_App_Mods">Aplicații modificate recomandate</string>
-    <string name="Hot_App_Mods">Top moduri de aplicație</string>
-    <string name="Recommended_New_Mods">Noi moduri recomandate</string>
-    <string name="Last_Update_Mods">Ultimele actualizări</string>
+    <string name="Unable_to_connect_to_the_network">Nu s-a putut conecta la rețea</string>
+    <string name="Recommended_Game_Mods">Modificări de Joc Recomandate</string>
+    <string name="Hot_Game_Mods">Modificări de Joc Populare</string>
+    <string name="Recommended_App_Mods">Aplicații Modificate Recomandate</string>
+    <string name="Hot_App_Mods">Aplicații Modificate Populare</string>
+    <string name="Recommended_New_Mods">Modificări Noi Recomandate</string>
+    <string name="Last_Update_Mods">Ultimele Actualizări</string>
     <string name="SearchHint">Caută</string>
     <!-- 侧滑-->
-    <string name="Homeweb">Acasa</string>
-    <string name="Management">Administrare</string>
+    <string name="Homeweb">Acasă</string>
+    <string name="Management">Gestionare</string>
     <string name="Settings">Setări</string>
-    <string name="Feedback">Părere</string>
+    <string name="Feedback">Păreri</string>
     <string name="Translation">Traducere</string>
     <string name="Share">Distribuire</string>
-    <string name="Checkforupdate">Verifica pentru actualizare</string>
-    <string name="FollowusonTwitter">Urmați-ne pe Twitter </string>
+    <string name="Checkforupdate">Verificați pentru actualizare</string>
+    <string name="FollowusonTwitter">Urmăriți-ne pe Twitter </string>
     <string name="FollowusonFacebook">Urmariți-ne pe Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Rețeaua de alertă mobilă</string>
@@ -108,7 +107,8 @@
     <!--分享-->
     <string name="share_happymod">Distribuiți "HappyMod" prin</string>
     <string name="share_subject">Obțineți HappyMod</string>
-    <string name="share_text">"Descărcați moduri 100% funcționale cu @HappyMod  https: //www.happymod.com/"</string>
+    <string name="share_text">Descărcați modificări 100% funcționale cu @HappyMod
+\nhttps: //www.happymod.com/</string>
     <!--修改路径-->
     <string name="pref_location">Locație de stocare</string>
     <!--update -->
