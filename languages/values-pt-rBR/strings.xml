@@ -188,7 +188,7 @@
     <string name="Enteryouremail">Digite seu e-mail</string>
     <string name="NewPassword">Nova senha</string>
     <string name="Enterthepasswordagain">Confirmar senha</string>
-    <string name="Register">Registrar</string>
+    <string name="Register">Registro</string>
     <string name="eyun">Digite seu nome de usuário</string>
     <string name="eypsw">Digite sua senha</string>
     <string name="loginerrortips">Por favor, digite um nome de usuário e senha válidos. Note que o campo de senha diferencia maiúsculas de minúsculas.</string>
