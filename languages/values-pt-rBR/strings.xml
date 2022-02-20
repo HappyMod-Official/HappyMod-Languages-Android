@@ -153,7 +153,7 @@
     <string name="selectusername">Selecione o nome de usuário</string>
     <string name="reselpass_destwo">Por favor digite seu e-mail ou número de telefone. Se você tiver algum problema com a redefinição de sua senha, <u>entre em contato conosco</u>.</string>
     <string name="Resetpassword">Redefinir senha</string>
-    <string name="app_name">Happymod</string>
+    <string name="app_name">bom humor</string>
     <string name="REFRESH">Atualizar</string>
     <string name="Recommended_Game_Mods">Recomendações de Jogos com Mods</string>
     <string name="Last_Update_Mods">Últimas Atualizações</string>
@@ -181,7 +181,7 @@
     <string name="signuptips">Se você esquecer sua senha, precisará de um número de telefone ou endereço de e-mail para recuperá-la. Recomendamos que você os adicione.</string>
     <string name="reselpass_desone">Digite seu nome de usuário. Se você tiver qualquer problema para redefinir sua senha, <u> entre em contato conosco </u>.</string>
     <string name="forgetgosingup">Não consegue se lembrar de nenhum deles\? Crie uma nova conta <u>aqui</u>.</string>
-    <string name="signuplimitdes">"Seu dispositivo alcançou o número máximo de contas registradas. Por favor selecione as contas abaixo para entrar. "</string>
+    <string name="signuplimitdes">"Seu dispositivo atingiu o número máximo de contas registradas. Por favor selecione as contas abaixo para entrar. "</string>
     <string name="petceotn">Por favor digite um e-mail ou número de telefone válidos.</string>
     <string name="Registerfailed">O registro falhou, por favor certifique-se de que sua conexão a internet está estável. Clique no botão de registro para tentar novamente.</string>
     <string name="requestdetailhint">Conte mais sobre o seu pedido. (Mínimo de 50 caracteres)</string>
