@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="facebook_app_id">شناسه برنامه فیسبوک</string>
-    <string name="Homecom">https://play.google.com/store/apps/details\?id=com.anghami</string>
+    <string name="facebook_app_id">658182831284939</string>
+    <string name="Homecom">happymod.com</string>
     <string name="GAME">بازی</string>
     <string name="APP">برنامه</string>
     <string name="NEW">جدید</string>
@@ -34,8 +34,8 @@
     <string name="Pause">مکث</string>
     <string name="Waiting_in_queue">در صف انتظار</string>
     <string name="Completed">تکمیل شده</string>
-    <string name="UnZiping">در حال استخراج فایل فشرده شده</string>
-    <string name="UnZip_succeed">استخراج فایل فشرده به پایان رسید</string>
+    <string name="UnZiping">در حال استخراج</string>
+    <string name="UnZip_succeed">استخراج به پایان رسید</string>
     <string name="Rate">رتبه بندی</string>
     <string name="Version">نسخه</string>
     <string name="Ratingsreviews">رتبه بندی ها و بررسی ها</string>
@@ -63,9 +63,9 @@
     <string name="Recommended_New_Mods">مود های توصیه شده جدید</string>
     <string name="Checkforupdate">بررسی برای به روز رسانی</string>
     <string name="settings_network_remind">هشدار شبکه تلفن همراه</string>
-    <string name="des_no_serach_result">نتیجه ای یافت نشد (نام برنامه یا بازی را به صورت کامل و درست وارد کنید و در صورت موجود نبودن در فروشگاه هپی مود آن را درخواست کنید)</string>
+    <string name="des_no_serach_result">اوه نتیجه ای پیدا نشد</string>
     <string name="Rated">رتبه بندی شده</string>
-    <string name="Serviceisbusy">در حال اتصال …</string>
+    <string name="Serviceisbusy">در حال اتصال</string>
     <string name="Whydeletethisdownload">چرا این دانلود را حذف می کنید؟</string>
     <string name="Download">دانلود</string>
     <string name="Downloadobb">دانلود (APK+OBB)</string>
@@ -338,11 +338,11 @@
     <string name="fblogdes">لطفا یک نام کاربری وارد کنید نام کاربری یک شناسه بسیار مهم برای بازیابی رمز عبور شما است لطفا آن را به خاطر داشته باشید.</string>
     <string name="reselpass_desone">نام کاربری خود را وارد کنید. اگر مشکلی در مورد بازنشانی گذرواژه خود دارید <u>با ما تماس بگیرید</u>.</string>
     <string name="reselpass_destwo">لطفا ایمیل یا شماره تلفن خود را وارد کنید اگر در مورد بازنشانی گذرواژه خود مشکلی دارید <u> با ما تماس بگیرید </u>.</string>
-    <string name="signuplimitdes">دستگاه شما به بیشترین تعداد حساب های ثبت شده رسیده است لطفا از حساب(های) زیر برای ورود استفاده کنید.</string>
+    <string name="signuplimitdes">"دستگاه شما به بیشترین تعداد حساب های ثبت شده رسیده است لطفا از حساب(های) زیر برای ورود استفاده کنید "</string>
     <string name="petceotn">لطفا یک ایمیل یا شماره تلفن معتبر را وارد کنید.</string>
     <string name="Registerfailed">ثبت نام انجام نشد لطفا مطمئن شوید که وضعیت اتصال شبکه شما خوب است سپس برای انجام تلاش دوباره دکمه ثبت نام را انتخاب کنید.</string>
     <string name="Myrequests">درخواست های من</string>
-    <string name="searchappyouwanttorequest">برنامه ای را که می خواهید جستجو کرده و آن را درخواست کنید :</string>
+    <string name="searchappyouwanttorequest">برنامه ای را که می خواهید درخواست کنید جستجو کنید</string>
     <string name="requesterror">ارسال ناموفق بود لطفا بعدا دوباره امتحان کنید.</string>
     <string name="Youarereupload">شما در حال آپلود هستید :</string>
     <string name="OBBDataurl">آدرس اینترنتی obb / دیتا در زیپی شیر / مدیا فایر : (اختیاری)</string>
