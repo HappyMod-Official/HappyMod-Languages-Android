@@ -7,7 +7,7 @@
     <string name="Unable_to_connect_to_the_network">Ei voida muodostaa yhteyttä verkkoon</string>
     <string name="GAME">Peli</string>
     <string name="Homecom">happymod.com</string>
-    <string name="app_name">happymod</string>
+    <string name="app_name">HappyMod</string>
     <string name="Categories">Kategoriat</string>
     <string name="Last_Update_Mods">Viimeisimmät päivitykset</string>
     <string name="Recommended_App_Mods">Suositellut sovellusmodit</string>
@@ -232,7 +232,7 @@
     <string name="reselpass_destwo">Syötä sähköpostisi tai puhelinnumerosi. Jos sinulla on ongelmia salasanasi palauttamisessa, <u>ota yhteyttä</u>.</string>
     <string name="forgetgosingup">Etkö muista mitään näistä\? Voit luoda uuden tilin <u>täällä</u>.</string>
     <string name="Resetpassword">Palauta salasana</string>
-    <string name="signuplimitdes">Laitteesi on saavuttanut rekisteröityjen tilien enimmäismäärän. Valitse alla olevat tilit kirjautuaksesi sisään.</string>
+    <string name="signuplimitdes">"Laitteesi on saavuttanut rekisteröityjen tilien enimmäismäärän. Valitse alla olevat tilit kirjautuaksesi sisään. "</string>
     <string name="Register">Rekisteröi</string>
     <string name="eypsw">Syötä salasanasi</string>
     <string name="petceotn">Syötä kunnollinen sähköposti tai puhelinnumero.</string>
