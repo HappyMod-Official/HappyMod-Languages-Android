@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--波兰语-->
-    <string name="app_name">HappyMod</string>
+    <string name="app_name">Szczęśliwa Modyfikacja</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">Identyfikator Facebooka</string>
+    <string name="facebook_app_id">Identyfikator Aplikacji Facebook</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
