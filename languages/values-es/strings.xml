@@ -3,7 +3,7 @@
     <!--西班牙-->
     <string name="app_name">HappyMod</string>
     <string name="Homecom">happymod.com</string>
-    <string name="facebook_app_id">Facebook_aplicacion_id</string>
+    <string name="facebook_app_id">658182831284939</string>
     <!--原APP大图 -->
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -30,14 +30,14 @@
     <string name="REFRESH">Refrescar</string>
     <string name="Unable_to_connect_to_the_network">No se puede conectar a la red</string>
     <string name="Recommended_Game_Mods">Mods de juegos recomendados</string>
-    <string name="Hot_Game_Mods">Juegos de modificación populares</string>
-    <string name="Recommended_App_Mods">Recomendaciones de juegos modificados</string>
-    <string name="Hot_App_Mods">Mods de app populares</string>
+    <string name="Hot_Game_Mods">Juegos con mods populares</string>
+    <string name="Recommended_App_Mods">Recomendaciones de juegos con mods</string>
+    <string name="Hot_App_Mods">Mods de apps populares</string>
     <string name="Recommended_New_Mods">Nuevos mods recomendados</string>
     <string name="Last_Update_Mods">Últimas actualizaciones</string>
     <string name="SearchHint">Buscar</string>
     <!-- slide-->
-    <string name="Homeweb">Sitio de inicio</string>
+    <string name="Homeweb">Inicio</string>
     <string name="Management">Gestión</string>
     <string name="Settings">Ajustes</string>
     <string name="Feedback">Sugerencias</string>
@@ -49,17 +49,17 @@
     <!--settings-->
     <string name="settings_network_remind">Alerta de red móvil</string>
     <string name="settings_auto_install">Instalar automaticámente</string>
-    <string name="Download_Directory">Directorio de descargas</string>
+    <string name="Download_Directory">Carpeta de descargas</string>
     <string name="settings_other">Otros ajustes</string>
     <string name="settings_clear_cache">Limpiar caché</string>
-    <string name="Clean_up_the_complete">El caché fue vaciado</string>
+    <string name="Clean_up_the_complete">El caché ha sido eliminado</string>
     <!--nodata-->
     <string name="des_no_serach_result">¡Oh! No se han encontrado resultados.</string>
     <!--download manage-->
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
     <string name="Finished">Finalizado</string>
-    <string name="No_Download">Archivo no encontrado.</string>
+    <string name="No_Download">Archivo no encontrado</string>
     <string name="Pause">Pausa</string>
     <string name="Waiting_in_queue">Esperando en la cola</string>
     <string name="Completed">Terminado</string>
@@ -70,18 +70,18 @@
     <string name="Version">Versión</string>
     <string name="Ratingsreviews">Calificaciones y Opiniones</string>
     <string name="Tryitlater">Inténtalo de nuevo más tarde</string>
-    <string name="Serviceisbusy">Cárdenas cercano 31</string>
+    <string name="Serviceisbusy">Conectando</string>
     <!-- delete words -->
     <string name="Notice">Noticia</string>
     <string name="deletethistask">Borrar este archivo</string>
     <string name="Cancel">Cancelar</string>
     <string name="Delete">Borrar</string>
-    <string name="Whydeletethisdownload">¿Por qué eliminar esta descarga?</string>
+    <string name="Whydeletethisdownload">¿Por qué quiere eliminar esta descarga\?</string>
     <string name="NotwhatIwant">No es lo que quiero</string>
-    <string name="Downloadfailed">La Descarga ha fallado</string>
+    <string name="Downloadfailed">La descarga ha fallado</string>
     <string name="Downloadistooslow">La descarga es muy lenta</string>
     <!--APP details-->
-    <string name="Mods">Modificaciones</string>
+    <string name="Mods">Mods</string>
     <string name="Original">Originál</string>
     <string name="Previousversion">Versión previa</string>
     <string name="Download">Descargar</string>
@@ -92,41 +92,41 @@
     <string name="Install">Instalar</string>
     <string name="Connecting">Conectando…</string>
     <string name="readmore">Leer más</string>
-    <string name="modfeature">función de modificación</string>
+    <string name="modfeature">Función de mod</string>
     <string name="Moreversion">Más versiones</string>
     <string name="Recommend">Recomendar</string>
-    <string name="Recommendmod">Mod Recomendado</string>
-    <string name="Moremods">Más Mods</string>
+    <string name="Recommendmod">Mod recomendado</string>
+    <string name="Moremods">Más mods</string>
     <!--rating-->
     <string name="Submit">Enviar</string>
     <string name="Hated_it">Lo odio</string>
-    <string name="Disliked_it">no me gusta</string>
+    <string name="Disliked_it">No me gusta</string>
     <string name="Its_ok">Está bien</string>
     <string name="Liked_it">Me gusta</string>
-    <string name="Loved_it">Lo amo</string>
+    <string name="Loved_it">Me encanta</string>
     <!--share-->
     <string name="share_happymod">Comparte HappyMod a través de</string>
-    <string name="share_subject">compartir tema</string>
+    <string name="share_subject">Compartir tema</string>
     <string name="share_text">Descarga mods 100% funcionales con @HappyMod\nhttps://www.happymod.com/</string>
     <!--path-->
     <string name="pref_location">Ubicación de almacenamiento</string>
     <!--update -->
     <string name="force_des">Mods 100% funcionales</string>
-    <string name="nvisrti">Una nueva versión está lista para instalar.</string>
+    <string name="nvisrti">Una nueva versión está lista para instalar</string>
     <string name="OPEN">ABIERTO</string>
     <string name="OK">DE ACUERDO</string>
     <string name="Loading">Cargando…</string>
     <string name="updata_tip">Estás utilizando la última versión de HappyMod</string>
-    <string name="xzzb">Por favor descargue HappyMod oficial.</string>
+    <string name="xzzb">Por favor descargue la aplicación oficial de HappyMod</string>
     <string name="Continue">Continuar</string>
     <string name="appobb">APK + OBB</string>
     <string name="No_space_left_on_device">No queda espacio de almacenamiento en el dispositivo</string>
     <string name="Is_this_app_you_need">¿Estás buscando esta aplicación\?</string>
     <string name="No">No</string>
     <string name="Yes">Sí</string>
-    <string name="bcdes">. Libera más almacenamiento e intenta de nuevo.</string>
+    <string name="bcdes">. Libera más espacio e intenta de nuevo.</string>
     <string name="need">; Disponible:</string>
-    <string name="No_enough_space_left_on_device">Necesitas más espacio en el dispositivo:</string>
+    <string name="No_enough_space_left_on_device">Espacio insuficienciente, nesesitas:</string>
     <string name="updatenow">Actualizar ahora</string>
     <string name="updateFail">La descarga fallo. Por favor cierra y vuelve a abrir la aplicación</string>
     <string name="initializing">Iniciando</string>
@@ -138,43 +138,43 @@
     <string name="apps">Aplicaciones</string>
     <!-- big file -->
     <string name="mergering">Proceso final</string>
-    <string name="mergerwait">Proceso final (Se necesitan de uno a dos minutos)</string>
+    <string name="mergerwait">Proceso final (Se necesitan de 1 a 2 minutos)</string>
     <!-- verify -->
     <string name="Startverification">Iniciar la verificación</string>
-    <string name="verificationShangXian">Ups! Has alcanzado el límite de descargas diarias, inténtalo de nuevo después de algunas horas</string>
+    <string name="verificationShangXian">Ups! Has alcanzado el límite de descargas diarias, inténtalo de nuevo en unas horas</string>
     <string name="verificationFail">¡Verificación fallida. Por favor intenta de nuevo!</string>
     <string name="Morehelp">(Más ayuda)</string>
     <string name="uid">ID de usuario</string>
     <string name="copysuccess">ID de usuario copiado al portapapeles.</string>
     <string name="watchnow">Ver ahora</string>
-    <string name="ggdownloading">Los anuncios están cargando, por favor, espera y mantén happymod abierto.</string>
+    <string name="ggdownloading">Cargando anuncios, por favor espera y mantén HappyMod abierto.</string>
     <string name="verificaing">Verificando, por favor espera.</string>
     <!-- comments-->
     <string name="Removeads">Eliminar anuncios</string>
-    <string name="Paidforfree">Pagado gratis</string>
+    <string name="Paidforfree">De pago gratis</string>
     <string name="Unlimitedmoney">Dinero ilimitado</string>
-    <string name="Freepurchase">Compra gratis</string>
+    <string name="Freepurchase">Compras gratis</string>
     <string name="Freeshopping">Compras gratis</string>
     <string name="Unlocked">Desbloqueado</string>
     <string name="Patched">Parcheado</string>
     <string name="Premium">Versión Premium</string>
-    <string name="Pro">Version Pro</string>
-    <string name="ModLite">Mod lite (no completo)</string>
+    <string name="Pro">Versión Pro</string>
+    <string name="ModLite">Mod Lite (no completo)</string>
     <string name="Subscribed">Suscrito</string>
-    <string name="Prime">Principal</string>
-    <string name="Plus">Versión plus</string>
+    <string name="Prime">Prime</string>
+    <string name="Plus">Versión Plus</string>
     <string name="VIP">VIP</string>
     <string name="Substratum">Sustrato</string>
     <string name="Debloated">Debatido</string>
     <string name="Donate">Donación</string>
     <string name="AOSPcompatible">Compatible con AOSP</string>
-    <string name="Cracked">Agrietado</string>
+    <string name="Cracked">Crackeado</string>
     <string name="NoAds">Sin anuncios</string>
     <string name="Infinite">Infinito</string>
     <string name="Endless">Sin final</string>
     <string name="Invincible">Invencible</string>
     <string name="Unlimitedhints">Pistas Ilimitadas</string>
-    <string name="Megamod">Mega mod</string>
+    <string name="Megamod">Mega Mod</string>
     <string name="Full">Versión completa</string>
     <!-- 注册登录 -->
     <string name="Username">Nombre de usuario</string>
