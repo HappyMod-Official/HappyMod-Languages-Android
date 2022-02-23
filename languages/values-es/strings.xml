@@ -54,7 +54,7 @@
     <string name="settings_clear_cache">Limpiar caché</string>
     <string name="Clean_up_the_complete">El caché fue vaciado</string>
     <!--nodata-->
-    <string name="des_no_serach_result">¡UPS! No se han encontrado resultados.</string>
+    <string name="des_no_serach_result">¡Oh! No se han encontrado resultados.</string>
     <!--download manage-->
     <string name="Downloads">Descargas</string>
     <string name="Downloading">Descargando</string>
@@ -90,7 +90,7 @@
     <string name="Downloadboundle">Descargar BUNDLE</string>
     <string name="Downloaded">Descargado</string>
     <string name="Install">Instalar</string>
-    <string name="Connecting">Conectando …</string>
+    <string name="Connecting">Conectando…</string>
     <string name="readmore">Leer más</string>
     <string name="modfeature">función de modificación</string>
     <string name="Moreversion">Más versiones</string>
@@ -128,7 +128,7 @@
     <string name="need">; Disponible:</string>
     <string name="No_enough_space_left_on_device">Necesitas más espacio en el dispositivo:</string>
     <string name="updatenow">Actualizar ahora</string>
-    <string name="updateFail">La descarga fallo por favor sierra y vuelve a abrir la aplicación</string>
+    <string name="updateFail">La descarga fallo. Por favor cierra y vuelve a abrir la aplicación</string>
     <string name="initializing">Iniciando</string>
     <string name="Retrying">Reintentando</string>
     <string name="language">Idioma</string>
@@ -216,7 +216,7 @@
     <string name="Resetpassword">Restablecer la contraseña</string>
     <string name="NewPassword">Nueva contraseña</string>
     <string name="Enterthepasswordagain">Confirmar la contraseña</string>
-    <string name="signuplimitdes">Su dispositivo ha alcanzado el número máximo de cuentas registradas. Seleccione la(s) cuenta(s) a continuación para iniciar sesión.</string>
+    <string name="signuplimitdes">"Su dispositivo ha alcanzado el número máximo de cuentas registradas. Seleccione la(s) cuenta(s) a continuación para iniciar sesión. "</string>
     <string name="Register">Registro</string>
     <string name="eyun">Ingrese su nombre de usuario</string>
     <string name="eypsw">Ingresa tu contraseña</string>
@@ -242,7 +242,7 @@
     <string name="Myuploads">Mis subidas</string>
     <string name="Updated">Actualizado</string>
     <string name="Comingsoon">Próximamente</string>
-    <string name="searchappyouwanttorequest">Busque la aplicación que quiere solicitar:</string>
+    <string name="searchappyouwanttorequest">Busque la aplicación que quiere solicitar</string>
     <string name="Addupload">Añadir carga</string>
     <string name="requestdetailhint">Cuéntanos mas acerca de tu requerimiento. (Al menos 50 caracteres)</string>
     <string name="requesterror">Envío fallido, por favor intente de nuevo más tarde.</string>
@@ -425,6 +425,6 @@
 \n
 \nTenga paciencia e intente ver los anuncios completos para completar la donación.
 \n
-\n¡Gracias!</string>
+\n¡Gracias :)!</string>
     <string name="viewstepdeti">Ver detalles los pasos</string>
 </resources>
