@@ -26,7 +26,7 @@
     <string name="APP">Spiel</string>
     <string name="NEW">Neu</string>
     <string name="Categories">Kategorien</string>
-    <string name="games">Spiele</string>
+    <string name="games">\tSpiele</string>
     <string name="REFRESH">Aktualisieren</string>
     <string name="Unable_to_connect_to_the_network">Verbindung zum Netzwerk nicht möglich</string>
     <string name="Recommended_Game_Mods">Empfohlene Spiele-Mods</string>
