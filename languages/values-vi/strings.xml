@@ -28,12 +28,12 @@
     <string name="Categories">Thể loại</string>
     <string name="games">Trò chơi</string>
     <string name="REFRESH">Làm mới</string>
-    <string name="Unable_to_connect_to_the_network">Không thể truy cập internet.</string>
-    <string name="Recommended_Game_Mods">Trò chơi mod được đề xuất</string>
+    <string name="Unable_to_connect_to_the_network">Bạn không có kết nối,vui lòng kết nối và thử lại</string>
+    <string name="Recommended_Game_Mods">Mod được đề xuất</string>
     <string name="Hot_Game_Mods">Các game mods phổ biến</string>
-    <string name="Recommended_App_Mods">Ứng dụng được đề xuất mod</string>
+    <string name="Recommended_App_Mods">Mod ứng dụng được đề xuất</string>
     <string name="Hot_App_Mods">Ứng dụng được mod phổ biến</string>
-    <string name="Recommended_New_Mods">Đề xuất Mod mới</string>
+    <string name="Recommended_New_Mods">Mod mới được đề xuất</string>
     <string name="Last_Update_Mods">Bản cập nhật mới nhất</string>
     <string name="SearchHint">Tìm kiếm</string>
     <!-- 侧滑-->
@@ -44,19 +44,19 @@
     <string name="Translation">Dịch</string>
     <string name="Share">Chia sẻ</string>
     <string name="Checkforupdate">Kiểm tra các bản cập nhật</string>
-    <string name="FollowusonTwitter">theo dõi chúng tôi trên Twitter </string>
-    <string name="FollowusonFacebook">Theo dõi chúng tôi trên Facebook</string>
+    <string name="FollowusonTwitter">Hãy theo dõi chúng tôi trên Twitter </string>
+    <string name="FollowusonFacebook">Hãy theo dõi chúng tôi trên Facebook</string>
     <!--设置页-->
     <string name="settings_network_remind">Cảnh báo mạng di động</string>
     <string name="settings_auto_install">Tự động cài đặt</string>
     <string name="Download_Directory">Chọn đường dẫn thư mục tải xuống</string>
     <string name="settings_other">Khác</string>
     <string name="settings_clear_cache">Xóa bộ nhớ đệm (cache)</string>
-    <string name="Clean_up_the_complete">Đã xoá hết bộ nhớ cache.</string>
+    <string name="Clean_up_the_complete">Dữ liệu cache đã được xoá</string>
     <!--空数据页-->
     <string name="des_no_serach_result">Rất tiếc! Không có kết quả nào được tìm thấy.</string>
     <!--下载管理页-->
-    <string name="Downloads">Ứng dụng đã tải xuống</string>
+    <string name="Downloads">Đã tải xuống</string>
     <string name="Downloading">Đang tải xuống</string>
     <string name="Finished">Đã kết thúc</string>
     <string name="No_Download">Không tìm thấy tệp tin nào.</string>
@@ -77,9 +77,9 @@
     <string name="Cancel">Hủy</string>
     <string name="Delete">Xóa</string>
     <string name="Whydeletethisdownload">Hãy cho chúng tôi biết vì sao bạn lại xóa bản tải xuống này\?</string>
-    <string name="NotwhatIwant">Đây không phải là ứng dụng/game tôi mong muốn</string>
+    <string name="NotwhatIwant">Đây không phải là ứng dụng/game tôi muốn</string>
     <string name="Downloadfailed">Tải xuống thất bại</string>
-    <string name="Downloadistooslow">Tốc độ tải xuống chậm vãi nồi</string>
+    <string name="Downloadistooslow">Tốc độ tải xuống chậm vãi lồn</string>
     <!--APP详情页-->
     <string name="Mods">Mods</string>
     <string name="Original">Bản gốc</string>
